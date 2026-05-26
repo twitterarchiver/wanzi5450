@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2020564423560110469",
+    "created_at": "2026-02-08T18:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T19:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020566568141197709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902129412503695361",
+          "start": 0,
+          "username": "whydoilovedoris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020566568141197709",
+    "in_reply_to_user_id": "1902129412503695361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020565627241439605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoilovedoris 好多味道😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020565627241439605].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020565627241439605",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020565627241439605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2020564423560110469",
+        "created_at": "2026-02-08T18:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020566568141197709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902129412503695361",
+              "start": 0,
+              "username": "whydoilovedoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020566568141197709",
+        "in_reply_to_user_id": "1902129412503695361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020565627241439605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoilovedoris 好多味道😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 197,
+          "like_count": 8304,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1580
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T22:46:56.000Z",
+        "description": "",
+        "id": "1902129412503695361",
+        "name": "sili",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990550821121966080/gLwrF8MR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 118,
+          "like_count": 10315,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1766
+        },
+        "username": "whydoilovedoris",
+        "verified": false
+      }
+    ]
+  }
+}

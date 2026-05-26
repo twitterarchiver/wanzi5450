@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056087623526191494",
+    "created_at": "2026-05-18T01:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056185683287609475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056185683287609475",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056100071993647145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 抱住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056087623526191494",
+        "created_at": "2026-05-18T01:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056185683287609475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056185683287609475",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056100071993647145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 抱住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053116713692966913",
+        "conversation_id": "2056087623526191494",
+        "created_at": "2026-05-17T19:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056100071993647145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056100071993647145",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056087623526191494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 抱抱…🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 287,
+          "like_count": 15662,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 3806
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 330,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 51
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

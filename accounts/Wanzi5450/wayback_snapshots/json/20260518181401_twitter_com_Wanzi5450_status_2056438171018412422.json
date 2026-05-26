@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056067576434937943",
+    "created_at": "2026-05-18T18:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056438171018412422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837496275656495107",
+          "start": 0,
+          "username": "Evigt_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056438171018412422",
+    "in_reply_to_user_id": "1837496275656495107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056067576434937943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evigt_404 卡哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056067572706254848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiekFlbIAAKo5I.jpg",
+        "width": 1828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056067576434937943",
+        "created_at": "2026-05-18T18:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056438171018412422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837496275656495107",
+              "start": 0,
+              "username": "Evigt_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056438171018412422",
+        "in_reply_to_user_id": "1837496275656495107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056067576434937943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evigt_404 卡哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056067572706254848"
+          ]
+        },
+        "author_id": "1837496275656495107",
+        "conversation_id": "2056067576434937943",
+        "created_at": "2026-05-17T17:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056067576434937943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3i4aHDZiL",
+              "end": 29,
+              "expanded_url": "https://x.com/Evigt_404/status/2056067576434937943/photo/1",
+              "media_key": "3_2056067572706254848",
+              "start": 6,
+              "url": "https://t.co/j3i4aHDZiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056067576434937943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kids🐜 https://t.co/j3i4aHDZiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 286,
+          "like_count": 15815,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 3816
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: https://t.co/3VOadG5Iqv\nhttps://t.co/0UVFxsWFVv\nDiphenhydramine Victims Alliance",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "evigt.bandcamp.com",
+                "end": 33,
+                "expanded_url": "https://evigt.bandcamp.com",
+                "start": 10,
+                "url": "https://t.co/3VOadG5Iqv"
+              },
+              {
+                "display_url": "sysevi.bandcamp.com",
+                "end": 57,
+                "expanded_url": "https://sysevi.bandcamp.com",
+                "start": 34,
+                "url": "https://t.co/0UVFxsWFVv"
+              }
+            ]
+          }
+        },
+        "id": "1837496275656495107",
+        "name": "AaAAaaaaAa",
+        "pinned_tweet_id": "2042667739215728720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 231,
+          "like_count": 4477,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2076
+        },
+        "username": "Evigt_404",
+        "verified": false
+      }
+    ]
+  }
+}

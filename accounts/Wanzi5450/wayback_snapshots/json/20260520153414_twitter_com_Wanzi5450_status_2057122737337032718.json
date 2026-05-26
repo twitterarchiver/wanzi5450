@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2057111981380022674",
+    "created_at": "2026-05-20T15:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057122737337032718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720585683184857088",
+          "start": 0,
+          "username": "xiaoqi3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057122737337032718",
+    "in_reply_to_user_id": "1720585683184857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057111981380022674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqi3377 要先锁一段时间吗TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057111967614255104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxUb3zaQAAb3Ga.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2057111981380022674",
+        "created_at": "2026-05-20T15:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057122737337032718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057122737337032718",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057111981380022674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 要先锁一段时间吗TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057111967614255104"
+          ]
+        },
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057111981380022674",
+        "created_at": "2026-05-20T14:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057111981380022674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejb6wU0j8c",
+              "end": 68,
+              "expanded_url": "https://x.com/xiaoqi3377/status/2057111981380022674/photo/1",
+              "media_key": "3_2057111967614255104",
+              "start": 45,
+              "url": "https://t.co/ejb6wU0j8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057111981380022674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "账号被人举报了封了 刚解开😿😿。。有没有善良的男孩女孩知道该怎么办才能不那么容易被ban https://t.co/ejb6wU0j8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 299,
+          "like_count": 16208,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3892
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 209,
+          "like_count": 515,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 271
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

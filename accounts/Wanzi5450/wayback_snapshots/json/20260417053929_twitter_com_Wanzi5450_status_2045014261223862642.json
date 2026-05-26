@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045014151307853824"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045014261223862642",
+    "created_at": "2026-04-17T05:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045014261223862642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QToTKShfWQ",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2045014261223862642/video/1",
+          "media_key": "13_2045014151307853824",
+          "start": 12,
+          "url": "https://t.co/QToTKShfWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045014261223862642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发出来自己先笑了三分钟 https://t.co/QToTKShfWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16266,
+        "height": 1280,
+        "media_key": "13_2045014151307853824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045014151307853824/img/FMfottqbUdQAZWEt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045014151307853824/vid/avc1/320x568/3h0CjNG_mgfO8qBo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045014151307853824/vid/avc1/480x852/tcK7mAMAbLCwoaWd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045014151307853824/vid/avc1/720x1280/Ifqfe5fcqAhpEDZI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045014151307853824/pl/kOzXwPNoxgBLFNoY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045014151307853824"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045014261223862642",
+        "created_at": "2026-04-17T05:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045014261223862642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QToTKShfWQ",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2045014261223862642/video/1",
+              "media_key": "13_2045014151307853824",
+              "start": 12,
+              "url": "https://t.co/QToTKShfWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045014261223862642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发出来自己先笑了三分钟 https://t.co/QToTKShfWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 266,
+          "like_count": 12103,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 3268
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

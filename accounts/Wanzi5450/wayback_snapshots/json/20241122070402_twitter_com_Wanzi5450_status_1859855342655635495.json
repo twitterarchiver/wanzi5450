@@ -1,0 +1,539 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1859855342655635495",
+    "created_at": "2024-11-22T07:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T08:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859855342655635495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1681944655041265664",
+          "start": 3,
+          "username": "shuri_togetoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859855342655635495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 237
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859560415023481007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuri_togetoge: 生配信ありがとうございました〜‼️‼️\nいっぱいトークして楽しかったよ〜〜〜\n\nそして‼️‼️㊗️‼️‼️「ツンデレ」･「酒豪」Tシャツ発売決定‼️‼️‼️\nうれしい‼️‼️‼️やっとルパの着れるグッズだ‼️‼️‼️嬉しすぎる‼️‼️‼️…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1859855342655635495",
+        "created_at": "2024-11-22T07:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T08:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859855342655635495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1681944655041265664",
+              "start": 3,
+              "username": "shuri_togetoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859855342655635495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 237
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859560415023481007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuri_togetoge: 生配信ありがとうございました〜‼️‼️\nいっぱいトークして楽しかったよ〜〜〜\n\nそして‼️‼️㊗️‼️‼️「ツンデレ」･「酒豪」Tシャツ発売決定‼️‼️‼️\nうれしい‼️‼️‼️やっとルパの着れるグッズだ‼️‼️‼️嬉しすぎる‼️‼️‼️…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859560407922507777"
+          ]
+        },
+        "author_id": "1681944655041265664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1859560415023481007",
+        "created_at": "2024-11-21T11:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T12:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859560415023481007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 152,
+              "start": 143,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 166,
+              "start": 153,
+              "tag": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/krIkIh4DkG",
+              "end": 190,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1859560415023481007/photo/1",
+              "media_key": "3_1859560407922507777",
+              "start": 167,
+              "url": "https://t.co/krIkIh4DkG"
+            },
+            {
+              "display_url": "x.com/girlsbandcry/s…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/girlsbandcry/status/1859558275483828513",
+              "start": 191,
+              "url": "https://t.co/nom9N7QAhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859560415023481007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 57555,
+          "like_count": 2023,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 237
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859558275483828513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生配信ありがとうございました〜‼️‼️\nいっぱいトークして楽しかったよ〜〜〜\n\nそして‼️‼️㊗️‼️‼️「ツンデレ」･「酒豪」Tシャツ発売決定‼️‼️‼️\nうれしい‼️‼️‼️やっとルパの着れるグッズだ‼️‼️‼️嬉しすぎる‼️‼️‼️‼️‼️\nぜひゲットしてね〜〜〜\n\n#ガルクラ #トゲナシトゲアリ #girlsbandcry https://t.co/krIkIh4DkG https://t.co/nom9N7QAhv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 3715,
+          "listed_count": 0,
+          "tweet_count": 758
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:30:38.000Z",
+        "description": "朱李(Shuri) / アニメ『#ガールズバンドクライ』#ルパ 役 / バンド『#トゲナシトゲアリ』Ba. / Instagram→ https://t.co/mN4Sucbxpb / 爬虫類と金魚と野球が好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "ルパ"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/shuri_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/shuri_togetoge",
+                "start": 67,
+                "url": "https://t.co/mN4Sucbxpb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuritogetoge",
+                "start": 0,
+                "url": "https://t.co/OX3Xk30yGt"
+              }
+            ]
+          }
+        },
+        "id": "1681944655041265664",
+        "name": "朱李 / ガールズバンドクライ ルパ役 / トゲナシトゲアリ Ba.",
+        "pinned_tweet_id": "1778774042537021944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795663226290176/mMoS4Kqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38396,
+          "following_count": 98,
+          "like_count": 2058,
+          "listed_count": 257,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/OX3Xk30yGt",
+        "username": "shuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

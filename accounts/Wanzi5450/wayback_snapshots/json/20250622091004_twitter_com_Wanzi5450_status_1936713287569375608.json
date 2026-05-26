@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1936713287569375608",
+    "created_at": "2025-06-22T09:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T10:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936713287569375608"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "GiGO_EXPO"
+        },
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "MyGO"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 104,
+          "start": 95,
+          "tag": "心のはしを辿って"
+        },
+        {
+          "end": 122,
+          "start": 106,
+          "tag": "バンドリーマーさんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/cRI",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/cRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936713287569375608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 896
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936317833631482175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: #GiGO_EXPO の推し活バッグ作り企画、\n\n「今日迷子Zeppこの格好でいます！！見つけたら声掛けてください🙏」の人になった\n\n#MyGO #バンドリ #心のはしを辿って \n#バンドリーマーさんと繋がりたい https://t.co/cRI…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936317825741922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8uza-aoAARUBS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1936713287569375608",
+        "created_at": "2025-06-22T09:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936713287569375608"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "GiGO_EXPO"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "MyGO"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 104,
+              "start": 95,
+              "tag": "心のはしを辿って"
+            },
+            {
+              "end": 122,
+              "start": 106,
+              "tag": "バンドリーマーさんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/cRI",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/cRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936713287569375608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 896
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936317833631482175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: #GiGO_EXPO の推し活バッグ作り企画、\n\n「今日迷子Zeppこの格好でいます！！見つけたら声掛けてください🙏」の人になった\n\n#MyGO #バンドリ #心のはしを辿って \n#バンドリーマーさんと繋がりたい https://t.co/cRI…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936317825741922304"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1936317833631482175",
+        "created_at": "2025-06-21T06:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936317833631482175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "GiGO_EXPO"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "MyGO"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 88,
+              "start": 79,
+              "tag": "心のはしを辿って"
+            },
+            {
+              "end": 106,
+              "start": 90,
+              "tag": "バンドリーマーさんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRIxvoE2VO",
+              "end": 130,
+              "expanded_url": "https://x.com/aoki__hina/status/1936317833631482175/photo/1",
+              "media_key": "3_1936317825741922304",
+              "start": 107,
+              "url": "https://t.co/cRIxvoE2VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936317833631482175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 121057,
+          "like_count": 6583,
+          "quote_count": 66,
+          "reply_count": 45,
+          "retweet_count": 896
+        },
+        "reply_settings": "everyone",
+        "text": "#GiGO_EXPO の推し活バッグ作り企画、\n\n「今日迷子Zeppこの格好でいます！！見つけたら声掛けてください🙏」の人になった\n\n#MyGO #バンドリ #心のはしを辿って \n#バンドリーマーさんと繋がりたい https://t.co/cRIxvoE2VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4512,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 924
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1936064164285628540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134364,
+          "following_count": 299,
+          "like_count": 3,
+          "listed_count": 1010,
+          "media_count": 1256,
+          "tweet_count": 4613
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": true
+      }
+    ]
+  }
+}

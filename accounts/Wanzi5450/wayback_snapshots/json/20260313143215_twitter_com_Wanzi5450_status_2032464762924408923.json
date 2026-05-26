@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2032464762924408923",
+    "created_at": "2026-03-13T14:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032464762924408923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "846063024511234048",
+          "start": 3,
+          "username": "_melondayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032464762924408923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032441112921772448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_melondayo: 嬉しい苦しいやるせない気持ちが混ざって涙になった\n全部まとめて薬と一緒に飲み込みたい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2032464762924408923",
+        "created_at": "2026-03-13T14:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032464762924408923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "846063024511234048",
+              "start": 3,
+              "username": "_melondayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032464762924408923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032441112921772448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_melondayo: 嬉しい苦しいやるせない気持ちが混ざって涙になった\n全部まとめて薬と一緒に飲み込みたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "846063024511234048",
+        "conversation_id": "2032441112921772448",
+        "created_at": "2026-03-13T12:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032441112921772448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032441112921772448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嬉しい苦しいやるせない気持ちが混ざって涙になった\n全部まとめて薬と一緒に飲み込みたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 234,
+          "like_count": 9057,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2029
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-26T18:15:18.000Z",
+        "description": "やっぱり、どうしても、絶対に、アオ。 𓂃𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓂃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/silentblue_7",
+                "end": 23,
+                "expanded_url": "https://lit.link/silentblue_7",
+                "start": 0,
+                "url": "https://t.co/THVRq2qzAX"
+              }
+            ]
+          }
+        },
+        "id": "846063024511234048",
+        "location": "喫茶店と日常",
+        "name": "白山 静",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520802122517794817/n5_rHU9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16533,
+          "following_count": 241,
+          "like_count": 26728,
+          "listed_count": 211,
+          "media_count": 2274,
+          "tweet_count": 6228
+        },
+        "url": "https://t.co/THVRq2qzAX",
+        "username": "_melondayo",
+        "verified": false
+      }
+    ]
+  }
+}

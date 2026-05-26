@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883146466602205184"
+      ],
+      "media_source_tweet_id": [
+        "1883146471152947213"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1883511664781447566",
+    "created_at": "2025-01-26T13:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T14:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883511664781447566"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "インスタ",
+          "probability": 0.7183,
+          "start": 49,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681941563302346752",
+          "start": 3,
+          "username": "yuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/myhsr3LaGv",
+          "end": 97,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1883146471152947213/photo/1",
+          "media_key": "3_1883146466602205184",
+          "start": 74,
+          "url": "https://t.co/myhsr3LaGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883511664781447566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883146471152947213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_togetoge: 私はみんなが今日何してたよ〜とか報告してくれるのが嬉しいのでインスタでもリサーチ…全部見てにこにこしてるよ🥰 https://t.co/myhsr3LaGv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883146466602205184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJHu-nbQAAnED3.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883146466602205184"
+          ],
+          "media_source_tweet_id": [
+            "1883146471152947213"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1883511664781447566",
+        "created_at": "2025-01-26T13:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883511664781447566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "インスタ",
+              "probability": 0.7183,
+              "start": 49,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681941563302346752",
+              "start": 3,
+              "username": "yuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/myhsr3LaGv",
+              "end": 97,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1883146471152947213/photo/1",
+              "media_key": "3_1883146466602205184",
+              "start": 74,
+              "url": "https://t.co/myhsr3LaGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883511664781447566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883146471152947213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_togetoge: 私はみんなが今日何してたよ〜とか報告してくれるのが嬉しいのでインスタでもリサーチ…全部見てにこにこしてるよ🥰 https://t.co/myhsr3LaGv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883146466602205184"
+          ]
+        },
+        "author_id": "1681941563302346752",
+        "conversation_id": "1883146471152947213",
+        "created_at": "2025-01-25T13:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T14:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883146471152947213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "インスタ",
+              "probability": 0.7183,
+              "start": 30,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/myhsr3LaGv",
+              "end": 78,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1883146471152947213/photo/1",
+              "media_key": "3_1883146466602205184",
+              "start": 55,
+              "url": "https://t.co/myhsr3LaGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883146471152947213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 44448,
+          "like_count": 2478,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "私はみんなが今日何してたよ〜とか報告してくれるのが嬉しいのでインスタでもリサーチ…全部見てにこにこしてるよ🥰 https://t.co/myhsr3LaGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 4402,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 897
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:18:25.000Z",
+        "description": "夕莉(Yuri) / アニメ『#ガールズバンドクライ』#河原木桃香 役 / バンド『#トゲナシトゲアリ』Gt. / Instagram→ https://t.co/w3tWoVPjwJ / 猫とサメ好き / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "河原木桃香"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yuri_togetoge",
+                "end": 92,
+                "expanded_url": "http://instagram.com/yuri_togetoge",
+                "start": 69,
+                "url": "https://t.co/w3tWoVPjwJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuritogetoge",
+                "start": 0,
+                "url": "https://t.co/Llf6CPKu18"
+              }
+            ]
+          }
+        },
+        "id": "1681941563302346752",
+        "name": "夕莉 / トゲナシトゲアリ Gt.",
+        "pinned_tweet_id": "1778774209046643150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795161042219008/pBbtpL8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42713,
+          "following_count": 110,
+          "like_count": 1035,
+          "listed_count": 281,
+          "media_count": 186,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/Llf6CPKu18",
+        "username": "yuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2037433273014739439",
+    "created_at": "2026-03-27T14:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037538754571977129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1575116559525195782",
+          "start": 0,
+          "username": "Irrational1sm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037538754571977129",
+    "in_reply_to_user_id": "1575116559525195782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037433273014739439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irrational1sm 学到了…！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037433265855111169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZqwrDboAESdoj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2037433273014739439",
+        "created_at": "2026-03-27T14:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037538754571977129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1575116559525195782",
+              "start": 0,
+              "username": "Irrational1sm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037538754571977129",
+        "in_reply_to_user_id": "1575116559525195782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037433273014739439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irrational1sm 学到了…！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037433265855111169"
+          ]
+        },
+        "author_id": "1575116559525195782",
+        "conversation_id": "2037433273014739439",
+        "created_at": "2026-03-27T07:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037433273014739439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WM0p9AWI0W",
+              "end": 47,
+              "expanded_url": "https://x.com/Irrational1sm/status/2037433273014739439/photo/1",
+              "media_key": "3_2037433265855111169",
+              "start": 24,
+              "url": "https://t.co/WM0p9AWI0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037433273014739439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在小红薯上找到了一个史诗级聪明的收裤腰方式！！ https://t.co/WM0p9AWI0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 269,
+          "like_count": 9967,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 2427
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T13:34:09.000Z",
+        "description": "我只是你去年春天游过的水",
+        "id": "1575116559525195782",
+        "name": "小傘",
+        "pinned_tweet_id": "1968998387727917282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031948291211251712/rYiIzi71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 287,
+          "like_count": 8903,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 2049
+        },
+        "username": "Irrational1sm",
+        "verified": false
+      }
+    ]
+  }
+}

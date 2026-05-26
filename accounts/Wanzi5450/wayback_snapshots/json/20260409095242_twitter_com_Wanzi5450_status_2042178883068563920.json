@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042178874512203776"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042178883068563920",
+    "created_at": "2026-04-09T09:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042178883068563920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CsQbkJfqOv",
+          "end": 26,
+          "expanded_url": "https://x.com/Wanzi5450/status/2042178883068563920/photo/1",
+          "media_key": "3_2042178874512203776",
+          "start": 3,
+          "url": "https://t.co/CsQbkJfqOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042178883068563920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又吃 https://t.co/CsQbkJfqOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042178874512203776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdG3c8bYAAabJX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042178874512203776"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042178883068563920",
+        "created_at": "2026-04-09T09:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042178883068563920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CsQbkJfqOv",
+              "end": 26,
+              "expanded_url": "https://x.com/Wanzi5450/status/2042178883068563920/photo/1",
+              "media_key": "3_2042178874512203776",
+              "start": 3,
+              "url": "https://t.co/CsQbkJfqOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042178883068563920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又吃 https://t.co/CsQbkJfqOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 265,
+          "like_count": 11466,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 3032
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

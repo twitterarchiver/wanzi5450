@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047692664091578368"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2047692670546624581",
+    "created_at": "2026-04-24T15:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047692670546624581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AX9BQPiBV8",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2047692670546624581/photo/1",
+          "media_key": "3_2047692664091578368",
+          "start": 6,
+          "url": "https://t.co/AX9BQPiBV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047692670546624581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈，，， https://t.co/AX9BQPiBV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1979,
+        "media_key": "3_2047692664091578368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrdoPxaEAAEDWY.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047692664091578368"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2047692670546624581",
+        "created_at": "2026-04-24T15:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047692670546624581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AX9BQPiBV8",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2047692670546624581/photo/1",
+              "media_key": "3_2047692664091578368",
+              "start": 6,
+              "url": "https://t.co/AX9BQPiBV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047692670546624581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈，，， https://t.co/AX9BQPiBV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 276,
+          "like_count": 13099,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 3486
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

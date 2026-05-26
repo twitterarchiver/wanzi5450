@@ -1,0 +1,347 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811706615936221185"
+      ],
+      "media_source_tweet_id": [
+        "1811707180481139000"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1811831330671571117",
+    "created_at": "2024-07-12T18:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T19:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811831330671571117"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Anon Tokyo x 新川崎",
+          "probability": 0.248,
+          "start": 16,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "MyGO"
+        },
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "トゲナシトゲアリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356387421227683842",
+          "start": 3,
+          "username": "sorawo5084"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/yxPAHu9e5H",
+          "end": 75,
+          "expanded_url": "https://twitter.com/sorawo5084/status/1811707180481139000/photo/1",
+          "media_key": "3_1811706615936221185",
+          "start": 52,
+          "url": "https://t.co/yxPAHu9e5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811831330671571117",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811707180481139000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sorawo5084: Anon Tokyo x 新川崎（仮）\n#MyGO #トゲナシトゲアリ https://t.co/yxPAHu9e5H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1811706615936221185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSR5kYAagAEOQZ3.jpg",
+        "width": 1519
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811706615936221185"
+          ],
+          "media_source_tweet_id": [
+            "1811707180481139000"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1811831330671571117",
+        "created_at": "2024-07-12T18:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T19:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811831330671571117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Anon Tokyo x 新川崎",
+              "probability": 0.248,
+              "start": 16,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "MyGO"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356387421227683842",
+              "start": 3,
+              "username": "sorawo5084"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yxPAHu9e5H",
+              "end": 75,
+              "expanded_url": "https://twitter.com/sorawo5084/status/1811707180481139000/photo/1",
+              "media_key": "3_1811706615936221185",
+              "start": 52,
+              "url": "https://t.co/yxPAHu9e5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811831330671571117",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811707180481139000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sorawo5084: Anon Tokyo x 新川崎（仮）\n#MyGO #トゲナシトゲアリ https://t.co/yxPAHu9e5H"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811706615936221185"
+          ]
+        },
+        "author_id": "1356387421227683842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1811707180481139000",
+        "created_at": "2024-07-12T10:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T11:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811707180481139000"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Anon Tokyo x 新川崎",
+              "probability": 0.2543,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "MyGO"
+            },
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yxPAHu9e5H",
+              "end": 59,
+              "expanded_url": "https://twitter.com/sorawo5084/status/1811707180481139000/photo/1",
+              "media_key": "3_1811706615936221185",
+              "start": 36,
+              "url": "https://t.co/yxPAHu9e5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811707180481139000",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 22530,
+          "like_count": 1276,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "Anon Tokyo x 新川崎（仮）\n#MyGO #トゲナシトゲアリ https://t.co/yxPAHu9e5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 2518,
+          "listed_count": 0,
+          "tweet_count": 417
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T23:42:43.000Z",
+        "description": "AI✍️(StableDiffusion/DALL.E3) / #飼い主と猫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "飼い主と猫"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70659165",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70659165",
+                "start": 0,
+                "url": "https://t.co/fIFjZ2OUId"
+              }
+            ]
+          }
+        },
+        "id": "1356387421227683842",
+        "name": "Sorawo",
+        "pinned_tweet_id": "1795778933549576474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758075675171590144/zMoic2Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 57,
+          "like_count": 5199,
+          "listed_count": 31,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/fIFjZ2OUId",
+        "username": "sorawo5084",
+        "verified": false
+      }
+    ]
+  }
+}

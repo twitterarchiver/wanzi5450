@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817212130745294848",
+        "3_1817212148227219456",
+        "3_1817212166921146368",
+        "3_1817212183048224769"
+      ],
+      "media_source_tweet_id": [
+        "1817212440985346161",
+        "1817212440985346161",
+        "1817212440985346161",
+        "1817212440985346161"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1817433749476475049",
+    "created_at": "2024-07-28T05:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T06:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817433749476475049"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "19141871",
+          "start": 3,
+          "username": "kashicomcom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/BmjHMpFi4m",
+          "end": 64,
+          "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+          "media_key": "3_1817212130745294848",
+          "start": 41,
+          "url": "https://t.co/BmjHMpFi4m"
+        },
+        {
+          "display_url": "pic.twitter.com/BmjHMpFi4m",
+          "end": 64,
+          "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+          "media_key": "3_1817212148227219456",
+          "start": 41,
+          "url": "https://t.co/BmjHMpFi4m"
+        },
+        {
+          "display_url": "pic.twitter.com/BmjHMpFi4m",
+          "end": 64,
+          "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+          "media_key": "3_1817212166921146368",
+          "start": 41,
+          "url": "https://t.co/BmjHMpFi4m"
+        },
+        {
+          "display_url": "pic.twitter.com/BmjHMpFi4m",
+          "end": 64,
+          "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+          "media_key": "3_1817212183048224769",
+          "start": 41,
+          "url": "https://t.co/BmjHMpFi4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817433749476475049",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817212440985346161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kashicomcom: ちゃんと塗ったやつもここで供養FA\n#MyGO https://t.co/BmjHMpFi4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_1817212130745294848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTgIzg6aoAAnxiJ.jpg",
+        "width": 1628
+      },
+      {
+        "height": 1632,
+        "media_key": "3_1817212148227219456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTgI0iCboAAyKaA.jpg",
+        "width": 1630
+      },
+      {
+        "height": 1630,
+        "media_key": "3_1817212166921146368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTgI1nraUAAdiEH.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1636,
+        "media_key": "3_1817212183048224769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTgI2jwaAAEM85e.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817212130745294848",
+            "3_1817212148227219456",
+            "3_1817212166921146368",
+            "3_1817212183048224769"
+          ],
+          "media_source_tweet_id": [
+            "1817212440985346161",
+            "1817212440985346161",
+            "1817212440985346161",
+            "1817212440985346161"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1817433749476475049",
+        "created_at": "2024-07-28T05:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817433749476475049"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "19141871",
+              "start": 3,
+              "username": "kashicomcom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212130745294848",
+              "start": 41,
+              "url": "https://t.co/BmjHMpFi4m"
+            },
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212148227219456",
+              "start": 41,
+              "url": "https://t.co/BmjHMpFi4m"
+            },
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212166921146368",
+              "start": 41,
+              "url": "https://t.co/BmjHMpFi4m"
+            },
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212183048224769",
+              "start": 41,
+              "url": "https://t.co/BmjHMpFi4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817433749476475049",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817212440985346161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kashicomcom: ちゃんと塗ったやつもここで供養FA\n#MyGO https://t.co/BmjHMpFi4m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817212130745294848",
+            "3_1817212148227219456",
+            "3_1817212166921146368",
+            "3_1817212183048224769"
+          ]
+        },
+        "author_id": "19141871",
+        "conversation_id": "1817211777765306869",
+        "created_at": "2024-07-27T14:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T15:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817212440985346161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212130745294848",
+              "start": 24,
+              "url": "https://t.co/BmjHMpFi4m"
+            },
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212148227219456",
+              "start": 24,
+              "url": "https://t.co/BmjHMpFi4m"
+            },
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212166921146368",
+              "start": 24,
+              "url": "https://t.co/BmjHMpFi4m"
+            },
+            {
+              "display_url": "pic.twitter.com/BmjHMpFi4m",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kashicomcom/status/1817212440985346161/photo/1",
+              "media_key": "3_1817212183048224769",
+              "start": 24,
+              "url": "https://t.co/BmjHMpFi4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817212440985346161",
+        "in_reply_to_user_id": "19141871",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 20600,
+          "like_count": 1144,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817211777765306869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ちゃんと塗ったやつもここで供養FA\n#MyGO https://t.co/BmjHMpFi4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2847,
+          "listed_count": 0,
+          "tweet_count": 500
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-18T11:03:58.000Z",
+        "description": "🖋📖漫画とイラストを描いてます\n 🎸バンドリ！ガルパ！の公式コミカライズ全4巻発売中\n👉 https://t.co/w7R783pmzt\n🎁FANBOX https://t.co/4SYNINPM35\n✉️お仕事のご相談は下記のlit linkのメールまでお願いいたします",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic-growl.com",
+                "end": 68,
+                "expanded_url": "https://comic-growl.com/",
+                "start": 45,
+                "url": "https://t.co/w7R783pmzt"
+              },
+              {
+                "display_url": "kashicomcom.fanbox.cc",
+                "end": 100,
+                "expanded_url": "https://kashicomcom.fanbox.cc/",
+                "start": 77,
+                "url": "https://t.co/4SYNINPM35"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kashicomcomcom",
+                "end": 23,
+                "expanded_url": "https://lit.link/kashicomcomcom",
+                "start": 0,
+                "url": "https://t.co/iycEeBm6gu"
+              }
+            ]
+          }
+        },
+        "id": "19141871",
+        "name": "黒渕かしこ✊コミティア149え10a",
+        "pinned_tweet_id": "1800724712508768368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689720743523926016/HPFkW52G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13936,
+          "following_count": 1534,
+          "like_count": 32672,
+          "listed_count": 281,
+          "tweet_count": 34936
+        },
+        "url": "https://t.co/iycEeBm6gu",
+        "username": "kashicomcom",
+        "verified": false
+      }
+    ]
+  }
+}

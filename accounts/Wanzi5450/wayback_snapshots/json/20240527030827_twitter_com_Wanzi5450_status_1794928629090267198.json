@@ -1,0 +1,338 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794705323632345088"
+      ],
+      "media_source_tweet_id": [
+        "1794705328275337225"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1794928629090267198",
+    "created_at": "2024-05-27T03:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T04:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794928629090267198"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "東京",
+          "probability": 0.8342,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 38,
+          "tag": "ガールズバンドクライ"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 69,
+          "start": 56,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715653265860526080",
+          "start": 3,
+          "username": "o_macaroni_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/mTBl909Hcj",
+          "end": 93,
+          "expanded_url": "https://twitter.com/o_macaroni_o/status/1794705328275337225/photo/1",
+          "media_key": "3_1794705323632345088",
+          "start": 70,
+          "url": "https://t.co/mTBl909Hcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794928629090267198",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794705328275337225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_macaroni_o: 2人で東京観光とかしてたら可愛いな…\n\n#ガールズバンドクライ\n#ガルクラ\n#GirlsBandCry https://t.co/mTBl909Hcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1794705323632345088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOgS-6ubwAAc-Q1.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794705323632345088"
+          ],
+          "media_source_tweet_id": [
+            "1794705328275337225"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1794928629090267198",
+        "created_at": "2024-05-27T03:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T04:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794928629090267198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "東京",
+              "probability": 0.8342,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 38,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 69,
+              "start": 56,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715653265860526080",
+              "start": 3,
+              "username": "o_macaroni_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mTBl909Hcj",
+              "end": 93,
+              "expanded_url": "https://twitter.com/o_macaroni_o/status/1794705328275337225/photo/1",
+              "media_key": "3_1794705323632345088",
+              "start": 70,
+              "url": "https://t.co/mTBl909Hcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794928629090267198",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794705328275337225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_macaroni_o: 2人で東京観光とかしてたら可愛いな…\n\n#ガールズバンドクライ\n#ガルクラ\n#GirlsBandCry https://t.co/mTBl909Hcj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794705323632345088"
+          ]
+        },
+        "author_id": "1715653265860526080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1794705328275337225",
+        "created_at": "2024-05-26T12:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T13:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794705328275337225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "東京",
+              "probability": 0.8107,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 51,
+              "start": 38,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/mTBl909Hcj",
+              "end": 75,
+              "expanded_url": "https://twitter.com/o_macaroni_o/status/1794705328275337225/photo/1",
+              "media_key": "3_1794705323632345088",
+              "start": 52,
+              "url": "https://t.co/mTBl909Hcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794705328275337225",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 20827,
+          "like_count": 1266,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "2人で東京観光とかしてたら可愛いな…\n\n#ガールズバンドクライ\n#ガルクラ\n#GirlsBandCry https://t.co/mTBl909Hcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 55,
+          "like_count": 2088,
+          "listed_count": 0,
+          "tweet_count": 345
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T08:57:20.000Z",
+        "description": "マイペースにお絵描き！🐣",
+        "id": "1715653265860526080",
+        "name": "macaroni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791633613576179712/xVrqeEuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 46,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "o_macaroni_o",
+        "verified": false
+      }
+    ]
+  }
+}

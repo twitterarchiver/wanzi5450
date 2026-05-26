@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891716214151344128",
+        "3_1891716214155563008"
+      ],
+      "media_source_tweet_id": [
+        "1891716218509296101",
+        "1891716218509296101"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1891826683994407402",
+    "created_at": "2025-02-18T12:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T13:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891826683994407402"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Kaname Rana",
+          "probability": 0.6227,
+          "start": 46,
+          "type": "Person"
+        },
+        {
+          "end": 60,
+          "normalized_text": "要楽奈",
+          "probability": 0.7891,
+          "start": 58,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1284864755426119686",
+          "start": 3,
+          "username": "bandoricard"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HpWZDqGeaM",
+          "end": 90,
+          "expanded_url": "https://x.com/bandoricard/status/1891716218509296101/photo/1",
+          "media_key": "3_1891716214151344128",
+          "start": 67,
+          "url": "https://t.co/HpWZDqGeaM"
+        },
+        {
+          "display_url": "pic.x.com/HpWZDqGeaM",
+          "end": 90,
+          "expanded_url": "https://x.com/bandoricard/status/1891716218509296101/photo/1",
+          "media_key": "3_1891716214155563008",
+          "start": 67,
+          "url": "https://t.co/HpWZDqGeaM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891826683994407402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1048
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891716218509296101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bandoricard: &lt;新しいカード New Card(JP)&gt;\n\nKaname Rana(要楽奈) 5⭐️ https://t.co/HpWZDqGeaM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_1891716214151344128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkC538BWcAAlU2N.jpg",
+        "width": 1334
+      },
+      {
+        "height": 1002,
+        "media_key": "3_1891716214155563008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkC538CW0AAV-Yw.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891716214151344128",
+            "3_1891716214155563008"
+          ],
+          "media_source_tweet_id": [
+            "1891716218509296101",
+            "1891716218509296101"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891826683994407402",
+        "created_at": "2025-02-18T12:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T13:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891826683994407402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Kaname Rana",
+              "probability": 0.6227,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "要楽奈",
+              "probability": 0.7891,
+              "start": 58,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1284864755426119686",
+              "start": 3,
+              "username": "bandoricard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpWZDqGeaM",
+              "end": 90,
+              "expanded_url": "https://x.com/bandoricard/status/1891716218509296101/photo/1",
+              "media_key": "3_1891716214151344128",
+              "start": 67,
+              "url": "https://t.co/HpWZDqGeaM"
+            },
+            {
+              "display_url": "pic.x.com/HpWZDqGeaM",
+              "end": 90,
+              "expanded_url": "https://x.com/bandoricard/status/1891716218509296101/photo/1",
+              "media_key": "3_1891716214155563008",
+              "start": 67,
+              "url": "https://t.co/HpWZDqGeaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891826683994407402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1048
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891716218509296101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bandoricard: &lt;新しいカード New Card(JP)&gt;\n\nKaname Rana(要楽奈) 5⭐️ https://t.co/HpWZDqGeaM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891716214151344128",
+            "3_1891716214155563008"
+          ]
+        },
+        "author_id": "1284864755426119686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891716218509296101",
+        "created_at": "2025-02-18T05:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T06:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891716218509296101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Kaname Rana",
+              "probability": 0.6504,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "要楽奈",
+              "probability": 0.8231,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpWZDqGeaM",
+              "end": 73,
+              "expanded_url": "https://x.com/bandoricard/status/1891716218509296101/photo/1",
+              "media_key": "3_1891716214151344128",
+              "start": 50,
+              "url": "https://t.co/HpWZDqGeaM"
+            },
+            {
+              "display_url": "pic.x.com/HpWZDqGeaM",
+              "end": 73,
+              "expanded_url": "https://x.com/bandoricard/status/1891716218509296101/photo/1",
+              "media_key": "3_1891716214155563008",
+              "start": 50,
+              "url": "https://t.co/HpWZDqGeaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891716218509296101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 137214,
+          "like_count": 5477,
+          "quote_count": 454,
+          "reply_count": 3,
+          "retweet_count": 1048
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;新しいカード New Card(JP)&gt;\n\nKaname Rana(要楽奈) 5⭐️ https://t.co/HpWZDqGeaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 70,
+          "like_count": 4435,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 907
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-19T14:56:58.000Z",
+        "description": "daily bandori cards #bangdream #bandori #バンドリ #ガルパ (not a bot) (Cards/Translations: bestdori)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 20,
+                "tag": "bangdream"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "bandori"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "ガルパ"
+              }
+            ]
+          }
+        },
+        "id": "1284864755426119686",
+        "name": "bandori cards バンドリカード",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891652164327546880/R6eQOUBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24083,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 56,
+          "media_count": 38117,
+          "tweet_count": 38335
+        },
+        "username": "bandoricard",
+        "verified": false
+      }
+    ]
+  }
+}

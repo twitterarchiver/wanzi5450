@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2057144574364262839",
+    "created_at": "2026-05-21T04:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057317732149080128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "826962347436568576",
+          "start": 0,
+          "username": "ase12345632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057317732149080128",
+    "in_reply_to_user_id": "826962347436568576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057144574364262839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ase12345632 そうですね\nFF外から失礼します"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2057144574364262839",
+        "created_at": "2026-05-21T04:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057317732149080128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "826962347436568576",
+              "start": 0,
+              "username": "ase12345632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057317732149080128",
+        "in_reply_to_user_id": "826962347436568576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057144574364262839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ase12345632 そうですね\nFF外から失礼します"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826962347436568576",
+        "conversation_id": "2057144574364262839",
+        "created_at": "2026-05-20T17:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057144574364262839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057144574364262839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "実はずっと、ゆいたんは恋愛ソングだけじゃないって証明してると思ってる\n\n「嘘」「そばにいて。」「17さいのうた。」「序章。」「僕らしさ」「ラストティーン」「私が選んだもの」は全部恋愛ソングじゃない\n\nそれなのに今でもそう言われるのは、正直すごく失礼だと思う"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 298,
+          "like_count": 16255,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3902
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-02T01:16:02.000Z",
+        "description": "いちばん好きな人 @yuika_singuitar @yuika_sabui / #ユイナーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 41,
+                "tag": "ユイナーさんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "yuika_singuitar"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "yuika_sabui"
+              }
+            ]
+          }
+        },
+        "id": "826962347436568576",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "『ゆい』",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931718260569124865/_5NAqqmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 223,
+          "like_count": 2269,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1417
+        },
+        "username": "ase12345632",
+        "verified": false
+      }
+    ]
+  }
+}

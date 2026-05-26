@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2038194503962722707",
+    "created_at": "2026-03-30T01:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T02:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038433365234462957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1823854145977376770",
+          "start": 0,
+          "username": "RzfQ53ICIx59316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038433365234462957",
+    "in_reply_to_user_id": "1823854145977376770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038355656328245344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RzfQ53ICIx59316 呆胶布🫂🫂抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038194503962722707",
+        "created_at": "2026-03-30T01:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038433365234462957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1823854145977376770",
+              "start": 0,
+              "username": "RzfQ53ICIx59316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038433365234462957",
+        "in_reply_to_user_id": "1823854145977376770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038355656328245344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RzfQ53ICIx59316 呆胶布🫂🫂抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823854145977376770",
+        "conversation_id": "2038194503962722707",
+        "created_at": "2026-03-29T20:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T21:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038355656328245344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038355656328245344",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038194503962722707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 对不起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 280,
+          "like_count": 10240,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 2531
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T22:48:16.000Z",
+        "description": "Fantasía Von Baudelaire，叫我幻想集就好。",
+        "id": "1823854145977376770",
+        "name": "Fantasía",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024922884150562816/vVe9UqrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 137,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "RzfQ53ICIx59316",
+        "verified": false
+      }
+    ]
+  }
+}

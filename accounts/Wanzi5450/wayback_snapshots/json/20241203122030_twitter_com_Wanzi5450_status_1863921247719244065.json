@@ -1,0 +1,772 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1863921247719244065",
+    "created_at": "2024-12-03T12:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T13:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863921247719244065"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "ガールズバンドクライ",
+          "probability": 0.4407,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 130,
+          "start": 121,
+          "tag": "トゲナシトゲアリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505089058372210689",
+          "start": 3,
+          "username": "girlsbandcry_gi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "詳しい情報はこちら↓",
+          "display_url": "animetoyinfo.com/2024/12/03/gar…",
+          "end": 113,
+          "expanded_url": "https://animetoyinfo.com/2024/12/03/garukura-kurisumakes/",
+          "start": 90,
+          "status": 200,
+          "title": "アニメ「ガールズバンドクライ」クリスマスケーキ",
+          "unwound_url": "https://animetoyinfo.com/2024/12/03/garukura-kurisumakes/",
+          "url": "https://t.co/tSaC82xf42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863921247719244065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863872534967709785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry_gi: ✨冷凍クリスマスケーキが登場✨\n\nアニメ「ガールズバンドクライ」\n\n各キャラ スノードーム型アクリルスタンドが付属🌸\n\n▼詳細はこちら↓\nhttps://t.co/tSaC82xf42\n\n#ガルクラ #トゲナシトゲアリ https://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1863921247719244065",
+        "created_at": "2024-12-03T12:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T13:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863921247719244065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.4407,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 130,
+              "start": 121,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505089058372210689",
+              "start": 3,
+              "username": "girlsbandcry_gi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "詳しい情報はこちら↓",
+              "display_url": "animetoyinfo.com/2024/12/03/gar…",
+              "end": 113,
+              "expanded_url": "https://animetoyinfo.com/2024/12/03/garukura-kurisumakes/",
+              "start": 90,
+              "status": 200,
+              "title": "アニメ「ガールズバンドクライ」クリスマスケーキ",
+              "unwound_url": "https://animetoyinfo.com/2024/12/03/garukura-kurisumakes/",
+              "url": "https://t.co/tSaC82xf42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863921247719244065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863872534967709785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry_gi: ✨冷凍クリスマスケーキが登場✨\n\nアニメ「ガールズバンドクライ」\n\n各キャラ スノードーム型アクリルスタンドが付属🌸\n\n▼詳細はこちら↓\nhttps://t.co/tSaC82xf42\n\n#ガルクラ #トゲナシトゲアリ https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863872366138568704"
+          ]
+        },
+        "author_id": "1505089058372210689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1863872534967709785",
+        "created_at": "2024-12-03T09:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T10:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863872534967709785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.4724,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 109,
+              "start": 100,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "詳しい情報はこちら↓",
+              "display_url": "animetoyinfo.com/2024/12/03/gar…",
+              "end": 92,
+              "expanded_url": "https://animetoyinfo.com/2024/12/03/garukura-kurisumakes/",
+              "start": 69,
+              "status": 200,
+              "title": "アニメ「ガールズバンドクライ」クリスマスケーキ",
+              "unwound_url": "https://animetoyinfo.com/2024/12/03/garukura-kurisumakes/",
+              "url": "https://t.co/tSaC82xf42"
+            },
+            {
+              "display_url": "pic.x.com/i3wvYC5mYe",
+              "end": 133,
+              "expanded_url": "https://x.com/girlsbandcry_gi/status/1863872534967709785/photo/1",
+              "media_key": "3_1863872366138568704",
+              "start": 110,
+              "url": "https://t.co/i3wvYC5mYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863872534967709785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 14238,
+          "like_count": 414,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "✨冷凍クリスマスケーキが登場✨\n\nアニメ「ガールズバンドクライ」\n\n各キャラ スノードーム型アクリルスタンドが付属🌸\n\n▼詳細はこちら↓\nhttps://t.co/tSaC82xf42\n\n#ガルクラ #トゲナシトゲアリ https://t.co/i3wvYC5mYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 3915,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 797
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T07:49:37.000Z",
+        "description": "東映アニメーション、agehasprings、ユニバーサルミュージックによるメディアミックスプロジェクト。TVアニメ「ガールズバンドクライ」のイベント・グッズ情報をお知らせ！※非公式です",
+        "id": "1505089058372210689",
+        "name": "ガールズバンドクライ グッズ情報 (ガルクラ)",
+        "pinned_tweet_id": "1861253196800500191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827025719597162498/SxemWbh7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6120,
+          "following_count": 2,
+          "like_count": 2121,
+          "listed_count": 28,
+          "media_count": 1457,
+          "tweet_count": 2761
+        },
+        "username": "girlsbandcry_gi",
+        "verified": false
+      }
+    ]
+  }
+}

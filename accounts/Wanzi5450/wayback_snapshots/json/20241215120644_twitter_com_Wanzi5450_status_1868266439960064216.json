@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1868266439960064216",
+    "created_at": "2024-12-15T12:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T13:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868266439960064216"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "ガールズバンドクライ",
+          "probability": 0.6255,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 115,
+          "normalized_text": "神戸ハーバーランドumie ・横浜ビブレ",
+          "probability": 0.2947,
+          "start": 96,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 136,
+          "start": 123,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505089058372210689",
+          "start": 3,
+          "username": "girlsbandcry_gi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868266439960064216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867572530472702370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry_gi: ✨描き下ろしイラスト解禁✨\n\nアニメ『ガールズバンドクライ 』\n\nPOP UP SHOPの開催が決定しました！\n\nショッピングコーデがテーマ🌸\n\n・神戸ハーバーランドumie\n・横浜ビブレ\n\n#ガルクラ #GirlsBandCry ht…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1868266439960064216",
+        "created_at": "2024-12-15T12:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T13:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868266439960064216"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.6255,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 115,
+              "normalized_text": "神戸ハーバーランドumie ・横浜ビブレ",
+              "probability": 0.2947,
+              "start": 96,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 136,
+              "start": 123,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1505089058372210689",
+              "start": 3,
+              "username": "girlsbandcry_gi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868266439960064216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867572530472702370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry_gi: ✨描き下ろしイラスト解禁✨\n\nアニメ『ガールズバンドクライ 』\n\nPOP UP SHOPの開催が決定しました！\n\nショッピングコーデがテーマ🌸\n\n・神戸ハーバーランドumie\n・横浜ビブレ\n\n#ガルクラ #GirlsBandCry ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867572524483223552"
+          ]
+        },
+        "author_id": "1505089058372210689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1867572530472702370",
+        "created_at": "2024-12-13T14:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867572530472702370"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.6682,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "神戸ハーバーランドumie ・横浜ビブレ",
+              "probability": 0.2984,
+              "start": 75,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 115,
+              "start": 102,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Da2KgmpzIp",
+              "end": 139,
+              "expanded_url": "https://x.com/girlsbandcry_gi/status/1867572530472702370/photo/1",
+              "media_key": "3_1867572524483223552",
+              "start": 116,
+              "url": "https://t.co/Da2KgmpzIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867572530472702370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 35493,
+          "like_count": 852,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "✨描き下ろしイラスト解禁✨\n\nアニメ『ガールズバンドクライ 』\n\nPOP UP SHOPの開催が決定しました！\n\nショッピングコーデがテーマ🌸\n\n・神戸ハーバーランドumie\n・横浜ビブレ\n\n#ガルクラ #GirlsBandCry https://t.co/Da2KgmpzIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 4031,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 826
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T07:49:37.000Z",
+        "description": "東映アニメーション、agehasprings、ユニバーサルミュージックによるメディアミックスプロジェクト。TVアニメ「ガールズバンドクライ」のイベント・グッズ情報をお知らせ！※非公式です",
+        "id": "1505089058372210689",
+        "name": "ガールズバンドクライ グッズ情報 (ガルクラ)",
+        "pinned_tweet_id": "1866317700559229257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827025719597162498/SxemWbh7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6613,
+          "following_count": 2,
+          "like_count": 2174,
+          "listed_count": 32,
+          "media_count": 1518,
+          "tweet_count": 2875
+        },
+        "username": "girlsbandcry_gi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "1932759226516214020",
+    "created_at": "2025-06-11T11:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T12:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932759226516214020"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "ヨルシカ LIVE TOUR 2025",
+          "probability": 0.7482,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "兵庫",
+          "probability": 0.9244,
+          "start": 68,
+          "type": "Place"
+        },
+        {
+          "end": 86,
+          "normalized_text": "GLION ARENA KOBE",
+          "probability": 0.2807,
+          "start": 71,
+          "type": "Organization"
+        },
+        {
+          "end": 104,
+          "normalized_text": "愛知",
+          "probability": 0.9812,
+          "start": 103,
+          "type": "Place"
+        },
+        {
+          "end": 134,
+          "normalized_text": "神奈川",
+          "probability": 0.942,
+          "start": 132,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "738199700914872320",
+          "start": 3,
+          "username": "nbuna_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932759226516214020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9992
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932362113756037150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbuna_staff: ヨルシカ LIVE TOUR 2025「盗作 再演」開催いたします。\n\n9月6日（土）～9月7日（日）兵庫・GLION ARENA KOBE\n9月20日（土）～21日（日）愛知・IG ARENA\n9月30日（火）～10月1日（水）神奈川・K-A…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1932361412338458624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEgd2gbIAAjy-P.jpg",
+        "width": 2929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "1932759226516214020",
+        "created_at": "2025-06-11T11:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932759226516214020"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "ヨルシカ LIVE TOUR 2025",
+              "probability": 0.7482,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "兵庫",
+              "probability": 0.9244,
+              "start": 68,
+              "type": "Place"
+            },
+            {
+              "end": 86,
+              "normalized_text": "GLION ARENA KOBE",
+              "probability": 0.2807,
+              "start": 71,
+              "type": "Organization"
+            },
+            {
+              "end": 104,
+              "normalized_text": "愛知",
+              "probability": 0.9812,
+              "start": 103,
+              "type": "Place"
+            },
+            {
+              "end": 134,
+              "normalized_text": "神奈川",
+              "probability": 0.942,
+              "start": 132,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "738199700914872320",
+              "start": 3,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932759226516214020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9992
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932362113756037150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbuna_staff: ヨルシカ LIVE TOUR 2025「盗作 再演」開催いたします。\n\n9月6日（土）～9月7日（日）兵庫・GLION ARENA KOBE\n9月20日（土）～21日（日）愛知・IG ARENA\n9月30日（火）～10月1日（水）神奈川・K-A…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932361412338458624"
+          ]
+        },
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "1932362113756037150",
+        "created_at": "2025-06-10T09:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932362113756037150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ヨルシカ LIVE TOUR 2025",
+              "probability": 0.7789,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "盗作 再演",
+              "probability": 0.4425,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "兵庫",
+              "probability": 0.8822,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "GLION ARENA KOBE",
+              "probability": 0.3391,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 87,
+              "normalized_text": "愛知",
+              "probability": 0.9711,
+              "start": 86,
+              "type": "Place"
+            },
+            {
+              "end": 134,
+              "normalized_text": "神奈川・K-Arena Yokohama",
+              "probability": 0.2948,
+              "start": 115,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4hAVy61sB",
+              "end": 204,
+              "expanded_url": "https://x.com/nbuna_staff/status/1932362113756037150/photo/1",
+              "media_key": "3_1932361412338458624",
+              "start": 181,
+              "url": "https://t.co/J4hAVy61sB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932362113756037150",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 318,
+                "start": 310,
+                "tag": "ヨルシカ_盗作"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yorushika.com/feature/liveto…",
+                "end": 308,
+                "expanded_url": "https://yorushika.com/feature/livetour2025_tousaku",
+                "start": 285,
+                "url": "https://t.co/AU0ZRFY0sH"
+              }
+            ]
+          },
+          "text": "ヨルシカ LIVE TOUR 2025「盗作 再演」開催いたします。\n\n9月6日（土）～9月7日（日）兵庫・GLION ARENA KOBE\n9月20日（土）～21日（日）愛知・IG ARENA\n9月30日（火）～10月1日（水）神奈川・K-Arena Yokohama\n\n本ツアーは各会場にて、\n・初日公演：立ち見・着席どちらでの観覧OK（一部指定席を除く）\n・２日目：全席着席のみでの観覧\nとさせていただきます。\n\nスマホサイト「後書き」会員向け先行（同行者会員）を開始いたしました。\n受付期間：〜6/16（月）23:59まで\n\n詳しくは特設サイトをご覧ください。\nhttps://t.co/AU0ZRFY0sH\n\n#ヨルシカ_盗作"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4255,
+          "impression_count": 2348306,
+          "like_count": 36047,
+          "quote_count": 4695,
+          "reply_count": 175,
+          "retweet_count": 9992
+        },
+        "reply_settings": "everyone",
+        "text": "ヨルシカ LIVE TOUR 2025「盗作 再演」開催いたします。\n\n9月6日（土）～9月7日（日）兵庫・GLION ARENA KOBE\n9月20日（土）～21日（日）愛知・IG ARENA\n9月30日（火）～10月1日（水）神奈川・K-Arena Yokohama\n\n本ツアーは各会場にて、\n・初日公演：立ち見・着席どちらでの観覧OK（一部指定席を除く） https://t.co/J4hAVy61sB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4508,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 921
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653876,
+          "following_count": 6,
+          "like_count": 1161,
+          "listed_count": 3147,
+          "media_count": 814,
+          "tweet_count": 4829
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}

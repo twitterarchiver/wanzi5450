@@ -1,0 +1,626 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10056866810",
+          "name": "まちカドまぞく"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1811986407134494836",
+    "created_at": "2024-07-13T04:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T05:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811986407134494836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465923253554548736",
+          "start": 3,
+          "username": "BTR_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811986407134494836",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3888
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811958728905667068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTR_anime: 🎸┈┈┈┈┈┈┈┈┈┈\n            劇場総集編\n    ぼっち・ざ・ろっく！\n　 応援イラスト公開！\n┈┈┈┈┈┈┈┈┈┈🎨\n\n今回は『まちカドまぞく』の\n伊藤いづも先生より頂きました！\n\n前編Re: 絶賛公開中🎬\n\n▼公式HP\nhtt…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056866810",
+              "name": "まちカドまぞく"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1811986407134494836",
+        "created_at": "2024-07-13T04:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811986407134494836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465923253554548736",
+              "start": 3,
+              "username": "BTR_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811986407134494836",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3888
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811958728905667068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTR_anime: 🎸┈┈┈┈┈┈┈┈┈┈\n            劇場総集編\n    ぼっち・ざ・ろっく！\n　 応援イラスト公開！\n┈┈┈┈┈┈┈┈┈┈🎨\n\n今回は『まちカドまぞく』の\n伊藤いづも先生より頂きました！\n\n前編Re: 絶賛公開中🎬\n\n▼公式HP\nhtt…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811654466204246016"
+          ]
+        },
+        "author_id": "1465923253554548736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056866810",
+              "name": "まちカドまぞく"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1811958728905667068",
+        "created_at": "2024-07-13T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811958728905667068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 146,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「劇場総集編ぼっち・ざ・ろっく！」 前編24年春 後編24年夏 公開！",
+              "display_url": "bocchi.rocks/omnibus/specia…",
+              "end": 144,
+              "expanded_url": "https://bocchi.rocks/omnibus/special/cheering-illustration",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1811961078571536384/B2F1LD4f?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1811961078571536384/B2F1LD4f?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 121,
+              "status": 200,
+              "title": "SPECIAL | 「劇場総集編ぼっち・ざ・ろっく！」公式サイト",
+              "unwound_url": "https://bocchi.rocks/omnibus/special/cheering-illustration/",
+              "url": "https://t.co/E1syATUi0B"
+            },
+            {
+              "display_url": "pic.twitter.com/weavyKr9oc",
+              "end": 180,
+              "expanded_url": "https://twitter.com/BTR_anime/status/1811958728905667068/photo/1",
+              "media_key": "3_1811654466204246016",
+              "start": 157,
+              "url": "https://t.co/weavyKr9oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811958728905667068",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 682,
+          "impression_count": 289999,
+          "like_count": 15432,
+          "quote_count": 157,
+          "reply_count": 123,
+          "retweet_count": 3888
+        },
+        "reply_settings": "everyone",
+        "text": "🎸┈┈┈┈┈┈┈┈┈┈\n            劇場総集編\n    ぼっち・ざ・ろっく！\n　 応援イラスト公開！\n┈┈┈┈┈┈┈┈┈┈🎨\n\n今回は『まちカドまぞく』の\n伊藤いづも先生より頂きました！\n\n前編Re: 絶賛公開中🎬\n\n▼公式HP\nhttps://t.co/E1syATUi0B\n\n#ぼっち・ざ・ろっく https://t.co/weavyKr9oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 2557,
+          "listed_count": 0,
+          "tweet_count": 424
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T05:58:51.000Z",
+        "description": "アニメ「ぼっち・ざ・ろっく！」公式アカウント 劇場総集編【前編】Re:公開中！/【後編】Re:Re:8月9日(金) 公開！ 推奨ハッシュタグ⇒ #ぼっち・ざ・ろっく #結束バンド",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 72,
+                "tag": "ぼっち・ざ・ろっく"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "結束バンド"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "http://bocchi.rocks",
+                "start": 0,
+                "url": "https://t.co/9csHWKaKpd"
+              }
+            ]
+          }
+        },
+        "id": "1465923253554548736",
+        "name": "アニメ「ぼっち・ざ・ろっく！」公式",
+        "pinned_tweet_id": "1802989632457744497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495775359199248386/oTBvibjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682241,
+          "following_count": 28,
+          "like_count": 67,
+          "listed_count": 2363,
+          "tweet_count": 5477
+        },
+        "url": "https://t.co/9csHWKaKpd",
+        "username": "BTR_anime",
+        "verified": true
+      }
+    ]
+  }
+}

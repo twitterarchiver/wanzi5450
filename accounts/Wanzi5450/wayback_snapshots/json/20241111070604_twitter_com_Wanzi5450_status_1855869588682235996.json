@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1855869588682235996",
+    "created_at": "2024-11-11T07:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T08:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855869588682235996"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "ひなちゃん",
+          "probability": 0.5037,
+          "start": 50,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 108,
+          "tag": "青木陽菜ブルトリ11"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "220522297",
+          "start": 3,
+          "username": "roid_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855869588682235996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855595915899555959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roid_s: 撮影タイム開始の告知\n\n🐣「ここから撮影OKパートなので…かわいいかわいいひなちゃんをお納めしたかったらお納めください」\n\nガヤを受けて言ったは良いもののまだちょっと振り切れてない感がw\n\n #青木陽菜ブルトリ11 https://t.co/4jqeY5…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1855869588682235996",
+        "created_at": "2024-11-11T07:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T08:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855869588682235996"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "ひなちゃん",
+              "probability": 0.5037,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 108,
+              "tag": "青木陽菜ブルトリ11"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "220522297",
+              "start": 3,
+              "username": "roid_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855869588682235996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855595915899555959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roid_s: 撮影タイム開始の告知\n\n🐣「ここから撮影OKパートなので…かわいいかわいいひなちゃんをお納めしたかったらお納めください」\n\nガヤを受けて言ったは良いもののまだちょっと振り切れてない感がw\n\n #青木陽菜ブルトリ11 https://t.co/4jqeY5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1855595836597850112"
+          ]
+        },
+        "author_id": "220522297",
+        "conversation_id": "1855595915899555959",
+        "created_at": "2024-11-10T12:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T13:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855595915899555959"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "ひなちゃん",
+              "probability": 0.4756,
+              "start": 38,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 96,
+              "tag": "青木陽菜ブルトリ11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jqeY5F2ZM",
+              "end": 131,
+              "expanded_url": "https://x.com/roid_s/status/1855595915899555959/video/1",
+              "media_key": "13_1855595836597850112",
+              "start": 108,
+              "url": "https://t.co/4jqeY5F2ZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855595915899555959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 14535,
+          "like_count": 433,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "撮影タイム開始の告知\n\n🐣「ここから撮影OKパートなので…かわいいかわいいひなちゃんをお納めしたかったらお納めください」\n\nガヤを受けて言ったは良いもののまだちょっと振り切れてない感がw\n\n #青木陽菜ブルトリ11 https://t.co/4jqeY5F2ZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 3587,
+          "listed_count": 0,
+          "tweet_count": 742
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-28T01:27:20.000Z",
+        "description": "8スタアニメ大好きマン",
+        "id": "220522297",
+        "location": "秋葉原と神田と神保町のはざま",
+        "name": "ロイド",
+        "pinned_tweet_id": "1595991024824127488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874476313834278912/hpOox7fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1508,
+          "like_count": 8240,
+          "listed_count": 77,
+          "tweet_count": 225465
+        },
+        "username": "roid_s",
+        "verified": true
+      }
+    ]
+  }
+}

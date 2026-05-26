@@ -1,0 +1,524 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1814284998671036416"
+      ],
+      "media_source_tweet_id": [
+        "1814285004073312364"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      }
+    ],
+    "conversation_id": "1814757611029606883",
+    "created_at": "2024-07-20T20:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T21:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814757611029606883"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353543505432301569",
+          "start": 3,
+          "username": "ttisrn_0710"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Ev5SqXZU2f",
+          "end": 128,
+          "expanded_url": "https://twitter.com/ttisrn_0710/status/1814285004073312364/photo/1",
+          "media_key": "3_1814284998671036416",
+          "start": 105,
+          "url": "https://t.co/Ev5SqXZU2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814757611029606883",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 462
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814285004073312364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttisrn_0710: MyGO!!!!!6thライブゲネしてきたーーーー！！！\n\nいっぱいギター弾いてへとへとだよん\n楽しみ〜〜〜〜〜〜〜〜〜〜〜〜！！\nみんな会場で会おうなーーーー\n\n#MyGO https://t.co/Ev5SqXZU2f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1814284998671036416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GS2imAMbcAAZvsB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814284998671036416"
+          ],
+          "media_source_tweet_id": [
+            "1814285004073312364"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "1814757611029606883",
+        "created_at": "2024-07-20T20:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T21:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814757611029606883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353543505432301569",
+              "start": 3,
+              "username": "ttisrn_0710"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ev5SqXZU2f",
+              "end": 128,
+              "expanded_url": "https://twitter.com/ttisrn_0710/status/1814285004073312364/photo/1",
+              "media_key": "3_1814284998671036416",
+              "start": 105,
+              "url": "https://t.co/Ev5SqXZU2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814757611029606883",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 462
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814285004073312364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttisrn_0710: MyGO!!!!!6thライブゲネしてきたーーーー！！！\n\nいっぱいギター弾いてへとへとだよん\n楽しみ〜〜〜〜〜〜〜〜〜〜〜〜！！\nみんな会場で会おうなーーーー\n\n#MyGO https://t.co/Ev5SqXZU2f"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1814284998671036416"
+          ]
+        },
+        "author_id": "1353543505432301569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "1814285004073312364",
+        "created_at": "2024-07-19T13:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T14:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814285004073312364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ev5SqXZU2f",
+              "end": 111,
+              "expanded_url": "https://twitter.com/ttisrn_0710/status/1814285004073312364/photo/1",
+              "media_key": "3_1814284998671036416",
+              "start": 88,
+              "url": "https://t.co/Ev5SqXZU2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814285004073312364",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 48497,
+          "like_count": 3618,
+          "quote_count": 5,
+          "reply_count": 81,
+          "retweet_count": 462
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!!6thライブゲネしてきたーーーー！！！\n\nいっぱいギター弾いてへとへとだよん\n楽しみ〜〜〜〜〜〜〜〜〜〜〜〜！！\nみんな会場で会おうなーーーー\n\n#MyGO https://t.co/Ev5SqXZU2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 2727,
+          "listed_count": 0,
+          "tweet_count": 467
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:24:31.000Z",
+        "description": "響 新人声優  https://t.co/XTzqpKHxDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rin_.t710",
+                "end": 31,
+                "expanded_url": "https://www.instagram.com/rin_.t710",
+                "start": 8,
+                "url": "https://t.co/XTzqpKHxDR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freecalend.com/open/mem231613…",
+                "end": 23,
+                "expanded_url": "https://freecalend.com/open/mem231613_date202407_modefull",
+                "start": 0,
+                "url": "https://t.co/kdP8UCdeZg"
+              }
+            ]
+          }
+        },
+        "id": "1353543505432301569",
+        "location": "#ぺこりんちゅ",
+        "name": "立石凛",
+        "pinned_tweet_id": "1772204455720817078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749408673724825600/SiKCGmUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49285,
+          "following_count": 121,
+          "like_count": 19,
+          "listed_count": 546,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/kdP8UCdeZg",
+        "username": "ttisrn_0710",
+        "verified": false
+      }
+    ]
+  }
+}

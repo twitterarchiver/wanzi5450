@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045865992375709732",
+    "created_at": "2026-04-19T14:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045867550022758889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045867550022758889",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045865992375709732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 哎…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045865982657437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRgRZJaIAA4BNL.jpg",
+        "width": 536
+      },
+      {
+        "height": 676,
+        "media_key": "3_2045865982699388928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRgRZTaQAAWeaE.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045865992375709732",
+        "created_at": "2026-04-19T14:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045867550022758889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045867550022758889",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045865992375709732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 哎…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045865982657437696",
+            "3_2045865982699388928"
+          ]
+        },
+        "author_id": "1886385501130866688",
+        "conversation_id": "2045865992375709732",
+        "created_at": "2026-04-19T14:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045865992375709732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQ7tJnTUFQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Lomyral/status/2045865992375709732/photo/1",
+              "media_key": "3_2045865982657437696",
+              "start": 0,
+              "url": "https://t.co/yQ7tJnTUFQ"
+            },
+            {
+              "display_url": "pic.x.com/yQ7tJnTUFQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Lomyral/status/2045865992375709732/photo/1",
+              "media_key": "3_2045865982699388928",
+              "start": 0,
+              "url": "https://t.co/yQ7tJnTUFQ"
+            },
+            {
+              "display_url": "x.com/Memeypab/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Memeypab/status/2045814109195940118",
+              "start": 24,
+              "url": "https://t.co/tWwVYjYIOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045865992375709732",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045814109195940118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/yQ7tJnTUFQ https://t.co/tWwVYjYIOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 270,
+          "like_count": 12301,
+          "listed_count": 0,
+          "media_count": 470,
+          "tweet_count": 3319
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 591,
+          "like_count": 44759,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 5824
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

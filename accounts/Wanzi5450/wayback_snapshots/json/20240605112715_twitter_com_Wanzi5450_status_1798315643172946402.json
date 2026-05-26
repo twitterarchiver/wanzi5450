@@ -1,0 +1,378 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797988630570680320"
+      ],
+      "media_source_tweet_id": [
+        "1797988635561926771"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1798315643172946402",
+    "created_at": "2024-06-05T11:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T12:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798315643172946402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511544866077294592",
+          "start": 3,
+          "username": "same_427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Llu3ijymRG",
+          "end": 43,
+          "expanded_url": "https://twitter.com/same_427/status/1797988635561926771/photo/1",
+          "media_key": "3_1797988630570680320",
+          "start": 20,
+          "url": "https://t.co/Llu3ijymRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798315643172946402",
+    "lang": "de",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797988635561926771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @same_427: rkgk🐈 https://t.co/Llu3ijymRG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_1797988630570680320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPO9IiNbQAAzYzA.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797988630570680320"
+          ],
+          "media_source_tweet_id": [
+            "1797988635561926771"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1798315643172946402",
+        "created_at": "2024-06-05T11:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T12:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798315643172946402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511544866077294592",
+              "start": 3,
+              "username": "same_427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Llu3ijymRG",
+              "end": 43,
+              "expanded_url": "https://twitter.com/same_427/status/1797988635561926771/photo/1",
+              "media_key": "3_1797988630570680320",
+              "start": 20,
+              "url": "https://t.co/Llu3ijymRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798315643172946402",
+        "lang": "de",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797988635561926771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @same_427: rkgk🐈 https://t.co/Llu3ijymRG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797988630570680320"
+          ]
+        },
+        "author_id": "1511544866077294592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1797988635561926771",
+        "created_at": "2024-06-04T13:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T14:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797988635561926771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Llu3ijymRG",
+              "end": 29,
+              "expanded_url": "https://twitter.com/same_427/status/1797988635561926771/photo/1",
+              "media_key": "3_1797988630570680320",
+              "start": 6,
+              "url": "https://t.co/Llu3ijymRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797988635561926771",
+        "lang": "de",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 21844,
+          "like_count": 1460,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk🐈 https://t.co/Llu3ijymRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2195,
+          "listed_count": 0,
+          "tweet_count": 373
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T03:23:20.000Z",
+        "description": "あいみさんを応援しています🌾 /本垢→@same_d4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "same_d4"
+              }
+            ]
+          }
+        },
+        "id": "1511544866077294592",
+        "location": "🦈（さめ）と読みます。",
+        "name": "🦈🌾",
+        "pinned_tweet_id": "1702905167862268021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774710018019131392/RS7a91qW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7768,
+          "following_count": 8,
+          "like_count": 3173,
+          "listed_count": 47,
+          "tweet_count": 14435
+        },
+        "username": "same_427",
+        "verified": false
+      }
+    ]
+  }
+}

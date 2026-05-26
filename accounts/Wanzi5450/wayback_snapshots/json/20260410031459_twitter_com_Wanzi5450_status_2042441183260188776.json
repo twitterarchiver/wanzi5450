@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042422701508477035",
+    "created_at": "2026-04-10T03:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042441183260188776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "phil0v0_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042441183260188776",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042440440310632483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil0v0_bot 应该不用，可能只是会限购？一般来说不是本地人就不查你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042422701508477035",
+        "created_at": "2026-04-10T03:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042441183260188776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "phil0v0_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042441183260188776",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042440440310632483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil0v0_bot 应该不用，可能只是会限购？一般来说不是本地人就不查你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675081139684294656",
+        "conversation_id": "2042422701508477035",
+        "created_at": "2026-04-10T03:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042440440310632483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042440440310632483",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042423622971895971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 这种需要处方嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 264,
+          "like_count": 11538,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 3057
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "私たちの約束(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "Philosssss",
+        "pinned_tweet_id": "1995078214373589132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012796514825822209/-XNUyeLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 362,
+          "like_count": 4633,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1625
+        },
+        "username": "phil0v0_bot",
+        "verified": false
+      }
+    ]
+  }
+}

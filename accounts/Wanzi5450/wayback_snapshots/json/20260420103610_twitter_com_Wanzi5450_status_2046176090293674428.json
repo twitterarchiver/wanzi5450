@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046143139233357824"
+      ],
+      "media_source_tweet_id": [
+        "2046143871768563947"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046176090293674428",
+    "created_at": "2026-04-20T10:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046176090293674428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1310404705424519168",
+          "start": 3,
+          "username": "miolly_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LlYGQEsdVc",
+          "end": 72,
+          "expanded_url": "https://x.com/miolly_0/status/2046143871768563947/video/1",
+          "media_key": "13_2046143139233357824",
+          "start": 49,
+          "url": "https://t.co/LlYGQEsdVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046176090293674428",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046143871768563947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miolly_0: 君が見えなくなるまでは\n泣かない強い子で居たかったよ\n\n痛かったよ。 https://t.co/LlYGQEsdVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53333,
+        "height": 1080,
+        "media_key": "13_2046143139233357824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046143139233357824/img/h8v8wTdbiPD3gchy.jpg",
+        "public_metrics": {
+          "view_count": 73
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046143139233357824/pl/dQItuMTwKsXdBAAy.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046143139233357824/vid/avc1/480x270/AjLOZ5QErgL3dBCs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046143139233357824/vid/avc1/1280x720/6WAX_Hmae4Xtz6bq.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046143139233357824/vid/avc1/1920x1080/C_QI0_vVW6GGwAoa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046143139233357824/vid/avc1/640x360/H9ZRT1H0voz60IAb.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046143139233357824"
+          ],
+          "media_source_tweet_id": [
+            "2046143871768563947"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046176090293674428",
+        "created_at": "2026-04-20T10:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046176090293674428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1310404705424519168",
+              "start": 3,
+              "username": "miolly_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlYGQEsdVc",
+              "end": 72,
+              "expanded_url": "https://x.com/miolly_0/status/2046143871768563947/video/1",
+              "media_key": "13_2046143139233357824",
+              "start": 49,
+              "url": "https://t.co/LlYGQEsdVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046176090293674428",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046143871768563947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miolly_0: 君が見えなくなるまでは\n泣かない強い子で居たかったよ\n\n痛かったよ。 https://t.co/LlYGQEsdVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046143139233357824"
+          ]
+        },
+        "author_id": "1310404705424519168",
+        "conversation_id": "2046143871768563947",
+        "created_at": "2026-04-20T08:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046143871768563947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlYGQEsdVc",
+              "end": 58,
+              "expanded_url": "https://x.com/miolly_0/status/2046143871768563947/video/1",
+              "media_key": "13_2046143139233357824",
+              "start": 35,
+              "url": "https://t.co/LlYGQEsdVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046143871768563947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2146,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "君が見えなくなるまでは\n泣かない強い子で居たかったよ\n\n痛かったよ。 https://t.co/LlYGQEsdVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 274,
+          "like_count": 12373,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 3338
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-28T02:23:42.000Z",
+        "description": "新曲→https://t.co/S453q4Y8Jb | Composer yoss（@yoss_add） Vo.Hina(@Hina__vocal) Ba.namo(@namonamo_bass) Dr.Mogunami(@mogu_nami | MV↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "yoss_add"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Hina__vocal"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "namonamo_bass"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "mogu_nami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linkco.re/GuuErGD9",
+                "end": 26,
+                "expanded_url": "https://linkco.re/GuuErGD9",
+                "start": 3,
+                "url": "https://t.co/S453q4Y8Jb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/playlist?list=PLIAPiLtoQlFRnFpJc6y6yX2Cn3J9p62BZ&si=M2iFLRgAiyzgV0H_",
+                "start": 0,
+                "url": "https://t.co/JdPGlsjklY"
+              }
+            ]
+          }
+        },
+        "id": "1310404705424519168",
+        "location": "#mioアート　🫧",
+        "name": "miolly",
+        "pinned_tweet_id": "2038939912700056010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977353455300984832/W6vsBkbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 29,
+          "like_count": 4273,
+          "listed_count": 17,
+          "media_count": 463,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/JdPGlsjklY",
+        "username": "miolly_0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046537258870939841",
+    "created_at": "2026-04-22T05:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046824656536322439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1394515305569783809",
+          "start": 0,
+          "username": "sally08606587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046824656536322439",
+    "in_reply_to_user_id": "1394515305569783809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046817136396607975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sally08606587 你也是呀宝宝，我们都很厉害了🥹🥹💞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046537258870939841",
+        "created_at": "2026-04-22T05:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046824656536322439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1394515305569783809",
+              "start": 0,
+              "username": "sally08606587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046824656536322439",
+        "in_reply_to_user_id": "1394515305569783809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046817136396607975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sally08606587 你也是呀宝宝，我们都很厉害了🥹🥹💞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394515305569783809",
+        "conversation_id": "2046537258870939841",
+        "created_at": "2026-04-22T05:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046817136396607975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046817136396607975",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046537258870939841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 抱抱，宝宝真的已经很棒了，你已经在用自己的方式撑着了，这就已经很了不起啦，不用逼自己快点好起来，慢慢来就好捏☺️🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 274,
+          "like_count": 12619,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 3401
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T04:49:08.000Z",
+        "description": "我喜欢你",
+        "id": "1394515305569783809",
+        "location": "福州十六中",
+        "name": "海绵宝宝铸币儿",
+        "pinned_tweet_id": "2044981057431470480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032316370181136384/I9ETTqjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 434,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 240
+        },
+        "username": "sally08606587",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      }
+    ],
+    "conversation_id": "1819374023018680763",
+    "created_at": "2024-08-02T14:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T15:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819374023018680763"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "BanG Dream! It's MyGO!!!!!",
+          "probability": 0.5803,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "LINE",
+          "probability": 0.8295,
+          "start": 52,
+          "type": "Product"
+        },
+        {
+          "end": 93,
+          "normalized_text": "LINE",
+          "probability": 0.8628,
+          "start": 90,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 79,
+          "start": 71,
+          "tag": "劇場版MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3009772568",
+          "start": 3,
+          "username": "bang_dream_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819374023018680763",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1896
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819000713910841647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_info: ／\n「BanG Dream! It's MyGO!!!!!」\nLINE公式スタンプ発売決定🎊\n＼\n\n#劇場版MyGO の公開を記念し、\nLINE公式スタンプの発売が決定いたしました🌟\n\n「BanG Dream! It's MyGO!!!…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1819374023018680763",
+        "created_at": "2024-08-02T14:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T15:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819374023018680763"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.5803,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "LINE",
+              "probability": 0.8295,
+              "start": 52,
+              "type": "Product"
+            },
+            {
+              "end": 93,
+              "normalized_text": "LINE",
+              "probability": 0.8628,
+              "start": 90,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "劇場版MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3009772568",
+              "start": 3,
+              "username": "bang_dream_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819374023018680763",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1896
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819000713910841647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_info: ／\n「BanG Dream! It's MyGO!!!!!」\nLINE公式スタンプ発売決定🎊\n＼\n\n#劇場版MyGO の公開を記念し、\nLINE公式スタンプの発売が決定いたしました🌟\n\n「BanG Dream! It's MyGO!!!…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818924289342816257"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "1819000713910841647",
+        "created_at": "2024-08-01T13:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T14:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819000713910841647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.6159,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "LINE",
+              "probability": 0.8102,
+              "start": 31,
+              "type": "Product"
+            },
+            {
+              "end": 72,
+              "normalized_text": "LINE",
+              "probability": 0.8526,
+              "start": 69,
+              "type": "Product"
+            },
+            {
+              "end": 121,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.8766,
+              "start": 96,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "劇場版MyGO"
+            },
+            {
+              "end": 179,
+              "start": 174,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 185,
+              "start": 180,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KCee2QW6is",
+              "end": 209,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1819000713910841647/photo/1",
+              "media_key": "3_1818924289342816257",
+              "start": 186,
+              "url": "https://t.co/KCee2QW6is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819000713910841647",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 343612,
+          "like_count": 5204,
+          "quote_count": 508,
+          "reply_count": 30,
+          "retweet_count": 1896
+        },
+        "reply_settings": "everyone",
+        "text": "／\n「BanG Dream! It's MyGO!!!!!」\nLINE公式スタンプ発売決定🎊\n＼\n\n#劇場版MyGO の公開を記念し、\nLINE公式スタンプの発売が決定いたしました🌟\n\n「BanG Dream! It's MyGO!!!!!」の名シーンをアレンジした\n合計16種類のスタンプが登場します❣️\n\n8/9(金)の発売をお楽しみに📱💬\n\n#バンドリ #MyGO https://t.co/KCee2QW6is"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2893,
+          "listed_count": 0,
+          "tweet_count": 524
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式ツイッターです。 #バンドリ ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "1817145025530384394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734107029797748736/U2CgSHvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719185,
+          "following_count": 133,
+          "like_count": 314,
+          "listed_count": 4616,
+          "tweet_count": 27430
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

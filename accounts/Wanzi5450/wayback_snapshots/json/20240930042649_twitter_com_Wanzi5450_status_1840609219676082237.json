@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840433070589280257"
+      ],
+      "media_source_tweet_id": [
+        "1840433077136556386"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1840609219676082237",
+    "created_at": "2024-09-30T04:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T05:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840609219676082237"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "MyGo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545223417699631105",
+          "start": 3,
+          "username": "ssami0617"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qyvpwrtna1",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ssami0617/status/1840433077136556386/photo/1",
+          "media_key": "3_1840433070589280257",
+          "start": 34,
+          "url": "https://t.co/QyvPwrTNA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840609219676082237",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840433077136556386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ssami0617: #バンドリ #MyGo\n\nらなとも🤘 https://t.co/QyvPwrTNA1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_1840433070589280257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYqIIG1bAAE34VK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840433070589280257"
+          ],
+          "media_source_tweet_id": [
+            "1840433077136556386"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1840609219676082237",
+        "created_at": "2024-09-30T04:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T05:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840609219676082237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "MyGo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545223417699631105",
+              "start": 3,
+              "username": "ssami0617"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyvpwrtna1",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ssami0617/status/1840433077136556386/photo/1",
+              "media_key": "3_1840433070589280257",
+              "start": 34,
+              "url": "https://t.co/QyvPwrTNA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840609219676082237",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840433077136556386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ssami0617: #バンドリ #MyGo\n\nらなとも🤘 https://t.co/QyvPwrTNA1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840433070589280257"
+          ]
+        },
+        "author_id": "1545223417699631105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1840433077136556386",
+        "created_at": "2024-09-29T16:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T17:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840433077136556386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "MyGo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyvpwrtna1",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ssami0617/status/1840433077136556386/photo/1",
+              "media_key": "3_1840433070589280257",
+              "start": 19,
+              "url": "https://t.co/QyvPwrTNA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840433077136556386",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 17606,
+          "like_count": 1001,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "#バンドリ #MyGo\n\nらなとも🤘 https://t.co/QyvPwrTNA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 3326,
+          "listed_count": 0,
+          "tweet_count": 672
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T01:49:21.000Z",
+        "description": "취미로 그림을 그립니다 https://t.co/wJUwzqL9j0 Profile Picture @_koide_666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "_koide_666"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70370387",
+                "end": 36,
+                "expanded_url": "https://www.pixiv.net/users/70370387",
+                "start": 13,
+                "url": "https://t.co/wJUwzqL9j0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ssami0617?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ssami0617?si=yk94BV-Amvshhp46",
+                "start": 0,
+                "url": "https://t.co/dHZ6xKu8Ll"
+              }
+            ]
+          }
+        },
+        "id": "1545223417699631105",
+        "name": "싸미",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799335000393068544/0DcFoh6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 53,
+          "like_count": 1096,
+          "listed_count": 1,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/dHZ6xKu8Ll",
+        "username": "ssami0617",
+        "verified": false
+      }
+    ]
+  }
+}

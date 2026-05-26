@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042507960560292310",
+    "created_at": "2026-04-10T08:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042515108358951388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042515108358951388",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042507960560292310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2042507955497766913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhyKfJakAE7t4P.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042507960560292310",
+        "created_at": "2026-04-10T08:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042515108358951388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042515108358951388",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042507960560292310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042507955497766913"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2042507960560292310",
+        "created_at": "2026-04-10T07:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042507960560292310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpQwemPztd",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2042507960560292310/photo/1",
+              "media_key": "3_2042507955497766913",
+              "start": 5,
+              "url": "https://t.co/FpQwemPztd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042507960560292310",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/FpQwemPztd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 264,
+          "like_count": 11602,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 3092
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 262,
+          "like_count": 7912,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 3034
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

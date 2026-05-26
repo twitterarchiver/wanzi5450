@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045132452746969206",
+    "created_at": "2026-04-18T08:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045419106095243596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045419106095243596",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045415954268737664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz A Japan singer called ユイカ(yuika)\nYeah I have been solotrip for once,really nice and relaxed.☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045132452746969206",
+        "created_at": "2026-04-18T08:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045419106095243596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045419106095243596",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045415954268737664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz A Japan singer called ユイカ(yuika)\nYeah I have been solotrip for once,really nice and relaxed.☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594653039109230598",
+        "conversation_id": "2045132452746969206",
+        "created_at": "2026-04-18T08:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045415954268737664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045415954268737664",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045132452746969206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 I get what you mean, but I still think it’s better than traveling alone. Solo trips can be pretty troublesome too, at least for me 😅\nBy the way, you mentioned a live ticket, were you planning to go to a concert? What concert was it, if you don’t mind me asking?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 269,
+          "like_count": 12197,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 3298
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "peace of mind above everything",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/regaforz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/regaforz",
+                "start": 0,
+                "url": "https://t.co/Wsj86GGAPr"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "location": "Guitarist🎸",
+        "name": "Rega",
+        "pinned_tweet_id": "2033296173885452718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044276014910713858/DluMY_6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1494,
+          "like_count": 9211,
+          "listed_count": 5,
+          "media_count": 364,
+          "tweet_count": 2872
+        },
+        "url": "https://t.co/Wsj86GGAPr",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042477360906395686",
+    "created_at": "2026-04-10T05:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042479979343331674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042479979343331674",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042477360906395686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 🥺🥺下次浅一点吧ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042477345064583168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhWUuZbgAAOiCf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042477360906395686",
+        "created_at": "2026-04-10T05:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042479979343331674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042479979343331674",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042477360906395686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 🥺🥺下次浅一点吧ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042477345064583168"
+          ]
+        },
+        "author_id": "2013875219392585728",
+        "conversation_id": "2042477360906395686",
+        "created_at": "2026-04-10T05:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042477360906395686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYpyIOQUjc",
+              "end": 25,
+              "expanded_url": "https://x.com/e57jcetmSs91516/status/2042477360906395686/photo/1",
+              "media_key": "3_2042477345064583168",
+              "start": 2,
+              "url": "https://t.co/ZYpyIOQUjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042477360906395686",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙃 https://t.co/ZYpyIOQUjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 264,
+          "like_count": 11573,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 3079
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "姐姐@maitakoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "maitakoo"
+              }
+            ]
+          }
+        },
+        "id": "2013875219392585728",
+        "location": "🚪52/88/288/520上不封顶（过门不退",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 284,
+          "like_count": 11388,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 4824
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

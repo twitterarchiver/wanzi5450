@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959161891005374465"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1959161933137158537",
+    "created_at": "2025-08-23T07:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T08:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959161933137158537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HBAxQM4fbA",
+          "end": 28,
+          "expanded_url": "https://x.com/Wanzi5450/status/1959161933137158537/photo/1",
+          "media_key": "3_1959161891005374465",
+          "start": 5,
+          "url": "https://t.co/HBAxQM4fbA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959161933137158537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最爱的😈 https://t.co/HBAxQM4fbA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959161891005374465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBXXBrboAETzHa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959161891005374465"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1959161933137158537",
+        "created_at": "2025-08-23T07:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T08:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959161933137158537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HBAxQM4fbA",
+              "end": 28,
+              "expanded_url": "https://x.com/Wanzi5450/status/1959161933137158537/photo/1",
+              "media_key": "3_1959161891005374465",
+              "start": 5,
+              "url": "https://t.co/HBAxQM4fbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959161933137158537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最爱的😈 https://t.co/HBAxQM4fbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 88,
+          "like_count": 5215,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1110
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056979290223448143",
+    "created_at": "2026-05-20T12:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057078837759148200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057078837759148200",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057078719722717265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ 剧烈美味，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T12:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057078837759148200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057078837759148200",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057078719722717265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ 剧烈美味，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T12:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057078719722717265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057078719722717265",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056979290223448143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 剧烈饥饿🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 298,
+          "like_count": 16156,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3874
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 344,
+          "like_count": 42674,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "_vvni_",
+        "verified": false
+      }
+    ]
+  }
+}

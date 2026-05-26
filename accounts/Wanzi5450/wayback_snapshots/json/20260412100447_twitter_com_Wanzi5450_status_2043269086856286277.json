@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993183763984232449"
+      ],
+      "media_source_tweet_id": [
+        "1993183773257875722"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2043269086856286277",
+    "created_at": "2026-04-12T10:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043269086856286277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860857853738901504",
+          "start": 3,
+          "username": "KUDO_404NF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQkn362WgN",
+          "end": 44,
+          "expanded_url": "https://x.com/KUDO_404NF/status/1993183773257875722/photo/1",
+          "media_key": "3_1993183763984232449",
+          "start": 21,
+          "url": "https://t.co/OQkn362WgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043269086856286277",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993183773257875722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KUDO_404NF: 제발동거 https://t.co/OQkn362WgN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_1993183763984232449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6k2ErBbMAEngrS.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993183763984232449"
+          ],
+          "media_source_tweet_id": [
+            "1993183773257875722"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2043269086856286277",
+        "created_at": "2026-04-12T10:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043269086856286277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860857853738901504",
+              "start": 3,
+              "username": "KUDO_404NF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQkn362WgN",
+              "end": 44,
+              "expanded_url": "https://x.com/KUDO_404NF/status/1993183773257875722/photo/1",
+              "media_key": "3_1993183763984232449",
+              "start": 21,
+              "url": "https://t.co/OQkn362WgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043269086856286277",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993183773257875722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KUDO_404NF: 제발동거 https://t.co/OQkn362WgN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993183763984232449"
+          ]
+        },
+        "author_id": "1860857853738901504",
+        "conversation_id": "1993183773257875722",
+        "created_at": "2025-11-25T05:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993183773257875722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQkn362WgN",
+              "end": 28,
+              "expanded_url": "https://x.com/KUDO_404NF/status/1993183773257875722/photo/1",
+              "media_key": "3_1993183763984232449",
+              "start": 5,
+              "url": "https://t.co/OQkn362WgN"
+            },
+            {
+              "display_url": "x.com/KUDO_404NF/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/KUDO_404NF/status/1990609663583531149",
+              "start": 29,
+              "url": "https://t.co/u8w7pvcX0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993183773257875722",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 28445,
+          "like_count": 1098,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990609663583531149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "제발동거 https://t.co/OQkn362WgN https://t.co/u8w7pvcX0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 264,
+          "like_count": 11716,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 3149
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T01:27:51.000Z",
+        "description": "AI❌️ / 🇰🇷 / 日本語 OK, English OK / 프사 부개님 헤더 감자차님 커미션 / 비팔 알림X / 푸슝으로 리퀘나 잡담 다 괜찮아요~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/KUDO_404NF",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/KUDO_404NF",
+                "start": 0,
+                "url": "https://t.co/26mQgROVYX"
+              }
+            ]
+          }
+        },
+        "id": "1860857853738901504",
+        "location": "🪨🐈",
+        "name": "KK🎗🌺",
+        "pinned_tweet_id": "2043189646843347141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039353123387625472/I4Rdq4xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 157,
+          "like_count": 20826,
+          "listed_count": 4,
+          "media_count": 528,
+          "tweet_count": 41812
+        },
+        "url": "https://t.co/26mQgROVYX",
+        "username": "KUDO_404NF",
+        "verified": false
+      }
+    ]
+  }
+}

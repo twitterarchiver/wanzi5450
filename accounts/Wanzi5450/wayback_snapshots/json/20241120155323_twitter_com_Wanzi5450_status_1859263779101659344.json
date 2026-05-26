@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858578413709389824"
+      ],
+      "media_source_tweet_id": [
+        "1858578422659940543"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1859263779101659344",
+    "created_at": "2024-11-20T15:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T16:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859263779101659344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943015546",
+          "start": 3,
+          "username": "m104yj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YC6zjwecLF",
+          "end": 35,
+          "expanded_url": "https://x.com/m104yj/status/1858578422659940543/photo/1",
+          "media_key": "3_1858578413709389824",
+          "start": 12,
+          "url": "https://t.co/YC6zjwecLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859263779101659344",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858578422659940543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m104yj: https://t.co/YC6zjwecLF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1858578413709389824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcr_OFhbcAAjAcg.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858578413709389824"
+          ],
+          "media_source_tweet_id": [
+            "1858578422659940543"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1859263779101659344",
+        "created_at": "2024-11-20T15:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T16:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859263779101659344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943015546",
+              "start": 3,
+              "username": "m104yj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YC6zjwecLF",
+              "end": 35,
+              "expanded_url": "https://x.com/m104yj/status/1858578422659940543/photo/1",
+              "media_key": "3_1858578413709389824",
+              "start": 12,
+              "url": "https://t.co/YC6zjwecLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859263779101659344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858578422659940543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m104yj: https://t.co/YC6zjwecLF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858578413709389824"
+          ]
+        },
+        "author_id": "1943015546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1858578422659940543",
+        "created_at": "2024-11-18T18:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T19:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858578422659940543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YC6zjwecLF",
+              "end": 23,
+              "expanded_url": "https://x.com/m104yj/status/1858578422659940543/photo/1",
+              "media_key": "3_1858578413709389824",
+              "start": 0,
+              "url": "https://t.co/YC6zjwecLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858578422659940543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 15731,
+          "like_count": 896,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YC6zjwecLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 62,
+          "like_count": 3662,
+          "listed_count": 0,
+          "tweet_count": 744
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-07T05:08:49.000Z",
+        "description": "🦭｜やち｜黄色系絵描き🌼｜音楽🎧｜【のぼりと珈琲】｜DMにてご依頼受付中◎｜Skeb https://t.co/lBdtwf8lqJ ｜ ｜🎨次回参加：12/29 C105【東 m19a】｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@m104yj",
+                "end": 66,
+                "expanded_url": "https://skeb.jp/@m104yj",
+                "start": 43,
+                "url": "https://t.co/lBdtwf8lqJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ayachy",
+                "end": 23,
+                "expanded_url": "https://lit.link/ayachy",
+                "start": 0,
+                "url": "https://t.co/kSsZaVH5jQ"
+              }
+            ]
+          }
+        },
+        "id": "1943015546",
+        "location": "icon:ひろにぃ。さん｜無断転載・AI学習禁止 ",
+        "name": "yachi　🦭",
+        "pinned_tweet_id": "1858458187353018647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785378003104788480/lCjojaWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 137,
+          "like_count": 2509,
+          "listed_count": 10,
+          "tweet_count": 6659
+        },
+        "url": "https://t.co/kSsZaVH5jQ",
+        "username": "m104yj",
+        "verified": false
+      }
+    ]
+  }
+}

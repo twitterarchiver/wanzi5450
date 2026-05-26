@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1818658419827765248"
+      ],
+      "media_source_tweet_id": [
+        "1818922112549048342"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1819373920396722653",
+    "created_at": "2024-08-02T14:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T15:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819373920396722653"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 21,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1565670988398075905",
+          "start": 3,
+          "username": "gM4zFiJCWbz3G4y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/YtZOIwiw4p",
+          "end": 64,
+          "expanded_url": "https://twitter.com/gM4zFiJCWbz3G4y/status/1818922112549048342/photo/1",
+          "media_key": "3_1818658419827765248",
+          "start": 41,
+          "url": "https://t.co/YtZOIwiw4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819373920396722653",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818922112549048342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gM4zFiJCWbz3G4y: #bandoriart \nメイドらーな https://t.co/YtZOIwiw4p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1818658419827765248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GT0sMnmbcAAwt7n.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818658419827765248"
+          ],
+          "media_source_tweet_id": [
+            "1818922112549048342"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1819373920396722653",
+        "created_at": "2024-08-02T14:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T15:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819373920396722653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1565670988398075905",
+              "start": 3,
+              "username": "gM4zFiJCWbz3G4y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YtZOIwiw4p",
+              "end": 64,
+              "expanded_url": "https://twitter.com/gM4zFiJCWbz3G4y/status/1818922112549048342/photo/1",
+              "media_key": "3_1818658419827765248",
+              "start": 41,
+              "url": "https://t.co/YtZOIwiw4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819373920396722653",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818922112549048342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gM4zFiJCWbz3G4y: #bandoriart \nメイドらーな https://t.co/YtZOIwiw4p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818658419827765248"
+          ]
+        },
+        "author_id": "1565670988398075905",
+        "conversation_id": "1818922112549048342",
+        "created_at": "2024-08-01T08:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T09:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818922112549048342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YtZOIwiw4p",
+              "end": 43,
+              "expanded_url": "https://twitter.com/gM4zFiJCWbz3G4y/status/1818922112549048342/photo/1",
+              "media_key": "3_1818658419827765248",
+              "start": 20,
+              "url": "https://t.co/YtZOIwiw4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818922112549048342",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 36948,
+          "like_count": 2120,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "#bandoriart \nメイドらーな https://t.co/YtZOIwiw4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2891,
+          "listed_count": 0,
+          "tweet_count": 523
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T12:01:06.000Z",
+        "description": "絵を描いています。宜しくお願いします！ 人が二次元を覗く時，二次元もまたこちらを覗いているのだ…。pixivにも投稿中！ マシュマロはこちら→https://t.co/EBJKIeJRRy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2lyskg8wz9ti44k",
+                "end": 94,
+                "expanded_url": "http://marshmallow-qa.com/2lyskg8wz9ti44k",
+                "start": 71,
+                "url": "https://t.co/EBJKIeJRRy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/79119901",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/79119901",
+                "start": 0,
+                "url": "https://t.co/VN0pRHL3Um"
+              }
+            ]
+          }
+        },
+        "id": "1565670988398075905",
+        "name": "サンドマン",
+        "pinned_tweet_id": "1806330670882697651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817761637325299712/VGwojfcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 97,
+          "like_count": 2945,
+          "listed_count": 26,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/VN0pRHL3Um",
+        "username": "gM4zFiJCWbz3G4y",
+        "verified": false
+      }
+    ]
+  }
+}

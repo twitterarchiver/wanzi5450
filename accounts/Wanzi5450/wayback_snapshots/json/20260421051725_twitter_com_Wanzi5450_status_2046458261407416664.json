@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046457848511733981",
+    "created_at": "2026-04-21T05:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046458261407416664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046458261407416664",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046457848511733981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 我笑吐了啊啊啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046457848511733981].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046457848511733981",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046457848511733981"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046457848511733981",
+        "created_at": "2026-04-21T05:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046458261407416664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046458261407416664",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046457848511733981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 我笑吐了啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 275,
+          "like_count": 12491,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 3366
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【锁推是防止被推送出去】关注人=喜欢你的内容!/同类想互关喵\n成分：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜退役ODer｜■tFtMtFtMtX｜色胺重度依赖\n这边是混中推用的，画画大号 @StrawberryC208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044323229310038019/MSC4klcl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1168,
+          "like_count": 5196,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 3435
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

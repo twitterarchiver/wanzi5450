@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839896987275276294"
+      ],
+      "media_source_tweet_id": [
+        "1839896990345474086"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1840609565085188551",
+    "created_at": "2024-09-30T04:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T05:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840609565085188551"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "MyGO"
+        },
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355758729073840131",
+          "start": 3,
+          "username": "rafadtitan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tlawjxyc2d",
+          "end": 67,
+          "expanded_url": "https://twitter.com/rafadtitan/status/1839896990345474086/photo/1",
+          "media_key": "3_1839896987275276294",
+          "start": 44,
+          "url": "https://t.co/TLAWjXyC2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840609565085188551",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839896990345474086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rafadtitan: Taki × Tomori \n\n#MyGO #バンドリ https://t.co/TLAWjXyC2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_1839896987275276294",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYigj83asAY8ADj.jpg",
+        "width": 1273
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839896987275276294"
+          ],
+          "media_source_tweet_id": [
+            "1839896990345474086"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1840609565085188551",
+        "created_at": "2024-09-30T04:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T05:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840609565085188551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "MyGO"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355758729073840131",
+              "start": 3,
+              "username": "rafadtitan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlawjxyc2d",
+              "end": 67,
+              "expanded_url": "https://twitter.com/rafadtitan/status/1839896990345474086/photo/1",
+              "media_key": "3_1839896987275276294",
+              "start": 44,
+              "url": "https://t.co/TLAWjXyC2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840609565085188551",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839896990345474086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rafadtitan: Taki × Tomori \n\n#MyGO #バンドリ https://t.co/TLAWjXyC2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839896987275276294"
+          ]
+        },
+        "author_id": "1355758729073840131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1839896990345474086",
+        "created_at": "2024-09-28T05:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T06:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839896990345474086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "MyGO"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlawjxyc2d",
+              "end": 51,
+              "expanded_url": "https://twitter.com/rafadtitan/status/1839896990345474086/photo/1",
+              "media_key": "3_1839896987275276294",
+              "start": 28,
+              "url": "https://t.co/TLAWjXyC2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839896990345474086",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 9190,
+          "like_count": 492,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "Taki × Tomori \n\n#MyGO #バンドリ https://t.co/TLAWjXyC2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 3339,
+          "listed_count": 0,
+          "tweet_count": 676
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T06:04:19.000Z",
+        "description": "i love anime.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "myanimelist.net/profile/RafaBr…",
+                "end": 23,
+                "expanded_url": "https://myanimelist.net/profile/RafaBryan",
+                "start": 0,
+                "url": "https://t.co/idA6S48iFN"
+              }
+            ]
+          }
+        },
+        "id": "1355758729073840131",
+        "location": "18",
+        "name": "Rafa Bryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670354413087760384/99cjMB2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 60,
+          "like_count": 162,
+          "listed_count": 1,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/idA6S48iFN",
+        "username": "rafadtitan",
+        "verified": false
+      }
+    ]
+  }
+}

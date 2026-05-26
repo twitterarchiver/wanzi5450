@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042135313720733696"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042135462933119430",
+    "created_at": "2026-04-09T07:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042135462933119430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TzdNMwlnMt",
+          "end": 34,
+          "expanded_url": "https://x.com/Wanzi5450/status/2042135462933119430/video/1",
+          "media_key": "13_2042135313720733696",
+          "start": 11,
+          "url": "https://t.co/TzdNMwlnMt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042135462933119430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oooooo完全干音 https://t.co/TzdNMwlnMt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54373,
+        "height": 720,
+        "media_key": "13_2042135313720733696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042135313720733696/img/xYsekVMwlN48aNKx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042135313720733696/vid/avc1/480x270/troozastikuqDlXZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042135313720733696/vid/avc1/640x360/jtVyz0jBXjh-Ybiy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042135313720733696/vid/avc1/1280x720/D1puPTyN6UzM_n4q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042135313720733696/pl/Lulag0V00mbQP1wW.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042135313720733696"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042135462933119430",
+        "created_at": "2026-04-09T07:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042135462933119430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzdNMwlnMt",
+              "end": 34,
+              "expanded_url": "https://x.com/Wanzi5450/status/2042135462933119430/video/1",
+              "media_key": "13_2042135313720733696",
+              "start": 11,
+              "url": "https://t.co/TzdNMwlnMt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042135462933119430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oooooo完全干音 https://t.co/TzdNMwlnMt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 264,
+          "like_count": 11435,
+          "listed_count": 0,
+          "media_count": 441,
+          "tweet_count": 3024
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

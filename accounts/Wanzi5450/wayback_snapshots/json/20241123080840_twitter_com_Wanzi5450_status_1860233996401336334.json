@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1860233996401336334",
+    "created_at": "2024-11-23T08:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T09:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860233996401336334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "岡田夢以"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2880189872",
+          "start": 3,
+          "username": "okada_mei0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860233996401336334",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859529626864976474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okada_mei0519: #岡田夢以 1st DVDが発売して\n少し経ったので、SNSでも解禁します👑⁺｡\n\nなんと、今回のDVDにて\n〖実の姉〗が初登場しております……🎊🐇✨\n\n今回、デビュー記念ということで\n特別に出演してくれました…✨\n双子のように育ってきた大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1860233996401336334",
+        "created_at": "2024-11-23T08:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T09:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860233996401336334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "岡田夢以"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2880189872",
+              "start": 3,
+              "username": "okada_mei0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860233996401336334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859529626864976474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okada_mei0519: #岡田夢以 1st DVDが発売して\n少し経ったので、SNSでも解禁します👑⁺｡\n\nなんと、今回のDVDにて\n〖実の姉〗が初登場しております……🎊🐇✨\n\n今回、デビュー記念ということで\n特別に出演してくれました…✨\n双子のように育ってきた大…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859529618233106432",
+            "3_1859529618241486848"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1859529626864976474",
+        "created_at": "2024-11-21T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859529626864976474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "岡田夢以"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbNbg8wBSL",
+              "end": 179,
+              "expanded_url": "https://x.com/okada_mei0519/status/1859529626864976474/photo/1",
+              "media_key": "3_1859529618233106432",
+              "start": 156,
+              "url": "https://t.co/VbNbg8wBSL"
+            },
+            {
+              "display_url": "pic.x.com/VbNbg8wBSL",
+              "end": 179,
+              "expanded_url": "https://x.com/okada_mei0519/status/1859529626864976474/photo/1",
+              "media_key": "3_1859529618241486848",
+              "start": 156,
+              "url": "https://t.co/VbNbg8wBSL"
+            },
+            {
+              "display_url": "x.com/okada_mei0519/…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/okada_mei0519/status/1848294226322444427",
+              "start": 180,
+              "url": "https://t.co/SzBKYn7jmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859529626864976474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 64476,
+          "like_count": 1792,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848294226322444427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#岡田夢以 1st DVDが発売して\n少し経ったので、SNSでも解禁します👑⁺｡\n\nなんと、今回のDVDにて\n〖実の姉〗が初登場しております……🎊🐇✨\n\n今回、デビュー記念ということで\n特別に出演してくれました…✨\n双子のように育ってきた大切で大好きな人💎\n\nぜひ、DVDも楽しんでいただけたら嬉しいです🌼👭🏻 https://t.co/VbNbg8wBSL https://t.co/SzBKYn7jmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 3743,
+          "listed_count": 0,
+          "tweet_count": 769
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "A-Plus ⿻ エースクルー･エンタテインメント業務提携 声優 #D4DJ 水島茉莉花┊#バンドリ AveMujica Ba.🎸八幡海鈴┊#らぶフォー 最上羅巫┊#ROAD59 柊彩愛┊舞台 #モノノ怪 etc…┊Official Fan club ❥ https://t.co/XCUSC0TRUU 💎🐇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "ROAD59"
+              },
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "モノノ怪"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 151,
+                "expanded_url": "https://maysland.jp/",
+                "start": 128,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身🕊️",
+        "name": "岡田 夢以",
+        "pinned_tweet_id": "1848294226322444427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848344854885171200/sMebPHkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69165,
+          "following_count": 368,
+          "like_count": 64480,
+          "listed_count": 970,
+          "tweet_count": 13707
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

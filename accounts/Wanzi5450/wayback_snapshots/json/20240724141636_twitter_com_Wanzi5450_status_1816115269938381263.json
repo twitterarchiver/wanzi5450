@@ -1,0 +1,366 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1816115269938381263",
+    "created_at": "2024-07-24T14:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T15:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816115269938381263"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "見つけた景色、たずさえて",
+          "probability": 0.6746,
+          "start": 67,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/QvgGXf6HORg",
+          "end": 129,
+          "expanded_url": "https://youtu.be/QvgGXf6HORg",
+          "start": 106,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=QvgGXf6HORg&feature=youtu.be",
+          "url": "https://t.co/9OnfZEuyDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816115269938381263",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 422
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816036851469455574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: 【動画公開】\n\n7月27日(土)・28日(日)開催\nMyGO!!!!! 6th LIVE\n「見つけた景色、たずさえて」\n\nトレーラー映像を公開しました。\n\n映像はこちら\nhttps://t.co/9OnfZEuyDo\n\n#見つけた景色た…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1816115269938381263",
+        "created_at": "2024-07-24T14:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816115269938381263"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.6746,
+              "start": 67,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/QvgGXf6HORg",
+              "end": 129,
+              "expanded_url": "https://youtu.be/QvgGXf6HORg",
+              "start": 106,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=QvgGXf6HORg&feature=youtu.be",
+              "url": "https://t.co/9OnfZEuyDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816115269938381263",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 422
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816036851469455574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: 【動画公開】\n\n7月27日(土)・28日(日)開催\nMyGO!!!!! 6th LIVE\n「見つけた景色、たずさえて」\n\nトレーラー映像を公開しました。\n\n映像はこちら\nhttps://t.co/9OnfZEuyDo\n\n#見つけた景色た…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1816036851469455574",
+        "created_at": "2024-07-24T09:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T10:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816036851469455574"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.6939,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 110,
+              "tag": "見つけた景色たずさえて"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/QvgGXf6HORg",
+              "end": 108,
+              "expanded_url": "https://youtu.be/QvgGXf6HORg",
+              "start": 85,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=QvgGXf6HORg&feature=youtu.be",
+              "url": "https://t.co/9OnfZEuyDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816036851469455574",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 46517,
+          "like_count": 1260,
+          "quote_count": 17,
+          "reply_count": 17,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "【動画公開】\n\n7月27日(土)・28日(日)開催\nMyGO!!!!! 6th LIVE\n「見つけた景色、たずさえて」\n\nトレーラー映像を公開しました。\n\n映像はこちら\nhttps://t.co/9OnfZEuyDo\n\n#見つけた景色たずさえて\n#バンドリ #MyGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2756,
+          "listed_count": 0,
+          "tweet_count": 473
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。7月27日(土)・28日(日) MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」武蔵野の森総合スポーツプラザにて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104876,
+          "following_count": 40,
+          "like_count": 188,
+          "listed_count": 543,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

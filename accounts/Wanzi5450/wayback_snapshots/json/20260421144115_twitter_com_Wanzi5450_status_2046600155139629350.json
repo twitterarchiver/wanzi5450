@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046599008941117440"
+      ],
+      "media_source_tweet_id": [
+        "2046599013609410565"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046600155139629350",
+    "created_at": "2026-04-21T14:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046600155139629350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1262011427587411973",
+          "start": 3,
+          "username": "yuika_singuitar"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hukGl3zWXH",
+          "end": 122,
+          "expanded_url": "https://x.com/yuika_singuitar/status/2046599013609410565/photo/1",
+          "media_key": "3_2046599008941117440",
+          "start": 99,
+          "url": "https://t.co/hukGl3zWXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046600155139629350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046599013609410565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_singuitar: 高校生の頃を思い出す機会が最近あって写真フォルダ見てたらコロナで授与式できなくて教室でやってた、ニヤニヤしながら担任から受け取ってて楽しかったなと思ったり https://t.co/hukGl3zWXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046599008941117440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb69I2aEAA8S7S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046599008941117440"
+          ],
+          "media_source_tweet_id": [
+            "2046599013609410565"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046600155139629350",
+        "created_at": "2026-04-21T14:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046600155139629350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1262011427587411973",
+              "start": 3,
+              "username": "yuika_singuitar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hukGl3zWXH",
+              "end": 122,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2046599013609410565/photo/1",
+              "media_key": "3_2046599008941117440",
+              "start": 99,
+              "url": "https://t.co/hukGl3zWXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046600155139629350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046599013609410565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_singuitar: 高校生の頃を思い出す機会が最近あって写真フォルダ見てたらコロナで授与式できなくて教室でやってた、ニヤニヤしながら担任から受け取ってて楽しかったなと思ったり https://t.co/hukGl3zWXH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046599008941117440"
+          ]
+        },
+        "author_id": "1262011427587411973",
+        "conversation_id": "2046599013609410565",
+        "created_at": "2026-04-21T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046599013609410565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hukGl3zWXH",
+              "end": 101,
+              "expanded_url": "https://x.com/yuika_singuitar/status/2046599013609410565/photo/1",
+              "media_key": "3_2046599008941117440",
+              "start": 78,
+              "url": "https://t.co/hukGl3zWXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046599013609410565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 841,
+          "like_count": 205,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "高校生の頃を思い出す機会が最近あって写真フォルダ見てたらコロナで授与式できなくて教室でやってた、ニヤニヤしながら担任から受け取ってて楽しかったなと思ったり https://t.co/hukGl3zWXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 274,
+          "like_count": 12553,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 3385
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdreCmp / 2026/9/21 東京国際フォーラム ホールA ワンマンライブ決定！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdreCmp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-sanvit…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-sanvitalia/",
+                "start": 0,
+                "url": "https://t.co/AZxNWuIYDR"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "location": "↓ワンマンライブ チケット申込はこちら🎫",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2041532198126539033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878397968514244609/YJhQMyh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73874,
+          "following_count": 116,
+          "like_count": 17813,
+          "listed_count": 141,
+          "media_count": 745,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/AZxNWuIYDR",
+        "username": "yuika_singuitar",
+        "verified": false
+      }
+    ]
+  }
+}

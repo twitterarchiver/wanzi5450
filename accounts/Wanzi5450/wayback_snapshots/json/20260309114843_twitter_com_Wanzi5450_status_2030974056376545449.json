@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030974051372728320"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2030974056376545449",
+    "created_at": "2026-03-09T11:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030974056376545449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMvjNrrlg5",
+          "end": 26,
+          "expanded_url": "https://x.com/Wanzi5450/status/2030974056376545449/photo/1",
+          "media_key": "3_2030974051372728320",
+          "start": 3,
+          "url": "https://t.co/KMvjNrrlg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030974056376545449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好潮 https://t.co/KMvjNrrlg5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2030974051372728320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC94I6AbgAADdg_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030974051372728320"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2030974056376545449",
+        "created_at": "2026-03-09T11:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030974056376545449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMvjNrrlg5",
+              "end": 26,
+              "expanded_url": "https://x.com/Wanzi5450/status/2030974056376545449/photo/1",
+              "media_key": "3_2030974051372728320",
+              "start": 3,
+              "url": "https://t.co/KMvjNrrlg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030974056376545449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好潮 https://t.co/KMvjNrrlg5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 227,
+          "like_count": 8768,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 1888
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

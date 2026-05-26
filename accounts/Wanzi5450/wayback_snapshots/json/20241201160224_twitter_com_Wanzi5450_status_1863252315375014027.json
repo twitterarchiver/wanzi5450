@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863102452708327424"
+      ],
+      "media_source_tweet_id": [
+        "1863102467212509187"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1863252315375014027",
+    "created_at": "2024-12-01T16:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T17:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863252315375014027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QIoAS7dXO",
+          "end": 99,
+          "expanded_url": "https://x.com/aoki__hina/status/1863102467212509187/photo/1",
+          "media_key": "3_1863102452708327424",
+          "start": 76,
+          "url": "https://t.co/7QIoAS7dXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863252315375014027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 727
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863102467212509187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: Hello from Singapore!🦁🇸🇬\n\n本日より12月、バリバリ半袖日和。\nプレッツェルラテ美味しいよー🥨 https://t.co/7QIoAS7dXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Salted Pretzel Cocoa Oatmilk Latte🥨",
+        "height": 1536,
+        "media_key": "3_1863102452708327424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdsRz0HWwAAWX8R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863102452708327424"
+          ],
+          "media_source_tweet_id": [
+            "1863102467212509187"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1863252315375014027",
+        "created_at": "2024-12-01T16:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T17:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863252315375014027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QIoAS7dXO",
+              "end": 99,
+              "expanded_url": "https://x.com/aoki__hina/status/1863102467212509187/photo/1",
+              "media_key": "3_1863102452708327424",
+              "start": 76,
+              "url": "https://t.co/7QIoAS7dXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863252315375014027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 727
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863102467212509187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: Hello from Singapore!🦁🇸🇬\n\n本日より12月、バリバリ半袖日和。\nプレッツェルラテ美味しいよー🥨 https://t.co/7QIoAS7dXO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863102452708327424"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1863102467212509187",
+        "created_at": "2024-12-01T06:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T07:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863102467212509187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QIoAS7dXO",
+              "end": 83,
+              "expanded_url": "https://x.com/aoki__hina/status/1863102467212509187/photo/1",
+              "media_key": "3_1863102452708327424",
+              "start": 60,
+              "url": "https://t.co/7QIoAS7dXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863102467212509187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 83431,
+          "like_count": 5574,
+          "quote_count": 38,
+          "reply_count": 66,
+          "retweet_count": 727
+        },
+        "reply_settings": "everyone",
+        "text": "Hello from Singapore!🦁🇸🇬\n\n本日より12月、バリバリ半袖日和。\nプレッツェルラテ美味しいよー🥨 https://t.co/7QIoAS7dXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 67,
+          "like_count": 3886,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 792
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87191,
+          "following_count": 276,
+          "like_count": 0,
+          "listed_count": 831,
+          "media_count": 1033,
+          "tweet_count": 3747
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

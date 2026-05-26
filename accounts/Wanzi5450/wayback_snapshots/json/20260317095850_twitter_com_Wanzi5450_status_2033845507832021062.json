@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2033829353063334393",
+    "created_at": "2026-03-17T09:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T10:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033845507832021062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292929499",
+          "start": 0,
+          "username": "shushuglad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033845507832021062",
+    "in_reply_to_user_id": "292929499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033843619162165729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuglad わあ！なるほど😲ありがとう！\n中国語ここまでを学べるなんてすごい！\n把中文学成这样好厉害！把不是母语的语言学成这样真的很厉害，谢谢爷爷的解答☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2033829353063334393",
+        "created_at": "2026-03-17T09:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033845507832021062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292929499",
+              "start": 0,
+              "username": "shushuglad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033845507832021062",
+        "in_reply_to_user_id": "292929499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033843619162165729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuglad わあ！なるほど😲ありがとう！\n中国語ここまでを学べるなんてすごい！\n把中文学成这样好厉害！把不是母语的语言学成这样真的很厉害，谢谢爷爷的解答☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292929499",
+        "conversation_id": "2033829353063334393",
+        "created_at": "2026-03-17T09:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033843619162165729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033843619162165729",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033834989360701508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 说「綺麗(きれい)な夕日」です。\n我房间向西方，看见美丽的夕阳，不过夏天很热啊。\n私の部屋は西向きで、きれいな夕日が見えるのですが、夏場は暑くて大変です。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 241,
+          "like_count": 9235,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2117
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:57.000Z",
+        "description": "我是个日本的老人，已经73岁了。我学习汉语，想学好汉语，常常用日语和汉语发推。我们互相一起学习外语吧。HEADER的照片是我故乡。 gladgameassn #001\n我在58岁的时候才开始学习汉语了。现在我到73岁了，到现在15年间每天学习汉语。",
+        "id": "292929499",
+        "location": "日本 大阪",
+        "name": "老爷爷/大叔/叔叔/学习汉语很开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656540248032317440/2R5dWY-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 1632,
+          "like_count": 1624,
+          "listed_count": 64,
+          "media_count": 5457,
+          "tweet_count": 111792
+        },
+        "username": "shushuglad",
+        "verified": false
+      }
+    ]
+  }
+}

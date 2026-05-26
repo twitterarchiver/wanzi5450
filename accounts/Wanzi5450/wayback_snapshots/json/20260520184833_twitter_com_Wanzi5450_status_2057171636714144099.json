@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2057119224372605124",
+    "created_at": "2026-05-20T18:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057171636714144099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720585683184857088",
+          "start": 0,
+          "username": "xiaoqi3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057171636714144099",
+    "in_reply_to_user_id": "1720585683184857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057119224372605124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqi3377 看宝宝说的这些话完全想到那个时候的自己了TT抱住 时间真的会软化很多，但是现在说这个很无力，因为真的还是需要自己想通很多事情但是时间是必需品…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2057119224372605124",
+        "created_at": "2026-05-20T18:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057171636714144099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057171636714144099",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057119224372605124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 看宝宝说的这些话完全想到那个时候的自己了TT抱住 时间真的会软化很多，但是现在说这个很无力，因为真的还是需要自己想通很多事情但是时间是必需品…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2057119224372605124",
+        "created_at": "2026-05-20T15:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057119224372605124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057119224372605124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我不能自己消化这些痛苦的情绪。我不敢反驳你 我发现说什么都那么无力。到最后还是需要被安慰 被消耗的还是只有你一个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 298,
+          "like_count": 16229,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3895
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 209,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 278
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

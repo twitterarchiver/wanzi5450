@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023251537590693888"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2023251683053289923",
+    "created_at": "2026-02-16T04:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023251683053289923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NF93fO3grw",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2023251683053289923/video/1",
+          "media_key": "13_2023251537590693888",
+          "start": 6,
+          "url": "https://t.co/NF93fO3grw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023251683053289923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩到真的了 https://t.co/NF93fO3grw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15731,
+        "height": 1280,
+        "media_key": "13_2023251537590693888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023251537590693888/img/hM6Jzkxwrpz8OnzT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023251537590693888/vid/avc1/320x568/m_DvhYnR-MEsUSWM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023251537590693888/vid/avc1/480x852/K27BiCDceZBQEZpz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023251537590693888/vid/avc1/720x1280/We4UvbCawB71WNZG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023251537590693888/pl/IwuKDU4kgQVnmnms.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023251537590693888"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2023251683053289923",
+        "created_at": "2026-02-16T04:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023251683053289923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NF93fO3grw",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2023251683053289923/video/1",
+              "media_key": "13_2023251537590693888",
+              "start": 6,
+              "url": "https://t.co/NF93fO3grw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023251683053289923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩到真的了 https://t.co/NF93fO3grw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 197,
+          "like_count": 8348,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1603
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

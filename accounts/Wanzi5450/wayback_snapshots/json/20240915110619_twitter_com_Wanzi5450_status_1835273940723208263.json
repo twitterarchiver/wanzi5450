@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835026510002171905"
+      ],
+      "media_source_tweet_id": [
+        "1835026563659972629"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1835273940723208263",
+    "created_at": "2024-09-15T11:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T12:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835273940723208263"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1239060704939790336",
+          "start": 3,
+          "username": "JWcpP4SuM0mgk5r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zcmrxwvsam",
+          "end": 52,
+          "expanded_url": "https://twitter.com/JWcpP4SuM0mgk5r/status/1835026563659972629/photo/1",
+          "media_key": "3_1835026510002171905",
+          "start": 29,
+          "url": "https://t.co/ZcmRxWvSaM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835273940723208263",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835026563659972629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JWcpP4SuM0mgk5r: #MyGO 稿 https://t.co/ZcmRxWvSaM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_1835026510002171905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXdS43IasAEmbiw.png",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835026510002171905"
+          ],
+          "media_source_tweet_id": [
+            "1835026563659972629"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1835273940723208263",
+        "created_at": "2024-09-15T11:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T12:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835273940723208263"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1239060704939790336",
+              "start": 3,
+              "username": "JWcpP4SuM0mgk5r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcmrxwvsam",
+              "end": 52,
+              "expanded_url": "https://twitter.com/JWcpP4SuM0mgk5r/status/1835026563659972629/photo/1",
+              "media_key": "3_1835026510002171905",
+              "start": 29,
+              "url": "https://t.co/ZcmRxWvSaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835273940723208263",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835026563659972629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JWcpP4SuM0mgk5r: #MyGO 稿 https://t.co/ZcmRxWvSaM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835026510002171905"
+          ]
+        },
+        "author_id": "1239060704939790336",
+        "conversation_id": "1835026563659972629",
+        "created_at": "2024-09-14T18:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T19:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835026563659972629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcmrxwvsam",
+              "end": 31,
+              "expanded_url": "https://twitter.com/JWcpP4SuM0mgk5r/status/1835026563659972629/photo/1",
+              "media_key": "3_1835026510002171905",
+              "start": 8,
+              "url": "https://t.co/ZcmRxWvSaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835026563659972629",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7977,
+          "like_count": 622,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO 稿 https://t.co/ZcmRxWvSaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 3103,
+          "listed_count": 0,
+          "tweet_count": 593
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-15T05:28:04.000Z",
+        "description": "会画点少女乐队同人",
+        "id": "1239060704939790336",
+        "name": "東山小川",
+        "pinned_tweet_id": "1683758821708111873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820717605805858816/fnJBIEXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 276,
+          "like_count": 2051,
+          "listed_count": 6,
+          "tweet_count": 612
+        },
+        "username": "JWcpP4SuM0mgk5r",
+        "verified": false
+      }
+    ]
+  }
+}

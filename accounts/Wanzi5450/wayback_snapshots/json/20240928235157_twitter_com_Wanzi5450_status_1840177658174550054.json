@@ -1,0 +1,705 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1840177658174550054",
+    "created_at": "2024-09-28T23:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T00:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840177658174550054"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "跡暖空",
+          "probability": 0.6467,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "MyGO"
+        },
+        {
+          "end": 131,
+          "start": 127,
+          "tag": "跡暖空"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2nd Album「跡暖空」のご案内。",
+          "display_url": "bang-dream.com/discographies/…",
+          "end": 113,
+          "expanded_url": "https://bang-dream.com/discographies/3846",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/1839862643395571717/AHgaoJuP?format=jpg&name=orig",
+              "width": 898
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1839862643395571717/AHgaoJuP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 90,
+          "status": 200,
+          "title": "2nd Album「跡暖空」 | BanG Dream!（バンドリ！）公式サイト",
+          "unwound_url": "https://bang-dream.com/discographies/3846",
+          "url": "https://t.co/DuoM7HHDd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840177658174550054",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1978
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839862595165290579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: 【新情報①】\n\nMyGO!!!!! 2nd Album\n「跡暖空」\n\n12月18日(水)にリリースが決定しました。\n\nCDの詳細はこちら\nhttps://t.co/DuoM7HHDd0\n\n#バンドリ #MyGO #跡暖空 https:/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1840177658174550054",
+        "created_at": "2024-09-28T23:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T00:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840177658174550054"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "跡暖空",
+              "probability": 0.6467,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "MyGO"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "跡暖空"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2nd Album「跡暖空」のご案内。",
+              "display_url": "bang-dream.com/discographies/…",
+              "end": 113,
+              "expanded_url": "https://bang-dream.com/discographies/3846",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1839862643395571717/AHgaoJuP?format=jpg&name=orig",
+                  "width": 898
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1839862643395571717/AHgaoJuP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "2nd Album「跡暖空」 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/discographies/3846",
+              "url": "https://t.co/DuoM7HHDd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840177658174550054",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1978
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839862595165290579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: 【新情報①】\n\nMyGO!!!!! 2nd Album\n「跡暖空」\n\n12月18日(水)にリリースが決定しました。\n\nCDの詳細はこちら\nhttps://t.co/DuoM7HHDd0\n\n#バンドリ #MyGO #跡暖空 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839862208295251968",
+            "3_1839862208312029190",
+            "3_1839862208299446272",
+            "3_1839862208312029185"
+          ]
+        },
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1839862595165290579",
+        "created_at": "2024-09-28T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839862595165290579"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "跡暖空",
+              "probability": 0.6753,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "MyGO"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "跡暖空"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2nd Album「跡暖空」のご案内。",
+              "display_url": "bang-dream.com/discographies/…",
+              "end": 92,
+              "expanded_url": "https://bang-dream.com/discographies/3846",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1839862643395571717/AHgaoJuP?format=jpg&name=orig",
+                  "width": 898
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1839862643395571717/AHgaoJuP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "2nd Album「跡暖空」 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/discographies/3846",
+              "url": "https://t.co/DuoM7HHDd0"
+            },
+            {
+              "display_url": "pic.x.com/d6zkegzdc4",
+              "end": 134,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1839862595165290579/photo/1",
+              "media_key": "3_1839862208295251968",
+              "start": 111,
+              "url": "https://t.co/D6zKEGzDC4"
+            },
+            {
+              "display_url": "pic.x.com/d6zkegzdc4",
+              "end": 134,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1839862595165290579/photo/1",
+              "media_key": "3_1839862208312029190",
+              "start": 111,
+              "url": "https://t.co/D6zKEGzDC4"
+            },
+            {
+              "display_url": "pic.x.com/d6zkegzdc4",
+              "end": 134,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1839862595165290579/photo/1",
+              "media_key": "3_1839862208299446272",
+              "start": 111,
+              "url": "https://t.co/D6zKEGzDC4"
+            },
+            {
+              "display_url": "pic.x.com/d6zkegzdc4",
+              "end": 134,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1839862595165290579/photo/1",
+              "media_key": "3_1839862208312029185",
+              "start": 111,
+              "url": "https://t.co/D6zKEGzDC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839862595165290579",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 557095,
+          "like_count": 4696,
+          "quote_count": 315,
+          "reply_count": 13,
+          "retweet_count": 1978
+        },
+        "reply_settings": "everyone",
+        "text": "【新情報①】\n\nMyGO!!!!! 2nd Album\n「跡暖空」\n\n12月18日(水)にリリースが決定しました。\n\nCDの詳細はこちら\nhttps://t.co/DuoM7HHDd0\n\n#バンドリ #MyGO #跡暖空 https://t.co/D6zKEGzDC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 3285,
+          "listed_count": 0,
+          "tweet_count": 651
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。12月22日(日) 、MyGO!!!!! 7th LIVEが日比谷公園大音楽堂にて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1839862595165290579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117813,
+          "following_count": 40,
+          "like_count": 195,
+          "listed_count": 595,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2044010416721084519",
+    "created_at": "2026-04-14T12:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044028230424986104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836667117896388608",
+          "start": 0,
+          "username": "henrik12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044028230424986104",
+    "in_reply_to_user_id": "1836667117896388608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044027581062885541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henrik12138 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044010416721084519",
+        "created_at": "2026-04-14T12:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044028230424986104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836667117896388608",
+              "start": 0,
+              "username": "henrik12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044028230424986104",
+        "in_reply_to_user_id": "1836667117896388608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044027581062885541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henrik12138 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836667117896388608",
+        "conversation_id": "2044010416721084519",
+        "created_at": "2026-04-14T12:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044027581062885541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044027581062885541",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044010416721084519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 啊啊啊啊啊啊好可爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 263,
+          "like_count": 11868,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 3209
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T07:22:29.000Z",
+        "description": "叫我小唯就好 日常嗑药 打游戏 欢迎找我聊天",
+        "id": "1836667117896388608",
+        "name": "普瑞巴林单推人",
+        "pinned_tweet_id": "2026570183784149008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910713555806281734/oBUXKSoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 192,
+          "like_count": 3685,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1024
+        },
+        "username": "henrik12138",
+        "verified": false
+      }
+    ]
+  }
+}

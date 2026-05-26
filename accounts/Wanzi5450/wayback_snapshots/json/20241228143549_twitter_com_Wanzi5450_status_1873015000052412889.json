@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872961822808260610"
+      ],
+      "media_source_tweet_id": [
+        "1872962235439693983"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1873015000052412889",
+    "created_at": "2024-12-28T14:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T15:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873015000052412889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356387421227683842",
+          "start": 3,
+          "username": "sorawo5084"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aOElnevndX",
+          "end": 48,
+          "expanded_url": "https://x.com/sorawo5084/status/1872962235439693983/photo/1",
+          "media_key": "3_1872961822808260610",
+          "start": 25,
+          "url": "https://t.co/aOElnevndX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873015000052412889",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872962235439693983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sorawo5084: 🎸🎸\n#MyGO https://t.co/aOElnevndX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_1872961822808260610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf4Y2r5awAIc25u.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872961822808260610"
+          ],
+          "media_source_tweet_id": [
+            "1872962235439693983"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1873015000052412889",
+        "created_at": "2024-12-28T14:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873015000052412889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356387421227683842",
+              "start": 3,
+              "username": "sorawo5084"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOElnevndX",
+              "end": 48,
+              "expanded_url": "https://x.com/sorawo5084/status/1872962235439693983/photo/1",
+              "media_key": "3_1872961822808260610",
+              "start": 25,
+              "url": "https://t.co/aOElnevndX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873015000052412889",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872962235439693983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sorawo5084: 🎸🎸\n#MyGO https://t.co/aOElnevndX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872961822808260610"
+          ]
+        },
+        "author_id": "1356387421227683842",
+        "conversation_id": "1872962235439693983",
+        "created_at": "2024-12-28T11:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T12:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872962235439693983"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOElnevndX",
+              "end": 32,
+              "expanded_url": "https://x.com/sorawo5084/status/1872962235439693983/photo/1",
+              "media_key": "3_1872961822808260610",
+              "start": 9,
+              "url": "https://t.co/aOElnevndX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872962235439693983",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5843,
+          "like_count": 456,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "🎸🎸\n#MyGO https://t.co/aOElnevndX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 4259,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 870
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-01T23:42:43.000Z",
+        "description": "AI✍️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70659165",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70659165",
+                "start": 0,
+                "url": "https://t.co/fIFjZ2OUId"
+              }
+            ]
+          }
+        },
+        "id": "1356387421227683842",
+        "name": "Sorawo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758075675171590144/zMoic2Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 70,
+          "like_count": 6802,
+          "listed_count": 40,
+          "media_count": 1319,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/fIFjZ2OUId",
+        "username": "sorawo5084",
+        "verified": false
+      }
+    ]
+  }
+}

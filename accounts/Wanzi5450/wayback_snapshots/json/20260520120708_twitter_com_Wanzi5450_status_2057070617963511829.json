@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056979290223448143",
+    "created_at": "2026-05-20T12:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057070617963511829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056434988061736960",
+          "start": 0,
+          "username": "Kkpraiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057070617963511829",
+    "in_reply_to_user_id": "2056434988061736960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057068593708511458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkpraiovo 大满足…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T12:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057070617963511829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056434988061736960",
+              "start": 0,
+              "username": "Kkpraiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057070617963511829",
+        "in_reply_to_user_id": "2056434988061736960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057068593708511458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkpraiovo 大满足…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056434988061736960",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T11:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057068593708511458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057068593708511458",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056979290223448143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 这一口会香昏过去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 297,
+          "like_count": 16141,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3868
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T18:02:11.000Z",
+        "description": "微微发烫的手机是我拥抱你的温度Ი𐑼\niiii，生理性别和心理性别都为男。\n喜欢柔软和纤细",
+        "id": "2056434988061736960",
+        "name": "Kkpraiovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056435518871912449/0XJzyEP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 183,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "Kkpraiovo",
+        "verified": false
+      }
+    ]
+  }
+}

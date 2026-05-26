@@ -1,0 +1,593 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1819578893298553067",
+    "created_at": "2024-08-03T03:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T04:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819578893298553067"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "ぼっち・ざ・ろっく！",
+          "probability": 0.5144,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "完熟マンゴー Tシャツ",
+          "probability": 0.409,
+          "start": 56,
+          "type": "Product"
+        },
+        {
+          "end": 114,
+          "normalized_text": "後藤ひとり 二層ステンレスマグカップ",
+          "probability": 0.341,
+          "start": 97,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "5713232",
+          "start": 3,
+          "username": "cospa_inc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819578893298553067",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818939488942669856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cospa_inc: アニメ「ぼっち・ざ・ろっく！」新作グッズ情報✨\n\nあのダンボールがTシャツに！\n「完熟マンゴー Tシャツ」が登場！\n\nそして、「承認欲求モンスター Ｔシャツ」と\n「後藤ひとり 二層ステンレスマグカップ」もラインナップ！\n\n商品詳細・ご予約はこちら…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1819578893298553067",
+        "created_at": "2024-08-03T03:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T04:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819578893298553067"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ぼっち・ざ・ろっく！",
+              "probability": 0.5144,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "完熟マンゴー Tシャツ",
+              "probability": 0.409,
+              "start": 56,
+              "type": "Product"
+            },
+            {
+              "end": 114,
+              "normalized_text": "後藤ひとり 二層ステンレスマグカップ",
+              "probability": 0.341,
+              "start": 97,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "5713232",
+              "start": 3,
+              "username": "cospa_inc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819578893298553067",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818939488942669856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cospa_inc: アニメ「ぼっち・ざ・ろっく！」新作グッズ情報✨\n\nあのダンボールがTシャツに！\n「完熟マンゴー Tシャツ」が登場！\n\nそして、「承認欲求モンスター Ｔシャツ」と\n「後藤ひとり 二層ステンレスマグカップ」もラインナップ！\n\n商品詳細・ご予約はこちら…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818939475931844608"
+          ]
+        },
+        "author_id": "5713232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1818939488942669856",
+        "created_at": "2024-08-01T09:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T10:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818939488942669856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "ぼっち・ざ・ろっく！",
+              "probability": 0.6858,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "後藤ひとり 二層ステンレスマグカップ",
+              "probability": 0.4149,
+              "start": 82,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 159,
+              "start": 149,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "description": "作品を愛し、愛した作品を広め、ファンがさらに楽しくなれるグッズをお届けします。 作り手自らも作品を愛し、作品を愛するファンのためのものづくり目指すブランド・それが二次元コスパ。",
+              "display_url": "nijigencospa.com/itemlist/id/01…",
+              "end": 147,
+              "expanded_url": "https://nijigencospa.com/itemlist/id/01877/mode/series",
+              "start": 124,
+              "status": 200,
+              "title": "ぼっち・ざ・ろっく！ | 二次元キャラクターグッズ製作販売二次元コスパ｜NijigenCOSPA | COSPA,inc.",
+              "unwound_url": "https://nijigencospa.com/itemlist/id/01877/mode/series",
+              "url": "https://t.co/Oc28sg3zOA"
+            },
+            {
+              "display_url": "pic.twitter.com/rtVrQwNR2V",
+              "end": 183,
+              "expanded_url": "https://twitter.com/cospa_inc/status/1818939488942669856/photo/1",
+              "media_key": "3_1818939475931844608",
+              "start": 160,
+              "url": "https://t.co/rtVrQwNR2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818939488942669856",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 95468,
+          "like_count": 1174,
+          "quote_count": 29,
+          "reply_count": 1,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "アニメ「ぼっち・ざ・ろっく！」新作グッズ情報✨\n\nあのダンボールがTシャツに！\n「完熟マンゴー Tシャツ」が登場！\n\nそして、「承認欲求モンスター Ｔシャツ」と\n「後藤ひとり 二層ステンレスマグカップ」もラインナップ！\n\n商品詳細・ご予約はこちら\nhttps://t.co/Oc28sg3zOA\n\n#ぼっち・ざ・ろっく https://t.co/rtVrQwNR2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2956,
+          "listed_count": 0,
+          "tweet_count": 538
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-02T13:31:14.000Z",
+        "description": "＼創業29周年／アニメ・マンガ・ゲームの公式グッズ・アパレル・雑貨・コスチュームを年間2000点以上作り出す株式会社コスパの公式アカウント。新商品・再販・イベント・キャンペーン情報をお届け！\n・COSPA広報：@cospa_relation\n・出張店舗：@cospa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "cospa_relation"
+              },
+              {
+                "end": 133,
+                "start": 127,
+                "username": "cospa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cospa.com",
+                "end": 23,
+                "expanded_url": "http://www.cospa.com",
+                "start": 0,
+                "url": "https://t.co/B2pdUGPcmj"
+              }
+            ]
+          }
+        },
+        "id": "5713232",
+        "location": "TOKYO-JAPAN",
+        "name": "COSPA（株式会社コスパ）",
+        "pinned_tweet_id": "1816401007120957652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703941311055986688/RA_9Dg_2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46778,
+          "following_count": 570,
+          "like_count": 22231,
+          "listed_count": 763,
+          "tweet_count": 41495
+        },
+        "url": "https://t.co/B2pdUGPcmj",
+        "username": "cospa_inc",
+        "verified": false
+      }
+    ]
+  }
+}

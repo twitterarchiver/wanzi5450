@@ -1,0 +1,645 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1817433978284237213",
+    "created_at": "2024-07-28T05:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T06:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817433978284237213"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "端程山",
+          "probability": 0.6255,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 88,
+          "tag": "見つけた景色たずさえてDAY1"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "MyGO"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "端程山"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「端程山」作詞：藤原優樹(SUPA LOVE)作曲・編曲：トミタカズキ(SUPA LOVE)歌：MyGO!!!!!MVDirector / Compositor：花坂 大気Character Design / Illustrator：奏Animator：らんか、山尾 波留、高橋 龍、八野 萌子Illustrato...",
+          "display_url": "youtube.com/watch?v=1c2uSr…",
+          "end": 86,
+          "expanded_url": "https://www.youtube.com/watch?v=1c2uSrAGF9Q",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1817153244029710336/ta2bHnPC?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1817153244029710336/ta2bHnPC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 63,
+          "status": 200,
+          "title": "【Official Music Video】端程山 / MyGO!!!!!【オリジナル楽曲】",
+          "unwound_url": "https://www.youtube.com/watch?v=1c2uSrAGF9Q",
+          "url": "https://t.co/OrT9ZDLAf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817433978284237213",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 870
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817170571727450253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: 【MV公開】\n\nMyGO!!!!!「端程山」\nMVを公開しました。\n\n映像はこちら\nhttps://t.co/OrT9ZDLAf0\n\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO #端程山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1817433978284237213",
+        "created_at": "2024-07-28T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817433978284237213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "端程山",
+              "probability": 0.6255,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 88,
+              "tag": "見つけた景色たずさえてDAY1"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "MyGO"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "端程山"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「端程山」作詞：藤原優樹(SUPA LOVE)作曲・編曲：トミタカズキ(SUPA LOVE)歌：MyGO!!!!!MVDirector / Compositor：花坂 大気Character Design / Illustrator：奏Animator：らんか、山尾 波留、高橋 龍、八野 萌子Illustrato...",
+              "display_url": "youtube.com/watch?v=1c2uSr…",
+              "end": 86,
+              "expanded_url": "https://www.youtube.com/watch?v=1c2uSrAGF9Q",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1817153244029710336/ta2bHnPC?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1817153244029710336/ta2bHnPC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "【Official Music Video】端程山 / MyGO!!!!!【オリジナル楽曲】",
+              "unwound_url": "https://www.youtube.com/watch?v=1c2uSrAGF9Q",
+              "url": "https://t.co/OrT9ZDLAf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817433978284237213",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 870
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817170571727450253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: 【MV公開】\n\nMyGO!!!!!「端程山」\nMVを公開しました。\n\n映像はこちら\nhttps://t.co/OrT9ZDLAf0\n\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO #端程山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1817170571727450253",
+        "created_at": "2024-07-27T12:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T13:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817170571727450253"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "端程山",
+              "probability": 0.6625,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 67,
+              "tag": "見つけた景色たずさえてDAY1"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "MyGO"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "端程山"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「端程山」作詞：藤原優樹(SUPA LOVE)作曲・編曲：トミタカズキ(SUPA LOVE)歌：MyGO!!!!!MVDirector / Compositor：花坂 大気Character Design / Illustrator：奏Animator：らんか、山尾 波留、高橋 龍、八野 萌子Illustrato...",
+              "display_url": "youtube.com/watch?v=1c2uSr…",
+              "end": 65,
+              "expanded_url": "https://www.youtube.com/watch?v=1c2uSrAGF9Q",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1817153244029710336/ta2bHnPC?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1817153244029710336/ta2bHnPC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "【Official Music Video】端程山 / MyGO!!!!!【オリジナル楽曲】",
+              "unwound_url": "https://www.youtube.com/watch?v=1c2uSrAGF9Q",
+              "url": "https://t.co/OrT9ZDLAf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817170571727450253",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 358119,
+          "like_count": 2293,
+          "quote_count": 26,
+          "reply_count": 8,
+          "retweet_count": 870
+        },
+        "reply_settings": "everyone",
+        "text": "【MV公開】\n\nMyGO!!!!!「端程山」\nMVを公開しました。\n\n映像はこちら\nhttps://t.co/OrT9ZDLAf0\n\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO #端程山"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2856,
+          "listed_count": 0,
+          "tweet_count": 507
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。7月27日(土)・28日(日) MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」武蔵野の森総合スポーツプラザにて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1817170571727450253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105851,
+          "following_count": 40,
+          "like_count": 188,
+          "listed_count": 545,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

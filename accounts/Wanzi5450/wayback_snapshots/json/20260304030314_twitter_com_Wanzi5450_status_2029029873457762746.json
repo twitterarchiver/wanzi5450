@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2029029432053346587",
+    "created_at": "2026-03-04T03:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T04:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029029873457762746"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029029873457762746",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029029432053346587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在是都不过肺，且抽一半就扔了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2029029426097471488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiPg0VawAAKHSS.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2029029432053346587",
+        "created_at": "2026-03-04T03:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029029873457762746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029029873457762746",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029029432053346587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在是都不过肺，且抽一半就扔了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029029426097471488"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2029029432053346587",
+        "created_at": "2026-03-04T03:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T04:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029029432053346587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7MjShxAkC",
+              "end": 38,
+              "expanded_url": "https://x.com/Wanzi5450/status/2029029432053346587/photo/1",
+              "media_key": "3_2029029426097471488",
+              "start": 15,
+              "url": "https://t.co/f7MjShxAkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029029432053346587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是咖啡太好喝了不是我想抽的😭 https://t.co/f7MjShxAkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 213,
+          "like_count": 8525,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1746
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

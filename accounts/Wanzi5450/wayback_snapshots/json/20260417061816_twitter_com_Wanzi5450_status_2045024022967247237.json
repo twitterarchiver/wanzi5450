@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045014261223862642",
+    "created_at": "2026-04-17T06:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T07:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045024022967247237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036455347565846528",
+          "start": 0,
+          "username": "lingsu001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045024022967247237",
+    "in_reply_to_user_id": "2036455347565846528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045021021233873072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingsu001 哇哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045014261223862642",
+        "created_at": "2026-04-17T06:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045024022967247237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036455347565846528",
+              "start": 0,
+              "username": "lingsu001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045024022967247237",
+        "in_reply_to_user_id": "2036455347565846528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045021021233873072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingsu001 哇哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036455347565846528",
+        "conversation_id": "2045014261223862642",
+        "created_at": "2026-04-17T06:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045021021233873072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045021021233873072",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045014261223862642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 萌！🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 266,
+          "like_count": 12107,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 3269
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T14:49:37.000Z",
+        "description": "",
+        "id": "2036455347565846528",
+        "location": "精卫",
+        "name": "lingsu（重生 尋找互关中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042107628793597952/OFb9HRWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 89,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 157
+        },
+        "username": "lingsu001",
+        "verified": false
+      }
+    ]
+  }
+}

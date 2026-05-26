@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1858712790443409408"
+      ],
+      "media_source_tweet_id": [
+        "1858712842213748948"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286400936550608896",
+          "name": "Music events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324850959449616384",
+          "name": "Kouhaku Music Show"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1859462600452604358",
+    "created_at": "2024-11-21T05:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T06:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859462600452604358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "NHK紅白"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "tuki"
+        },
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "紅白歌合戦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "85765327",
+          "start": 3,
+          "username": "nhk_kouhaku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2024年12月31日（火）午後7時20分～11時45分 総合・BSP4K・BS8K・ラジオ第1・NHKプラス #NHK紅白",
+          "display_url": "nhk.or.jp/kouhaku/?cid=k…",
+          "end": 94,
+          "expanded_url": "https://www.nhk.or.jp/kouhaku/?cid=khhk-khkx-khk-khhp-241119-09",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1858712847918002177/8xB8Z33I?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1858712847918002177/8xB8Z33I?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 71,
+          "status": 200,
+          "title": "第75回NHK紅白歌合戦",
+          "unwound_url": "https://www.nhk.or.jp/kouhaku/?cid=khhk-khkx-khk-khhp-241119-09",
+          "url": "https://t.co/WWW2JDZuBH"
+        },
+        {
+          "display_url": "pic.x.com/nocanp66cS",
+          "end": 118,
+          "expanded_url": "https://x.com/nhk_kouhaku/status/1858712842213748948/video/1",
+          "media_key": "7_1858712790443409408",
+          "start": 95,
+          "url": "https://t.co/nocanp66cS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859462600452604358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2957
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858712842213748948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nhk_kouhaku: 🟥第75回 #NHK紅白 ⬜️\n\n赤組初出場\n#tuki. からのメッセージ\n\n#紅白歌合戦 出場歌手一覧\nhttps://t.co/WWW2JDZuBH https://t.co/nocanp66cS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53056,
+        "height": 1080,
+        "media_key": "7_1858712790443409408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858712790443409408/pu/img/xI7zBs-_UxRK6nJL.jpg",
+        "public_metrics": {
+          "view_count": 929372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858712790443409408/pu/vid/avc1/480x270/1bJuBw_MLCiYPDPc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858712790443409408/pu/vid/avc1/640x360/agNPCcY-26jqxIH2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858712790443409408/pu/vid/avc1/1280x720/KVcxlrvKJQWhCbnB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858712790443409408/pu/pl/b9KJK-h2uwKe5MDS.m3u8?tag=12&v=7b9"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858712790443409408"
+          ],
+          "media_source_tweet_id": [
+            "1858712842213748948"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1859462600452604358",
+        "created_at": "2024-11-21T05:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T06:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859462600452604358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "NHK紅白"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "tuki"
+            },
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "紅白歌合戦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "85765327",
+              "start": 3,
+              "username": "nhk_kouhaku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2024年12月31日（火）午後7時20分～11時45分 総合・BSP4K・BS8K・ラジオ第1・NHKプラス #NHK紅白",
+              "display_url": "nhk.or.jp/kouhaku/?cid=k…",
+              "end": 94,
+              "expanded_url": "https://www.nhk.or.jp/kouhaku/?cid=khhk-khkx-khk-khhp-241119-09",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1858712847918002177/8xB8Z33I?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1858712847918002177/8xB8Z33I?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "第75回NHK紅白歌合戦",
+              "unwound_url": "https://www.nhk.or.jp/kouhaku/?cid=khhk-khkx-khk-khhp-241119-09",
+              "url": "https://t.co/WWW2JDZuBH"
+            },
+            {
+              "display_url": "pic.x.com/nocanp66cS",
+              "end": 118,
+              "expanded_url": "https://x.com/nhk_kouhaku/status/1858712842213748948/video/1",
+              "media_key": "7_1858712790443409408",
+              "start": 95,
+              "url": "https://t.co/nocanp66cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859462600452604358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2957
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858712842213748948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nhk_kouhaku: 🟥第75回 #NHK紅白 ⬜️\n\n赤組初出場\n#tuki. からのメッセージ\n\n#紅白歌合戦 出場歌手一覧\nhttps://t.co/WWW2JDZuBH https://t.co/nocanp66cS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858712790443409408"
+          ]
+        },
+        "author_id": "85765327",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "12月31日にNHK総合などで放送される『第72回NHK紅白歌合戦』の出場者が19日、正式に発表されました。初出場は、紅組は上白石萌音さん、Awesome City Club、BiSHの4組。白組は布袋寅泰さん、KAT-TUN、SnowMan、DISH//、まふまふさん、平井大さんの6組。出場歌手は43組です。このモーメントは自動でツイートを掲載しています。",
+              "id": "1461187744508432387",
+              "name": "『第72回NHK紅白歌合戦』の出場者発表 初出場は10組"
+            }
+          }
+        ],
+        "conversation_id": "1858712842213748948",
+        "created_at": "2024-11-19T03:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858712842213748948"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "NHK紅白"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "tuki"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "紅白歌合戦"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2024年12月31日（火）午後7時20分～11時45分 総合・BSP4K・BS8K・ラジオ第1・NHKプラス #NHK紅白",
+              "display_url": "nhk.or.jp/kouhaku/?cid=k…",
+              "end": 77,
+              "expanded_url": "https://www.nhk.or.jp/kouhaku/?cid=khhk-khkx-khk-khhp-241119-09",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1858712847918002177/8xB8Z33I?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1858712847918002177/8xB8Z33I?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "第75回NHK紅白歌合戦",
+              "unwound_url": "https://www.nhk.or.jp/kouhaku/?cid=khhk-khkx-khk-khhp-241119-09",
+              "url": "https://t.co/WWW2JDZuBH"
+            },
+            {
+              "display_url": "pic.x.com/nocanp66cS",
+              "end": 101,
+              "expanded_url": "https://x.com/nhk_kouhaku/status/1858712842213748948/video/1",
+              "media_key": "7_1858712790443409408",
+              "start": 78,
+              "url": "https://t.co/nocanp66cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858712842213748948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2391,
+          "impression_count": 3154112,
+          "like_count": 27585,
+          "quote_count": 730,
+          "reply_count": 147,
+          "retweet_count": 2957
+        },
+        "reply_settings": "everyone",
+        "text": "🟥第75回 #NHK紅白 ⬜️\n\n赤組初出場\n#tuki. からのメッセージ\n\n#紅白歌合戦 出場歌手一覧\nhttps://t.co/WWW2JDZuBH https://t.co/nocanp66cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 3675,
+          "listed_count": 0,
+          "tweet_count": 746
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-28T07:32:46.000Z",
+        "description": "NHK紅白歌合戦の公式アカウントです。\nNHK紅白歌合戦の関連情報を発信します!\n#NHK紅白\n公式Instagramもチェックよろしくお願いします。\n利用規約はこちら☞https://t.co/GHdpfWLNBE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "NHK紅白"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 108,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 85,
+                "url": "https://t.co/GHdpfWLNBE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nhk_kouhaku",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nhk_kouhaku",
+                "start": 0,
+                "url": "https://t.co/86MZP1SVA8"
+              }
+            ]
+          }
+        },
+        "id": "85765327",
+        "location": "東京都渋谷区神南",
+        "name": "NHK紅白歌合戦",
+        "pinned_tweet_id": "1858708512454701175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836284682725658626/nSmjModG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741400,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 3529,
+          "tweet_count": 3345
+        },
+        "url": "https://t.co/86MZP1SVA8",
+        "username": "nhk_kouhaku",
+        "verified": true
+      }
+    ]
+  }
+}

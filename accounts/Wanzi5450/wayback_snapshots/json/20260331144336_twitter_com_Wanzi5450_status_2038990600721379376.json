@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2038990427827933338",
+    "created_at": "2026-03-31T14:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038990600721379376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346974977434771460",
+          "start": 0,
+          "username": "N0rthern_Land"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038990600721379376",
+    "in_reply_to_user_id": "1346974977434771460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038990427827933338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0rthern_Land 是这个道理，这就是我想说的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038990427827933338",
+        "created_at": "2026-03-31T14:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038990600721379376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346974977434771460",
+              "start": 0,
+              "username": "N0rthern_Land"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038990600721379376",
+        "in_reply_to_user_id": "1346974977434771460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038990427827933338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0rthern_Land 是这个道理，这就是我想说的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "conversation_id": "2038990427827933338",
+        "created_at": "2026-03-31T14:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038990427827933338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanzi5450/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/wanzi5450/status/2038893166783570003",
+              "start": 23,
+              "url": "https://t.co/8DOJ2S1u2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038990427827933338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038893166783570003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远不会把任何人当作粉丝，因为大家都是平等的 https://t.co/8DOJ2S1u2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 286,
+          "like_count": 10503,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2625
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男粉红别关注我/女朋友@ayashikinoco/私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "北长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995463213237125120/wvHDfzkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63223,
+          "following_count": 835,
+          "like_count": 109015,
+          "listed_count": 153,
+          "media_count": 3552,
+          "tweet_count": 34625
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

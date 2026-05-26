@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798277502764552192"
+      ],
+      "media_source_tweet_id": [
+        "1798277510834405655"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1798315701020832060",
+    "created_at": "2024-06-05T11:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T12:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798315701020832060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1428674570735677444",
+          "start": 3,
+          "username": "KitKattsama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/XzSLSW655q",
+          "end": 50,
+          "expanded_url": "https://twitter.com/KitKattsama/status/1798277510834405655/photo/1",
+          "media_key": "3_1798277502764552192",
+          "start": 27,
+          "url": "https://t.co/XzSLSW655q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798315701020832060",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 935
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798277510834405655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KitKattsama: \"ど…どうかな？\" https://t.co/XzSLSW655q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1798277502764552192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPTD3G_bkAAP_fc.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798277502764552192"
+          ],
+          "media_source_tweet_id": [
+            "1798277510834405655"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1798315701020832060",
+        "created_at": "2024-06-05T11:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T12:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798315701020832060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1428674570735677444",
+              "start": 3,
+              "username": "KitKattsama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XzSLSW655q",
+              "end": 50,
+              "expanded_url": "https://twitter.com/KitKattsama/status/1798277510834405655/photo/1",
+              "media_key": "3_1798277502764552192",
+              "start": 27,
+              "url": "https://t.co/XzSLSW655q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798315701020832060",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 935
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798277510834405655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KitKattsama: \"ど…どうかな？\" https://t.co/XzSLSW655q"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798277502764552192"
+          ]
+        },
+        "author_id": "1428674570735677444",
+        "conversation_id": "1798277510834405655",
+        "created_at": "2024-06-05T08:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T09:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798277510834405655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XzSLSW655q",
+              "end": 33,
+              "expanded_url": "https://twitter.com/KitKattsama/status/1798277510834405655/photo/1",
+              "media_key": "3_1798277502764552192",
+              "start": 10,
+              "url": "https://t.co/XzSLSW655q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798277510834405655",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 772,
+          "impression_count": 90020,
+          "like_count": 6687,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 935
+        },
+        "reply_settings": "everyone",
+        "text": "\"ど…どうかな？\" https://t.co/XzSLSW655q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2197,
+          "listed_count": 0,
+          "tweet_count": 374
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-20T11:05:47.000Z",
+        "description": "i draw kawii illust",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/25651768",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/25651768",
+                "start": 0,
+                "url": "https://t.co/ATVSpMD6wK"
+              }
+            ]
+          }
+        },
+        "id": "1428674570735677444",
+        "location": "milgamwork@gmail.com",
+        "name": "lizio",
+        "pinned_tweet_id": "1798277510834405655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784912126404071424/U2rlMhKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80247,
+          "following_count": 613,
+          "like_count": 4571,
+          "listed_count": 546,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/ATVSpMD6wK",
+        "username": "KitKattsama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1819374407627985139",
+    "created_at": "2024-08-02T14:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T15:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819374407627985139"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 86,
+          "tag": "見つけた景色たずさえてDAY1"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 114,
+          "start": 109,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4121959099",
+          "start": 3,
+          "username": "spice_anige"
+        },
+        {
+          "end": 131,
+          "id": "1512315733899837440",
+          "start": 115,
+          "username": "bang_dream_mygo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819374407627985139",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819206528429387910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spice_anige: 迷子のまま前に進み続けた先で、彼女たちが見たものとは『MyGO!!!!!6th LIVE「見つけた景色、たずさえて」』DAY1レポート\n\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO　@bang_dream_mygo https:/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1819374407627985139",
+        "created_at": "2024-08-02T14:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T15:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819374407627985139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 86,
+              "tag": "見つけた景色たずさえてDAY1"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4121959099",
+              "start": 3,
+              "username": "spice_anige"
+            },
+            {
+              "end": 131,
+              "id": "1512315733899837440",
+              "start": 115,
+              "username": "bang_dream_mygo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819374407627985139",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819206528429387910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spice_anige: 迷子のまま前に進み続けた先で、彼女たちが見たものとは『MyGO!!!!!6th LIVE「見つけた景色、たずさえて」』DAY1レポート\n\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO　@bang_dream_mygo https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819206519722070019",
+            "3_1819206522007879680",
+            "3_1819206526340374528"
+          ]
+        },
+        "author_id": "4121959099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1819206528429387910",
+        "created_at": "2024-08-02T03:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T04:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819206528429387910"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 69,
+              "tag": "見つけた景色たずさえてDAY1"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "1512315733899837440",
+              "start": 98,
+              "username": "bang_dream_mygo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■2024.7.27『MyGO!!!!!6th LIVE「見つけた景色、たずさえて」』DAY1@武蔵野の森総合スポーツプラザ 『MyGO!!!!!6th LIVE「見つけた景色、たずさえて」』が7月27日、28日の2DAYSで開催された。会場として選ばれたのは武蔵野の森総合スポーツプラザ。ガールズバンドをテーマにしたメディアミックスプロジェクト『BanG Dream!』に登場するリアルバンド・MyGO!!!!!。2022年7月に『MyGO!!!!! 1st LIVE「僕たちはここで叫ぶ」』を開催して一躍注目を集めると、その後も精力的な活動を重ね、今年2月から4月にかけて『MyGO!!!!! ZEPP TOUR 2024「彷徨する渇望」』で全国のファンを魅了した。そんな彼女たちにとって初となる2DAYSライブが今回の『MyGO...",
+              "display_url": "spice.eplus.jp/articles/330864",
+              "end": 138,
+              "expanded_url": "https://spice.eplus.jp/articles/330864",
+              "images": [
+                {
+                  "height": 666,
+                  "url": "https://pbs.twimg.com/news_img/1819206524868481025/s0mvuHN9?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1819206524868481025/s0mvuHN9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "迷子のまま前に進み続けた先で、彼女たちが見たものとは『MyGO!!!!!6th LIVE「見つけた景色、たずさえて」』レポート | SPICE - エンタメ特化型情報メディア スパイス",
+              "unwound_url": "https://spice.eplus.jp/articles/330864",
+              "url": "https://t.co/Ooiq6unLGu"
+            },
+            {
+              "display_url": "pic.twitter.com/80B7jBAUJy",
+              "end": 162,
+              "expanded_url": "https://twitter.com/spice_anige/status/1819206528429387910/photo/1",
+              "media_key": "3_1819206519722070019",
+              "start": 139,
+              "url": "https://t.co/80B7jBAUJy"
+            },
+            {
+              "display_url": "pic.twitter.com/80B7jBAUJy",
+              "end": 162,
+              "expanded_url": "https://twitter.com/spice_anige/status/1819206528429387910/photo/1",
+              "media_key": "3_1819206522007879680",
+              "start": 139,
+              "url": "https://t.co/80B7jBAUJy"
+            },
+            {
+              "display_url": "pic.twitter.com/80B7jBAUJy",
+              "end": 162,
+              "expanded_url": "https://twitter.com/spice_anige/status/1819206528429387910/photo/1",
+              "media_key": "3_1819206526340374528",
+              "start": 139,
+              "url": "https://t.co/80B7jBAUJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819206528429387910",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 46549,
+          "like_count": 698,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "迷子のまま前に進み続けた先で、彼女たちが見たものとは『MyGO!!!!!6th LIVE「見つけた景色、たずさえて」』DAY1レポート\n\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO　@bang_dream_mygo https://t.co/Ooiq6unLGu https://t.co/80B7jBAUJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2911,
+          "listed_count": 0,
+          "tweet_count": 526
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-04T08:13:45.000Z",
+        "description": "エンタメ特化型情報メディア「SPICE」アニメ／ゲームのアカウントです。アニメやゲーム、声優関連の最新ニュースやインタビュー、イベントレポートなどをお届けします。【SPICE総合アカウント】@spice_topics 【2.5次元舞台アカウント】@spice_25stage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "spice_topics"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "spice_25stage"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spice.eplus.jp",
+                "end": 23,
+                "expanded_url": "https://spice.eplus.jp/",
+                "start": 0,
+                "url": "https://t.co/hMtrYtm2dd"
+              }
+            ]
+          }
+        },
+        "id": "4121959099",
+        "location": "東京都",
+        "name": "SPICE[アニメ・ゲーム情報メディア]",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/661819142710784000/oHds8TgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19691,
+          "following_count": 272,
+          "like_count": 518,
+          "listed_count": 184,
+          "tweet_count": 22207
+        },
+        "url": "https://t.co/hMtrYtm2dd",
+        "username": "spice_anige",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。7月27日(土)・28日(日) MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」武蔵野の森総合スポーツプラザにて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1817170571727450253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107563,
+          "following_count": 40,
+          "like_count": 190,
+          "listed_count": 558,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

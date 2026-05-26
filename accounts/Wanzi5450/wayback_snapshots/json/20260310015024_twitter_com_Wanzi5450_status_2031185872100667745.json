@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031185866350362624"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2031185872100667745",
+    "created_at": "2026-03-10T01:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T02:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031185872100667745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYpC4xgXGP",
+          "end": 55,
+          "expanded_url": "https://x.com/Wanzi5450/status/2031185872100667745/photo/1",
+          "media_key": "3_2031185866350362624",
+          "start": 32,
+          "url": "https://t.co/VYpC4xgXGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031185872100667745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重新整理了一下然后把鼻子的修容打上了\n打算明天去店里修一下刘海 https://t.co/VYpC4xgXGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031185866350362624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDA4yKSbgAAOqTn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031185866350362624"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2031185872100667745",
+        "created_at": "2026-03-10T01:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T02:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031185872100667745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYpC4xgXGP",
+              "end": 55,
+              "expanded_url": "https://x.com/Wanzi5450/status/2031185872100667745/photo/1",
+              "media_key": "3_2031185866350362624",
+              "start": 32,
+              "url": "https://t.co/VYpC4xgXGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031185872100667745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新整理了一下然后把鼻子的修容打上了\n打算明天去店里修一下刘海 https://t.co/VYpC4xgXGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 230,
+          "like_count": 8814,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 1921
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

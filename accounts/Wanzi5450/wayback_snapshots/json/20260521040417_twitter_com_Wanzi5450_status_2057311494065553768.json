@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056979290223448143",
+    "created_at": "2026-05-21T04:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057311494065553768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675225794375987201",
+          "start": 0,
+          "username": "Trotter55569805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057311494065553768",
+    "in_reply_to_user_id": "1675225794375987201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057301633735020877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trotter55569805 神!!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-21T04:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057311494065553768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675225794375987201",
+              "start": 0,
+              "username": "Trotter55569805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057311494065553768",
+        "in_reply_to_user_id": "1675225794375987201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057301633735020877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trotter55569805 神!!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675225794375987201",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-21T03:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057301633735020877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057301633735020877",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056979290223448143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 神，三文鱼拌饭（ ）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 298,
+          "like_count": 16246,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3901
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T19:32:40.000Z",
+        "description": "失去尊严的人是得不到幸福的",
+        "id": "1675225794375987201",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "✟夏一奎✝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047282445889024000/n3Uld4Br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1130,
+          "like_count": 12985,
+          "listed_count": 2,
+          "media_count": 373,
+          "tweet_count": 5960
+        },
+        "username": "Trotter55569805",
+        "verified": false
+      }
+    ]
+  }
+}

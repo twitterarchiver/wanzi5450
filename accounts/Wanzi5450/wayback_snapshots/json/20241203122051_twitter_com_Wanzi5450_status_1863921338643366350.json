@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863869263788019712"
+      ],
+      "media_source_tweet_id": [
+        "1863869268884119902"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416151893609390081",
+          "name": "LINE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1863921338643366350",
+    "created_at": "2024-12-03T12:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T13:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863921338643366350"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "LINEギフト",
+          "probability": 0.5243,
+          "start": 25,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1014973243164319744",
+          "start": 3,
+          "username": "ngnchiikawa"
+        }
+      ],
+      "urls": [
+        {
+          "description": "人気の「ちいかわ」とLINEギフトがコラボしたスタンプが登場♪LINEギフト公式アカウントと友だちになるともらえるよ！配布期間：2025/01/01まで",
+          "display_url": "line.me/S/sticker/3314…",
+          "end": 74,
+          "expanded_url": "https://line.me/S/sticker/33147/?lang=ja&utm_source=gnsh_stickerDetail",
+          "images": [
+            {
+              "height": 240,
+              "url": "https://pbs.twimg.com/news_img/1863773511732568064/DG2miqNC?format=png&name=orig",
+              "width": 240
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1863773511732568064/DG2miqNC?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 51,
+          "status": 200,
+          "title": "無料スタンプ「ちいかわ × LINEギフト」LINEギフト 公式アカウントを友だち追加でGET! | LINE STORE",
+          "unwound_url": "https://store.line.me/officialaccount/event/sticker/33147/ja",
+          "url": "https://t.co/ZXRUy8Z0na"
+        },
+        {
+          "display_url": "pic.x.com/gAl9EfF08b",
+          "end": 98,
+          "expanded_url": "https://x.com/ngnchiikawa/status/1863869268884119902/photo/1",
+          "media_key": "3_1863869263788019712",
+          "start": 75,
+          "url": "https://t.co/gAl9EfF08b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863921338643366350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7674
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863869268884119902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ngnchiikawa: 「ちいかわ × LINEギフト」\n無料スタンプが配信されました☃️\nhttps://t.co/ZXRUy8Z0na https://t.co/gAl9EfF08b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1863,
+        "media_key": "3_1863869263788019712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd3LOF_akAAXkfz.jpg",
+        "width": 1827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863869263788019712"
+          ],
+          "media_source_tweet_id": [
+            "1863869268884119902"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1863921338643366350",
+        "created_at": "2024-12-03T12:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T13:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863921338643366350"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "LINEギフト",
+              "probability": 0.5243,
+              "start": 25,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1014973243164319744",
+              "start": 3,
+              "username": "ngnchiikawa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "人気の「ちいかわ」とLINEギフトがコラボしたスタンプが登場♪LINEギフト公式アカウントと友だちになるともらえるよ！配布期間：2025/01/01まで",
+              "display_url": "line.me/S/sticker/3314…",
+              "end": 74,
+              "expanded_url": "https://line.me/S/sticker/33147/?lang=ja&utm_source=gnsh_stickerDetail",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/1863773511732568064/DG2miqNC?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1863773511732568064/DG2miqNC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "無料スタンプ「ちいかわ × LINEギフト」LINEギフト 公式アカウントを友だち追加でGET! | LINE STORE",
+              "unwound_url": "https://store.line.me/officialaccount/event/sticker/33147/ja",
+              "url": "https://t.co/ZXRUy8Z0na"
+            },
+            {
+              "display_url": "pic.x.com/gAl9EfF08b",
+              "end": 98,
+              "expanded_url": "https://x.com/ngnchiikawa/status/1863869268884119902/photo/1",
+              "media_key": "3_1863869263788019712",
+              "start": 75,
+              "url": "https://t.co/gAl9EfF08b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863921338643366350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7674
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863869268884119902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ngnchiikawa: 「ちいかわ × LINEギフト」\n無料スタンプが配信されました☃️\nhttps://t.co/ZXRUy8Z0na https://t.co/gAl9EfF08b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863869263788019712"
+          ]
+        },
+        "author_id": "1014973243164319744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1863869268884119902",
+        "created_at": "2024-12-03T08:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T09:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863869268884119902"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "LINEギフト",
+              "probability": 0.4996,
+              "start": 8,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "人気の「ちいかわ」とLINEギフトがコラボしたスタンプが登場♪LINEギフト公式アカウントと友だちになるともらえるよ！配布期間：2025/01/01まで",
+              "display_url": "line.me/S/sticker/3314…",
+              "end": 57,
+              "expanded_url": "https://line.me/S/sticker/33147/?lang=ja&utm_source=gnsh_stickerDetail",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/1863773511732568064/DG2miqNC?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1863773511732568064/DG2miqNC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "無料スタンプ「ちいかわ × LINEギフト」LINEギフト 公式アカウントを友だち追加でGET! | LINE STORE",
+              "unwound_url": "https://store.line.me/officialaccount/event/sticker/33147/ja",
+              "url": "https://t.co/ZXRUy8Z0na"
+            },
+            {
+              "display_url": "pic.x.com/gAl9EfF08b",
+              "end": 81,
+              "expanded_url": "https://x.com/ngnchiikawa/status/1863869268884119902/photo/1",
+              "media_key": "3_1863869263788019712",
+              "start": 58,
+              "url": "https://t.co/gAl9EfF08b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863869268884119902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2187,
+          "impression_count": 1721892,
+          "like_count": 44871,
+          "quote_count": 690,
+          "reply_count": 173,
+          "retweet_count": 7674
+        },
+        "reply_settings": "everyone",
+        "text": "「ちいかわ × LINEギフト」\n無料スタンプが配信されました☃️\nhttps://t.co/ZXRUy8Z0na https://t.co/gAl9EfF08b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 3917,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 798
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-05T20:44:13.000Z",
+        "description": "ちいかわ。(ナガノ@ngntrtr) お仕事のご依頼はこちらまで【https://t.co/Ogh4mmnwz2】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "ngntrtr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spiralcute.com/contact/index",
+                "end": 56,
+                "expanded_url": "https://spiralcute.com/contact/index",
+                "start": 33,
+                "url": "https://t.co/Ogh4mmnwz2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiikawa-market.jp",
+                "end": 23,
+                "expanded_url": "https://chiikawa-market.jp/",
+                "start": 0,
+                "url": "https://t.co/Snp5KqzJI6"
+              }
+            ]
+          }
+        },
+        "id": "1014973243164319744",
+        "name": "ちいかわ💫アニメ火金",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1210137605234278400/IAozvMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3606096,
+          "following_count": 11,
+          "like_count": 4547,
+          "listed_count": 5,
+          "media_count": 1316,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/Snp5KqzJI6",
+        "username": "ngnchiikawa",
+        "verified": true
+      }
+    ]
+  }
+}

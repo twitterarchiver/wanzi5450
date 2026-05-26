@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1835273545171227011",
+    "created_at": "2024-09-15T11:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T12:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835273545171227011"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 72,
+          "normalized_text": "BanG Dream! It's MyGO!!!!!",
+          "probability": 0.8882,
+          "start": 47,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "TOKYO TOWER",
+          "probability": 0.4265,
+          "start": 75,
+          "type": "Organization"
+        },
+        {
+          "end": 138,
+          "normalized_text": "東京",
+          "probability": 0.8762,
+          "start": 137,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "MyGO"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "東京タワー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1377932520885383168",
+          "start": 3,
+          "username": "colab_tokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835273545171227011",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834511298467693053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @colab_tokyo: 【📢お知らせ 】\n#MyGO × #東京タワー\n【劇場版「BanG Dream! It's MyGO!!!!!」×TOKYO TOWER】\n\nコラボイベント開催決定\n期間：2024年10月2日(水)〜2024年10月30日(水)迄\n場所：東京タ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1835273545171227011",
+        "created_at": "2024-09-15T11:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T12:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835273545171227011"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.8882,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "TOKYO TOWER",
+              "probability": 0.4265,
+              "start": 75,
+              "type": "Organization"
+            },
+            {
+              "end": 138,
+              "normalized_text": "東京",
+              "probability": 0.8762,
+              "start": 137,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "MyGO"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "東京タワー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1377932520885383168",
+              "start": 3,
+              "username": "colab_tokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835273545171227011",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834511298467693053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @colab_tokyo: 【📢お知らせ 】\n#MyGO × #東京タワー\n【劇場版「BanG Dream! It's MyGO!!!!!」×TOKYO TOWER】\n\nコラボイベント開催決定\n期間：2024年10月2日(水)〜2024年10月30日(水)迄\n場所：東京タ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834511293384134656"
+          ]
+        },
+        "author_id": "1377932520885383168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1834511298467693053",
+        "created_at": "2024-09-13T08:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T09:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834511298467693053"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.889,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "TOKYO TOWER",
+              "probability": 0.4123,
+              "start": 58,
+              "type": "Organization"
+            },
+            {
+              "end": 146,
+              "normalized_text": "東京タワー フットタウン2階 Co・Lab-TOKYO",
+              "probability": 0.4042,
+              "start": 120,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "MyGO"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "東京タワー"
+            },
+            {
+              "end": 183,
+              "start": 178,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 189,
+              "start": 184,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ux0u6rcc6f",
+              "end": 214,
+              "expanded_url": "https://twitter.com/colab_tokyo/status/1834511298467693053/photo/1",
+              "media_key": "3_1834511293384134656",
+              "start": 191,
+              "url": "https://t.co/ux0U6rCC6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834511298467693053",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 348768,
+          "like_count": 4014,
+          "quote_count": 256,
+          "reply_count": 9,
+          "retweet_count": 1282
+        },
+        "reply_settings": "everyone",
+        "text": "【📢お知らせ 】\n#MyGO × #東京タワー\n【劇場版「BanG Dream! It's MyGO!!!!!」×TOKYO TOWER】\n\nコラボイベント開催決定\n期間：2024年10月2日(水)〜2024年10月30日(水)迄\n場所：東京タワー フットタウン2階 Co・Lab-TOKYO-\n\nイベント詳細は追ってお知らせ致します😁\n\nお楽しみに🗼\n\n#バンドリ #MyGO… https://t.co/ux0U6rCC6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 3087,
+          "listed_count": 0,
+          "tweet_count": 586
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T10:35:29.000Z",
+        "description": "アニメ・ゲーム・タレント・動画クリエイターとのコラボショップ 「Co・Lab-TOKYO-」の公式アカウントです。 ポップアップショップ情報、商品情報等を更新していきます！ 発信専用です。EC SHOP→https://t.co/zyrvm9gxnh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "colabtokyo001.stores.jp",
+                "end": 125,
+                "expanded_url": "http://colabtokyo001.stores.jp",
+                "start": 102,
+                "url": "https://t.co/zyrvm9gxnh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "colabtokyo.hp.peraichi.com",
+                "end": 23,
+                "expanded_url": "https://colabtokyo.hp.peraichi.com/",
+                "start": 0,
+                "url": "https://t.co/BMn4wyz7TB"
+              }
+            ]
+          }
+        },
+        "id": "1377932520885383168",
+        "location": "東京タワー内フットタウン2階にて営業中！",
+        "name": "Co・Lab-TOKYO-🗼",
+        "pinned_tweet_id": "1831129322276687955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379007942205206532/zb2avLV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16394,
+          "following_count": 87,
+          "like_count": 3792,
+          "listed_count": 28,
+          "tweet_count": 4460
+        },
+        "url": "https://t.co/BMn4wyz7TB",
+        "username": "colab_tokyo",
+        "verified": true
+      }
+    ]
+  }
+}

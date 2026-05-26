@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046177381728309266",
+    "created_at": "2026-04-20T12:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046198891046207506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938246407225532416",
+          "start": 0,
+          "username": "Haze591200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046198891046207506",
+    "in_reply_to_user_id": "1938246407225532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046198170481221815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haze591200 🥺🥺\n我会的…！最近有好朋友在陪我度过…还有推特上的大家\n谢谢Mia！！！😭我明天就去吃好吃的！嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046177381728309266",
+        "created_at": "2026-04-20T12:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046198891046207506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046198891046207506",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046198170481221815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 🥺🥺\n我会的…！最近有好朋友在陪我度过…还有推特上的大家\n谢谢Mia！！！😭我明天就去吃好吃的！嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938246407225532416",
+        "conversation_id": "2046177381728309266",
+        "created_at": "2026-04-20T12:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046198170481221815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046198170481221815",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046177381728309266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 对自己好一点！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 274,
+          "like_count": 12413,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 3347
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/Db8DtXcjNC"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "name": "Mia",
+        "pinned_tweet_id": "1998015978366800109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 311,
+          "like_count": 7127,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 4492
+        },
+        "url": "https://t.co/Db8DtXcjNC",
+        "username": "Haze591200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046170111250514158",
+    "created_at": "2026-04-20T10:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046172285858668955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816508247651860480",
+          "start": 0,
+          "username": "DIC_EWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046172285858668955",
+    "in_reply_to_user_id": "1816508247651860480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046170111250514158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIC_EWE 幸福了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2046170108125753344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV030zbsAApHjn.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046170111250514158",
+        "created_at": "2026-04-20T10:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046172285858668955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DIC_EWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046172285858668955",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046170111250514158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIC_EWE 幸福了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046170108125753344"
+          ]
+        },
+        "author_id": "1816508247651860480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046170111250514158",
+        "created_at": "2026-04-20T10:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046170111250514158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9xte8qmOy",
+              "end": 35,
+              "expanded_url": "https://x.com/DIC_EWE/status/2046170111250514158/photo/1",
+              "media_key": "3_2046170108125753344",
+              "start": 12,
+              "url": "https://t.co/I9xte8qmOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046170111250514158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝说句话就够我爽的了 https://t.co/I9xte8qmOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 274,
+          "like_count": 12372,
+          "listed_count": 0,
+          "media_count": 472,
+          "tweet_count": 3336
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "讨厌很多东西\n本人十分极端\n别给我发吊照，再发剪了\n丨@KuaiWo34671 爱人丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "1816508247651860480",
+        "location": "我家",
+        "name": "大骰目（淡推）",
+        "pinned_tweet_id": "2033065286291820762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 250,
+          "like_count": 6332,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1493
+        },
+        "username": "DIC_EWE",
+        "verified": false
+      }
+    ]
+  }
+}

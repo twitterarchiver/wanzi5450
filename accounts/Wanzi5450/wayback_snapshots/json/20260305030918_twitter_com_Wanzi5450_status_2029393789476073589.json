@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029393782807117824"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2029393789476073589",
+    "created_at": "2026-03-05T03:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029393789476073589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRhwqKwnKA",
+          "end": 28,
+          "expanded_url": "https://x.com/Wanzi5450/status/2029393789476073589/photo/1",
+          "media_key": "3_2029393782807117824",
+          "start": 5,
+          "url": "https://t.co/aRhwqKwnKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029393789476073589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肥皂泡泡 https://t.co/aRhwqKwnKA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029393782807117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCna5K2awAAclBs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029393782807117824"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2029393789476073589",
+        "created_at": "2026-03-05T03:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029393789476073589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRhwqKwnKA",
+              "end": 28,
+              "expanded_url": "https://x.com/Wanzi5450/status/2029393789476073589/photo/1",
+              "media_key": "3_2029393782807117824",
+              "start": 5,
+              "url": "https://t.co/aRhwqKwnKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029393789476073589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肥皂泡泡 https://t.co/aRhwqKwnKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 216,
+          "like_count": 8573,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1778
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

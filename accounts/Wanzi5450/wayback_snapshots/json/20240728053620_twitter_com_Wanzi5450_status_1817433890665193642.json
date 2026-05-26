@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817218588815888384"
+      ],
+      "media_source_tweet_id": [
+        "1817218593828082019"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1817433890665193642",
+    "created_at": "2024-07-28T05:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T06:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817433890665193642"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "MyGO"
+        },
+        {
+          "end": 32,
+          "start": 21,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654013096757952512",
+          "start": 3,
+          "username": "latte_bf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/vkBTs4y8WP",
+          "end": 56,
+          "expanded_url": "https://twitter.com/latte_bf/status/1817218593828082019/photo/1",
+          "media_key": "3_1817218588815888384",
+          "start": 33,
+          "url": "https://t.co/vkBTs4y8WP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817433890665193642",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817218593828082019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @latte_bf: #MyGO  #bandoriart https://t.co/vkBTs4y8WP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_1817218588815888384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTgOrbGbkAAyNAK.jpg",
+        "width": 1782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817218588815888384"
+          ],
+          "media_source_tweet_id": [
+            "1817218593828082019"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1817433890665193642",
+        "created_at": "2024-07-28T05:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817433890665193642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "MyGO"
+            },
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654013096757952512",
+              "start": 3,
+              "username": "latte_bf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vkBTs4y8WP",
+              "end": 56,
+              "expanded_url": "https://twitter.com/latte_bf/status/1817218593828082019/photo/1",
+              "media_key": "3_1817218588815888384",
+              "start": 33,
+              "url": "https://t.co/vkBTs4y8WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817433890665193642",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817218593828082019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @latte_bf: #MyGO  #bandoriart https://t.co/vkBTs4y8WP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817218588815888384"
+          ]
+        },
+        "author_id": "1654013096757952512",
+        "conversation_id": "1817218593828082019",
+        "created_at": "2024-07-27T15:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T16:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817218593828082019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            },
+            {
+              "end": 18,
+              "start": 7,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vkBTs4y8WP",
+              "end": 42,
+              "expanded_url": "https://twitter.com/latte_bf/status/1817218593828082019/photo/1",
+              "media_key": "3_1817218588815888384",
+              "start": 19,
+              "url": "https://t.co/vkBTs4y8WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817218593828082019",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 10268,
+          "like_count": 664,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO  #bandoriart https://t.co/vkBTs4y8WP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2852,
+          "listed_count": 0,
+          "tweet_count": 504
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:40:34.000Z",
+        "description": "低浮上 絵練習中 バンドリ中心雑多",
+        "id": "1654013096757952512",
+        "name": "らて",
+        "pinned_tweet_id": "1726979214036123947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801158401759821824/NCmUL40L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 6,
+          "like_count": 24,
+          "listed_count": 0,
+          "tweet_count": 21
+        },
+        "username": "latte_bf",
+        "verified": false
+      }
+    ]
+  }
+}

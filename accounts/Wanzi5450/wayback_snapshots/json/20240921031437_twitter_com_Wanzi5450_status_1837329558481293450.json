@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kawasaki",
+          "id": "1009168947009032192",
+          "name": "Kawasaki"
+        }
+      }
+    ],
+    "conversation_id": "1837329558481293450",
+    "created_at": "2024-09-21T03:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T04:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837329558481293450"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "川崎CLUB CITTA’",
+          "probability": 0.216,
+          "start": 27,
+          "type": "Organization"
+        },
+        {
+          "end": 53,
+          "normalized_text": "ガールズバンドクライ",
+          "probability": 0.5508,
+          "start": 44,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1501970341",
+          "start": 3,
+          "username": "realsoundjp"
+        }
+      ],
+      "urls": [
+        {
+          "description": "9月13日、川崎・CLUB CITTA’にて開催されたテレビアニメ『ガールズバンドクライ』の劇中ガールズバンド、トゲナシトゲアリの『2ndワンマンライブ“凛音の理”』の模様をレポートする。",
+          "display_url": "realsound.jp/2024/09/post-1…",
+          "end": 118,
+          "expanded_url": "https://realsound.jp/2024/09/post-1783087.html",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/1836239427292831744/SGgUE0uF?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1836239427292831744/SGgUE0uF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 95,
+          "status": 200,
+          "title": "トゲナシトゲアリ、『ガルクラ』とリアルが交差した特別なステージ　“聖地”川崎CLUB CITTA’に残した成長の爪痕",
+          "unwound_url": "https://realsound.jp/2024/09/post-1783087.html",
+          "url": "https://t.co/CxAIcFbvtx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837329558481293450",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836733370707124647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realsoundjp: 【トゲナシトゲアリ＠川崎CLUB CITTA’】\n\n『ガールズバンドクライ』とリアルが交差した特別なステージ\n“聖地”に残した成長の爪痕、ライブレポート！\nhttps://t.co/CxAIcFbvtx\n\n╋━━━━━━━━━━━━━\n　写真は…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "1837329558481293450",
+        "created_at": "2024-09-21T03:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837329558481293450"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "川崎CLUB CITTA’",
+              "probability": 0.216,
+              "start": 27,
+              "type": "Organization"
+            },
+            {
+              "end": 53,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.5508,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1501970341",
+              "start": 3,
+              "username": "realsoundjp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "9月13日、川崎・CLUB CITTA’にて開催されたテレビアニメ『ガールズバンドクライ』の劇中ガールズバンド、トゲナシトゲアリの『2ndワンマンライブ“凛音の理”』の模様をレポートする。",
+              "display_url": "realsound.jp/2024/09/post-1…",
+              "end": 118,
+              "expanded_url": "https://realsound.jp/2024/09/post-1783087.html",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1836239427292831744/SGgUE0uF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1836239427292831744/SGgUE0uF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "トゲナシトゲアリ、『ガルクラ』とリアルが交差した特別なステージ　“聖地”川崎CLUB CITTA’に残した成長の爪痕",
+              "unwound_url": "https://realsound.jp/2024/09/post-1783087.html",
+              "url": "https://t.co/CxAIcFbvtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837329558481293450",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836733370707124647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realsoundjp: 【トゲナシトゲアリ＠川崎CLUB CITTA’】\n\n『ガールズバンドクライ』とリアルが交差した特別なステージ\n“聖地”に残した成長の爪痕、ライブレポート！\nhttps://t.co/CxAIcFbvtx\n\n╋━━━━━━━━━━━━━\n　写真は…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836733002153701376",
+            "3_1836733248921387008",
+            "3_1836733273248284672",
+            "3_1836733343083442176"
+          ]
+        },
+        "author_id": "1501970341",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music News",
+              "id": "1099779369357082624",
+              "name": "Music news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "1836733370707124647",
+        "created_at": "2024-09-19T11:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T12:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836733370707124647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "川崎CLUB CITTA",
+              "probability": 0.4078,
+              "start": 10,
+              "type": "Organization"
+            },
+            {
+              "end": 36,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.5898,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "9月13日、川崎・CLUB CITTA’にて開催されたテレビアニメ『ガールズバンドクライ』の劇中ガールズバンド、トゲナシトゲアリの『2ndワンマンライブ“凛音の理”』の模様をレポートする。",
+              "display_url": "realsound.jp/2024/09/post-1…",
+              "end": 101,
+              "expanded_url": "https://realsound.jp/2024/09/post-1783087.html",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1836239427292831744/SGgUE0uF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1836239427292831744/SGgUE0uF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "トゲナシトゲアリ、『ガルクラ』とリアルが交差した特別なステージ　“聖地”川崎CLUB CITTA’に残した成長の爪痕",
+              "unwound_url": "https://realsound.jp/2024/09/post-1783087.html",
+              "url": "https://t.co/CxAIcFbvtx"
+            },
+            {
+              "description": "音楽シーンをもっと楽しく！　「リアルサウンド」は、音楽とホンネで向き合う人たちのための、音楽・アーティスト情報、作品レビューの総合サイトです。",
+              "display_url": "realsound.jp/2024/09/post-1…",
+              "end": 157,
+              "expanded_url": "https://realsound.jp/2024/09/post-1783087.html/photo",
+              "images": [
+                {
+                  "height": 633,
+                  "url": "https://pbs.twimg.com/news_img/1836360562974035969/xk3oIQw0?format=jpg&name=orig",
+                  "width": 950
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1836360562974035969/xk3oIQw0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "トゲナシトゲアリ、聖地に刻んだ成長の画像一覧 - Real Sound｜リアルサウンド",
+              "unwound_url": "https://realsound.jp/2024/09/post-1783087.html/photo/20240917-togenashitogeari-01",
+              "url": "https://t.co/2hf5bpF7H1"
+            },
+            {
+              "display_url": "pic.x.com/oqsnebqdfq",
+              "end": 197,
+              "expanded_url": "https://twitter.com/realsoundjp/status/1836733370707124647/photo/1",
+              "media_key": "3_1836733002153701376",
+              "start": 174,
+              "url": "https://t.co/oqsNEBqdfQ"
+            },
+            {
+              "display_url": "pic.x.com/oqsnebqdfq",
+              "end": 197,
+              "expanded_url": "https://twitter.com/realsoundjp/status/1836733370707124647/photo/1",
+              "media_key": "3_1836733248921387008",
+              "start": 174,
+              "url": "https://t.co/oqsNEBqdfQ"
+            },
+            {
+              "display_url": "pic.x.com/oqsnebqdfq",
+              "end": 197,
+              "expanded_url": "https://twitter.com/realsoundjp/status/1836733370707124647/photo/1",
+              "media_key": "3_1836733273248284672",
+              "start": 174,
+              "url": "https://t.co/oqsNEBqdfQ"
+            },
+            {
+              "display_url": "pic.x.com/oqsnebqdfq",
+              "end": 197,
+              "expanded_url": "https://twitter.com/realsoundjp/status/1836733370707124647/photo/1",
+              "media_key": "3_1836733343083442176",
+              "start": 174,
+              "url": "https://t.co/oqsNEBqdfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836733370707124647",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 51878,
+          "like_count": 1023,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "【トゲナシトゲアリ＠川崎CLUB CITTA’】\n\n『ガールズバンドクライ』とリアルが交差した特別なステージ\n“聖地”に残した成長の爪痕、ライブレポート！\nhttps://t.co/CxAIcFbvtx\n\n╋━━━━━━━━━━━━━\n　写真はこちら🎸（全18枚）\n　https://t.co/2hf5bpF7H1\n━━━━━━━━━━━━━╋… https://t.co/oqsNEBqdfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3174,
+          "listed_count": 0,
+          "tweet_count": 611
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-11T11:10:30.000Z",
+        "description": "「リアルサウンド」公式アカウントです。注目アーティストへのインタビューから、最新音楽ニュース、本気の作品レビュー・業界分析まで、「音楽シーンの今」が分かる記事をお届けします。 映画アカウント @realsound_m テックアカウント @realsound_tech ブックアカウント @realsound_b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "realsound_m"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "realsound_tech"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "realsound_b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "realsound.jp",
+                "end": 23,
+                "expanded_url": "http://realsound.jp",
+                "start": 0,
+                "url": "https://t.co/eEByeLWFf1"
+              }
+            ]
+          }
+        },
+        "id": "1501970341",
+        "name": "Real Sound（リアルサウンド）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/629118130678149121/Kzm3jwVS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313490,
+          "following_count": 87,
+          "like_count": 315,
+          "listed_count": 1331,
+          "tweet_count": 102562
+        },
+        "url": "https://t.co/eEByeLWFf1",
+        "username": "realsoundjp",
+        "verified": true
+      }
+    ]
+  }
+}

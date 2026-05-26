@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835232087332601856"
+      ],
+      "media_source_tweet_id": [
+        "1835232272917971359"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1835273602364805230",
+    "created_at": "2024-09-15T11:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T12:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835273602364805230"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1472116691354419208",
+          "start": 3,
+          "username": "pe0e07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/de8iptk4c6",
+          "end": 46,
+          "expanded_url": "https://twitter.com/pe0e07/status/1835232272917971359/photo/1",
+          "media_key": "3_1835232087332601856",
+          "start": 23,
+          "url": "https://t.co/De8IpTK4c6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835273602364805230",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835232272917971359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pe0e07: 息抜き絵\n#MyGO https://t.co/De8IpTK4c6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1425,
+        "media_key": "3_1835232087332601856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXgN3CXbwAAVsHA.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835232087332601856"
+          ],
+          "media_source_tweet_id": [
+            "1835232272917971359"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1835273602364805230",
+        "created_at": "2024-09-15T11:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T12:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835273602364805230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1472116691354419208",
+              "start": 3,
+              "username": "pe0e07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/de8iptk4c6",
+              "end": 46,
+              "expanded_url": "https://twitter.com/pe0e07/status/1835232272917971359/photo/1",
+              "media_key": "3_1835232087332601856",
+              "start": 23,
+              "url": "https://t.co/De8IpTK4c6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835273602364805230",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835232272917971359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pe0e07: 息抜き絵\n#MyGO https://t.co/De8IpTK4c6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835232087332601856"
+          ]
+        },
+        "author_id": "1472116691354419208",
+        "conversation_id": "1835232272917971359",
+        "created_at": "2024-09-15T08:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T09:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835232272917971359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/de8iptk4c6",
+              "end": 34,
+              "expanded_url": "https://twitter.com/pe0e07/status/1835232272917971359/photo/1",
+              "media_key": "3_1835232087332601856",
+              "start": 11,
+              "url": "https://t.co/De8IpTK4c6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835232272917971359",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 20388,
+          "like_count": 1390,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "息抜き絵\n#MyGO https://t.co/De8IpTK4c6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 3092,
+          "listed_count": 0,
+          "tweet_count": 589
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T08:10:05.000Z",
+        "description": "20↑3Lイラスト練習 https://t.co/vB36UmG1et(オリジナルのみ・V関係はご本人様の許可必須・グッズ化など商用不可)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pe0e07",
+                "end": 35,
+                "expanded_url": "http://skeb.jp/@pe0e07",
+                "start": 12,
+                "url": "https://t.co/vB36UmG1et"
+              }
+            ]
+          }
+        },
+        "id": "1472116691354419208",
+        "location": "使用・転載・AI学習×",
+        "name": "ロコ",
+        "pinned_tweet_id": "1814905100554678618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830170292808769538/B7woag4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11485,
+          "following_count": 61,
+          "like_count": 2839,
+          "listed_count": 152,
+          "tweet_count": 339
+        },
+        "username": "pe0e07",
+        "verified": false
+      }
+    ]
+  }
+}

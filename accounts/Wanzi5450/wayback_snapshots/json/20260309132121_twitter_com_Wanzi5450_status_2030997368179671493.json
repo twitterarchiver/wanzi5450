@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030997274302795778"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2030997368179671493",
+    "created_at": "2026-03-09T13:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030997368179671493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kfgVnUNA7x",
+          "end": 37,
+          "expanded_url": "https://x.com/Wanzi5450/status/2030997368179671493/video/1",
+          "media_key": "13_2030997274302795778",
+          "start": 14,
+          "url": "https://t.co/kfgVnUNA7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030997368179671493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只是在炫耀新脑袋的丸子小姐 https://t.co/kfgVnUNA7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51526,
+        "height": 1280,
+        "media_key": "13_2030997274302795778",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030997274302795778/img/vKrfvI8Cd-eS3uFk.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030997274302795778/vid/avc1/320x568/M7lvziQU8cp7cn21.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030997274302795778/vid/avc1/480x852/42e5A5bcdvFJrxRo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030997274302795778/vid/avc1/720x1280/rlJPZBhvFYAfIJu6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030997274302795778/pl/U1NtDorqdbEhAu1P.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030997274302795778"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2030997368179671493",
+        "created_at": "2026-03-09T13:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030997368179671493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfgVnUNA7x",
+              "end": 37,
+              "expanded_url": "https://x.com/Wanzi5450/status/2030997368179671493/video/1",
+              "media_key": "13_2030997274302795778",
+              "start": 14,
+              "url": "https://t.co/kfgVnUNA7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030997368179671493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是在炫耀新脑袋的丸子小姐 https://t.co/kfgVnUNA7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 228,
+          "like_count": 8772,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 1898
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

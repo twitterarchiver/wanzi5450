@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1817433624674988511",
+    "created_at": "2024-07-28T05:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T06:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817433624674988511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817433624674988511",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1058
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817187975639257170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: 皆さん、暑い中本当にありがとうございます😭\n明日も水分や塩分をとりながら、熱中症に気をつけて沢山楽しんでいただけたら嬉しいです…！！\n\n絶対無理だけはしないでね…！！😭\n皆で元気に！！最高の2日間にしましょう！！🧭✨\n#見つけた景色たずさえて…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1817433624674988511",
+        "created_at": "2024-07-28T05:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817433624674988511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817433624674988511",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1058
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817187975639257170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: 皆さん、暑い中本当にありがとうございます😭\n明日も水分や塩分をとりながら、熱中症に気をつけて沢山楽しんでいただけたら嬉しいです…！！\n\n絶対無理だけはしないでね…！！😭\n皆で元気に！！最高の2日間にしましょう！！🧭✨\n#見つけた景色たずさえて…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817187967322169344",
+            "3_1817187967313891328"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1817187975639257170",
+        "created_at": "2024-07-27T13:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T14:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817187975639257170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 109,
+              "tag": "見つけた景色たずさえてDAY1"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OJZKoYKuLt",
+              "end": 161,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1817187975639257170/photo/1",
+              "media_key": "3_1817187967322169344",
+              "start": 138,
+              "url": "https://t.co/OJZKoYKuLt"
+            },
+            {
+              "display_url": "pic.twitter.com/OJZKoYKuLt",
+              "end": 161,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1817187975639257170/photo/1",
+              "media_key": "3_1817187967313891328",
+              "start": 138,
+              "url": "https://t.co/OJZKoYKuLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817187975639257170",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 95738,
+          "like_count": 5788,
+          "quote_count": 50,
+          "reply_count": 132,
+          "retweet_count": 1058
+        },
+        "reply_settings": "everyone",
+        "text": "皆さん、暑い中本当にありがとうございます😭\n明日も水分や塩分をとりながら、熱中症に気をつけて沢山楽しんでいただけたら嬉しいです…！！\n\n絶対無理だけはしないでね…！！😭\n皆で元気に！！最高の2日間にしましょう！！🧭✨\n#見つけた景色たずさえてDAY1\n#バンドリ #MyGO https://t.co/OJZKoYKuLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2836,
+          "listed_count": 0,
+          "tweet_count": 492
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ【朗読劇】#ルームシェアの恩人/ナギサ #リトルノエル/シュウジ 【ラジオ】#小日向美香のラジラブ！ #よりこのうたラジ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "ルームシェアの恩人"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "リトルノエル"
+              },
+              {
+                "end": 147,
+                "start": 136,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "tag": "よりこのうたラジ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "name": "小日向美香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43584,
+          "following_count": 327,
+          "like_count": 3976,
+          "listed_count": 472,
+          "tweet_count": 3081
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": false
+      }
+    ]
+  }
+}

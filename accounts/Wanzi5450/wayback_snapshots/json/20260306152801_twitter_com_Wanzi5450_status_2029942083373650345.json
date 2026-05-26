@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2029940481090802158",
+    "created_at": "2026-03-06T15:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029942083373650345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029942083373650345",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029940481090802158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 我之前还考虑过惠州…？虽然目前还不太想一个人租房"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2029940470613434368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvMGloaYAAOR1f.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2029940481090802158",
+        "created_at": "2026-03-06T15:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029942083373650345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029942083373650345",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029940481090802158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我之前还考虑过惠州…？虽然目前还不太想一个人租房"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029940470613434368"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029940481090802158",
+        "created_at": "2026-03-06T15:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029940481090802158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZB6PZQrB7f",
+              "end": 54,
+              "expanded_url": "https://x.com/maipianaini0930/status/2029940481090802158/photo/1",
+              "media_key": "3_2029940470613434368",
+              "start": 31,
+              "url": "https://t.co/ZB6PZQrB7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029940481090802158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是个很让人心动的价格，铁西区就是国内的小哈林，我会住的很开心 https://t.co/ZB6PZQrB7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 219,
+          "like_count": 8624,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1812
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 212,
+          "like_count": 5541,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 1779
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

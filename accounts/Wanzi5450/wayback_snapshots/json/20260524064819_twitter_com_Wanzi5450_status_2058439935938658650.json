@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2058248889996837351",
+    "created_at": "2026-05-24T06:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058439935938658650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "naonao_927050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058439935938658650",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058248889996837351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naonao_927050 黄瓜薯片好吃!!!!!"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058248889996837351].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058248889996837351",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058248889996837351"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2058248889996837351",
+        "created_at": "2026-05-24T06:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058439935938658650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058439935938658650",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058248889996837351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naonao_927050 黄瓜薯片好吃!!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 302,
+          "like_count": 16576,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 3953
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "Computer Architect  |\n\nVandelay  Technologies",
+        "id": "1823835476366692352",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "丢了城的城主",
+        "pinned_tweet_id": "2044471949649461605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047037847324999681/xNZaJ9f3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 863,
+          "like_count": 75695,
+          "listed_count": 3,
+          "media_count": 1387,
+          "tweet_count": 17890
+        },
+        "username": "naonao_927050",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "1859901693653324254",
+    "created_at": "2024-11-22T10:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T11:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859901693653324254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "738199700914872320",
+          "start": 3,
+          "username": "nbuna_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859901693653324254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1092
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859615419268743656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbuna_staff: 自分と明らかに異なる要素を持っている他人を見た時、僕はとても純粋な喜びを感じる。作品の制作はいつも自身と行なう会話のようなもので、作品外でまで自分と似た人間と話したとして、それは全くつまらない。自分の想像力の外側にしか本当の意味で面白いものはな…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "1859901693653324254",
+        "created_at": "2024-11-22T10:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859901693653324254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "738199700914872320",
+              "start": 3,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859901693653324254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1092
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859615419268743656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbuna_staff: 自分と明らかに異なる要素を持っている他人を見た時、僕はとても純粋な喜びを感じる。作品の制作はいつも自身と行なう会話のようなもので、作品外でまで自分と似た人間と話したとして、それは全くつまらない。自分の想像力の外側にしか本当の意味で面白いものはな…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "1859613110073688487",
+        "created_at": "2024-11-21T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859615419268743656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859615419268743656",
+        "in_reply_to_user_id": "738199700914872320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "自分と明らかに異なる要素を持っている他人を見た時、僕はとても純粋な喜びを感じる。作品の制作はいつも自身と行なう会話のようなもので、作品外でまで自分と似た人間と話したとして、それは全くつまらない。自分の想像力の外側にしか本当の意味で面白いものはない。\n永戸鉄也という人の作品はいつでも鮮烈な浮遊感を湛えている。即興のジャズ的であって、同時に計算されたパズル的な必然性を感じることもあれば、子供のような純粋さが垣間見える瞬間もある。古書から博物館が公開するデジタルデータまで素材を選ばずコラージュした絵を制作したかと思えば、そのコラージュアートを3Dプリントした彫刻を現実に展示したりもする。\nそんな彼と、一つの同じテーマを共有して、音楽とグラフィックという二つの異なる創作を行ったとき、僕たちの間にどういう差異を見ることが出来るだろうというのが「太陽」の出発点だった。\n永戸さんには一枚の絵を依頼することになった。同時に作品の制作過程を撮影して、一本の動画にまとめてもらうことにした。暫く後、いざ出来上がった作品を見てみると、彼は一枚ではなく、何故か五枚の絵を描いていた。映像は絵の制作だけでは終わらず、最終的には壁に絵や羽根を貼り付けながら巨大な何かを作り始めている。絵を一枚描いてもらうだけの筈だったのに。僕は何だか無性に、嬉しくなっている。\n\nn-buna"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 568,
+          "impression_count": 163953,
+          "like_count": 6710,
+          "quote_count": 39,
+          "reply_count": 4,
+          "retweet_count": 1092
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859613110073688487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自分と明らかに異なる要素を持っている他人を見た時、僕はとても純粋な喜びを感じる。作品の制作はいつも自身と行なう会話のようなもので、作品外でまで自分と似た人間と話したとして、それは全くつまらない。自分の想像力の外側にしか本当の意味で面白いものはない。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 3722,
+          "listed_count": 0,
+          "tweet_count": 762
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610466,
+          "following_count": 6,
+          "like_count": 1165,
+          "listed_count": 3091,
+          "tweet_count": 4602
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}

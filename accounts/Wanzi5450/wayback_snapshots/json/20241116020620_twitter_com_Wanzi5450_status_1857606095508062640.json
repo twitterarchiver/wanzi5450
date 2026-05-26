@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1857046273829826560"
+      ],
+      "media_source_tweet_id": [
+        "1857046346240332085"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      }
+    ],
+    "conversation_id": "1857606095508062640",
+    "created_at": "2024-11-16T02:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T03:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857606095508062640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "986275202030907392",
+          "start": 3,
+          "username": "zutomayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZwC9BusCGW",
+          "end": 68,
+          "expanded_url": "https://x.com/zutomayo/status/1857046346240332085/video/1",
+          "media_key": "13_1857046273829826560",
+          "start": 45,
+          "url": "https://t.co/ZwC9BusCGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857606095508062640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5389
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857046346240332085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zutomayo: TAIDADA 弾語り\n\n今日はダンダダン \nリアタイできる https://t.co/ZwC9BusCGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35200,
+        "height": 570,
+        "media_key": "13_1857046273829826560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1857046273829826560/img/zOGLc_5aneXwh-34.jpg",
+        "public_metrics": {
+          "view_count": 323426
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1857046273829826560/vid/avc1/458x270/MpwdCnyLciAV3geN.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1857046273829826560/vid/avc1/610x360/JlHeEZwemF8ob8rs.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1857046273829826560/vid/avc1/968x570/ww66RGCpozppxa-L.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1857046273829826560/pl/hsp-0LQtAd3IJ-_L.m3u8?tag=16"
+          }
+        ],
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1857046273829826560"
+          ],
+          "media_source_tweet_id": [
+            "1857046346240332085"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "1857606095508062640",
+        "created_at": "2024-11-16T02:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T03:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857606095508062640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "986275202030907392",
+              "start": 3,
+              "username": "zutomayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwC9BusCGW",
+              "end": 68,
+              "expanded_url": "https://x.com/zutomayo/status/1857046346240332085/video/1",
+              "media_key": "13_1857046273829826560",
+              "start": 45,
+              "url": "https://t.co/ZwC9BusCGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857606095508062640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5389
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857046346240332085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zutomayo: TAIDADA 弾語り\n\n今日はダンダダン \nリアタイできる https://t.co/ZwC9BusCGW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1857046273829826560"
+          ]
+        },
+        "author_id": "986275202030907392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "1857046346240332085",
+        "created_at": "2024-11-14T13:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T14:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857046346240332085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwC9BusCGW",
+              "end": 54,
+              "expanded_url": "https://x.com/zutomayo/status/1857046346240332085/video/1",
+              "media_key": "13_1857046273829826560",
+              "start": 31,
+              "url": "https://t.co/ZwC9BusCGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857046346240332085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2581,
+          "impression_count": 1096826,
+          "like_count": 32322,
+          "quote_count": 344,
+          "reply_count": 247,
+          "retweet_count": 5389
+        },
+        "reply_settings": "everyone",
+        "text": "TAIDADA 弾語り\n\n今日はダンダダン \nリアタイできる https://t.co/ZwC9BusCGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 3592,
+          "listed_count": 0,
+          "tweet_count": 741
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T16:08:27.000Z",
+        "description": "https://t.co/9MiAS9i79m ううううううううううううう 曲とかライブ作りしてます あそびきてね 情報過多時期です 10.23 mini ALBUM 「虚仮の一念海馬に託す」 何卒何卒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.to/ZUTOMAYO_YT",
+                "end": 23,
+                "expanded_url": "https://lnk.to/ZUTOMAYO_YT",
+                "start": 0,
+                "url": "https://t.co/9MiAS9i79m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/zutomayo/",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/zutomayo/",
+                "start": 0,
+                "url": "https://t.co/ZMjuEbK5Xz"
+              }
+            ]
+          }
+        },
+        "id": "986275202030907392",
+        "name": "ACAね a.k.a ネス湖のてっぺん",
+        "pinned_tweet_id": "1829128075751371238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409459829316284419/nrIiFKWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617767,
+          "following_count": 3,
+          "like_count": 6486,
+          "listed_count": 2964,
+          "tweet_count": 6590
+        },
+        "url": "https://t.co/ZMjuEbK5Xz",
+        "username": "zutomayo",
+        "verified": true
+      }
+    ]
+  }
+}

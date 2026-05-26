@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868275303694405632",
+        "3_1868275303681773568",
+        "3_1868275303690223616",
+        "3_1868275303690244096"
+      ],
+      "media_source_tweet_id": [
+        "1868275432115847498",
+        "1868275432115847498",
+        "1868275432115847498",
+        "1868275432115847498"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1868588780346843464",
+    "created_at": "2024-12-16T09:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T10:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868588780346843464"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "上海",
+          "probability": 0.7288,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 86,
+          "start": 77,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 100,
+          "start": 87,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681941563302346752",
+          "start": 3,
+          "username": "yuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fb7oS2axT8",
+          "end": 124,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+          "media_key": "3_1868275303694405632",
+          "start": 101,
+          "url": "https://t.co/fb7oS2axT8"
+        },
+        {
+          "display_url": "pic.x.com/fb7oS2axT8",
+          "end": 124,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+          "media_key": "3_1868275303681773568",
+          "start": 101,
+          "url": "https://t.co/fb7oS2axT8"
+        },
+        {
+          "display_url": "pic.x.com/fb7oS2axT8",
+          "end": 124,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+          "media_key": "3_1868275303690223616",
+          "start": 101,
+          "url": "https://t.co/fb7oS2axT8"
+        },
+        {
+          "display_url": "pic.x.com/fb7oS2axT8",
+          "end": 124,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+          "media_key": "3_1868275303690244096",
+          "start": 101,
+          "url": "https://t.co/fb7oS2axT8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868588780346843464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868275432115847498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_togetoge: 上海公演Day2ありがとうございました！\nフラスタも沢山幸せです😌✨\nまたみんなに会いに来るね〜〜！🩵\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/fb7oS2axT8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868275303694405632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1yfXtXEAADJoQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1868275303681773568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1yfXqWUAAkLJM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1868275303690223616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1yfXsXQAAL2sd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1868275303690244096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1yfXsXkAAXZV1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868275303694405632",
+            "3_1868275303681773568",
+            "3_1868275303690223616",
+            "3_1868275303690244096"
+          ],
+          "media_source_tweet_id": [
+            "1868275432115847498",
+            "1868275432115847498",
+            "1868275432115847498",
+            "1868275432115847498"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1868588780346843464",
+        "created_at": "2024-12-16T09:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T10:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868588780346843464"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "上海",
+              "probability": 0.7288,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 86,
+              "start": 77,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 100,
+              "start": 87,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681941563302346752",
+              "start": 3,
+              "username": "yuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 124,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303694405632",
+              "start": 101,
+              "url": "https://t.co/fb7oS2axT8"
+            },
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 124,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303681773568",
+              "start": 101,
+              "url": "https://t.co/fb7oS2axT8"
+            },
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 124,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303690223616",
+              "start": 101,
+              "url": "https://t.co/fb7oS2axT8"
+            },
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 124,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303690244096",
+              "start": 101,
+              "url": "https://t.co/fb7oS2axT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868588780346843464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868275432115847498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_togetoge: 上海公演Day2ありがとうございました！\nフラスタも沢山幸せです😌✨\nまたみんなに会いに来るね〜〜！🩵\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/fb7oS2axT8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868275303694405632",
+            "3_1868275303681773568",
+            "3_1868275303690223616",
+            "3_1868275303690244096"
+          ]
+        },
+        "author_id": "1681941563302346752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1868275432115847498",
+        "created_at": "2024-12-15T12:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T13:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868275432115847498"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "上海",
+              "probability": 0.7592,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 105,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303694405632",
+              "start": 82,
+              "url": "https://t.co/fb7oS2axT8"
+            },
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 105,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303681773568",
+              "start": 82,
+              "url": "https://t.co/fb7oS2axT8"
+            },
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 105,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303690223616",
+              "start": 82,
+              "url": "https://t.co/fb7oS2axT8"
+            },
+            {
+              "display_url": "pic.x.com/fb7oS2axT8",
+              "end": 105,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1868275432115847498/photo/1",
+              "media_key": "3_1868275303690244096",
+              "start": 82,
+              "url": "https://t.co/fb7oS2axT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868275432115847498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 23963,
+          "like_count": 1446,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "上海公演Day2ありがとうございました！\nフラスタも沢山幸せです😌✨\nまたみんなに会いに来るね〜〜！🩵\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/fb7oS2axT8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 4038,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 829
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:18:25.000Z",
+        "description": "夕莉(Yuri) / アニメ『#ガールズバンドクライ』#河原木桃香 役 / バンド『#トゲナシトゲアリ』Gt. / Instagram→ https://t.co/w3tWoVPjwJ / 猫とサメ好き / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "河原木桃香"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yuri_togetoge",
+                "end": 92,
+                "expanded_url": "http://instagram.com/yuri_togetoge",
+                "start": 69,
+                "url": "https://t.co/w3tWoVPjwJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuritogetoge",
+                "start": 0,
+                "url": "https://t.co/Llf6CPKu18"
+              }
+            ]
+          }
+        },
+        "id": "1681941563302346752",
+        "name": "夕莉 / ガールズバンドクライ 河原木桃香役 / トゲナシトゲアリ Gt.",
+        "pinned_tweet_id": "1778774209046643150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795161042219008/pBbtpL8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38356,
+          "following_count": 99,
+          "like_count": 990,
+          "listed_count": 262,
+          "media_count": 151,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/Llf6CPKu18",
+        "username": "yuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

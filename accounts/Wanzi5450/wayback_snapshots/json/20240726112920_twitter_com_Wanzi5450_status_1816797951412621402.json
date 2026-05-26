@@ -1,0 +1,643 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "1816797951412621402",
+    "created_at": "2024-07-26T11:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T12:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816797951412621402"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 90,
+          "normalized_text": "見つけた景色、たずさえて",
+          "probability": 0.5765,
+          "start": 79,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "MyGO"
+        },
+        {
+          "end": 100,
+          "start": 93,
+          "tag": "ESPブース"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "583320580",
+          "start": 3,
+          "username": "BIGBOSSekimae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816797951412621402",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816715086368784746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BIGBOSSekimae: 先程発表されたMyGO!!!!!\nキャラクターピックですが\n明日から開催の #MyGO!!!!! 6th LIVE \n「見つけた景色、たずさえて」\n#ESPブース  でも販売致します‼️\nMyGO!!!!!、#バンドリ!関連のアイテムを\nた…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1816797951412621402",
+        "created_at": "2024-07-26T11:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T12:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816797951412621402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 90,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.5765,
+              "start": 79,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "MyGO"
+            },
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "ESPブース"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "583320580",
+              "start": 3,
+              "username": "BIGBOSSekimae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816797951412621402",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816715086368784746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BIGBOSSekimae: 先程発表されたMyGO!!!!!\nキャラクターピックですが\n明日から開催の #MyGO!!!!! 6th LIVE \n「見つけた景色、たずさえて」\n#ESPブース  でも販売致します‼️\nMyGO!!!!!、#バンドリ!関連のアイテムを\nた…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816048180246773761"
+          ]
+        },
+        "author_id": "583320580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1816715086368784746",
+        "created_at": "2024-07-26T06:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T07:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816715086368784746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.6569,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "MyGO"
+            },
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "ESPブース"
+            },
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 157,
+              "start": 146,
+              "tag": "espguitars"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 171,
+              "id": "64650862",
+              "start": 158,
+              "username": "ESPGuitarsJP"
+            },
+            {
+              "end": 188,
+              "id": "1512315733899837440",
+              "start": 172,
+              "username": "bang_dream_mygo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Igrj7MogVX",
+              "end": 212,
+              "expanded_url": "https://twitter.com/BIGBOSSekimae/status/1816715086368784746/photo/1",
+              "media_key": "3_1816048180246773761",
+              "start": 189,
+              "url": "https://t.co/Igrj7MogVX"
+            },
+            {
+              "display_url": "x.com/BIGBOSSekimae/…",
+              "end": 236,
+              "expanded_url": "https://twitter.com/BIGBOSSekimae/status/1815220228512436633",
+              "start": 213,
+              "url": "https://t.co/WK4lpZcOre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816715086368784746",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 16721,
+          "like_count": 244,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815220228512436633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先程発表されたMyGO!!!!!\nキャラクターピックですが\n明日から開催の #MyGO!!!!! 6th LIVE \n「見つけた景色、たずさえて」\n#ESPブース  でも販売致します‼️\nMyGO!!!!!、#バンドリ!関連のアイテムを\nたくさんご用意しておりますので\nぜひご来場ください💪\n＃espguitars @ESPGuitarsJP @bang_dream_mygo https://t.co/Igrj7MogVX https://t.co/WK4lpZcOre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2825,
+          "listed_count": 0,
+          "tweet_count": 488
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-18T00:54:30.000Z",
+        "description": "世界的ギターメーカーESPの系列ショップ\n東京御茶ノ水のギター・ベース専門店です。\n専属リペアマン常駐、修理や改造おまかせください！\nONLINEMARKET(https://t.co/Jwu2GIyRgY)\nデジマート(https://t.co/ujWVn37nKH)\n楽天(https://t.co/xb3EG5sL6L)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bigboss.jp",
+                "end": 103,
+                "expanded_url": "http://bigboss.jp",
+                "start": 80,
+                "url": "https://t.co/Jwu2GIyRgY"
+              },
+              {
+                "display_url": "digimart.net/shop/58/",
+                "end": 134,
+                "expanded_url": "http://digimart.net/shop/58/",
+                "start": 111,
+                "url": "https://t.co/ujWVn37nKH"
+              },
+              {
+                "display_url": "rakuten.co.jp/bigboss-japan/",
+                "end": 162,
+                "expanded_url": "http://rakuten.co.jp/bigboss-japan/",
+                "start": 139,
+                "url": "https://t.co/xb3EG5sL6L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bigboss.jp/tokyo-em/",
+                "end": 23,
+                "expanded_url": "https://bigboss.jp/tokyo-em/",
+                "start": 0,
+                "url": "https://t.co/3MczI7FQIN"
+              }
+            ]
+          }
+        },
+        "id": "583320580",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "BIGBOSSお茶の水駅前店",
+        "pinned_tweet_id": "1814208563998593080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875533978677071872/HhTnXZ51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8356,
+          "following_count": 6922,
+          "like_count": 10009,
+          "listed_count": 92,
+          "tweet_count": 41594
+        },
+        "url": "https://t.co/3MczI7FQIN",
+        "username": "BIGBOSSekimae",
+        "verified": false
+      }
+    ]
+  }
+}

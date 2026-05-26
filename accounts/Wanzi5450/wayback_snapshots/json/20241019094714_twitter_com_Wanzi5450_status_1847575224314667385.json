@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1847204112087371943"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1847575224314667385",
+    "created_at": "2024-10-19T09:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T10:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847575224314667385"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "青木陽菜",
+          "probability": 0.5805,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 45,
+          "normalized_text": "Pre-Piyo-Sound",
+          "probability": 0.5003,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uhnqjXVIzC",
+          "end": 121,
+          "expanded_url": "https://x.com/aoki__hina/status/1847204112087371943/photo/1",
+          "media_key": "3_1847204106827689984",
+          "start": 98,
+          "url": "https://t.co/uhnqjXVIzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847575224314667385",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847204112087371943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 青木陽菜 Event 2024「Pre-Piyo-Sound」\nリハしてきました🐣\n\n初のライブハウスでのソロイベント！\n楽しんでもらえるといいな〜〜頑張ります！ https://t.co/uhnqjXVIzC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1847204112087371943"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1847575224314667385",
+        "created_at": "2024-10-19T09:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T10:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847575224314667385"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "青木陽菜",
+              "probability": 0.5805,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "Pre-Piyo-Sound",
+              "probability": 0.5003,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhnqjXVIzC",
+              "end": 121,
+              "expanded_url": "https://x.com/aoki__hina/status/1847204112087371943/photo/1",
+              "media_key": "3_1847204106827689984",
+              "start": 98,
+              "url": "https://t.co/uhnqjXVIzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847575224314667385",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847204112087371943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 青木陽菜 Event 2024「Pre-Piyo-Sound」\nリハしてきました🐣\n\n初のライブハウスでのソロイベント！\n楽しんでもらえるといいな〜〜頑張ります！ https://t.co/uhnqjXVIzC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847204106827689984"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1847204112087371943",
+        "created_at": "2024-10-18T09:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T10:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847204112087371943"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "青木陽菜",
+              "probability": 0.612,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 29,
+              "normalized_text": "Pre-Piyo-Sound",
+              "probability": 0.6074,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uhnqjXVIzC",
+              "end": 105,
+              "expanded_url": "https://x.com/aoki__hina/status/1847204112087371943/photo/1",
+              "media_key": "3_1847204106827689984",
+              "start": 82,
+              "url": "https://t.co/uhnqjXVIzC"
+            },
+            {
+              "display_url": "x.com/bushim_ongaku/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/bushim_ongaku/status/1847124051644621191",
+              "start": 106,
+              "url": "https://t.co/UfPcqvqAFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847204112087371943",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 43968,
+          "like_count": 1376,
+          "quote_count": 6,
+          "reply_count": 51,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847124051644621191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青木陽菜 Event 2024「Pre-Piyo-Sound」\nリハしてきました🐣\n\n初のライブハウスでのソロイベント！\n楽しんでもらえるといいな〜〜頑張ります！ https://t.co/uhnqjXVIzC https://t.co/UfPcqvqAFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 61,
+          "like_count": 3452,
+          "listed_count": 0,
+          "tweet_count": 701
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81819,
+          "following_count": 265,
+          "like_count": 0,
+          "listed_count": 803,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

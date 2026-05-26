@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1837493942134493196",
+    "created_at": "2024-09-21T14:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T15:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837493942134493196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837493942134493196",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1085
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837477653605155216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『寻觅到的风景，携手同行』上海公演\n\nMyGO!!!!!的成员们一起在上海开了LIVE，并且见到了上海的大家，真的非常的开心。我会将上海的景色珍藏于心，继续努力下去。\nMyGO!!!!!の皆と上海でライブができた事、皆様にお会いできた事、とて…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1837493942134493196",
+        "created_at": "2024-09-21T14:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837493942134493196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837493942134493196",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1085
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837477653605155216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『寻觅到的风景，携手同行』上海公演\n\nMyGO!!!!!的成员们一起在上海开了LIVE，并且见到了上海的大家，真的非常的开心。我会将上海的景色珍藏于心，继续努力下去。\nMyGO!!!!!の皆と上海でライブができた事、皆様にお会いできた事、とて…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837477627810271235",
+            "3_1837477627806076928",
+            "3_1837477627810271233"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "conversation_id": "1837477653605155216",
+        "created_at": "2024-09-21T13:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T14:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837477653605155216"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 129,
+              "normalized_text": "上海",
+              "probability": 0.8342,
+              "start": 128,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9g8ct9otbi",
+              "end": 180,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1837477653605155216/photo/1",
+              "media_key": "3_1837477627810271235",
+              "start": 157,
+              "url": "https://t.co/9g8ct9oTbI"
+            },
+            {
+              "display_url": "pic.x.com/9g8ct9otbi",
+              "end": 180,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1837477653605155216/photo/1",
+              "media_key": "3_1837477627806076928",
+              "start": 157,
+              "url": "https://t.co/9g8ct9oTbI"
+            },
+            {
+              "display_url": "pic.x.com/9g8ct9otbi",
+              "end": 180,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1837477653605155216/photo/1",
+              "media_key": "3_1837477627810271233",
+              "start": 157,
+              "url": "https://t.co/9g8ct9oTbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837477653605155216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 76874,
+          "like_count": 4874,
+          "quote_count": 63,
+          "reply_count": 211,
+          "retweet_count": 1085
+        },
+        "reply_settings": "everyone",
+        "text": "『寻觅到的风景，携手同行』上海公演\n\nMyGO!!!!!的成员们一起在上海开了LIVE，并且见到了上海的大家，真的非常的开心。我会将上海的景色珍藏于心，继续努力下去。\nMyGO!!!!!の皆と上海でライブができた事、皆様にお会いできた事、とても嬉しいです。上海の景色もたずさえて、今後も頑張ります。\n\n#MyGO https://t.co/9g8ct9oTbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3192,
+          "listed_count": 0,
+          "tweet_count": 622
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控え頂けますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1766447125494419721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137071,
+          "following_count": 236,
+          "like_count": 1984,
+          "listed_count": 1249,
+          "tweet_count": 845
+        },
+        "username": "Hina_Youmiya",
+        "verified": false
+      }
+    ]
+  }
+}

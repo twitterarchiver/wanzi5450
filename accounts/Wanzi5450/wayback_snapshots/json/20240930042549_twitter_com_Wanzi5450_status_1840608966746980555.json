@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actor and singer",
+          "id": "1070725804600901632",
+          "name": "Shun Horie"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actor and singer",
+          "id": "1070725804600901632",
+          "name": "Shun Horie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actor and singer",
+          "id": "1070725804600901632",
+          "name": "Shun Horie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      }
+    ],
+    "conversation_id": "1840608966746980555",
+    "created_at": "2024-09-30T04:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T05:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840608966746980555"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "僕の心のヤバイやつ",
+          "probability": 0.7248,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 64,
+          "normalized_text": "杏奈ちゃん",
+          "probability": 0.9115,
+          "start": 60,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840608966746980555",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1533
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840336380658102360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『僕の心のヤバイやつ』振り返り上映会\n\n劇場版として僕ヤバの世界に帰ってこれること、杏奈ちゃんたちの日々を皆さんと映画館で見られること、幸せな気持ちで胸がいっぱいです。\n公開を楽しみにしつつ、ぜひこれからも僕ヤバを応援して頂けますと幸いです。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "1840608966746980555",
+        "created_at": "2024-09-30T04:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T05:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840608966746980555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.7248,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "杏奈ちゃん",
+              "probability": 0.9115,
+              "start": 60,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840608966746980555",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1533
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840336380658102360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『僕の心のヤバイやつ』振り返り上映会\n\n劇場版として僕ヤバの世界に帰ってこれること、杏奈ちゃんたちの日々を皆さんと映画館で見られること、幸せな気持ちで胸がいっぱいです。\n公開を楽しみにしつつ、ぜひこれからも僕ヤバを応援して頂けますと幸いです。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840336357132234752",
+            "3_1840336357392306176"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actor and singer",
+              "id": "1070725804600901632",
+              "name": "Shun Horie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          }
+        ],
+        "conversation_id": "1840336380658102360",
+        "created_at": "2024-09-29T10:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T11:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840336380658102360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "僕の心のヤバイやつ",
+              "probability": 0.7697,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "杏奈ちゃん",
+              "probability": 0.9112,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "僕ヤバ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/js9vecve0p",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1840336380658102360/photo/1",
+              "media_key": "3_1840336357132234752",
+              "start": 144,
+              "url": "https://t.co/JS9vEcve0P"
+            },
+            {
+              "display_url": "pic.x.com/js9vecve0p",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1840336380658102360/photo/1",
+              "media_key": "3_1840336357392306176",
+              "start": 144,
+              "url": "https://t.co/JS9vEcve0P"
+            },
+            {
+              "display_url": "x.com/bokuyaba_anime…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/bokuyaba_anime/status/1840332632854495464",
+              "start": 168,
+              "url": "https://t.co/lvFPJIwXyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840336380658102360",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 416852,
+          "like_count": 10465,
+          "quote_count": 40,
+          "reply_count": 149,
+          "retweet_count": 1533
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840332632854495464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "『僕の心のヤバイやつ』振り返り上映会\n\n劇場版として僕ヤバの世界に帰ってこれること、杏奈ちゃんたちの日々を皆さんと映画館で見られること、幸せな気持ちで胸がいっぱいです。\n公開を楽しみにしつつ、ぜひこれからも僕ヤバを応援して頂けますと幸いです。\n本日はありがとうございました！\n\n#僕ヤバ https://t.co/JS9vEcve0P https://t.co/lvFPJIwXyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 3316,
+          "listed_count": 0,
+          "tweet_count": 666
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控え頂けますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1766447125494419721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141620,
+          "following_count": 236,
+          "like_count": 1984,
+          "listed_count": 1267,
+          "tweet_count": 852
+        },
+        "username": "Hina_Youmiya",
+        "verified": false
+      }
+    ]
+  }
+}

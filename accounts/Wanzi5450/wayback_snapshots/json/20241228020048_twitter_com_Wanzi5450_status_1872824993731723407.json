@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872571026363830272",
+        "3_1872571026359627776"
+      ],
+      "media_source_tweet_id": [
+        "1872571033024442690",
+        "1872571033024442690"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1872824993731723407",
+    "created_at": "2024-12-28T02:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T03:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872824993731723407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681941563302346752",
+          "start": 3,
+          "username": "yuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hA0IcMKwKz",
+          "end": 58,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1872571033024442690/photo/1",
+          "media_key": "3_1872571026363830272",
+          "start": 35,
+          "url": "https://t.co/hA0IcMKwKz"
+        },
+        {
+          "display_url": "pic.x.com/hA0IcMKwKz",
+          "end": 58,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1872571033024442690/photo/1",
+          "media_key": "3_1872571026359627776",
+          "start": 35,
+          "url": "https://t.co/hA0IcMKwKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872824993731723407",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872571033024442690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_togetoge: 今日は妹とカフェ行ったよ〜👧🎀 https://t.co/hA0IcMKwKz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872571026363830272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfy1bVsa0AApGnG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1872571026359627776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gfy1bVrasAA-3_n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872571026363830272",
+            "3_1872571026359627776"
+          ],
+          "media_source_tweet_id": [
+            "1872571033024442690",
+            "1872571033024442690"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1872824993731723407",
+        "created_at": "2024-12-28T02:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T03:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872824993731723407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681941563302346752",
+              "start": 3,
+              "username": "yuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hA0IcMKwKz",
+              "end": 58,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1872571033024442690/photo/1",
+              "media_key": "3_1872571026363830272",
+              "start": 35,
+              "url": "https://t.co/hA0IcMKwKz"
+            },
+            {
+              "display_url": "pic.x.com/hA0IcMKwKz",
+              "end": 58,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1872571033024442690/photo/1",
+              "media_key": "3_1872571026359627776",
+              "start": 35,
+              "url": "https://t.co/hA0IcMKwKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872824993731723407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872571033024442690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_togetoge: 今日は妹とカフェ行ったよ〜👧🎀 https://t.co/hA0IcMKwKz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872571026363830272",
+            "3_1872571026359627776"
+          ]
+        },
+        "author_id": "1681941563302346752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1872571033024442690",
+        "created_at": "2024-12-27T09:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T10:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872571033024442690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hA0IcMKwKz",
+              "end": 39,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1872571033024442690/photo/1",
+              "media_key": "3_1872571026363830272",
+              "start": 16,
+              "url": "https://t.co/hA0IcMKwKz"
+            },
+            {
+              "display_url": "pic.x.com/hA0IcMKwKz",
+              "end": 39,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1872571033024442690/photo/1",
+              "media_key": "3_1872571026359627776",
+              "start": 16,
+              "url": "https://t.co/hA0IcMKwKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872571033024442690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 32586,
+          "like_count": 2275,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "今日は妹とカフェ行ったよ〜👧🎀 https://t.co/hA0IcMKwKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 68,
+          "like_count": 4240,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 866
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:18:25.000Z",
+        "description": "夕莉(Yuri) / アニメ『#ガールズバンドクライ』#河原木桃香 役 / バンド『#トゲナシトゲアリ』Gt. / Instagram→ https://t.co/w3tWoVPjwJ / 猫とサメ好き / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "河原木桃香"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yuri_togetoge",
+                "end": 92,
+                "expanded_url": "http://instagram.com/yuri_togetoge",
+                "start": 69,
+                "url": "https://t.co/w3tWoVPjwJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuritogetoge",
+                "start": 0,
+                "url": "https://t.co/Llf6CPKu18"
+              }
+            ]
+          }
+        },
+        "id": "1681941563302346752",
+        "name": "夕莉 / トゲナシトゲアリ Gt.",
+        "pinned_tweet_id": "1778774209046643150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795161042219008/pBbtpL8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39749,
+          "following_count": 105,
+          "like_count": 999,
+          "listed_count": 267,
+          "media_count": 164,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/Llf6CPKu18",
+        "username": "yuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

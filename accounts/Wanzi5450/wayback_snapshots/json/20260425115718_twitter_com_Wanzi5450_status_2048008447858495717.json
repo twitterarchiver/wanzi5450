@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048005593739526424",
+    "created_at": "2026-04-25T11:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048008447858495717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1422919666305888264",
+          "start": 0,
+          "username": "0x88FFA357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048008447858495717",
+    "in_reply_to_user_id": "1422919666305888264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048005593739526424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x88FFA357 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048005593739526424",
+        "created_at": "2026-04-25T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048008447858495717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422919666305888264",
+              "start": 0,
+              "username": "0x88FFA357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048008447858495717",
+        "in_reply_to_user_id": "1422919666305888264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048005593739526424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x88FFA357 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422919666305888264",
+        "conversation_id": "2048005593739526424",
+        "created_at": "2026-04-25T11:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048005593739526424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048005593739526424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凯尔希活了吗。我猫有了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 279,
+          "like_count": 13268,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 3532
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T13:57:51.000Z",
+        "description": "我不想看蓝发小女孩举手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvme0n1p.dev",
+                "end": 23,
+                "expanded_url": "http://nvme0n1p.dev",
+                "start": 0,
+                "url": "https://t.co/M3EWZGYw8X"
+              }
+            ]
+          }
+        },
+        "id": "1422919666305888264",
+        "location": "__start + 0x14",
+        "name": "溴化锂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021872110176808960/XIhhunlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 1494,
+          "like_count": 161975,
+          "listed_count": 12,
+          "media_count": 27,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/M3EWZGYw8X",
+        "username": "0x88FFA357",
+        "verified": false
+      }
+    ]
+  }
+}

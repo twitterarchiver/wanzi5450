@@ -1,0 +1,596 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1837727113262387255",
+    "created_at": "2024-09-22T05:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837727113262387255"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "見つけた景色、たずさえて",
+          "probability": 0.2539,
+          "start": 46,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "上海",
+          "probability": 0.6389,
+          "start": 59,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1123410609922396160",
+          "start": 3,
+          "username": "aoni_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "バンドリ！から生まれる\"現実（リアル）” と” 仮想（キャラクター）” が同期するバンド「MyGO!!!!!」。 2024年12月22日(日)、MyGO!!!!! 7th LIVEを日比谷公園大音楽堂にて開催。 duo MUSIC EXCHANGE 2022年11月26日(土) COOL JAPAN PARK OSAKA WWホール TACHIKAWA STAGE GARDEN KT Zepp Yokohama 2024年 2月12日(月･祝) 東京公演 Zepp Haneda (TOKYO) 3月19日(火) 福岡公演 Zepp Fukuoka 3月22日(金) 大阪公演 Zepp Osaka Bayside 4月11日(木) 愛知公演 Zepp Nagoya 2024年7月27日(土)・28日(日) 武蔵野の森総合スポーツプラザ 2024年12月22日(日) MyGO!!!!!のラジオ番組「迷子集会」(読み：マイゴセンター)の実施が決定しました。 それに伴い、皆さまからのお便りの募集を開始します。 これまでのライブの感想やふつおたなど、是非お送りください。",
+          "display_url": "bang-dream.com/mygo",
+          "end": 103,
+          "expanded_url": "https://bang-dream.com/mygo",
+          "start": 80,
+          "status": 200,
+          "title": "MyGO!!!!! | BanG Dream!（バンドリ！）公式サイト",
+          "unwound_url": "https://bang-dream.com/mygo",
+          "url": "https://t.co/HbaSQBg6Wv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837727113262387255",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837501998457147615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoni_official: #羊宮妃那\n\n【MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」上海追加公演】\n〈9月21日(土)開催〉\nhttps://t.co/HbaSQBg6Wv\n\nMyGO!!!!!初の、海外単独公演！\nたくさんのご声援をありがとう…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1837727113262387255",
+        "created_at": "2024-09-22T05:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837727113262387255"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.2539,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "上海",
+              "probability": 0.6389,
+              "start": 59,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1123410609922396160",
+              "start": 3,
+              "username": "aoni_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンドリ！から生まれる\"現実（リアル）” と” 仮想（キャラクター）” が同期するバンド「MyGO!!!!!」。 2024年12月22日(日)、MyGO!!!!! 7th LIVEを日比谷公園大音楽堂にて開催。 duo MUSIC EXCHANGE 2022年11月26日(土) COOL JAPAN PARK OSAKA WWホール TACHIKAWA STAGE GARDEN KT Zepp Yokohama 2024年 2月12日(月･祝) 東京公演 Zepp Haneda (TOKYO) 3月19日(火) 福岡公演 Zepp Fukuoka 3月22日(金) 大阪公演 Zepp Osaka Bayside 4月11日(木) 愛知公演 Zepp Nagoya 2024年7月27日(土)・28日(日) 武蔵野の森総合スポーツプラザ 2024年12月22日(日) MyGO!!!!!のラジオ番組「迷子集会」(読み：マイゴセンター)の実施が決定しました。 それに伴い、皆さまからのお便りの募集を開始します。 これまでのライブの感想やふつおたなど、是非お送りください。",
+              "display_url": "bang-dream.com/mygo",
+              "end": 103,
+              "expanded_url": "https://bang-dream.com/mygo",
+              "start": 80,
+              "status": 200,
+              "title": "MyGO!!!!! | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/mygo",
+              "url": "https://t.co/HbaSQBg6Wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837727113262387255",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837501998457147615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoni_official: #羊宮妃那\n\n【MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」上海追加公演】\n〈9月21日(土)開催〉\nhttps://t.co/HbaSQBg6Wv\n\nMyGO!!!!!初の、海外単独公演！\nたくさんのご声援をありがとう…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837501979549224960"
+          ]
+        },
+        "author_id": "1123410609922396160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1837501998457147615",
+        "created_at": "2024-09-21T14:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837501998457147615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.3521,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "上海",
+              "probability": 0.6697,
+              "start": 40,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンドリ！から生まれる\"現実（リアル）” と” 仮想（キャラクター）” が同期するバンド「MyGO!!!!!」。 2024年12月22日(日)、MyGO!!!!! 7th LIVEを日比谷公園大音楽堂にて開催。 duo MUSIC EXCHANGE 2022年11月26日(土) COOL JAPAN PARK OSAKA WWホール TACHIKAWA STAGE GARDEN KT Zepp Yokohama 2024年 2月12日(月･祝) 東京公演 Zepp Haneda (TOKYO) 3月19日(火) 福岡公演 Zepp Fukuoka 3月22日(金) 大阪公演 Zepp Osaka Bayside 4月11日(木) 愛知公演 Zepp Nagoya 2024年7月27日(土)・28日(日) 武蔵野の森総合スポーツプラザ 2024年12月22日(日) MyGO!!!!!のラジオ番組「迷子集会」(読み：マイゴセンター)の実施が決定しました。 それに伴い、皆さまからのお便りの募集を開始します。 これまでのライブの感想やふつおたなど、是非お送りください。",
+              "display_url": "bang-dream.com/mygo",
+              "end": 84,
+              "expanded_url": "https://bang-dream.com/mygo",
+              "start": 61,
+              "status": 200,
+              "title": "MyGO!!!!! | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/mygo",
+              "url": "https://t.co/HbaSQBg6Wv"
+            },
+            {
+              "display_url": "pic.x.com/t8ev1leblf",
+              "end": 180,
+              "expanded_url": "https://twitter.com/aoni_official/status/1837501998457147615/photo/1",
+              "media_key": "3_1837501979549224960",
+              "start": 157,
+              "url": "https://t.co/t8ev1LEBLF"
+            },
+            {
+              "display_url": "x.com/bang_dream_myg…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1837474265689739400",
+              "start": 181,
+              "url": "https://t.co/M7lkWyktq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837501998457147615",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 68734,
+          "like_count": 1532,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837474265689739400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#羊宮妃那\n\n【MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」上海追加公演】\n〈9月21日(土)開催〉\nhttps://t.co/HbaSQBg6Wv\n\nMyGO!!!!!初の、海外単独公演！\nたくさんのご声援をありがとうございました！\n皆様から見えた景色は、どのような景色だったでしょうか？… https://t.co/t8ev1LEBLF https://t.co/M7lkWyktq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 3206,
+          "listed_count": 0,
+          "tweet_count": 632
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-01T02:15:36.000Z",
+        "description": "青二プロダクション公式アカウントです。 最新の出演情報やイベント情報を発信します。 お仕事のご依頼はホームページの出演依頼フォームよりお願い致します。 個別でのお問い合わせはご対応致しかねますのでご了承ください。 画像・動画の無断転載はご遠慮ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aoni.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.aoni.co.jp",
+                "start": 0,
+                "url": "https://t.co/it9fWGQWSD"
+              }
+            ]
+          }
+        },
+        "id": "1123410609922396160",
+        "location": "港区北青山3丁目",
+        "name": "青二プロダクション【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128237738283552768/ZubwDNHq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161268,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 1390,
+          "tweet_count": 7410
+        },
+        "url": "https://t.co/it9fWGQWSD",
+        "username": "aoni_official",
+        "verified": false
+      }
+    ]
+  }
+}

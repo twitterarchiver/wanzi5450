@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2055015222302359949",
+    "created_at": "2026-05-15T01:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T02:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055102825001287770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1837496275656495107",
+          "start": 0,
+          "username": "Evigt_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055102825001287770",
+    "in_reply_to_user_id": "1837496275656495107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055015222302359949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evigt_404 不长记性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2055015222302359949",
+        "created_at": "2026-05-15T01:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T02:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055102825001287770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1837496275656495107",
+              "start": 0,
+              "username": "Evigt_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055102825001287770",
+        "in_reply_to_user_id": "1837496275656495107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055015222302359949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evigt_404 不长记性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837496275656495107",
+        "conversation_id": "2055015222302359949",
+        "created_at": "2026-05-14T19:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T20:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055015222302359949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055015222302359949",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i did my last dph trip yesterday and i will never do it again"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 288,
+          "like_count": 15306,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 3797
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T14:17:17.000Z",
+        "description": "Bandcamp: https://t.co/3VOadG5Iqv\nhttps://t.co/0UVFxsWFVv\nDiphenhydramine Victims Alliance",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "evigt.bandcamp.com",
+                "end": 33,
+                "expanded_url": "https://evigt.bandcamp.com",
+                "start": 10,
+                "url": "https://t.co/3VOadG5Iqv"
+              },
+              {
+                "display_url": "sysevi.bandcamp.com",
+                "end": 57,
+                "expanded_url": "https://sysevi.bandcamp.com",
+                "start": 34,
+                "url": "https://t.co/0UVFxsWFVv"
+              }
+            ]
+          }
+        },
+        "id": "1837496275656495107",
+        "name": "AaAAaaaaAa",
+        "pinned_tweet_id": "2042667739215728720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838802255824207872/uT4oQFMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 231,
+          "like_count": 4323,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 2064
+        },
+        "username": "Evigt_404",
+        "verified": false
+      }
+    ]
+  }
+}

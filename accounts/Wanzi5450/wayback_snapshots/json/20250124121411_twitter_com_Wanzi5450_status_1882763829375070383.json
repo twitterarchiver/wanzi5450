@@ -1,0 +1,688 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722393994223616",
+          "name": "Megumi Nakajima"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722393994223616",
+          "name": "Megumi Nakajima"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1237451423790403584",
+          "name": "Libraries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722393994223616",
+          "name": "Megumi Nakajima"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237451423790403584",
+          "name": "Libraries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1882763829375070383",
+    "created_at": "2025-01-24T12:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T13:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882763829375070383"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Listen/Library Ⅴ",
+          "probability": 0.7847,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 77,
+          "normalized_text": "新宿シアターモリエール",
+          "probability": 0.4805,
+          "start": 67,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882763829375070383",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 508
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882351621247824222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 『Listen/Library Ⅴ』\nいよいよ今週末です！\n\n私は26(日)に出演します📕\n【会場】新宿シアターモリエール\n\nグッズ撮影もしました！\n読書ガールと、こちらは私服衣装です🙂‍↕️🍀\n\nいろんな役やります。\n是非に観に来てくださいまし…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722393994223616",
+              "name": "Megumi Nakajima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722393994223616",
+              "name": "Megumi Nakajima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722393994223616",
+              "name": "Megumi Nakajima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1882763829375070383",
+        "created_at": "2025-01-24T12:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882763829375070383"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Listen/Library Ⅴ",
+              "probability": 0.7847,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 77,
+              "normalized_text": "新宿シアターモリエール",
+              "probability": 0.4805,
+              "start": 67,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882763829375070383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882351621247824222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 『Listen/Library Ⅴ』\nいよいよ今週末です！\n\n私は26(日)に出演します📕\n【会場】新宿シアターモリエール\n\nグッズ撮影もしました！\n読書ガールと、こちらは私服衣装です🙂‍↕️🍀\n\nいろんな役やります。\n是非に観に来てくださいまし…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882351617141587968",
+            "3_1882351617137426432"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722393994223616",
+              "name": "Megumi Nakajima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722393994223616",
+              "name": "Megumi Nakajima"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722393994223616",
+              "name": "Megumi Nakajima"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1882351621247824222",
+        "created_at": "2025-01-23T08:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T09:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882351621247824222"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Listen/Library Ⅴ",
+              "probability": 0.79,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "新宿シアターモリエール",
+              "probability": 0.476,
+              "start": 51,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "リスリブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "confetti-web.com/events/5499",
+              "end": 156,
+              "expanded_url": "https://www.confetti-web.com/events/5499",
+              "start": 133,
+              "status": 200,
+              "unwound_url": "https://www.confetti-web.com/events/5499",
+              "url": "https://t.co/Bag46ArvnH"
+            },
+            {
+              "display_url": "pic.x.com/0qcC3PRWL4",
+              "end": 186,
+              "expanded_url": "https://x.com/aoki__hina/status/1882351621247824222/photo/1",
+              "media_key": "3_1882351617141587968",
+              "start": 163,
+              "url": "https://t.co/0qcC3PRWL4"
+            },
+            {
+              "display_url": "pic.x.com/0qcC3PRWL4",
+              "end": 186,
+              "expanded_url": "https://x.com/aoki__hina/status/1882351621247824222/photo/1",
+              "media_key": "3_1882351617137426432",
+              "start": 163,
+              "url": "https://t.co/0qcC3PRWL4"
+            },
+            {
+              "display_url": "x.com/hyo_een2021/st…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/hyo_een2021/status/1882199458227867937",
+              "start": 187,
+              "url": "https://t.co/s8bcfmuUWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882351621247824222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 131259,
+          "like_count": 3876,
+          "quote_count": 33,
+          "reply_count": 30,
+          "retweet_count": 508
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882199458227867937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "『Listen/Library Ⅴ』\nいよいよ今週末です！\n\n私は26(日)に出演します📕\n【会場】新宿シアターモリエール\n\nグッズ撮影もしました！\n読書ガールと、こちらは私服衣装です🙂‍↕️🍀\n\nいろんな役やります。\n是非に観に来てくださいまし！\n\n🔻チケット🔻\nhttps://t.co/Bag46ArvnH\n#リスリブ https://t.co/0qcC3PRWL4 https://t.co/s8bcfmuUWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 70,
+          "like_count": 4381,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 888
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1877193838709592511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99579,
+          "following_count": 288,
+          "like_count": 1,
+          "listed_count": 880,
+          "media_count": 1090,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

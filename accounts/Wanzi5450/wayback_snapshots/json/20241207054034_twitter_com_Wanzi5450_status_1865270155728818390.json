@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864937838959300608"
+      ],
+      "media_source_tweet_id": [
+        "1864937849625415877"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1865270155728818390",
+    "created_at": "2024-12-07T05:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T06:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865270155728818390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1515174423799955461",
+          "start": 3,
+          "username": "Oraora_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsEUdvT4Ea",
+          "end": 47,
+          "expanded_url": "https://x.com/Oraora_oekaki/status/1864937849625415877/photo/1",
+          "media_key": "3_1864937838959300608",
+          "start": 24,
+          "url": "https://t.co/NsEUdvT4Ea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865270155728818390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 487
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864937849625415877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oraora_oekaki: らーな🍭 https://t.co/NsEUdvT4Ea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864937838959300608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeGXFWtakAAXazv.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864937838959300608"
+          ],
+          "media_source_tweet_id": [
+            "1864937849625415877"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1865270155728818390",
+        "created_at": "2024-12-07T05:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T06:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865270155728818390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1515174423799955461",
+              "start": 3,
+              "username": "Oraora_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsEUdvT4Ea",
+              "end": 47,
+              "expanded_url": "https://x.com/Oraora_oekaki/status/1864937849625415877/photo/1",
+              "media_key": "3_1864937838959300608",
+              "start": 24,
+              "url": "https://t.co/NsEUdvT4Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865270155728818390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 487
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864937849625415877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oraora_oekaki: らーな🍭 https://t.co/NsEUdvT4Ea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864937838959300608"
+          ]
+        },
+        "author_id": "1515174423799955461",
+        "conversation_id": "1864937849625415877",
+        "created_at": "2024-12-06T07:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T08:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864937849625415877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsEUdvT4Ea",
+              "end": 28,
+              "expanded_url": "https://x.com/Oraora_oekaki/status/1864937849625415877/photo/1",
+              "media_key": "3_1864937838959300608",
+              "start": 5,
+              "url": "https://t.co/NsEUdvT4Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864937849625415877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 42538,
+          "like_count": 2770,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 487
+        },
+        "reply_settings": "everyone",
+        "text": "らーな🍭 https://t.co/NsEUdvT4Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3966,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 810
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T03:45:21.000Z",
+        "description": "MyGO!!!!!とポケモンが好きです。",
+        "id": "1515174423799955461",
+        "location": "無断転載・無断使用禁止　AIもダメ！",
+        "name": "おら",
+        "pinned_tweet_id": "1854821190365593797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782829998329720834/yDrO5lNH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5757,
+          "following_count": 64,
+          "like_count": 2040,
+          "listed_count": 44,
+          "media_count": 197,
+          "tweet_count": 555
+        },
+        "username": "Oraora_oekaki",
+        "verified": false
+      }
+    ]
+  }
+}

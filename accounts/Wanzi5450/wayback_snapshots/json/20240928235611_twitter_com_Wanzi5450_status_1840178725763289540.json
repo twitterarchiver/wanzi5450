@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1840178725763289540",
+    "created_at": "2024-09-28T23:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T00:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840178725763289540"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "要楽奈さん",
+          "probability": 0.5302,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 82,
+          "normalized_text": "BanG Dream! It's MyGO!!!!!",
+          "probability": 0.2094,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 98,
+          "normalized_text": "春の陽だまり、迷い猫",
+          "probability": 0.4859,
+          "start": 89,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 125,
+          "tag": "劇場版MyGO"
+        },
+        {
+          "end": 139,
+          "start": 134,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "88666366",
+          "start": 3,
+          "username": "Tam_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840178725763289540",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2130
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839228418984128995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tam_U: RiNGの野良猫こと要楽奈さんの公式ファンアートを描かせていただきました🎸🐈️\n劇場版「BanG Dream! It's MyGO!!!!! 前編 : 春の陽だまり、迷い猫」公開まであと１日です。\nぜひご覧ください!!!!!\n\n#劇場版MyGO　#バンドリ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1840178725763289540",
+        "created_at": "2024-09-28T23:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T00:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840178725763289540"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "要楽奈さん",
+              "probability": 0.5302,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.2094,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 98,
+              "normalized_text": "春の陽だまり、迷い猫",
+              "probability": 0.4859,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "劇場版MyGO"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "88666366",
+              "start": 3,
+              "username": "Tam_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840178725763289540",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2130
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839228418984128995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tam_U: RiNGの野良猫こと要楽奈さんの公式ファンアートを描かせていただきました🎸🐈️\n劇場版「BanG Dream! It's MyGO!!!!! 前編 : 春の陽だまり、迷い猫」公開まであと１日です。\nぜひご覧ください!!!!!\n\n#劇場版MyGO　#バンドリ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839088633414037505"
+          ]
+        },
+        "author_id": "88666366",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1839228418984128995",
+        "created_at": "2024-09-26T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839228418984128995"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "要楽奈さん",
+              "probability": 0.4928,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "BanG Dream! It's MyGO!!!!! 前編 : 春の陽だまり、迷い猫",
+              "probability": 0.0509,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 114,
+              "tag": "劇場版MyGO"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwctrgh38m",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Tam_U/status/1839228418984128995/photo/1",
+              "media_key": "3_1839088633414037505",
+              "start": 135,
+              "url": "https://t.co/lWCtRgH38m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839228418984128995",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 389466,
+          "like_count": 8642,
+          "quote_count": 56,
+          "reply_count": 18,
+          "retweet_count": 2130
+        },
+        "reply_settings": "everyone",
+        "text": "RiNGの野良猫こと要楽奈さんの公式ファンアートを描かせていただきました🎸🐈️\n劇場版「BanG Dream! It's MyGO!!!!! 前編 : 春の陽だまり、迷い猫」公開まであと１日です。\nぜひご覧ください!!!!!\n\n#劇場版MyGO　#バンドリ　#MyGO https://t.co/lWCtRgH38m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 3296,
+          "listed_count": 0,
+          "tweet_count": 661
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-09T13:40:58.000Z",
+        "description": "絵と漫画を描きます！「信者ゼロの女神サマと始める異世界攻略」「異世界で天才画家になってみた」の挿絵、Vtuberデザイン、ソシャゲなどなど。■お仕事のご相談はこちらから！：https://t.co/DJRhmcWLoH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tam-u.tumblr.com/contact",
+                "end": 109,
+                "expanded_url": "https://tam-u.tumblr.com/contact",
+                "start": 86,
+                "url": "https://t.co/DJRhmcWLoH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tam-u.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://tam-u.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/OBvDBaNZv3"
+              }
+            ]
+          }
+        },
+        "id": "88666366",
+        "location": "日本 東京",
+        "name": "Tam-U",
+        "pinned_tweet_id": "1839228418984128995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477091330816114688/CgGUXyLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175707,
+          "following_count": 3246,
+          "like_count": 49442,
+          "listed_count": 2064,
+          "tweet_count": 14230
+        },
+        "url": "https://t.co/OBvDBaNZv3",
+        "username": "Tam_U",
+        "verified": true
+      }
+    ]
+  }
+}

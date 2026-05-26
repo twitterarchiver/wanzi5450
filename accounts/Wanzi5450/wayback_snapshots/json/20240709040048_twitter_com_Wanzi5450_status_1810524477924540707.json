@@ -1,0 +1,505 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1810524477924540707",
+    "created_at": "2024-07-09T04:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T05:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810524477924540707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810524477924540707",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 787
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810275205023207821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【掲載情報】\n\n『Maiden vol.4』にて、\nお写真やインタビューを掲載して頂きました✨\n\n小市民シリーズについてお話をさせて頂いたり\n夏らしいお衣装で撮影をさせて頂いたり\nとても楽しかったです✨\n宜しければお手にとって頂けますと幸いで…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1810524477924540707",
+        "created_at": "2024-07-09T04:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T05:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810524477924540707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810524477924540707",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 787
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810275205023207821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【掲載情報】\n\n『Maiden vol.4』にて、\nお写真やインタビューを掲載して頂きました✨\n\n小市民シリーズについてお話をさせて頂いたり\n夏らしいお衣装で撮影をさせて頂いたり\nとても楽しかったです✨\n宜しければお手にとって頂けますと幸いで…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810275185267974144",
+            "3_1810275185255419904"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1810275205023207821",
+        "created_at": "2024-07-08T11:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T12:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810275205023207821"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Maiden vol.4",
+              "probability": 0.831,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 145,
+              "tag": "Maiden"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "小市民"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vYzYEaBvEa",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1810275205023207821/photo/1",
+              "media_key": "3_1810275185267974144",
+              "start": 158,
+              "url": "https://t.co/vYzYEaBvEa"
+            },
+            {
+              "display_url": "pic.twitter.com/vYzYEaBvEa",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1810275205023207821/photo/1",
+              "media_key": "3_1810275185255419904",
+              "start": 158,
+              "url": "https://t.co/vYzYEaBvEa"
+            },
+            {
+              "display_url": "x.com/tvguideperson/…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/tvguideperson/status/1808075322799366527",
+              "start": 182,
+              "url": "https://t.co/4UCuPenL3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810275205023207821",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 245628,
+          "like_count": 5094,
+          "quote_count": 48,
+          "reply_count": 115,
+          "retweet_count": 787
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808075322799366527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【掲載情報】\n\n『Maiden vol.4』にて、\nお写真やインタビューを掲載して頂きました✨\n\n小市民シリーズについてお話をさせて頂いたり\n夏らしいお衣装で撮影をさせて頂いたり\nとても楽しかったです✨\n宜しければお手にとって頂けますと幸いです👒\nよろしくお願いいたします(〃´-`〃)\n\n#Maiden #小市民 https://t.co/vYzYEaBvEa https://t.co/4UCuPenL3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2466,
+          "listed_count": 0,
+          "tweet_count": 403
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。【アニメ】『#僕ヤバ』山田杏奈┊『#アニメ戦隊大失格』戦闘員XX ┊放送中『#小市民』小佐内ゆき『#マヨぱん』譜風【映画】上映中『#トラペジウム』大河くるみ【活動】『#HOOOOPE』『#MyGO』",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "僕ヤバ"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "tag": "アニメ戦隊大失格"
+              },
+              {
+                "end": 95,
+                "start": 91,
+                "tag": "小市民"
+              },
+              {
+                "end": 107,
+                "start": 102,
+                "tag": "マヨぱん"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "トラペジウム"
+              },
+              {
+                "end": 144,
+                "start": 136,
+                "tag": "HOOOOPE"
+              },
+              {
+                "end": 151,
+                "start": 146,
+                "tag": "MyGO"
+              }
+            ]
+          }
+        },
+        "id": "1476931325646884879",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1766447125494419721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122213,
+          "following_count": 228,
+          "like_count": 1984,
+          "listed_count": 1166,
+          "tweet_count": 844
+        },
+        "username": "Hina_Youmiya",
+        "verified": false
+      }
+    ]
+  }
+}

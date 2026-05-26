@@ -1,0 +1,308 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1815705082065002496"
+      ],
+      "media_source_tweet_id": [
+        "1815705118484123656"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1816115677608173836",
+    "created_at": "2024-07-24T14:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T15:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816115677608173836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "143768218",
+          "start": 3,
+          "username": "koh_y1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Mx43nWyx9p",
+          "end": 57,
+          "expanded_url": "https://twitter.com/koh_y1/status/1815705118484123656/photo/1",
+          "media_key": "3_1815705082065002496",
+          "start": 34,
+          "url": "https://t.co/Mx43nWyx9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816115677608173836",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815705118484123656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koh_y1: 「やっぱり、私は間違ってない」\n#ガルクラ https://t.co/Mx43nWyx9p"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ガールズバンドクライ井芹仁菜",
+        "height": 1917,
+        "media_key": "3_1815705082065002496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTKuJvFbIAAVP6c.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815705082065002496"
+          ],
+          "media_source_tweet_id": [
+            "1815705118484123656"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816115677608173836",
+        "created_at": "2024-07-24T14:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T15:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816115677608173836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "143768218",
+              "start": 3,
+              "username": "koh_y1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Mx43nWyx9p",
+              "end": 57,
+              "expanded_url": "https://twitter.com/koh_y1/status/1815705118484123656/photo/1",
+              "media_key": "3_1815705082065002496",
+              "start": 34,
+              "url": "https://t.co/Mx43nWyx9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816115677608173836",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815705118484123656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koh_y1: 「やっぱり、私は間違ってない」\n#ガルクラ https://t.co/Mx43nWyx9p"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815705082065002496"
+          ]
+        },
+        "author_id": "143768218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815705118484123656",
+        "created_at": "2024-07-23T11:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T12:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815705118484123656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Mx43nWyx9p",
+              "end": 45,
+              "expanded_url": "https://twitter.com/koh_y1/status/1815705118484123656/photo/1",
+              "media_key": "3_1815705082065002496",
+              "start": 22,
+              "url": "https://t.co/Mx43nWyx9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815705118484123656",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 16781,
+          "like_count": 1076,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "「やっぱり、私は間違ってない」\n#ガルクラ https://t.co/Mx43nWyx9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2763,
+          "listed_count": 0,
+          "tweet_count": 475
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T10:15:33.000Z",
+        "description": "イラストレーター\nお仕事のご連絡はDM下さい。\nskeb→https://t.co/Vh3nPI61ZS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@koh_y1",
+                "end": 52,
+                "expanded_url": "http://skeb.jp/@koh_y1",
+                "start": 29,
+                "url": "https://t.co/Vh3nPI61ZS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/299908",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/299908",
+                "start": 0,
+                "url": "https://t.co/CPWSzasQg4"
+              }
+            ]
+          }
+        },
+        "id": "143768218",
+        "location": "ご依頼お待ちしております。個人の方はskebまで",
+        "name": "高橋コースケ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549183401659228161/P17naueV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 565,
+          "like_count": 6360,
+          "listed_count": 8,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/CPWSzasQg4",
+        "username": "koh_y1",
+        "verified": false
+      }
+    ]
+  }
+}

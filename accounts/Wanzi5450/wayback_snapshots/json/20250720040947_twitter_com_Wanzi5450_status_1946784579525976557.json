@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1946784579525976557",
+    "created_at": "2025-07-20T04:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T05:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946784579525976557"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Reading Caravan",
+          "probability": 0.3231,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 33,
+          "normalized_text": "夜声",
+          "probability": 0.6747,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "1st night cruising",
+          "probability": 0.4297,
+          "start": 37,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946784579525976557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 448
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946567085997597096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: Reading Caravan『夜声』\n-1st night cruising-\nご来場くださりありがとうございました🌃\n\n次の出演日は21日（月·祝）！\n同じ役もあれば、同じ演目でも違う役を\n演じるものもあります。\nキャストさんが変わるのも楽し…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946567078225281024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwOYcb0WgAAd_ax.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1946784579525976557",
+        "created_at": "2025-07-20T04:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T05:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946784579525976557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Reading Caravan",
+              "probability": 0.3231,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 33,
+              "normalized_text": "夜声",
+              "probability": 0.6747,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "1st night cruising",
+              "probability": 0.4297,
+              "start": 37,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946784579525976557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 448
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946567085997597096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: Reading Caravan『夜声』\n-1st night cruising-\nご来場くださりありがとうございました🌃\n\n次の出演日は21日（月·祝）！\n同じ役もあれば、同じ演目でも違う役を\n演じるものもあります。\nキャストさんが変わるのも楽し…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946567078225281024"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1946567085997597096",
+        "created_at": "2025-07-19T13:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T14:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946567085997597096"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Reading Caravan",
+              "probability": 0.3966,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 17,
+              "normalized_text": "夜声",
+              "probability": 0.7472,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "1st night cruising",
+              "probability": 0.4198,
+              "start": 21,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 158,
+              "start": 152,
+              "tag": "yogoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ujbh0Ote2Q",
+              "end": 182,
+              "expanded_url": "https://x.com/aoki__hina/status/1946567085997597096/photo/1",
+              "media_key": "3_1946567078225281024",
+              "start": 159,
+              "url": "https://t.co/ujbh0Ote2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946567085997597096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 57517,
+          "like_count": 3975,
+          "quote_count": 24,
+          "reply_count": 33,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "Reading Caravan『夜声』\n-1st night cruising-\nご来場くださりありがとうございました🌃\n\n次の出演日は21日（月·祝）！\n同じ役もあれば、同じ演目でも違う役を\n演じるものもあります。\nキャストさんが変わるのも楽しみです🙂‍↕️\n\nまた来たる夜の日に、お会いしましょう🌙\n#yogoe https://t.co/ujbh0Ote2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 4643,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 933
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です！アニメと音楽と鳥が好きです🕊┊【Music info】@AokiHina_Staff┊【SNS】https://t.co/yvPs79Redz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "AokiHina_Staff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 92,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 69,
+                "url": "https://t.co/yvPs79Redz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWxI2Y"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1936064164285628540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943840334204874758/yOR29OIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138324,
+          "following_count": 308,
+          "like_count": 2,
+          "listed_count": 1029,
+          "media_count": 1290,
+          "tweet_count": 4705
+        },
+        "url": "https://t.co/dnMFfWxI2Y",
+        "username": "aoki__hina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2035912011398418633",
+    "created_at": "2026-03-23T03:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035914716409942382"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "日本",
+          "probability": 0.7285,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970294321523085312",
+          "start": 0,
+          "username": "onigiri_08_k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035914716409942382",
+    "in_reply_to_user_id": "1970294321523085312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035912011398418633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onigiri_08_k うわーかわいい\n日本にいたらよかったのに😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2035912007501946880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEDLyEbIAAFa2D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035912008454004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEDL1naYAAW7Pf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2035912011398418633",
+        "created_at": "2026-03-23T03:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035914716409942382"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "日本",
+              "probability": 0.7285,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970294321523085312",
+              "start": 0,
+              "username": "onigiri_08_k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035914716409942382",
+        "in_reply_to_user_id": "1970294321523085312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035912011398418633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onigiri_08_k うわーかわいい\n日本にいたらよかったのに😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035912007501946880",
+            "3_2035912008454004736"
+          ]
+        },
+        "author_id": "1970294321523085312",
+        "conversation_id": "2035912011398418633",
+        "created_at": "2026-03-23T02:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035912011398418633"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "愛知",
+              "probability": 0.747,
+              "start": 9,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfkHQ1iQJh",
+              "end": 131,
+              "expanded_url": "https://x.com/onigiri_08_k/status/2035912011398418633/photo/1",
+              "media_key": "3_2035912007501946880",
+              "start": 108,
+              "url": "https://t.co/WfkHQ1iQJh"
+            },
+            {
+              "display_url": "pic.x.com/WfkHQ1iQJh",
+              "end": 131,
+              "expanded_url": "https://x.com/onigiri_08_k/status/2035912011398418633/photo/1",
+              "media_key": "3_2035912008454004736",
+              "start": 108,
+              "url": "https://t.co/WfkHQ1iQJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035912011398418633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早いですが、一人称愛知1日目、2日目のエンカ募集します！あってくれる方、左か右の報酬どっちか選んでいただければ作ってお渡しします✨行く日程、報酬どちらがいいかをリプしてもらえればメモります。さすがにこなけしで笑何卒 https://t.co/WfkHQ1iQJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 255,
+          "like_count": 9616,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2290
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T01:09:16.000Z",
+        "description": "08'音楽の記録\nヨルシカ一人称愛知➀@Huryu_mkw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Huryu_mkw"
+              }
+            ]
+          }
+        },
+        "id": "1970294321523085312",
+        "location": "ぱらぱら",
+        "name": "りり",
+        "pinned_tweet_id": "2025410406555242693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970295179040169986/qVKjHsPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 761,
+          "like_count": 7608,
+          "listed_count": 11,
+          "media_count": 116,
+          "tweet_count": 1657
+        },
+        "username": "onigiri_08_k",
+        "verified": false
+      }
+    ]
+  }
+}

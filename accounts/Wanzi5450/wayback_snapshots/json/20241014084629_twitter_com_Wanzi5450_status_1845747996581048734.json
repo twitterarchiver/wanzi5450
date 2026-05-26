@@ -1,0 +1,162 @@
+{
+  "data": {
+    "author_id": "1738375202168532992",
+    "conversation_id": "1845747996581048734",
+    "created_at": "2024-10-14T08:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-14T09:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1845747996581048734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353543505432301569",
+          "start": 3,
+          "username": "ttisrn_0710"
+        }
+      ]
+    },
+    "id": "1845747996581048734",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "1845050617246503143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttisrn_0710: 🎡 #BushiroadEXPO2024 in Manila 🎡\n\nトークショー＆サイン会ありがとうございました！！\nフィリピンのみなさん、たくさん盛り上がっくれて嬉しかったです！🥭\n\n初フィリピン楽しんでます✊🏻\n明日もよろしくお願いします…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1738375202168532992",
+        "conversation_id": "1845747996581048734",
+        "created_at": "2024-10-14T08:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-14T09:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1845747996581048734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353543505432301569",
+              "start": 3,
+              "username": "ttisrn_0710"
+            }
+          ]
+        },
+        "id": "1845747996581048734",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "1845050617246503143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttisrn_0710: 🎡 #BushiroadEXPO2024 in Manila 🎡\n\nトークショー＆サイン会ありがとうございました！！\nフィリピンのみなさん、たくさん盛り上がっくれて嬉しかったです！🥭\n\n初フィリピン楽しんでます✊🏻\n明日もよろしくお願いします…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3957,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 808
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:24:31.000Z",
+        "description": "響 声優 https://t.co/XTzqpKHxDR┊https://t.co/BzqoGzEpoN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rin_.t710",
+                "end": 28,
+                "expanded_url": "https://www.instagram.com/rin_.t710",
+                "start": 5,
+                "url": "https://t.co/XTzqpKHxDR"
+              },
+              {
+                "display_url": "youtube.com/@Tateishi_rin",
+                "end": 52,
+                "expanded_url": "https://www.youtube.com/@Tateishi_rin",
+                "start": 29,
+                "url": "https://t.co/BzqoGzEpoN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freecalend.com/open/mem231613…",
+                "end": 23,
+                "expanded_url": "https://freecalend.com/open/mem231613_date202407_modefull",
+                "start": 0,
+                "url": "https://t.co/kdP8UCdeZg"
+              }
+            ]
+          }
+        },
+        "id": "1353543505432301569",
+        "location": "#ぺこりんちゅ",
+        "name": "立石凛",
+        "pinned_tweet_id": "1863931764433199293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749408673724825600/SiKCGmUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66335,
+          "following_count": 141,
+          "like_count": 70,
+          "listed_count": 631,
+          "media_count": 417,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/kdP8UCdeZg",
+        "username": "ttisrn_0710",
+        "verified": false
+      }
+    ]
+  }
+}

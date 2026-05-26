@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2037136674812277079",
+    "created_at": "2026-03-26T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037177271484838306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609380631917776896",
+          "start": 0,
+          "username": "_Yt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037177271484838306",
+    "in_reply_to_user_id": "1609380631917776896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037136674812277079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@_Yt8964 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2037136674812277079",
+        "created_at": "2026-03-26T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037177271484838306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609380631917776896",
+              "start": 0,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037177271484838306",
+        "in_reply_to_user_id": "1609380631917776896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037136674812277079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@_Yt8964 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609380631917776896",
+        "conversation_id": "2037136674812277079",
+        "created_at": "2026-03-26T11:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037136674812277079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/landiantech/status/2037066406542631197",
+              "start": 4,
+              "url": "https://t.co/L4D8Y2NycD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037136674812277079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037066406542631197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "试一下 https://t.co/L4D8Y2NycD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 257,
+          "like_count": 9871,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2378
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T02:49:24.000Z",
+        "description": "",
+        "id": "1609380631917776896",
+        "location": "宛平南路600號",
+        "name": "晨昏線",
+        "pinned_tweet_id": "1963583564446142928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032254241331691522/20XCt397_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 363,
+          "like_count": 26317,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 2922
+        },
+        "username": "_Yt8964",
+        "verified": false
+      }
+    ]
+  }
+}

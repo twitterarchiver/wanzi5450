@@ -1,0 +1,605 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1832297137520177319",
+    "created_at": "2024-09-07T05:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T06:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832297137520177319"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 76,
+          "normalized_text": "雑踏、僕らの街",
+          "probability": 0.8702,
+          "start": 70,
+          "type": "Other"
+        },
+        {
+          "end": 98,
+          "normalized_text": "雑踏、僕らの街",
+          "probability": 0.8231,
+          "start": 92,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 111,
+          "tag": "ガルステ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "775280864674525184",
+          "start": 3,
+          "username": "bang_dream_gbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832297137520177319",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831685285392048580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_gbp: 【ガルパ新情報🎸】\n🎊7.5周年楽曲追加情報🎶\n\n9月17日(火)15:00より、カバー楽曲『雑踏、僕らの街』の追加が決定🏙️\n\n🎵『雑踏、僕らの街』\n 歌：MyGO!!!!!\n\n📺#ガルステ 放送中！\nhttps://t.co/nich…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1832297137520177319",
+        "created_at": "2024-09-07T05:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T06:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832297137520177319"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 76,
+              "normalized_text": "雑踏、僕らの街",
+              "probability": 0.8702,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 98,
+              "normalized_text": "雑踏、僕らの街",
+              "probability": 0.8231,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "ガルステ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "775280864674525184",
+              "start": 3,
+              "username": "bang_dream_gbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832297137520177319",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831685285392048580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_gbp: 【ガルパ新情報🎸】\n🎊7.5周年楽曲追加情報🎶\n\n9月17日(火)15:00より、カバー楽曲『雑踏、僕らの街』の追加が決定🏙️\n\n🎵『雑踏、僕らの街』\n 歌：MyGO!!!!!\n\n📺#ガルステ 放送中！\nhttps://t.co/nich…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831679266947567616"
+          ]
+        },
+        "author_id": "775280864674525184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1831685285392048580",
+        "created_at": "2024-09-05T13:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T14:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831685285392048580"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "雑踏、僕らの街",
+              "probability": 0.873,
+              "start": 50,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "雑踏、僕らの街",
+              "probability": 0.8237,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "ガルステ"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "ガルパ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "スマートフォンゲーム『バンドリ！ ガールズバンドパーティ！』の公式情報番組「ガルパステーション！」を放送します！「ガルパステーション！」は、「バンドリ！ ガールズバンドパーティ！」の出演キャストと共に、ゲームの最新情報やガルパに関する最新情報をお届けする番組です。ぜひご覧ください✨■日時2024年9月5日（木） ...",
+              "display_url": "youtube.com/live/C7v4AHbu8…",
+              "end": 125,
+              "expanded_url": "https://youtube.com/live/C7v4AHbu8ds",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1831693992255184896/B7E889ms?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1831693992255184896/B7E889ms?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "ガルパステーション！ 7.5周年特番",
+              "unwound_url": "https://www.youtube.com/live/C7v4AHbu8ds",
+              "url": "https://t.co/nich08GT5g"
+            },
+            {
+              "display_url": "pic.x.com/2qc373nhyt",
+              "end": 160,
+              "expanded_url": "https://twitter.com/bang_dream_gbp/status/1831685285392048580/photo/1",
+              "media_key": "3_1831679266947567616",
+              "start": 137,
+              "url": "https://t.co/2Qc373nHyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831685285392048580",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 827732,
+          "like_count": 11198,
+          "quote_count": 1021,
+          "reply_count": 63,
+          "retweet_count": 4264
+        },
+        "reply_settings": "everyone",
+        "text": "【ガルパ新情報🎸】\n🎊7.5周年楽曲追加情報🎶\n\n9月17日(火)15:00より、カバー楽曲『雑踏、僕らの街』の追加が決定🏙️\n\n🎵『雑踏、僕らの街』\n 歌：MyGO!!!!!\n\n📺#ガルステ 放送中！\nhttps://t.co/nich08GT5g\n#バンドリ #ガルパ https://t.co/2Qc373nHyt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 59,
+          "like_count": 3064,
+          "listed_count": 0,
+          "tweet_count": 574
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-12T10:32:16.000Z",
+        "description": "スマートフォン向けゲーム「バンドリ！ ガールズバンドパーティ！」（#ガルパ）の公式アカウントです。※お問い合わせやメッセージへは返答できかねます。ご了承下さい。 iOS：https://t.co/XH10OJ1UX0 Android：https://t.co/HXXnLUqQ37",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "ガルパ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3kQJPTl",
+                "end": 108,
+                "expanded_url": "http://bit.ly/3kQJPTl",
+                "start": 85,
+                "url": "https://t.co/XH10OJ1UX0"
+              },
+              {
+                "display_url": "bit.ly/33ZnlsM",
+                "end": 140,
+                "expanded_url": "http://bit.ly/33ZnlsM",
+                "start": 117,
+                "url": "https://t.co/HXXnLUqQ37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/bangdreamgbp",
+                "end": 23,
+                "expanded_url": "https://lit.link/bangdreamgbp",
+                "start": 0,
+                "url": "https://t.co/C24xmWOy7x"
+              }
+            ]
+          }
+        },
+        "id": "775280864674525184",
+        "location": "各種リンクはこちら！",
+        "name": "バンドリ！ ガールズバンドパーティ！",
+        "pinned_tweet_id": "1829765059477733486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807295639409340417/aIPURgu4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588702,
+          "following_count": 65,
+          "like_count": 2074,
+          "listed_count": 7073,
+          "tweet_count": 19058
+        },
+        "url": "https://t.co/C24xmWOy7x",
+        "username": "bang_dream_gbp",
+        "verified": true
+      }
+    ]
+  }
+}

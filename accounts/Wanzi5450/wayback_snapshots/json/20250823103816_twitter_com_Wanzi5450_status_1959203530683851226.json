@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959203505161560064"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1959203530683851226",
+    "created_at": "2025-08-23T10:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T11:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959203530683851226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhEnUDHxlg",
+          "end": 37,
+          "expanded_url": "https://x.com/Wanzi5450/status/1959203530683851226/photo/1",
+          "media_key": "3_1959203505161560064",
+          "start": 14,
+          "url": "https://t.co/dhEnUDHxlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959203530683851226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己煎的牛排\n佐柚子酒😽🍸 https://t.co/dhEnUDHxlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959203505161560064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzB9NSfa4AAFUBl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959203505161560064"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1959203530683851226",
+        "created_at": "2025-08-23T10:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959203530683851226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhEnUDHxlg",
+              "end": 37,
+              "expanded_url": "https://x.com/Wanzi5450/status/1959203530683851226/photo/1",
+              "media_key": "3_1959203505161560064",
+              "start": 14,
+              "url": "https://t.co/dhEnUDHxlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959203530683851226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己煎的牛排\n佐柚子酒😽🍸 https://t.co/dhEnUDHxlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 88,
+          "like_count": 5217,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1111
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

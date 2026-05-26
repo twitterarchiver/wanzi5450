@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2036656469261857058",
+    "created_at": "2026-03-25T04:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036668698606625272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036668698606625272",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036658550232301941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 哈哈确实写的不太清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2036656469261857058",
+        "created_at": "2026-03-25T04:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036668698606625272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036668698606625272",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036658550232301941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 哈哈确实写的不太清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2036656469261857058",
+        "created_at": "2026-03-25T04:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036658550232301941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036658550232301941",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036656469261857058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 对不起，我有罪，我看成了好好吃苦…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 259,
+          "like_count": 9779,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2339
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "阿楚天下第一好/02/北京/猫/碎碎念/日记/小情绪/年上/泛性恋",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 212
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

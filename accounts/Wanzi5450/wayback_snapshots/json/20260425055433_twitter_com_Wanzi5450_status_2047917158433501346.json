@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047856542700232704"
+      ],
+      "media_source_tweet_id": [
+        "2047856547032957424"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2047917158433501346",
+    "created_at": "2026-04-25T05:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047917158433501346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXj0hAqTxj",
+          "end": 63,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2047856547032957424/photo/1",
+          "media_key": "3_2047856542700232704",
+          "start": 40,
+          "url": "https://t.co/OXj0hAqTxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047917158433501346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047856547032957424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 我的日本朋友叫这个名字 取什么能更高他一筹 https://t.co/OXj0hAqTxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_2047856542700232704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtyrPKbYAAGoAl.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047856542700232704"
+          ],
+          "media_source_tweet_id": [
+            "2047856547032957424"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2047917158433501346",
+        "created_at": "2026-04-25T05:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047917158433501346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXj0hAqTxj",
+              "end": 63,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2047856547032957424/photo/1",
+              "media_key": "3_2047856542700232704",
+              "start": 40,
+              "url": "https://t.co/OXj0hAqTxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047917158433501346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047856547032957424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 我的日本朋友叫这个名字 取什么能更高他一筹 https://t.co/OXj0hAqTxj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047856542700232704"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2047856547032957424",
+        "created_at": "2026-04-25T01:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047856547032957424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXj0hAqTxj",
+              "end": 45,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2047856547032957424/photo/1",
+              "media_key": "3_2047856542700232704",
+              "start": 22,
+              "url": "https://t.co/OXj0hAqTxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047856547032957424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3370,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的日本朋友叫这个名字 取什么能更高他一筹 https://t.co/OXj0hAqTxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 276,
+          "like_count": 13174,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 3511
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 1871,
+          "like_count": 53677,
+          "listed_count": 9,
+          "media_count": 1290,
+          "tweet_count": 10863
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

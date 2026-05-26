@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851946929531600896",
+        "3_1851946929607053312",
+        "3_1851946929523167234"
+      ],
+      "media_source_tweet_id": [
+        "1851946934317257079",
+        "1851946934317257079",
+        "1851946934317257079"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1852588431802864045",
+    "created_at": "2024-11-02T05:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T06:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852588431802864045"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "夕莉",
+          "probability": 0.5854,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QYlrJM89BI",
+          "end": 116,
+          "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+          "media_key": "3_1851946929531600896",
+          "start": 93,
+          "url": "https://t.co/QYlrJM89BI"
+        },
+        {
+          "display_url": "pic.x.com/QYlrJM89BI",
+          "end": 116,
+          "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+          "media_key": "3_1851946929607053312",
+          "start": 93,
+          "url": "https://t.co/QYlrJM89BI"
+        },
+        {
+          "display_url": "pic.x.com/QYlrJM89BI",
+          "end": 116,
+          "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+          "media_key": "3_1851946929523167234",
+          "start": 93,
+          "url": "https://t.co/QYlrJM89BI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852588431802864045",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 753
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851946934317257079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: トゲトゲの夕莉ちゃんとご飯行ってきた^_^︎🎸❤︎︎\n\nたくさんお話できて楽しかった、\nバンドのお友達できるの嬉しい〜〜！\n1月の対バン楽しみだーっ！🫶 https://t.co/QYlrJM89BI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1851946929531600896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbNv652bQAAIzPV.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1851946929607053312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbNv66IakAAp5cj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1851946929523167234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbNv650akAIiiGo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851946929531600896",
+            "3_1851946929607053312",
+            "3_1851946929523167234"
+          ],
+          "media_source_tweet_id": [
+            "1851946934317257079",
+            "1851946934317257079",
+            "1851946934317257079"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1852588431802864045",
+        "created_at": "2024-11-02T05:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T06:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852588431802864045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "夕莉",
+              "probability": 0.5854,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYlrJM89BI",
+              "end": 116,
+              "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+              "media_key": "3_1851946929531600896",
+              "start": 93,
+              "url": "https://t.co/QYlrJM89BI"
+            },
+            {
+              "display_url": "pic.x.com/QYlrJM89BI",
+              "end": 116,
+              "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+              "media_key": "3_1851946929607053312",
+              "start": 93,
+              "url": "https://t.co/QYlrJM89BI"
+            },
+            {
+              "display_url": "pic.x.com/QYlrJM89BI",
+              "end": 116,
+              "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+              "media_key": "3_1851946929523167234",
+              "start": 93,
+              "url": "https://t.co/QYlrJM89BI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852588431802864045",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 753
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851946934317257079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: トゲトゲの夕莉ちゃんとご飯行ってきた^_^︎🎸❤︎︎\n\nたくさんお話できて楽しかった、\nバンドのお友達できるの嬉しい〜〜！\n1月の対バン楽しみだーっ！🫶 https://t.co/QYlrJM89BI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851946929531600896",
+            "3_1851946929607053312",
+            "3_1851946929523167234"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1851946934317257079",
+        "created_at": "2024-10-31T11:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T12:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851946934317257079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "夕莉",
+              "probability": 0.5624,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYlrJM89BI",
+              "end": 100,
+              "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+              "media_key": "3_1851946929531600896",
+              "start": 77,
+              "url": "https://t.co/QYlrJM89BI"
+            },
+            {
+              "display_url": "pic.x.com/QYlrJM89BI",
+              "end": 100,
+              "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+              "media_key": "3_1851946929607053312",
+              "start": 77,
+              "url": "https://t.co/QYlrJM89BI"
+            },
+            {
+              "display_url": "pic.x.com/QYlrJM89BI",
+              "end": 100,
+              "expanded_url": "https://x.com/aoki__hina/status/1851946934317257079/photo/1",
+              "media_key": "3_1851946929523167234",
+              "start": 77,
+              "url": "https://t.co/QYlrJM89BI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851946934317257079",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 112136,
+          "like_count": 5593,
+          "quote_count": 28,
+          "reply_count": 55,
+          "retweet_count": 753
+        },
+        "reply_settings": "everyone",
+        "text": "トゲトゲの夕莉ちゃんとご飯行ってきた^_^︎🎸❤︎︎\n\nたくさんお話できて楽しかった、\nバンドのお友達できるの嬉しい〜〜！\n1月の対バン楽しみだーっ！🫶 https://t.co/QYlrJM89BI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 3526,
+          "listed_count": 0,
+          "tweet_count": 723
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83446,
+          "following_count": 270,
+          "like_count": 0,
+          "listed_count": 809,
+          "tweet_count": 3663
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

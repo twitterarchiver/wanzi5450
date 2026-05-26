@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044617963018588160"
+      ],
+      "media_source_tweet_id": [
+        "2044617972279595133"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2044928425908212211",
+    "created_at": "2026-04-16T23:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T00:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044928425908212211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580818177139027970",
+          "start": 3,
+          "username": "sk_yayoi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bo0l4AsTeR",
+          "end": 45,
+          "expanded_url": "https://x.com/sk_yayoi3/status/2044617972279595133/photo/1",
+          "media_key": "3_2044617963018588160",
+          "start": 22,
+          "url": "https://t.co/bo0l4AsTeR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044928425908212211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044617972279595133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sk_yayoi3: ドライブ日和 https://t.co/bo0l4AsTeR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1005,
+        "media_key": "3_2044617963018588160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_xNFsbEAALuRX.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044617963018588160"
+          ],
+          "media_source_tweet_id": [
+            "2044617972279595133"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044928425908212211",
+        "created_at": "2026-04-16T23:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T00:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044928425908212211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580818177139027970",
+              "start": 3,
+              "username": "sk_yayoi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bo0l4AsTeR",
+              "end": 45,
+              "expanded_url": "https://x.com/sk_yayoi3/status/2044617972279595133/photo/1",
+              "media_key": "3_2044617963018588160",
+              "start": 22,
+              "url": "https://t.co/bo0l4AsTeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044928425908212211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044617972279595133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sk_yayoi3: ドライブ日和 https://t.co/bo0l4AsTeR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044617963018588160"
+          ]
+        },
+        "author_id": "1580818177139027970",
+        "conversation_id": "2044617972279595133",
+        "created_at": "2026-04-16T03:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044617972279595133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bo0l4AsTeR",
+              "end": 30,
+              "expanded_url": "https://x.com/sk_yayoi3/status/2044617972279595133/photo/1",
+              "media_key": "3_2044617963018588160",
+              "start": 7,
+              "url": "https://t.co/bo0l4AsTeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044617972279595133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 16035,
+          "like_count": 1565,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "ドライブ日和 https://t.co/bo0l4AsTeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 265,
+          "like_count": 12090,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 3262
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T07:10:06.000Z",
+        "description": "イラストレーター ｜京都芸術大学非常勤講師 ｜お仕事のご相談などはHPまたはメールへお願いいたします✉️→yayoi.seki03@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sk3148",
+                "end": 23,
+                "expanded_url": "https://lit.link/sk3148",
+                "start": 0,
+                "url": "https://t.co/UotpbMAhJb"
+              }
+            ]
+          }
+        },
+        "id": "1580818177139027970",
+        "name": "せきやよい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006731326171525125/NQakVyWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11463,
+          "following_count": 518,
+          "like_count": 17196,
+          "listed_count": 106,
+          "media_count": 1095,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/UotpbMAhJb",
+        "username": "sk_yayoi3",
+        "verified": false
+      }
+    ]
+  }
+}

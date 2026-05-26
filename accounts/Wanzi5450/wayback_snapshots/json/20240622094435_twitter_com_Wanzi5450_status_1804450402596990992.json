@@ -1,0 +1,387 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804191598793928705"
+      ],
+      "media_source_tweet_id": [
+        "1804191667500781588"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "1804450402596990992",
+    "created_at": "2024-06-22T09:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T10:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804450402596990992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433296312812769283",
+          "start": 3,
+          "username": "machuuu68"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uvmpu00r8u",
+          "end": 54,
+          "expanded_url": "https://twitter.com/machuuu68/status/1804191667500781588/photo/1",
+          "media_key": "3_1804191598793928705",
+          "start": 31,
+          "url": "https://t.co/uvmpu00r8u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804450402596990992",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1897
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804191667500781588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machuuu68: rainy season ☔️ https://t.co/uvmpu00r8u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1804191598793928705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQnGszjbMAEopep.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804191598793928705"
+          ],
+          "media_source_tweet_id": [
+            "1804191667500781588"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "1804450402596990992",
+        "created_at": "2024-06-22T09:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T10:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804450402596990992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433296312812769283",
+              "start": 3,
+              "username": "machuuu68"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uvmpu00r8u",
+              "end": 54,
+              "expanded_url": "https://twitter.com/machuuu68/status/1804191667500781588/photo/1",
+              "media_key": "3_1804191598793928705",
+              "start": 31,
+              "url": "https://t.co/uvmpu00r8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804450402596990992",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1897
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804191667500781588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machuuu68: rainy season ☔️ https://t.co/uvmpu00r8u"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804191598793928705"
+          ]
+        },
+        "author_id": "1433296312812769283",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "1804191667500781588",
+        "created_at": "2024-06-21T16:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T17:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804191667500781588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uvmpu00r8u",
+              "end": 39,
+              "expanded_url": "https://twitter.com/machuuu68/status/1804191667500781588/photo/1",
+              "media_key": "3_1804191598793928705",
+              "start": 16,
+              "url": "https://t.co/uvmpu00r8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804191667500781588",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 887,
+          "impression_count": 237762,
+          "like_count": 11725,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 1897
+        },
+        "reply_settings": "everyone",
+        "text": "rainy season ☔️ https://t.co/uvmpu00r8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 2272,
+          "listed_count": 0,
+          "tweet_count": 384
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-02T05:10:53.000Z",
+        "description": "I like ryo yamada ┊︎ commissions closed ✉️ ┊︎ alt: @machuuu69",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "machuuu69"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/machuuu68",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/machuuu68",
+                "start": 0,
+                "url": "https://t.co/8eOObdMd9R"
+              }
+            ]
+          }
+        },
+        "id": "1433296312812769283",
+        "location": "🖤 only the most astig  🖤",
+        "name": "machuuu",
+        "pinned_tweet_id": "1709950358058143941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794806486247632896/Ggki6eGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33989,
+          "following_count": 1448,
+          "like_count": 18099,
+          "listed_count": 138,
+          "tweet_count": 4006
+        },
+        "url": "https://t.co/8eOObdMd9R",
+        "username": "machuuu68",
+        "verified": false
+      }
+    ]
+  }
+}

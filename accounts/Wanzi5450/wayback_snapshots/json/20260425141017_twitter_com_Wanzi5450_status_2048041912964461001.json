@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048041903745331200",
+        "3_2048041903682400256"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048041912964461001",
+    "created_at": "2026-04-25T14:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048041912964461001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2zMTAgHSs",
+          "end": 60,
+          "expanded_url": "https://x.com/Wanzi5450/status/2048041912964461001/photo/1",
+          "media_key": "3_2048041903745331200",
+          "start": 37,
+          "url": "https://t.co/S2zMTAgHSs"
+        },
+        {
+          "display_url": "pic.x.com/S2zMTAgHSs",
+          "end": 60,
+          "expanded_url": "https://x.com/Wanzi5450/status/2048041912964461001/photo/1",
+          "media_key": "3_2048041903682400256",
+          "start": 37,
+          "url": "https://t.co/S2zMTAgHSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048041912964461001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久违的深夜活动，，妈妈我再也不抽烟了\n在没人的小区长椅上思考我傻逼的人生 https://t.co/S2zMTAgHSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048041903745331200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwbQq3a8AAOF9z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048041903682400256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwbQqoasAAoVrn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048041903745331200",
+            "3_2048041903682400256"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048041912964461001",
+        "created_at": "2026-04-25T14:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048041912964461001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2zMTAgHSs",
+              "end": 60,
+              "expanded_url": "https://x.com/Wanzi5450/status/2048041912964461001/photo/1",
+              "media_key": "3_2048041903745331200",
+              "start": 37,
+              "url": "https://t.co/S2zMTAgHSs"
+            },
+            {
+              "display_url": "pic.x.com/S2zMTAgHSs",
+              "end": 60,
+              "expanded_url": "https://x.com/Wanzi5450/status/2048041912964461001/photo/1",
+              "media_key": "3_2048041903682400256",
+              "start": 37,
+              "url": "https://t.co/S2zMTAgHSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048041912964461001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违的深夜活动，，妈妈我再也不抽烟了\n在没人的小区长椅上思考我傻逼的人生 https://t.co/S2zMTAgHSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 279,
+          "like_count": 13316,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 3540
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2037126239870484495",
+    "created_at": "2026-03-26T11:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037128566627066165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1820986559694520320",
+          "start": 0,
+          "username": "n_ne373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037128566627066165",
+    "in_reply_to_user_id": "1820986559694520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037126239870484495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n_ne373 宝宝你是小偶像吗🥺也太可爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14866,
+        "height": 1280,
+        "media_key": "13_2037126166054842368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037126166054842368/img/8XLf5P4Pk36FDqDV.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037126166054842368/vid/avc1/320x568/ffJ3FGxCXPfAzDI-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037126166054842368/vid/avc1/480x852/6KI8IV6Jb6Hsimlm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037126166054842368/vid/avc1/720x1280/KemmLKpaVIbVUNyr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037126166054842368/pl/2ynlkYGIKkTcL2yJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2037126239870484495",
+        "created_at": "2026-03-26T11:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037128566627066165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1820986559694520320",
+              "start": 0,
+              "username": "n_ne373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037128566627066165",
+        "in_reply_to_user_id": "1820986559694520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037126239870484495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n_ne373 宝宝你是小偶像吗🥺也太可爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037126166054842368"
+          ]
+        },
+        "author_id": "1820986559694520320",
+        "conversation_id": "2037126239870484495",
+        "created_at": "2026-03-26T11:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037126239870484495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaUMSQKKy2",
+              "end": 29,
+              "expanded_url": "https://x.com/n_ne373/status/2037126239870484495/video/1",
+              "media_key": "13_2037126166054842368",
+              "start": 6,
+              "url": "https://t.co/AaUMSQKKy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037126239870484495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们先看 https://t.co/AaUMSQKKy2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 258,
+          "like_count": 9851,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2365
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T00:53:34.000Z",
+        "description": "373｜快速了解我：intp bpd sub od｜这里好像只有碎碎念｜直fo就是喜欢你｜查成分互fo\n不会混圈不懂各种规则先道个歉TT\n匿名问答：https://t.co/VRxGbV6kFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/37381507",
+                "end": 97,
+                "expanded_url": "https://ngl.link/37381507",
+                "start": 74,
+                "url": "https://t.co/VRxGbV6kFb"
+              }
+            ]
+          }
+        },
+        "id": "1820986559694520320",
+        "location": "🚪88",
+        "name": "みず",
+        "pinned_tweet_id": "2034451123617292379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030056220367917056/2nll6Kpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 129,
+          "like_count": 2961,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 780
+        },
+        "username": "n_ne373",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,782 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917024729061593088",
+        "3_1917024729023844352",
+        "3_1917024729065787396",
+        "3_1917024729044815873"
+      ],
+      "media_source_tweet_id": [
+        "1917024735596318813",
+        "1917024735596318813",
+        "1917024735596318813",
+        "1917024735596318813"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1917151731617792037",
+    "created_at": "2025-04-29T09:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T10:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917151731617792037"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "まいごちゃん",
+          "probability": 0.8145,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "MyGO"
+        },
+        {
+          "end": 66,
+          "start": 56,
+          "tag": "わかれ道のその先へ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JKAi3bOzTS",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+          "media_key": "3_1917024729061593088",
+          "start": 67,
+          "url": "https://t.co/JKAi3bOzTS"
+        },
+        {
+          "display_url": "pic.x.com/JKAi3bOzTS",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+          "media_key": "3_1917024729023844352",
+          "start": 67,
+          "url": "https://t.co/JKAi3bOzTS"
+        },
+        {
+          "display_url": "pic.x.com/JKAi3bOzTS",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+          "media_key": "3_1917024729065787396",
+          "start": 67,
+          "url": "https://t.co/JKAi3bOzTS"
+        },
+        {
+          "display_url": "pic.x.com/JKAi3bOzTS",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+          "media_key": "3_1917024729044815873",
+          "start": 67,
+          "url": "https://t.co/JKAi3bOzTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917151731617792037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1426
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917024735596318813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: まいごちゃん！\nだいすきで大切な居場所🐈🎸❤️‍🔥👊\n\n#バンドリ #MyGO\n#わかれ道のその先へ https://t.co/JKAi3bOzTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1917024729061593088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpqj1ZFbEAADxER.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1917024729023844352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpqj1Y8bEAA0UAj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1917024729065787396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpqj1ZGbEAQZjKc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1917024729044815873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpqj1ZBbEAECuzS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917024729061593088",
+            "3_1917024729023844352",
+            "3_1917024729065787396",
+            "3_1917024729044815873"
+          ],
+          "media_source_tweet_id": [
+            "1917024735596318813",
+            "1917024735596318813",
+            "1917024735596318813",
+            "1917024735596318813"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1917151731617792037",
+        "created_at": "2025-04-29T09:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T10:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917151731617792037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "まいごちゃん",
+              "probability": 0.8145,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "MyGO"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "わかれ道のその先へ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729061593088",
+              "start": 67,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729023844352",
+              "start": 67,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729065787396",
+              "start": 67,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729044815873",
+              "start": 67,
+              "url": "https://t.co/JKAi3bOzTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917151731617792037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1426
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917024735596318813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: まいごちゃん！\nだいすきで大切な居場所🐈🎸❤️‍🔥👊\n\n#バンドリ #MyGO\n#わかれ道のその先へ https://t.co/JKAi3bOzTS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917024729061593088",
+            "3_1917024729023844352",
+            "3_1917024729065787396",
+            "3_1917024729044815873"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1917024735596318813",
+        "created_at": "2025-04-29T01:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T02:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917024735596318813"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "まいごちゃん",
+              "probability": 0.8068,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "MyGO"
+            },
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "わかれ道のその先へ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729061593088",
+              "start": 51,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729023844352",
+              "start": 51,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729065787396",
+              "start": 51,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "pic.x.com/JKAi3bOzTS",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1917024735596318813/photo/1",
+              "media_key": "3_1917024729044815873",
+              "start": 51,
+              "url": "https://t.co/JKAi3bOzTS"
+            },
+            {
+              "display_url": "x.com/aoki__hina/sta…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1916799933547708558",
+              "start": 75,
+              "url": "https://t.co/6GKyFQ09ah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917024735596318813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 373,
+          "impression_count": 127302,
+          "like_count": 7732,
+          "quote_count": 19,
+          "reply_count": 40,
+          "retweet_count": 1426
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916799933547708558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まいごちゃん！\nだいすきで大切な居場所🐈🎸❤️‍🔥👊\n\n#バンドリ #MyGO\n#わかれ道のその先へ https://t.co/JKAi3bOzTS https://t.co/6GKyFQ09ah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 4469,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 916
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1916455933288337435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126795,
+          "following_count": 295,
+          "like_count": 3,
+          "listed_count": 992,
+          "media_count": 1202,
+          "tweet_count": 4416
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

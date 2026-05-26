@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1837493580782620960",
+    "created_at": "2024-09-21T14:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T15:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837493580782620960"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "上海",
+          "probability": 0.7596,
+          "start": 54,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837493580782620960",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837474265689739400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」\n上海追加公演\n\nこれからもひとつひとつ新たな景色を見つけながら、\nMyGO!!!!!は歩み続けます。\n\n初の海外単独公演にお越しいただいた皆様、\nそして応援いただいた皆様…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1837493580782620960",
+        "created_at": "2024-09-21T14:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837493580782620960"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "上海",
+              "probability": 0.7596,
+              "start": 54,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837493580782620960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837474265689739400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」\n上海追加公演\n\nこれからもひとつひとつ新たな景色を見つけながら、\nMyGO!!!!!は歩み続けます。\n\n初の海外単独公演にお越しいただいた皆様、\nそして応援いただいた皆様…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837473485087772672"
+          ]
+        },
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1837474265689739400",
+        "created_at": "2024-09-21T12:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T13:48:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837473930757788151",
+          "1837474265689739400"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.2437,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 34,
+              "normalized_text": "上海",
+              "probability": 0.7924,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "MyGO"
+            },
+            {
+              "end": 157,
+              "start": 145,
+              "tag": "見つけた景色たずさえて"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdsr4dhd4k",
+              "end": 181,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1837474265689739400/photo/1",
+              "media_key": "3_1837473485087772672",
+              "start": 158,
+              "url": "https://t.co/FdsR4dhd4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837474265689739400",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 113041,
+          "like_count": 2340,
+          "quote_count": 19,
+          "reply_count": 39,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」\n上海追加公演\n\nこれからもひとつひとつ新たな景色を見つけながら、\nMyGO!!!!!は歩み続けます。\n\n初の海外単独公演にお越しいただいた皆様、\nそして応援いただいた皆様、ありがとうございました。\n\n#バンドリ #MyGO\n#見つけた景色たずさえて https://t.co/FdsR4dhd4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3189,
+          "listed_count": 0,
+          "tweet_count": 618
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。12月22日(日) 、MyGO!!!!! 7th LIVEが日比谷公園大音楽堂にて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1817170571727450253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115747,
+          "following_count": 40,
+          "like_count": 194,
+          "listed_count": 587,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

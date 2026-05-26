@@ -1,0 +1,433 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801595823035453440"
+      ],
+      "media_source_tweet_id": [
+        "1801595842169868563"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1802179966093914259",
+    "created_at": "2024-06-16T03:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T04:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802179966093914259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2793386648",
+          "start": 3,
+          "username": "kei_globster"
+        },
+        {
+          "end": 38,
+          "id": "323686634",
+          "start": 28,
+          "username": "kerorira1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/PULUlYGzgc",
+          "end": 91,
+          "expanded_url": "https://twitter.com/kei_globster/status/1801595842169868563/photo/1",
+          "media_key": "3_1801595823035453440",
+          "start": 68,
+          "url": "https://t.co/PULUlYGzgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802179966093914259",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9559
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801595842169868563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kei_globster: 外出中のけろりら君(@kerorira1 )より、素敵な夏のイラストが届いたので皆様に共有します。 https://t.co/PULUlYGzgc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [kerorira1].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kerorira1",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kerorira1"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1801595823035453440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQCN2xTbEAA2bvX.jpg",
+        "width": 1822
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801595823035453440"
+          ],
+          "media_source_tweet_id": [
+            "1801595842169868563"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1802179966093914259",
+        "created_at": "2024-06-16T03:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T04:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802179966093914259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2793386648",
+              "start": 3,
+              "username": "kei_globster"
+            },
+            {
+              "end": 38,
+              "id": "323686634",
+              "start": 28,
+              "username": "kerorira1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PULUlYGzgc",
+              "end": 91,
+              "expanded_url": "https://twitter.com/kei_globster/status/1801595842169868563/photo/1",
+              "media_key": "3_1801595823035453440",
+              "start": 68,
+              "url": "https://t.co/PULUlYGzgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802179966093914259",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9559
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801595842169868563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kei_globster: 外出中のけろりら君(@kerorira1 )より、素敵な夏のイラストが届いたので皆様に共有します。 https://t.co/PULUlYGzgc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801595823035453440"
+          ]
+        },
+        "author_id": "2793386648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1801595842169868563",
+        "created_at": "2024-06-14T12:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T13:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801595842169868563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "323686634",
+              "start": 10,
+              "username": "kerorira1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PULUlYGzgc",
+              "end": 73,
+              "expanded_url": "https://twitter.com/kei_globster/status/1801595842169868563/photo/1",
+              "media_key": "3_1801595823035453440",
+              "start": 50,
+              "url": "https://t.co/PULUlYGzgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801595842169868563",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3573,
+          "impression_count": 1532400,
+          "like_count": 47230,
+          "quote_count": 175,
+          "reply_count": 34,
+          "retweet_count": 9559
+        },
+        "reply_settings": "everyone",
+        "text": "外出中のけろりら君(@kerorira1 )より、素敵な夏のイラストが届いたので皆様に共有します。 https://t.co/PULUlYGzgc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 2217,
+          "listed_count": 0,
+          "tweet_count": 377
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-06T07:31:29.000Z",
+        "description": "ぼっち・ざ・ろっく！をありがとうございました 。葬送のフリーレンもありがとうございました。",
+        "id": "2793386648",
+        "name": "圭一",
+        "pinned_tweet_id": "1422025164456222721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1128339953170038785/Cn7eCNdl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33121,
+          "following_count": 1506,
+          "like_count": 11577,
+          "listed_count": 281,
+          "tweet_count": 6247
+        },
+        "username": "kei_globster",
+        "verified": false
+      }
+    ]
+  }
+}

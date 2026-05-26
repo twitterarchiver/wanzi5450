@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1868266212679147576",
+    "created_at": "2024-12-15T12:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T13:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868266212679147576"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "上海",
+          "probability": 0.8645,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 85,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 100,
+          "start": 91,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 114,
+          "start": 101,
+          "tag": "GirlsBandCry"
+        },
+        {
+          "end": 124,
+          "start": 115,
+          "tag": "トゲトゲワンマン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681941563302346752",
+          "start": 3,
+          "username": "yuri_togetoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868266212679147576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 246
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867928635312914767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_togetoge: 上海での初のワンマン1日目ありがとうございました〜！！皆さんに会えて嬉しかったしとっても楽しかったです🩵🩵\nまた明日も楽しむぞー！\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry #トゲトゲワンマン https://t.co/L…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1868266212679147576",
+        "created_at": "2024-12-15T12:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T13:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868266212679147576"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "上海",
+              "probability": 0.8645,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 100,
+              "start": 91,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 114,
+              "start": 101,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 124,
+              "start": 115,
+              "tag": "トゲトゲワンマン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681941563302346752",
+              "start": 3,
+              "username": "yuri_togetoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868266212679147576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 246
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867928635312914767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_togetoge: 上海での初のワンマン1日目ありがとうございました〜！！皆さんに会えて嬉しかったしとっても楽しかったです🩵🩵\nまた明日も楽しむぞー！\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry #トゲトゲワンマン https://t.co/L…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867928614865457153",
+            "3_1867928614869590016"
+          ]
+        },
+        "author_id": "1681941563302346752",
+        "conversation_id": "1867928635312914767",
+        "created_at": "2024-12-14T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867928635312914767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "上海",
+              "probability": 0.8767,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 81,
+              "start": 72,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 95,
+              "start": 82,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "トゲトゲワンマン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3Q1q8zWeu",
+              "end": 129,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1867928635312914767/photo/1",
+              "media_key": "3_1867928614865457153",
+              "start": 106,
+              "url": "https://t.co/L3Q1q8zWeu"
+            },
+            {
+              "display_url": "pic.x.com/L3Q1q8zWeu",
+              "end": 129,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1867928635312914767/photo/1",
+              "media_key": "3_1867928614869590016",
+              "start": 106,
+              "url": "https://t.co/L3Q1q8zWeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867928635312914767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 33085,
+          "like_count": 2756,
+          "quote_count": 2,
+          "reply_count": 57,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "上海での初のワンマン1日目ありがとうございました〜！！皆さんに会えて嬉しかったしとっても楽しかったです🩵🩵\nまた明日も楽しむぞー！\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry #トゲトゲワンマン https://t.co/L3Q1q8zWeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 4025,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 825
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:18:25.000Z",
+        "description": "夕莉(Yuri) / アニメ『#ガールズバンドクライ』#河原木桃香 役 / バンド『#トゲナシトゲアリ』Gt. / Instagram→ https://t.co/w3tWoVPjwJ / 猫とサメ好き / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "河原木桃香"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yuri_togetoge",
+                "end": 92,
+                "expanded_url": "http://instagram.com/yuri_togetoge",
+                "start": 69,
+                "url": "https://t.co/w3tWoVPjwJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuritogetoge",
+                "start": 0,
+                "url": "https://t.co/Llf6CPKu18"
+              }
+            ]
+          }
+        },
+        "id": "1681941563302346752",
+        "name": "夕莉 / ガールズバンドクライ 河原木桃香役 / トゲナシトゲアリ Gt.",
+        "pinned_tweet_id": "1778774209046643150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795161042219008/pBbtpL8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38057,
+          "following_count": 99,
+          "like_count": 988,
+          "listed_count": 259,
+          "media_count": 147,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/Llf6CPKu18",
+        "username": "yuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

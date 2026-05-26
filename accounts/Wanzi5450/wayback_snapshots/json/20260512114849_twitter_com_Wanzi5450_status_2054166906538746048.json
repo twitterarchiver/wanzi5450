@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054131073555255296"
+      ],
+      "media_source_tweet_id": [
+        "2054131076482859488"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2054166906538746048",
+    "created_at": "2026-05-12T11:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054166906538746048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1556279645502427136",
+          "start": 3,
+          "username": "tianxiao0502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4c1KyDe5DB",
+          "end": 57,
+          "expanded_url": "https://x.com/tianxiao0502/status/2054131076482859488/photo/1",
+          "media_key": "3_2054131073555255296",
+          "start": 34,
+          "url": "https://t.co/4c1KyDe5DB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054166906538746048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054131076482859488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianxiao0502: 什么叫把新型冰毒当味精炒菜？？ https://t.co/4c1KyDe5DB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1587,
+        "media_key": "3_2054131073555255296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIG9VAFaUAAFDKr.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054131073555255296"
+          ],
+          "media_source_tweet_id": [
+            "2054131076482859488"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2054166906538746048",
+        "created_at": "2026-05-12T11:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054166906538746048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1556279645502427136",
+              "start": 3,
+              "username": "tianxiao0502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4c1KyDe5DB",
+              "end": 57,
+              "expanded_url": "https://x.com/tianxiao0502/status/2054131076482859488/photo/1",
+              "media_key": "3_2054131073555255296",
+              "start": 34,
+              "url": "https://t.co/4c1KyDe5DB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054166906538746048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054131076482859488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianxiao0502: 什么叫把新型冰毒当味精炒菜？？ https://t.co/4c1KyDe5DB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054131073555255296"
+          ]
+        },
+        "author_id": "1556279645502427136",
+        "conversation_id": "2054131076482859488",
+        "created_at": "2026-05-12T09:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054131076482859488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4c1KyDe5DB",
+              "end": 39,
+              "expanded_url": "https://x.com/tianxiao0502/status/2054131076482859488/photo/1",
+              "media_key": "3_2054131073555255296",
+              "start": 16,
+              "url": "https://t.co/4c1KyDe5DB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054131076482859488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 696,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫把新型冰毒当味精炒菜？？ https://t.co/4c1KyDe5DB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 288,
+          "like_count": 14962,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 3800
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "pdw副wiki主/叫我天晓/pdw官号@Psydrugswiki/里推@maimai_Prism_│🍐妈妈@K1ku21_ /kr @KrvyScorpii/苦力怕@Akinoyo_desu/彻子@aokitetsu111/叶子@WinbornN94577/苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2049637066645053756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 193,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1284
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      }
+    ]
+  }
+}

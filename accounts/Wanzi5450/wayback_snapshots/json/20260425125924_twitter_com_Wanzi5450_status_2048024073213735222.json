@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007435926180655104"
+      ],
+      "media_source_tweet_id": [
+        "2007435956857532808"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048024073213735222",
+    "created_at": "2026-04-25T12:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048024073213735222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1213155143799033856",
+          "start": 3,
+          "username": "gommotheworld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LpbC0wYkSp",
+          "end": 46,
+          "expanded_url": "https://x.com/gommotheworld/status/2007435956857532808/photo/1",
+          "media_key": "3_2007435926180655104",
+          "start": 23,
+          "url": "https://t.co/LpbC0wYkSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048024073213735222",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007435956857532808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gommotheworld: 5초전 https://t.co/LpbC0wYkSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_2007435926180655104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vYVsla8AA9NPk.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007435926180655104"
+          ],
+          "media_source_tweet_id": [
+            "2007435956857532808"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048024073213735222",
+        "created_at": "2026-04-25T12:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048024073213735222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1213155143799033856",
+              "start": 3,
+              "username": "gommotheworld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpbC0wYkSp",
+              "end": 46,
+              "expanded_url": "https://x.com/gommotheworld/status/2007435956857532808/photo/1",
+              "media_key": "3_2007435926180655104",
+              "start": 23,
+              "url": "https://t.co/LpbC0wYkSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048024073213735222",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 369
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007435956857532808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gommotheworld: 5초전 https://t.co/LpbC0wYkSp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007435926180655104"
+          ]
+        },
+        "author_id": "1213155143799033856",
+        "conversation_id": "2007435956857532808",
+        "created_at": "2026-01-03T12:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T13:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007435956857532808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpbC0wYkSp",
+              "end": 27,
+              "expanded_url": "https://x.com/gommotheworld/status/2007435956857532808/photo/1",
+              "media_key": "3_2007435926180655104",
+              "start": 4,
+              "url": "https://t.co/LpbC0wYkSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007435956857532808",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 38391,
+          "like_count": 1916,
+          "quote_count": 37,
+          "reply_count": 1,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "5초전 https://t.co/LpbC0wYkSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 278,
+          "like_count": 13295,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 3536
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-03T17:48:30.000Z",
+        "description": "",
+        "id": "1213155143799033856",
+        "name": "개부개",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929957493947674627/M-BQpedd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 244,
+          "like_count": 48826,
+          "listed_count": 13,
+          "media_count": 2845,
+          "tweet_count": 65733
+        },
+        "username": "gommotheworld",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "1838354963233407209",
+    "created_at": "2024-09-23T23:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T00:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838354963233407209"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "藤井道人監督",
+          "probability": 0.5683,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "738199700914872320",
+          "start": 3,
+          "username": "nbuna_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838354963233407209",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838352883764597035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbuna_staff: ヨルシカの新曲「太陽」が藤井道人監督が手掛ける映画「正体」の主題歌に決定しました。\n本予告映像で少し聴くことができます。\nぜひ、チェックください。\n宜しくお願い致します！\n\n映画「正体」\n11月29日公開\nhttps://t.co/tgfnf8…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "1838354963233407209",
+        "created_at": "2024-09-23T23:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T00:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838354963233407209"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "藤井道人監督",
+              "probability": 0.5683,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "738199700914872320",
+              "start": 3,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838354963233407209",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838352883764597035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbuna_staff: ヨルシカの新曲「太陽」が藤井道人監督が手掛ける映画「正体」の主題歌に決定しました。\n本予告映像で少し聴くことができます。\nぜひ、チェックください。\n宜しくお願い致します！\n\n映画「正体」\n11月29日公開\nhttps://t.co/tgfnf8…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "1838352883764597035",
+        "created_at": "2024-09-23T23:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T00:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838352883764597035"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "太陽",
+              "probability": 0.5062,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 17,
+              "normalized_text": "藤井道人監督",
+              "probability": 0.5746,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "映画正体"
+            }
+          ],
+          "urls": [
+            {
+              "description": "逃走を続ける、５つの顔を持つ指名手配犯 彼と出会い、信じる、疑う、恋する、追う４人　極上の逃亡サスペンス",
+              "display_url": "movies.shochiku.co.jp/shotai-movie/",
+              "end": 126,
+              "expanded_url": "https://movies.shochiku.co.jp/shotai-movie/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1837143425000554496/h5B9myDv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1837143425000554496/h5B9myDv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "映画『正体』公式サイト｜11.29(Fri) 全国公開",
+              "unwound_url": "https://movies.shochiku.co.jp/shotai-movie/",
+              "url": "https://t.co/tgfnf8KKqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838352883764597035",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10188,
+          "like_count": 1033,
+          "quote_count": 38,
+          "reply_count": 1,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "ヨルシカの新曲「太陽」が藤井道人監督が手掛ける映画「正体」の主題歌に決定しました。\n本予告映像で少し聴くことができます。\nぜひ、チェックください。\n宜しくお願い致します！\n\n映画「正体」\n11月29日公開\nhttps://t.co/tgfnf8KKqU\n\n#映画正体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 58,
+          "like_count": 3257,
+          "listed_count": 0,
+          "tweet_count": 647
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "pinned_tweet_id": "1810962256815083908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596726,
+          "following_count": 6,
+          "like_count": 1163,
+          "listed_count": 3068,
+          "tweet_count": 4521
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false
+      }
+    ]
+  }
+}

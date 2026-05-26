@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1832297587782905975",
+    "created_at": "2024-09-07T05:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T06:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832297587782905975"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "We will",
+          "probability": 0.8401,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "結束バンド"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465923253554548736",
+          "start": 3,
+          "username": "BTR_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832297587782905975",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3657
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831708879048077708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTR_anime: ◤￣￣￣￣￣￣￣￣\n      #結束バンド\n NEW EP「We will」\n     先行配信開始！\n＿＿＿＿＿＿＿＿◢\n\n少し未来の結束バンドのメンバーが\nそれぞれデモを持ち寄り作りあげた\nコンセプトEP！\n\n01.milky way\n02.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1832297587782905975",
+        "created_at": "2024-09-07T05:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T06:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832297587782905975"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "We will",
+              "probability": 0.8401,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "結束バンド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465923253554548736",
+              "start": 3,
+              "username": "BTR_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832297587782905975",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3657
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831708879048077708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTR_anime: ◤￣￣￣￣￣￣￣￣\n      #結束バンド\n NEW EP「We will」\n     先行配信開始！\n＿＿＿＿＿＿＿＿◢\n\n少し未来の結束バンドのメンバーが\nそれぞれデモを持ち寄り作りあげた\nコンセプトEP！\n\n01.milky way\n02.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831661213081858049"
+          ]
+        },
+        "author_id": "1465923253554548736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1831708879048077708",
+        "created_at": "2024-09-05T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831708879048077708"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "We will",
+              "probability": 0.8516,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 144,
+              "normalized_text": "夢を束ねて",
+              "probability": 0.6893,
+              "start": 140,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "結束バンド"
+            },
+            {
+              "end": 187,
+              "start": 177,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by 結束バンド.",
+              "display_url": "anxmusic.lnk.to/97u6US",
+              "end": 175,
+              "expanded_url": "http://anxmusic.lnk.to/97u6US",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1831660728400637952/7RmLZbhu?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1831660728400637952/7RmLZbhu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 152,
+              "status": 200,
+              "title": "We will",
+              "unwound_url": "https://anxmusic.lnk.to/97u6US",
+              "url": "https://t.co/VqLeYoZIZb"
+            },
+            {
+              "display_url": "pic.x.com/zqdqgqi079",
+              "end": 211,
+              "expanded_url": "https://twitter.com/BTR_anime/status/1831708879048077708/photo/1",
+              "media_key": "3_1831661213081858049",
+              "start": 188,
+              "url": "https://t.co/zQDQgqi079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831708879048077708",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 533,
+          "impression_count": 2311218,
+          "like_count": 12048,
+          "quote_count": 364,
+          "reply_count": 41,
+          "retweet_count": 3657
+        },
+        "reply_settings": "everyone",
+        "text": "◤￣￣￣￣￣￣￣￣\n      #結束バンド\n NEW EP「We will」\n     先行配信開始！\n＿＿＿＿＿＿＿＿◢\n\n少し未来の結束バンドのメンバーが\nそれぞれデモを持ち寄り作りあげた\nコンセプトEP！\n\n01.milky way\n02.惑う星\n03.UNITE\n04.夢を束ねて\n\n🎧配信先\nhttps://t.co/VqLeYoZIZb\n\n#ぼっち・ざ・ろっく https://t.co/zQDQgqi079"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 3073,
+          "listed_count": 0,
+          "tweet_count": 576
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T05:58:51.000Z",
+        "description": "アニメ「ぼっち・ざ・ろっく！」公式アカウント 劇場総集編【前編】Re:公開中！/【後編】Re:Re:8月9日(金) 公開！ 推奨ハッシュタグ⇒ #ぼっち・ざ・ろっく #結束バンド",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 72,
+                "tag": "ぼっち・ざ・ろっく"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "結束バンド"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "http://bocchi.rocks",
+                "start": 0,
+                "url": "https://t.co/9csHWKaKpd"
+              }
+            ]
+          }
+        },
+        "id": "1465923253554548736",
+        "name": "アニメ「ぼっち・ざ・ろっく！」公式",
+        "pinned_tweet_id": "1830893506115539097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495775359199248386/oTBvibjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704987,
+          "following_count": 32,
+          "like_count": 68,
+          "listed_count": 2421,
+          "tweet_count": 6177
+        },
+        "url": "https://t.co/9csHWKaKpd",
+        "username": "BTR_anime",
+        "verified": true
+      }
+    ]
+  }
+}

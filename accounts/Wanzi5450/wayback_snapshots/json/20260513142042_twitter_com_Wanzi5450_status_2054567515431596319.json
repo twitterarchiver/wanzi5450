@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2054566634657096067",
+    "created_at": "2026-05-13T14:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054567515431596319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797893908095262720",
+          "start": 0,
+          "username": "ShaaaShark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054567515431596319",
+    "in_reply_to_user_id": "1797893908095262720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054566634657096067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShaaaShark 比麦当劳汉堡大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2054566628986408960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINJdqgbUAAlfWM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2054566634657096067",
+        "created_at": "2026-05-13T14:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054567515431596319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797893908095262720",
+              "start": 0,
+              "username": "ShaaaShark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054567515431596319",
+        "in_reply_to_user_id": "1797893908095262720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054566634657096067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaaaShark 比麦当劳汉堡大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054566628986408960"
+          ]
+        },
+        "author_id": "1797893908095262720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054566634657096067",
+        "created_at": "2026-05-13T14:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054566634657096067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KuVjAdj15",
+              "end": 34,
+              "expanded_url": "https://x.com/ShaaaShark/status/2054566634657096067/photo/1",
+              "media_key": "3_2054566628986408960",
+              "start": 11,
+              "url": "https://t.co/5KuVjAdj15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054566634657096067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求雷霆大包子吞咽教程 https://t.co/5KuVjAdj15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 288,
+          "like_count": 15175,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 3817
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T07:31:46.000Z",
+        "description": "不晓得写嘛",
+        "id": "1797893908095262720",
+        "location": "Sydney, New South Wales",
+        "name": "ShaShark",
+        "pinned_tweet_id": "2002341166805880999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044562292122259457/ST2C4qsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 20,
+          "like_count": 4577,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 544
+        },
+        "username": "ShaaaShark",
+        "verified": true
+      }
+    ]
+  }
+}

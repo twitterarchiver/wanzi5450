@@ -1,0 +1,733 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040276669",
+          "name": "Spotify"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405172481590140933",
+          "name": "Music streaming service"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kawasaki",
+          "id": "1009168947009032192",
+          "name": "Kawasaki"
+        }
+      }
+    ],
+    "conversation_id": "1835597516613796022",
+    "created_at": "2024-09-16T08:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T09:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835597516613796022"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 138,
+          "normalized_text": "川崎",
+          "probability": 0.5835,
+          "start": 137,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 37,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "凛音の理"
+        },
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "Spotify"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835597516613796022",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 355
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835153266080203076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: ✧━━━━━━━━━━━━━━━━━\n#トゲナシトゲアリ \n2nd ONE-MAN LIVE “#凛音の理”\n\n#Spotify でセトリプレイリストを公開中✨️\n━━━━━━━━━━━━━━━━━━✧\n\nTVアニメ最終話の舞台でもある\n川崎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "1835597516613796022",
+        "created_at": "2024-09-16T08:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T09:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835597516613796022"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "川崎",
+              "probability": 0.5835,
+              "start": 137,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 37,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "凛音の理"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "Spotify"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835597516613796022",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 355
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835153266080203076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: ✧━━━━━━━━━━━━━━━━━\n#トゲナシトゲアリ \n2nd ONE-MAN LIVE “#凛音の理”\n\n#Spotify でセトリプレイリストを公開中✨️\n━━━━━━━━━━━━━━━━━━✧\n\nTVアニメ最終話の舞台でもある\n川崎…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835153069606391808"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "1835153266080203076",
+        "created_at": "2024-09-15T03:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T04:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835153266080203076"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 120,
+              "normalized_text": "川崎",
+              "probability": 0.6033,
+              "start": 119,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "凛音の理"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "Spotify"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hz1m9tij6o",
+              "end": 172,
+              "expanded_url": "https://twitter.com/girlsbandcry/status/1835153266080203076/photo/1",
+              "media_key": "3_1835153069606391808",
+              "start": 149,
+              "url": "https://t.co/HZ1M9tij6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835153266080203076",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 90527,
+          "like_count": 2216,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "✧━━━━━━━━━━━━━━━━━\n#トゲナシトゲアリ \n2nd ONE-MAN LIVE “#凛音の理”\n\n#Spotify でセトリプレイリストを公開中✨️\n━━━━━━━━━━━━━━━━━━✧\n\nTVアニメ最終話の舞台でもある\n川崎・CLUB CITTA'のステージに立ったトゲトゲ🎸… https://t.co/HZ1M9tij6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 3116,
+          "listed_count": 0,
+          "tweet_count": 597
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルTVアニメ『ガールズバンドクライ』公式アカウントです。各サービスにて全話配信中！原作・企画・製作：東映アニメーション／シリーズ構成：花田十輝／音楽プロデューサー：玉井健二 (agehasprings)／キャラクターデザイン：手島nari／シリーズディレクター：酒井和男　推奨ハッシュタグ【#ガルクラ】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "ガルクラ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1819523579265831129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155740,
+          "following_count": 23,
+          "like_count": 3237,
+          "listed_count": 684,
+          "tweet_count": 3526
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

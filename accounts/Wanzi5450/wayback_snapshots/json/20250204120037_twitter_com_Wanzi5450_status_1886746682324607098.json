@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886380800482185216"
+      ],
+      "media_source_tweet_id": [
+        "1886380808656568323"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      }
+    ],
+    "conversation_id": "1886746682324607098",
+    "created_at": "2025-02-04T12:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886746682324607098"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "トゲナシトゲアリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vMbdrb3t9e",
+          "end": 63,
+          "expanded_url": "https://x.com/rina_togetoge/status/1886380808656568323/photo/1",
+          "media_key": "3_1886380800482185216",
+          "start": 40,
+          "url": "https://t.co/vMbdrb3t9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886746682324607098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886380808656568323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: タオル！\n#ガルクラ #トゲナシトゲアリ https://t.co/vMbdrb3t9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886380800482185216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi3FV_PbkAA2Jic.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886380800482185216"
+          ],
+          "media_source_tweet_id": [
+            "1886380808656568323"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "1886746682324607098",
+        "created_at": "2025-02-04T12:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T13:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886746682324607098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMbdrb3t9e",
+              "end": 63,
+              "expanded_url": "https://x.com/rina_togetoge/status/1886380808656568323/photo/1",
+              "media_key": "3_1886380800482185216",
+              "start": 40,
+              "url": "https://t.co/vMbdrb3t9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886746682324607098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886380808656568323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: タオル！\n#ガルクラ #トゲナシトゲアリ https://t.co/vMbdrb3t9e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886380800482185216"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "1886380808656568323",
+        "created_at": "2025-02-03T11:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T12:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886380808656568323"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMbdrb3t9e",
+              "end": 44,
+              "expanded_url": "https://x.com/rina_togetoge/status/1886380808656568323/photo/1",
+              "media_key": "3_1886380800482185216",
+              "start": 21,
+              "url": "https://t.co/vMbdrb3t9e"
+            },
+            {
+              "display_url": "x.com/girlsbandcry/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/girlsbandcry/status/1886369290150133945",
+              "start": 45,
+              "url": "https://t.co/p0xSt2uRPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886380808656568323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 49372,
+          "like_count": 2168,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886369290150133945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "タオル！\n#ガルクラ #トゲナシトゲアリ https://t.co/vMbdrb3t9e https://t.co/p0xSt2uRPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 70,
+          "like_count": 4405,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 899
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80200,
+          "following_count": 111,
+          "like_count": 952,
+          "listed_count": 340,
+          "media_count": 262,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

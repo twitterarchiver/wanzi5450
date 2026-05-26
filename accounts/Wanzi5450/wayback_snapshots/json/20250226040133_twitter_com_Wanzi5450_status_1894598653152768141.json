@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894426473639157760"
+      ],
+      "media_source_tweet_id": [
+        "1894426539720413247"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1894598653152768141",
+    "created_at": "2025-02-26T04:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T05:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894598653152768141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1605143399270842369",
+          "start": 3,
+          "username": "danger474747"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e83DKr5Aoi",
+          "end": 53,
+          "expanded_url": "https://x.com/danger474747/status/1894426539720413247/photo/1",
+          "media_key": "3_1894426473639157760",
+          "start": 30,
+          "url": "https://t.co/e83DKr5Aoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894598653152768141",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894426539720413247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danger474747: MyGO!!!!! 🧭 https://t.co/e83DKr5Aoi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1894426473639157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkpa1zZboAA90JP.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894426473639157760"
+          ],
+          "media_source_tweet_id": [
+            "1894426539720413247"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1894598653152768141",
+        "created_at": "2025-02-26T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894598653152768141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605143399270842369",
+              "start": 3,
+              "username": "danger474747"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e83DKr5Aoi",
+              "end": 53,
+              "expanded_url": "https://x.com/danger474747/status/1894426539720413247/photo/1",
+              "media_key": "3_1894426473639157760",
+              "start": 30,
+              "url": "https://t.co/e83DKr5Aoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894598653152768141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894426539720413247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danger474747: MyGO!!!!! 🧭 https://t.co/e83DKr5Aoi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894426473639157760"
+          ]
+        },
+        "author_id": "1605143399270842369",
+        "conversation_id": "1894426539720413247",
+        "created_at": "2025-02-25T16:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T17:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894426539720413247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "MyGO",
+              "probability": 0.4539,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e83DKr5Aoi",
+              "end": 35,
+              "expanded_url": "https://x.com/danger474747/status/1894426539720413247/photo/1",
+              "media_key": "3_1894426473639157760",
+              "start": 12,
+              "url": "https://t.co/e83DKr5Aoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894426539720413247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 30156,
+          "like_count": 1548,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "MyGO!!!!! 🧭 https://t.co/e83DKr5Aoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 4443,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 908
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T10:09:48.000Z",
+        "description": "its mygo!!!!!\nanon ♡ soyo\n🐑🪨🐤🍊🥁 ♡♡♡",
+        "id": "1605143399270842369",
+        "name": "ymyhtr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770295951598768128/Xq-TMVqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 1168,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 1900,
+          "tweet_count": 13508
+        },
+        "username": "danger474747",
+        "verified": false
+      }
+    ]
+  }
+}

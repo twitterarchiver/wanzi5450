@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1857605534683377948",
+    "created_at": "2024-11-16T02:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T03:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857605534683377948"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 67,
+          "normalized_text": "おりみさん",
+          "probability": 0.7553,
+          "start": 63,
+          "type": "Person"
+        },
+        {
+          "end": 112,
+          "normalized_text": "ポピパさん",
+          "probability": 0.6569,
+          "start": 108,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "バンドリTVLIVE"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "りみかん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857605534683377948",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857071352206803355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: #バンドリTVLIVE\nご覧いただきありがとうございました✨\n\nご一緒させていただいた、\nおりみさんとの #りみかん ショット🫶\nようちゃんとのお写真です🩵\n\n応援上映決定や、ポピパさんの素敵なアルバム…！などなど！沢山お届けした情報も是非要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1857605534683377948",
+        "created_at": "2024-11-16T02:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T03:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857605534683377948"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "おりみさん",
+              "probability": 0.7553,
+              "start": 63,
+              "type": "Person"
+            },
+            {
+              "end": 112,
+              "normalized_text": "ポピパさん",
+              "probability": 0.6569,
+              "start": 108,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "バンドリTVLIVE"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "りみかん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857605534683377948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857071352206803355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: #バンドリTVLIVE\nご覧いただきありがとうございました✨\n\nご一緒させていただいた、\nおりみさんとの #りみかん ショット🫶\nようちゃんとのお写真です🩵\n\n応援上映決定や、ポピパさんの素敵なアルバム…！などなど！沢山お届けした情報も是非要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857071335609917441",
+            "3_1857071335505018881"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1857071352206803355",
+        "created_at": "2024-11-14T14:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T15:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857071352206803355"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "おりみさん",
+              "probability": 0.7506,
+              "start": 45,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "ポピパさん",
+              "probability": 0.6609,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "バンドリTVLIVE"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "りみかん"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLc2YwHLl8",
+              "end": 162,
+              "expanded_url": "https://x.com/kohinatamika/status/1857071352206803355/photo/1",
+              "media_key": "3_1857071335609917441",
+              "start": 139,
+              "url": "https://t.co/mLc2YwHLl8"
+            },
+            {
+              "display_url": "pic.x.com/mLc2YwHLl8",
+              "end": 162,
+              "expanded_url": "https://x.com/kohinatamika/status/1857071352206803355/photo/1",
+              "media_key": "3_1857071335505018881",
+              "start": 139,
+              "url": "https://t.co/mLc2YwHLl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857071352206803355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 53779,
+          "like_count": 3342,
+          "quote_count": 9,
+          "reply_count": 54,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "#バンドリTVLIVE\nご覧いただきありがとうございました✨\n\nご一緒させていただいた、\nおりみさんとの #りみかん ショット🫶\nようちゃんとのお写真です🩵\n\n応援上映決定や、ポピパさんの素敵なアルバム…！などなど！沢山お届けした情報も是非要チェックですよ…！✨\n\n#バンドリ https://t.co/mLc2YwHLl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 3578,
+          "listed_count": 0,
+          "tweet_count": 740
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #よりこのうたラジ 【配信】#こひなたぼっこ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "よりこのうたラジ"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "こひなたぼっこ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1823332454998172013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57998,
+          "following_count": 348,
+          "like_count": 4483,
+          "listed_count": 560,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": false
+      }
+    ]
+  }
+}

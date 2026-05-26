@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855200885028392960"
+      ],
+      "media_source_tweet_id": [
+        "1855200944558121169"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1855305891119296701",
+    "created_at": "2024-11-09T17:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T18:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855305891119296701"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "日本",
+          "probability": 0.5974,
+          "start": 31,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BAIGD5vrGB",
+          "end": 60,
+          "expanded_url": "https://x.com/rina_togetoge/status/1855200944558121169/video/1",
+          "media_key": "7_1855200885028392960",
+          "start": 37,
+          "url": "https://t.co/BAIGD5vrGB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855305891119296701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 605
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855200944558121169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: ただいまみんな！ただいま日本！✈️ https://t.co/BAIGD5vrGB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11500,
+        "height": 1280,
+        "media_key": "7_1855200885028392960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855200885028392960/pu/img/Db4eV_HovZBosDDe.jpg",
+        "public_metrics": {
+          "view_count": 21500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855200885028392960/pu/vid/avc1/320x568/9KJ8a1Tkwp2uAyxF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855200885028392960/pu/vid/avc1/480x852/GAaD3Pfi8iqL9JSD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855200885028392960/pu/vid/avc1/720x1280/FkFqwhzsIAXXNX4Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855200885028392960/pu/pl/Wy71rAh4_VOhffRl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855200885028392960"
+          ],
+          "media_source_tweet_id": [
+            "1855200944558121169"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1855305891119296701",
+        "created_at": "2024-11-09T17:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855305891119296701"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "日本",
+              "probability": 0.5974,
+              "start": 31,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAIGD5vrGB",
+              "end": 60,
+              "expanded_url": "https://x.com/rina_togetoge/status/1855200944558121169/video/1",
+              "media_key": "7_1855200885028392960",
+              "start": 37,
+              "url": "https://t.co/BAIGD5vrGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855305891119296701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 605
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855200944558121169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: ただいまみんな！ただいま日本！✈️ https://t.co/BAIGD5vrGB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855200885028392960"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "conversation_id": "1855200944558121169",
+        "created_at": "2024-11-09T10:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T11:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855200944558121169"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "日本",
+              "probability": 0.5857,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAIGD5vrGB",
+              "end": 41,
+              "expanded_url": "https://x.com/rina_togetoge/status/1855200944558121169/video/1",
+              "media_key": "7_1855200885028392960",
+              "start": 18,
+              "url": "https://t.co/BAIGD5vrGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855200944558121169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 66253,
+          "like_count": 4636,
+          "quote_count": 67,
+          "reply_count": 74,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "ただいまみんな！ただいま日本！✈️ https://t.co/BAIGD5vrGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 3556,
+          "listed_count": 0,
+          "tweet_count": 738
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / ガールズバンドクライ 井芹仁菜役 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56910,
+          "following_count": 98,
+          "like_count": 858,
+          "listed_count": 288,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871433164343881728",
+        "3_1871433164335521793",
+        "3_1871433164339712000",
+        "3_1871433164343910400"
+      ],
+      "media_source_tweet_id": [
+        "1871433170983473542",
+        "1871433170983473542",
+        "1871433170983473542",
+        "1871433170983473542"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1871514322201125054",
+    "created_at": "2024-12-24T11:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T12:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871514322201125054"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 48,
+          "tag": "こたえなんてなくても"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggHoC1WcTF",
+          "end": 131,
+          "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+          "media_key": "3_1871433164343881728",
+          "start": 108,
+          "url": "https://t.co/ggHoC1WcTF"
+        },
+        {
+          "display_url": "pic.x.com/ggHoC1WcTF",
+          "end": 131,
+          "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+          "media_key": "3_1871433164335521793",
+          "start": 108,
+          "url": "https://t.co/ggHoC1WcTF"
+        },
+        {
+          "display_url": "pic.x.com/ggHoC1WcTF",
+          "end": 131,
+          "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+          "media_key": "3_1871433164339712000",
+          "start": 108,
+          "url": "https://t.co/ggHoC1WcTF"
+        },
+        {
+          "display_url": "pic.x.com/ggHoC1WcTF",
+          "end": 131,
+          "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+          "media_key": "3_1871433164343910400",
+          "start": 108,
+          "url": "https://t.co/ggHoC1WcTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871514322201125054",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871433170983473542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 2024.12.22 MyGO!!!!! 7th LIVE\n「 #こたえなんてなくても」\n\n今回も本当にたくさんのお花のお祝いを頂きました。\nいつも応援いただきありがとうございます🙇 https://t.co/ggHoC1WcTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1871433164343881728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfiqjDWaMAAS7C7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1871433164335521793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfiqjDUaoAEBYNk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1871433164339712000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfiqjDVakAA4SUS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1871433164343910400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfiqjDWaoAAgnoK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871433164343881728",
+            "3_1871433164335521793",
+            "3_1871433164339712000",
+            "3_1871433164343910400"
+          ],
+          "media_source_tweet_id": [
+            "1871433170983473542",
+            "1871433170983473542",
+            "1871433170983473542",
+            "1871433170983473542"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1871514322201125054",
+        "created_at": "2024-12-24T11:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T12:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871514322201125054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 48,
+              "tag": "こたえなんてなくても"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 131,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164343881728",
+              "start": 108,
+              "url": "https://t.co/ggHoC1WcTF"
+            },
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 131,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164335521793",
+              "start": 108,
+              "url": "https://t.co/ggHoC1WcTF"
+            },
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 131,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164339712000",
+              "start": 108,
+              "url": "https://t.co/ggHoC1WcTF"
+            },
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 131,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164343910400",
+              "start": 108,
+              "url": "https://t.co/ggHoC1WcTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871514322201125054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871433170983473542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 2024.12.22 MyGO!!!!! 7th LIVE\n「 #こたえなんてなくても」\n\n今回も本当にたくさんのお花のお祝いを頂きました。\nいつも応援いただきありがとうございます🙇 https://t.co/ggHoC1WcTF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871433164343881728",
+            "3_1871433164335521793",
+            "3_1871433164339712000",
+            "3_1871433164343910400"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1871433170983473542",
+        "created_at": "2024-12-24T05:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T06:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871433170983473542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "こたえなんてなくても"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 115,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164343881728",
+              "start": 92,
+              "url": "https://t.co/ggHoC1WcTF"
+            },
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 115,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164335521793",
+              "start": 92,
+              "url": "https://t.co/ggHoC1WcTF"
+            },
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 115,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164339712000",
+              "start": 92,
+              "url": "https://t.co/ggHoC1WcTF"
+            },
+            {
+              "display_url": "pic.x.com/ggHoC1WcTF",
+              "end": 115,
+              "expanded_url": "https://x.com/aoki__hina/status/1871433170983473542/photo/1",
+              "media_key": "3_1871433164343910400",
+              "start": 92,
+              "url": "https://t.co/ggHoC1WcTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871433170983473542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 41900,
+          "like_count": 2559,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "2024.12.22 MyGO!!!!! 7th LIVE\n「 #こたえなんてなくても」\n\n今回も本当にたくさんのお花のお祝いを頂きました。\nいつも応援いただきありがとうございます🙇 https://t.co/ggHoC1WcTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 4196,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 854
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1870803630108078493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90709,
+          "following_count": 283,
+          "like_count": 1,
+          "listed_count": 848,
+          "media_count": 1055,
+          "tweet_count": 3829
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

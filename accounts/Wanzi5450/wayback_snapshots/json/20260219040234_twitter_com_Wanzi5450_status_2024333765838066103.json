@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024046790719500288"
+      ],
+      "media_source_tweet_id": [
+        "2024046804007010523"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2024333765838066103",
+    "created_at": "2026-02-19T04:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024333765838066103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1021947324",
+          "start": 3,
+          "username": "bluebirdjourney"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HgRwYboJ0v",
+          "end": 44,
+          "expanded_url": "https://x.com/bluebirdjourney/status/2024046804007010523/photo/1",
+          "media_key": "3_2024046790719500288",
+          "start": 21,
+          "url": "https://t.co/HgRwYboJ0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024333765838066103",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4203
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024046804007010523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluebirdjourney: https://t.co/HgRwYboJ0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024046790719500288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbb1RGa8AAw-JS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024046790719500288"
+          ],
+          "media_source_tweet_id": [
+            "2024046804007010523"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2024333765838066103",
+        "created_at": "2026-02-19T04:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024333765838066103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1021947324",
+              "start": 3,
+              "username": "bluebirdjourney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgRwYboJ0v",
+              "end": 44,
+              "expanded_url": "https://x.com/bluebirdjourney/status/2024046804007010523/photo/1",
+              "media_key": "3_2024046790719500288",
+              "start": 21,
+              "url": "https://t.co/HgRwYboJ0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024333765838066103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4203
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024046804007010523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluebirdjourney: https://t.co/HgRwYboJ0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024046790719500288"
+          ]
+        },
+        "author_id": "1021947324",
+        "conversation_id": "2024046804007010523",
+        "created_at": "2026-02-18T09:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024046804007010523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgRwYboJ0v",
+              "end": 23,
+              "expanded_url": "https://x.com/bluebirdjourney/status/2024046804007010523/photo/1",
+              "media_key": "3_2024046790719500288",
+              "start": 0,
+              "url": "https://t.co/HgRwYboJ0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024046804007010523",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1054,
+          "impression_count": 532321,
+          "like_count": 38194,
+          "quote_count": 106,
+          "reply_count": 83,
+          "retweet_count": 4203
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HgRwYboJ0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 200,
+          "like_count": 8360,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1605
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-19T12:12:26.000Z",
+        "description": "ユルユル系ネイチャー写真。サラリーマンの趣味です。最新作「ずっと気まま猫」発売中🐈 #にゃんぽとれ ／写真集「気ままに猫だもん。」、「猫だって鼻提灯くらいできるもん。」、「島ねこぽん」（青菁社）他諸々／ねこ休み展／ご依頼→DM又は bluebird777555@gmail.com／2025最新作「ずっと気まま猫」↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 42,
+                "tag": "にゃんぽとれ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/488350350X",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/dp/488350350X",
+                "start": 0,
+                "url": "https://t.co/OpZX7oaZ0m"
+              }
+            ]
+          }
+        },
+        "id": "1021947324",
+        "location": "日本 兵庫",
+        "name": "あおいとり🐱写真集「ずっと気まま猫」発売中",
+        "pinned_tweet_id": "2021370675794186501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980782502525403136/848isKt-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44404,
+          "following_count": 3246,
+          "like_count": 480127,
+          "listed_count": 542,
+          "media_count": 3712,
+          "tweet_count": 73228
+        },
+        "url": "https://t.co/OpZX7oaZ0m",
+        "username": "bluebirdjourney",
+        "verified": true
+      }
+    ]
+  }
+}

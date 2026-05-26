@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1931295128213180416"
+      ],
+      "media_source_tweet_id": [
+        "1931295197687615581"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      }
+    ],
+    "conversation_id": "1932759250948030649",
+    "created_at": "2025-06-11T11:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T12:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932759250948030649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "986275202030907392",
+          "start": 3,
+          "username": "zutomayo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0LXQW9lSu",
+          "end": 59,
+          "expanded_url": "https://x.com/zutomayo/status/1931295197687615581/video/1",
+          "media_key": "13_1931295128213180416",
+          "start": 36,
+          "url": "https://t.co/J0LXQW9lSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932759250948030649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3413
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931295197687615581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zutomayo: 6/12 21:00 “ 形 “ MV/曲 https://t.co/J0LXQW9lSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33000,
+        "height": 1080,
+        "media_key": "13_1931295128213180416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931295128213180416/img/dnuBFSAaxms6T5ni.jpg",
+        "public_metrics": {
+          "view_count": 119475
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931295128213180416/vid/avc1/1920x1080/T9f-NJDBaLqHBGE4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931295128213180416/vid/avc1/640x360/0ANmKwTOy6DMXL8E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931295128213180416/pl/no5p7Qpqi_aSL0cP.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931295128213180416/vid/avc1/480x270/Ig-ruoqh5aGVtVRG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931295128213180416/vid/avc1/1280x720/04OAfYNfJyiFll9x.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931295128213180416"
+          ],
+          "media_source_tweet_id": [
+            "1931295197687615581"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "1932759250948030649",
+        "created_at": "2025-06-11T11:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932759250948030649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "986275202030907392",
+              "start": 3,
+              "username": "zutomayo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0LXQW9lSu",
+              "end": 59,
+              "expanded_url": "https://x.com/zutomayo/status/1931295197687615581/video/1",
+              "media_key": "13_1931295128213180416",
+              "start": 36,
+              "url": "https://t.co/J0LXQW9lSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932759250948030649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3413
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931295197687615581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zutomayo: 6/12 21:00 “ 形 “ MV/曲 https://t.co/J0LXQW9lSu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931295128213180416"
+          ]
+        },
+        "author_id": "986275202030907392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "1931295197687615581",
+        "created_at": "2025-06-07T10:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931295197687615581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0LXQW9lSu",
+              "end": 45,
+              "expanded_url": "https://x.com/zutomayo/status/1931295197687615581/video/1",
+              "media_key": "13_1931295128213180416",
+              "start": 22,
+              "url": "https://t.co/J0LXQW9lSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931295197687615581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 681,
+          "impression_count": 451439,
+          "like_count": 15723,
+          "quote_count": 396,
+          "reply_count": 105,
+          "retweet_count": 3413
+        },
+        "reply_settings": "everyone",
+        "text": "6/12 21:00 “ 形 “ MV/曲 https://t.co/J0LXQW9lSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4508,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 922
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T16:08:27.000Z",
+        "description": "https://t.co/9MiAS9i79m ううううううううううううう ずっと真夜中でいいのに。です。曲とかライブ作りしてます あそびきてね 今年も情報過多時期です 微熱魔 よろしくね",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.to/ZUTOMAYO_YT",
+                "end": 23,
+                "expanded_url": "https://lnk.to/ZUTOMAYO_YT",
+                "start": 0,
+                "url": "https://t.co/9MiAS9i79m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/zutomayo/",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/zutomayo/",
+                "start": 0,
+                "url": "https://t.co/ZMjuEbK5Xz"
+              }
+            ]
+          }
+        },
+        "id": "986275202030907392",
+        "name": "ACAね a.k.a ネス湖のてっぺん",
+        "pinned_tweet_id": "1857046346240332085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409459829316284419/nrIiFKWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644181,
+          "following_count": 3,
+          "like_count": 7111,
+          "listed_count": 2937,
+          "media_count": 1539,
+          "tweet_count": 7228
+        },
+        "url": "https://t.co/ZMjuEbK5Xz",
+        "username": "zutomayo",
+        "verified": true
+      }
+    ]
+  }
+}

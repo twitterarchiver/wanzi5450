@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2030209877742944740",
+    "created_at": "2026-03-09T03:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030854069322203153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028846216944242688",
+          "start": 0,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030854069322203153",
+    "in_reply_to_user_id": "2028846216944242688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030840904886669491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisama 太辣了😭加仓小小酥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2030209877742944740",
+        "created_at": "2026-03-09T03:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030854069322203153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030854069322203153",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030840904886669491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama 太辣了😭加仓小小酥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028846216944242688",
+        "conversation_id": "2030209877742944740",
+        "created_at": "2026-03-09T02:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T03:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030840904886669491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030840904886669491",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030209877742944740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 收到，加仓魔芋爽😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 223,
+          "like_count": 8725,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1862
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "總有一天會成為魔王大人的！（辛苦的大學生一隻💔） 高強度上網，時不時分享自己的日常，喜歡和不同地區，不同國家的大家交朋友！目前正在自學日語，主修金融學（很不喜歡的專業.....）感謝大家的關注！🥰  \n      不鍵政❌",
+        "id": "2028846216944242688",
+        "location": "China",
+        "name": "鷹仔大魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028847592948523008/WkUjuWGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 48,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 105
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

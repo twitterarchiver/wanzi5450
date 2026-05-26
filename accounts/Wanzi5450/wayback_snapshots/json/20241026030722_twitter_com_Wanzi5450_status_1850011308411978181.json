@@ -1,0 +1,153 @@
+{
+  "data": {
+    "author_id": "1738375202168532992",
+    "conversation_id": "1850011308411978181",
+    "created_at": "2024-10-26T03:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T04:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850011308411978181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3009772568",
+          "start": 3,
+          "username": "bang_dream_info"
+        }
+      ]
+    },
+    "id": "1850011308411978181",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849435874834182622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_info: ＼配信開始しました✨／\n「バンドリ！TV LIVE 2024」＃236\n\n出演\n青木陽菜（要楽奈 役）\n小日向美香（長崎そよ 役）\n\n🌟YouTube https://t.co/gTkjKw57oe\n \n#バンドリ #バンドリTVLIV…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1738375202168532992",
+        "conversation_id": "1850011308411978181",
+        "created_at": "2024-10-26T03:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T04:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850011308411978181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3009772568",
+              "start": 3,
+              "username": "bang_dream_info"
+            }
+          ]
+        },
+        "id": "1850011308411978181",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849435874834182622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_info: ＼配信開始しました✨／\n「バンドリ！TV LIVE 2024」＃236\n\n出演\n青木陽菜（要楽奈 役）\n小日向美香（長崎そよ 役）\n\n🌟YouTube https://t.co/gTkjKw57oe\n \n#バンドリ #バンドリTVLIV…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3835,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 780
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式ツイッターです。 #バンドリ ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "1854660105863938453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854539849812111361/aHVJy708_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727506,
+          "following_count": 133,
+          "like_count": 331,
+          "listed_count": 4606,
+          "media_count": 13237,
+          "tweet_count": 28680
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

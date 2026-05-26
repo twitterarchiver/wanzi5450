@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859612739964108804"
+      ],
+      "media_source_tweet_id": [
+        "1859612753553654245"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1859807024722379053",
+    "created_at": "2024-11-22T03:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T04:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859807024722379053"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "燈ちゃん",
+          "probability": 0.9463,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "高松燈"
+        },
+        {
+          "end": 104,
+          "start": 93,
+          "tag": "高松燈生誕祭2024"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "946552673335169025",
+          "start": 3,
+          "username": "karaage_zj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Go5CckJW3s",
+          "end": 128,
+          "expanded_url": "https://x.com/karaage_zj/status/1859612753553654245/photo/1",
+          "media_key": "3_1859612739964108804",
+          "start": 105,
+          "url": "https://t.co/Go5CckJW3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859807024722379053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 504
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859612753553654245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karaage_zj: 燈ちゃん、お誕生日おめでとう🎉🎉\n\nライブの姿はとてもかっこいいです、新しい年も一緒に前進しましょう✨\n\n生日快乐！！！！！\n\n#バンドリ \n#高松燈 \n#高松燈生誕祭2024 https://t.co/Go5CckJW3s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_1859612739964108804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc6r7zFaAAQyML2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859612739964108804"
+          ],
+          "media_source_tweet_id": [
+            "1859612753553654245"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1859807024722379053",
+        "created_at": "2024-11-22T03:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T04:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859807024722379053"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "燈ちゃん",
+              "probability": 0.9463,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "高松燈"
+            },
+            {
+              "end": 104,
+              "start": 93,
+              "tag": "高松燈生誕祭2024"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "946552673335169025",
+              "start": 3,
+              "username": "karaage_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Go5CckJW3s",
+              "end": 128,
+              "expanded_url": "https://x.com/karaage_zj/status/1859612753553654245/photo/1",
+              "media_key": "3_1859612739964108804",
+              "start": 105,
+              "url": "https://t.co/Go5CckJW3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859807024722379053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 504
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859612753553654245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karaage_zj: 燈ちゃん、お誕生日おめでとう🎉🎉\n\nライブの姿はとてもかっこいいです、新しい年も一緒に前進しましょう✨\n\n生日快乐！！！！！\n\n#バンドリ \n#高松燈 \n#高松燈生誕祭2024 https://t.co/Go5CckJW3s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859612739964108804"
+          ]
+        },
+        "author_id": "946552673335169025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1859612753553654245",
+        "created_at": "2024-11-21T15:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T16:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859612753553654245"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "燈ちゃん",
+              "probability": 0.9577,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "高松燈"
+            },
+            {
+              "end": 88,
+              "start": 77,
+              "tag": "高松燈生誕祭2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Go5CckJW3s",
+              "end": 112,
+              "expanded_url": "https://x.com/karaage_zj/status/1859612753553654245/photo/1",
+              "media_key": "3_1859612739964108804",
+              "start": 89,
+              "url": "https://t.co/Go5CckJW3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859612753553654245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 27634,
+          "like_count": 1918,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 504
+        },
+        "reply_settings": "everyone",
+        "text": "燈ちゃん、お誕生日おめでとう🎉🎉\n\nライブの姿はとてもかっこいいです、新しい年も一緒に前進しましょう✨\n\n生日快乐！！！！！\n\n#バンドリ \n#高松燈 \n#高松燈生誕祭2024 https://t.co/Go5CckJW3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 3707,
+          "listed_count": 0,
+          "tweet_count": 757
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T01:25:18.000Z",
+        "description": "下尾みう💙MyGO‼︎‼︎! フィギュア原型師 ｜中文OK 日本語勉強中",
+        "id": "946552673335169025",
+        "location": "China",
+        "name": "karaage",
+        "pinned_tweet_id": "1786344713504935955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748529207683289088/kIJA_JGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1111,
+          "like_count": 16873,
+          "listed_count": 15,
+          "tweet_count": 3081
+        },
+        "username": "karaage_zj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2048352891053002933",
+    "created_at": "2026-04-26T10:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048352891053002933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "まなざし"
+        },
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "こひなた民"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048352891053002933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048338892018110922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: 『小日向美香1st写真集 #まなざし』\n全イベントが終了しました✨\n\n大阪でも #こひなた民 の皆に会えて嬉しかったー！！🐙\n\n写真集を通して皆の好きな事や場所が知れたり、いろんなお話ができてとっても楽しかったです！！\n\n改めて手に入れてくだ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048338806739542016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0pSstboAAyzk5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048338806777204736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0pSs2aUAAaZ46.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2048352891053002933",
+        "created_at": "2026-04-26T10:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048352891053002933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "まなざし"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "こひなた民"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048352891053002933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048338892018110922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: 『小日向美香1st写真集 #まなざし』\n全イベントが終了しました✨\n\n大阪でも #こひなた民 の皆に会えて嬉しかったー！！🐙\n\n写真集を通して皆の好きな事や場所が知れたり、いろんなお話ができてとっても楽しかったです！！\n\n改めて手に入れてくだ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048338806739542016",
+            "3_2048338806777204736"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2048338892018110922",
+        "created_at": "2026-04-26T09:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048338892018110922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "まなざし"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "こひなた民"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1tipLSEL9",
+              "end": 169,
+              "expanded_url": "https://x.com/kohinatamika/status/2048338892018110922/photo/1",
+              "media_key": "3_2048338806739542016",
+              "start": 146,
+              "url": "https://t.co/f1tipLSEL9"
+            },
+            {
+              "display_url": "pic.x.com/f1tipLSEL9",
+              "end": 169,
+              "expanded_url": "https://x.com/kohinatamika/status/2048338892018110922/photo/1",
+              "media_key": "3_2048338806777204736",
+              "start": 146,
+              "url": "https://t.co/f1tipLSEL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048338892018110922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "まなざし"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "こひなた民"
+              },
+              {
+                "end": 169,
+                "start": 165,
+                "tag": "声グラ"
+              },
+              {
+                "end": 182,
+                "start": 170,
+                "tag": "小日向美香1st写真集"
+              }
+            ]
+          },
+          "text": "『小日向美香1st写真集 #まなざし』\n全イベントが終了しました✨\n\n大阪でも #こひなた民 の皆に会えて嬉しかったー！！🐙\n\n写真集を通して皆の好きな事や場所が知れたり、いろんなお話ができてとっても楽しかったです！！\n\n改めて手に入れてくださった全ての皆様に感謝の気持ちでいっぱいです！！\nこれからも是非沢山見てくださいね👀✨\n#声グラ #小日向美香1st写真集"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7556,
+          "like_count": 714,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "『小日向美香1st写真集 #まなざし』\n全イベントが終了しました✨\n\n大阪でも #こひなた民 の皆に会えて嬉しかったー！！🐙\n\n写真集を通して皆の好きな事や場所が知れたり、いろんなお話ができてとっても楽しかったです！！\n\n改めて手に入れてくださった全ての皆様に感謝の気持ちでいっぱいです！！ https://t.co/f1tipLSEL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 280,
+          "like_count": 13418,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 3554
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の声優 小日向美香です🍊＃バンドリ #MyGO !!!!! Ba.長崎そよ 【ラジオ】#イマ2 #おねトントン 【配信】#こひなたぼっこ #こひチャン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 26,
+                "start": 21,
+                "tag": "MyGO"
+              },
+              {
+                "end": 50,
+                "start": 46,
+                "tag": "イマ2"
+              },
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "おねトントン"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "こひなたぼっこ"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "こひチャン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1952709238498984233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952701283900772352/nGxs0NJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120183,
+          "following_count": 527,
+          "like_count": 6737,
+          "listed_count": 879,
+          "media_count": 1598,
+          "tweet_count": 5751
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

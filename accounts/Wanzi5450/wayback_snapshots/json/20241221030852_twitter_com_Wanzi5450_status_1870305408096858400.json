@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1870155890554482690"
+      ],
+      "media_source_tweet_id": [
+        "1870155914453626995"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1870305408096858400",
+    "created_at": "2024-12-21T03:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T04:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870305408096858400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1681944655041265664",
+          "start": 3,
+          "username": "shuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2ZbpMo6gQ",
+          "end": 57,
+          "expanded_url": "https://x.com/shuri_togetoge/status/1870155914453626995/video/1",
+          "media_key": "7_1870155890554482690",
+          "start": 34,
+          "url": "https://t.co/L2ZbpMo6gQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870305408096858400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870155914453626995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuri_togetoge: おやすみおやすみおやすみ🌀 https://t.co/L2ZbpMo6gQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11426,
+        "height": 1280,
+        "media_key": "7_1870155890554482690",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1870155890554482690/pu/img/JkxsIejpNjwLB3Zb.jpg",
+        "public_metrics": {
+          "view_count": 12393
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870155890554482690/pu/vid/avc1/320x568/Akps6R7pzquAWwvp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870155890554482690/pu/vid/avc1/480x852/2XACu1eaMfrAyOHR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1870155890554482690/pu/vid/avc1/720x1280/FvAQoCA82U1mMm0j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1870155890554482690/pu/pl/P0zOdtXivgT1Rb0I.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1870155890554482690"
+          ],
+          "media_source_tweet_id": [
+            "1870155914453626995"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1870305408096858400",
+        "created_at": "2024-12-21T03:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T04:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870305408096858400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1681944655041265664",
+              "start": 3,
+              "username": "shuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2ZbpMo6gQ",
+              "end": 57,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1870155914453626995/video/1",
+              "media_key": "7_1870155890554482690",
+              "start": 34,
+              "url": "https://t.co/L2ZbpMo6gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870305408096858400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870155914453626995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuri_togetoge: おやすみおやすみおやすみ🌀 https://t.co/L2ZbpMo6gQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1870155890554482690"
+          ]
+        },
+        "author_id": "1681944655041265664",
+        "conversation_id": "1870155914453626995",
+        "created_at": "2024-12-20T17:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T18:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870155914453626995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2ZbpMo6gQ",
+              "end": 37,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1870155914453626995/video/1",
+              "media_key": "7_1870155890554482690",
+              "start": 14,
+              "url": "https://t.co/L2ZbpMo6gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870155914453626995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 29973,
+          "like_count": 2244,
+          "quote_count": 5,
+          "reply_count": 52,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみおやすみおやすみ🌀 https://t.co/L2ZbpMo6gQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 69,
+          "like_count": 4094,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 835
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:30:38.000Z",
+        "description": "朱李(Shuri) / アニメ『#ガールズバンドクライ』#ルパ 役 / バンド『#トゲナシトゲアリ』Ba. / Instagram→ https://t.co/mN4Sucbxpb / 爬虫類と金魚と野球が好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "ルパ"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/shuri_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/shuri_togetoge",
+                "start": 67,
+                "url": "https://t.co/mN4Sucbxpb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuritogetoge",
+                "start": 0,
+                "url": "https://t.co/OX3Xk30yGt"
+              }
+            ]
+          }
+        },
+        "id": "1681944655041265664",
+        "name": "朱李 / ガールズバンドクライ ルパ役 / トゲナシトゲアリ Ba.",
+        "pinned_tweet_id": "1778774042537021944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795663226290176/mMoS4Kqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42158,
+          "following_count": 99,
+          "like_count": 2170,
+          "listed_count": 272,
+          "media_count": 315,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/OX3Xk30yGt",
+        "username": "shuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

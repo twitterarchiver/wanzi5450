@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1946537432746520776",
+    "created_at": "2025-07-19T11:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T12:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946538626911011016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1681939616256102401",
+          "start": 0,
+          "username": "rina_togetoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946538626911011016",
+    "in_reply_to_user_id": "1681939616256102401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946537432746520776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rina_togetoge おもろいwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101734,
+        "height": 720,
+        "media_key": "13_1946537289603010560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946537289603010560/img/zJqTAB_JTIRX8LvR.jpg",
+        "public_metrics": {
+          "view_count": 401
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946537289603010560/vid/avc1/480x270/CBoFM3UC0SiJq7kg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946537289603010560/vid/avc1/640x360/QIxaj8trujWBxOW_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946537289603010560/vid/avc1/1280x720/mW_iyZyWdq9nRHSI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946537289603010560/pl/LdNeybcQCB8MbVgV.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1946537432746520776",
+        "created_at": "2025-07-19T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946538626911011016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1681939616256102401",
+              "start": 0,
+              "username": "rina_togetoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946538626911011016",
+        "in_reply_to_user_id": "1681939616256102401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946537432746520776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rina_togetoge おもろいwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946537289603010560"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "1946537432746520776",
+        "created_at": "2025-07-19T11:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946537432746520776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 83,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 107,
+              "start": 99,
+              "tag": "BML2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqcgIGAH3n",
+              "end": 131,
+              "expanded_url": "https://x.com/rina_togetoge/status/1946537432746520776/video/1",
+              "media_key": "13_1946537289603010560",
+              "start": 108,
+              "url": "https://t.co/TqcgIGAH3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946537432746520776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1670,
+          "like_count": 209,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "BILIBILI MACRO LINK＠上海\n\n思い出です📷✨待ち時間にスタッフさんも交えて麻雀いっぱいやった- ·̫ -\n改めて、3回目の上海超楽しかったなぁ💭\n\n#トゲナシトゲアリ #ガルクラ #BML2025 https://t.co/TqcgIGAH3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 78,
+          "like_count": 4634,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 932
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1937114221243949374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100552,
+          "following_count": 131,
+          "like_count": 1001,
+          "listed_count": 383,
+          "media_count": 336,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

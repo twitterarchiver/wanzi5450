@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1881614866638876672"
+      ],
+      "media_source_tweet_id": [
+        "1881615027687587908"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1881734395322925079",
+    "created_at": "2025-01-21T16:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T17:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881734395322925079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774429761810690048",
+          "start": 3,
+          "username": "nekome_88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1yeEc7ByL4",
+          "end": 63,
+          "expanded_url": "https://x.com/nekome_88/status/1881615027687587908/video/1",
+          "media_key": "13_1881614866638876672",
+          "start": 40,
+          "url": "https://t.co/1yeEc7ByL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881734395322925079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881615027687587908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekome_88: 音変えて再投稿🙏モニタリング\nアレンジして弾いた https://t.co/1yeEc7ByL4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35416,
+        "height": 720,
+        "media_key": "13_1881614866638876672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1881614866638876672/img/SN4nXYvJEswAmHx-.jpg",
+        "public_metrics": {
+          "view_count": 5103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881614866638876672/vid/avc1/472x270/2Bl4BeuwtAoQP7jq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881614866638876672/vid/avc1/630x360/T8brnPabJ5T2Je5i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1881614866638876672/vid/avc1/1260x720/9WSOswtLWncFnd-_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1881614866638876672/pl/gVrE10DCR2BAdnYm.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1881614866638876672"
+          ],
+          "media_source_tweet_id": [
+            "1881615027687587908"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1881734395322925079",
+        "created_at": "2025-01-21T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881734395322925079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774429761810690048",
+              "start": 3,
+              "username": "nekome_88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yeEc7ByL4",
+              "end": 63,
+              "expanded_url": "https://x.com/nekome_88/status/1881615027687587908/video/1",
+              "media_key": "13_1881614866638876672",
+              "start": 40,
+              "url": "https://t.co/1yeEc7ByL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881734395322925079",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881615027687587908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekome_88: 音変えて再投稿🙏モニタリング\nアレンジして弾いた https://t.co/1yeEc7ByL4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1881614866638876672"
+          ]
+        },
+        "author_id": "1774429761810690048",
+        "conversation_id": "1881615027687587908",
+        "created_at": "2025-01-21T08:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T09:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881615027687587908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yeEc7ByL4",
+              "end": 48,
+              "expanded_url": "https://x.com/nekome_88/status/1881615027687587908/video/1",
+              "media_key": "13_1881614866638876672",
+              "start": 25,
+              "url": "https://t.co/1yeEc7ByL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881615027687587908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 15259,
+          "like_count": 576,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "音変えて再投稿🙏モニタリング\nアレンジして弾いた https://t.co/1yeEc7ByL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 4372,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 886
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T13:33:28.000Z",
+        "description": "ヨルシカ好き 弾き語り、エレキ、ベースの動画よく出してます！ 高3女子 ギター歴2年くらい、ベース歴4ヶ月 Tiktokフォロワー2万人 Instagram、youtubeもやってます→nekome_88 Tiktokはねこめで 検索すれば出てきます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2ZMD80YM1P1J3?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/OBRJ40bT0c"
+              }
+            ]
+          }
+        },
+        "id": "1774429761810690048",
+        "name": "ねこめ",
+        "pinned_tweet_id": "1860596886836854909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875707377884000260/3KxsQwSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5559,
+          "following_count": 58,
+          "like_count": 1787,
+          "listed_count": 11,
+          "media_count": 95,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/OBRJ40bT0c",
+        "username": "nekome_88",
+        "verified": false
+      }
+    ]
+  }
+}

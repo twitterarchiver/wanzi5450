@@ -1,0 +1,392 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "1789227600352890972",
+    "created_at": "2024-05-11T09:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T10:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789227600352890972"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "碧を泳ぐver.",
+          "probability": 0.7239,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "アニメイト池袋本店",
+          "probability": 0.7272,
+          "start": 110,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "747338829695070208",
+          "start": 3,
+          "username": "bushi_creative"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789227600352890972",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 399
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788811205944950935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi_creative: ＼情報解禁🧭／\nMyGO!!!!!「碧を泳ぐver.」発売記念フェア\n開催決定🎉\n\n🐧期間🐧\n6月29日(土)～7月21日(日)\n\n🐧場所🐧\n全国のアニメイト店舗\n⚠️アニメイト池袋本店のみ特典の配布あり\n\n確実に手に入れたい方はアニメイ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1789227600352890972",
+        "created_at": "2024-05-11T09:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T10:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789227600352890972"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "碧を泳ぐver.",
+              "probability": 0.7239,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "アニメイト池袋本店",
+              "probability": 0.7272,
+              "start": 110,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "747338829695070208",
+              "start": 3,
+              "username": "bushi_creative"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789227600352890972",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 399
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788811205944950935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi_creative: ＼情報解禁🧭／\nMyGO!!!!!「碧を泳ぐver.」発売記念フェア\n開催決定🎉\n\n🐧期間🐧\n6月29日(土)～7月21日(日)\n\n🐧場所🐧\n全国のアニメイト店舗\n⚠️アニメイト池袋本店のみ特典の配布あり\n\n確実に手に入れたい方はアニメイ…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788449627840360448"
+          ]
+        },
+        "author_id": "747338829695070208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "1788811205944950935",
+        "created_at": "2024-05-10T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788811205944950935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "碧を泳ぐver.",
+              "probability": 0.752,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 98,
+              "normalized_text": "アニメイト池袋本店",
+              "probability": 0.7255,
+              "start": 90,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 170,
+              "start": 165,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードクリエイティブのイベント情報をお届けしています。",
+              "display_url": "bushiroad-creative.com/events/mygo-an…",
+              "end": 157,
+              "expanded_url": "https://bushiroad-creative.com/events/mygo-animate2024",
+              "start": 134,
+              "status": 200,
+              "title": "「MyGO!!!!! 碧を泳ぐver.」グッズ発売記念フェア | ブシロードクリエイティブ",
+              "unwound_url": "https://bushiroad-creative.com/events/mygo-animate2024",
+              "url": "https://t.co/4kd6YH1SlE"
+            },
+            {
+              "display_url": "pic.twitter.com/LYJ3qxNIar",
+              "end": 194,
+              "expanded_url": "https://twitter.com/bushi_creative/status/1788811205944950935/photo/1",
+              "media_key": "3_1788449627840360448",
+              "start": 171,
+              "url": "https://t.co/LYJ3qxNIar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788811205944950935",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 64548,
+          "like_count": 1551,
+          "quote_count": 35,
+          "reply_count": 0,
+          "retweet_count": 399
+        },
+        "reply_settings": "everyone",
+        "text": "＼情報解禁🧭／\nMyGO!!!!!「碧を泳ぐver.」発売記念フェア\n開催決定🎉\n\n🐧期間🐧\n6月29日(土)～7月21日(日)\n\n🐧場所🐧\n全国のアニメイト店舗\n⚠️アニメイト池袋本店のみ特典の配布あり\n\n確実に手に入れたい方はアニメイト通販をチェック！\n\n👇詳細\nhttps://t.co/4kd6YH1SlE\n\n#バンドリ #MyGO https://t.co/LYJ3qxNIar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 54,
+          "like_count": 1959,
+          "listed_count": 0,
+          "tweet_count": 326
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-27T08:00:36.000Z",
+        "description": "キャラクターグッズ、カプセルトイ、プライズ、物販催事企画等のマーチャンダイジング事業展開をしています。こちらではご質問に対するお返事はしかねますので、お問い合わせ窓口（公式サイト内参考）へお願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bushiroad-creative.com",
+                "end": 23,
+                "expanded_url": "https://bushiroad-creative.com/",
+                "start": 0,
+                "url": "https://t.co/G0f21TbI17"
+              }
+            ]
+          }
+        },
+        "id": "747338829695070208",
+        "name": "ブシロードクリエイティブ公式",
+        "pinned_tweet_id": "1788448817769320615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908613103167741953/iiZJaUCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178657,
+          "following_count": 192,
+          "like_count": 431,
+          "listed_count": 563,
+          "tweet_count": 22915
+        },
+        "url": "https://t.co/G0f21TbI17",
+        "username": "bushi_creative",
+        "verified": false
+      }
+    ]
+  }
+}

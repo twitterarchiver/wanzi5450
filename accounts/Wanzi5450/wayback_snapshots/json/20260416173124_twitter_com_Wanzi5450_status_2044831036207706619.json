@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2044824003542708498",
+    "created_at": "2026-04-16T17:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044831036207706619"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044831036207706619",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044824003542708498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有内幻 神了 我在使用三叉戟 溺水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044824003542708498",
+        "created_at": "2026-04-16T17:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044831036207706619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044831036207706619",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044824003542708498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有内幻 神了 我在使用三叉戟 溺水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044824003542708498",
+        "created_at": "2026-04-16T17:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044824003542708498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044824003542708498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地达西尼又来外幻了，你包装里是咗吡坦吗？？？？\n字体键盘变斜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 265,
+          "like_count": 12079,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 3255
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

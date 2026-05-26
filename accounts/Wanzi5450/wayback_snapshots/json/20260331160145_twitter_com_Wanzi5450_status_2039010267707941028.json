@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2039007749493907938",
+    "created_at": "2026-03-31T16:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039010267707941028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039010267707941028",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039009299352146415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz sleeping early is also generally beneficial to your mental health :P\nthanku!have a good night's sleep 💤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2039007749493907938",
+        "created_at": "2026-03-31T16:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039010267707941028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039010267707941028",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039009299352146415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz sleeping early is also generally beneficial to your mental health :P\nthanku!have a good night's sleep 💤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594653039109230598",
+        "conversation_id": "2039007749493907938",
+        "created_at": "2026-03-31T15:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039009299352146415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039009299352146415",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039007749493907938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 nice! i’ll sleep early today too\nthese past few weeks i’ve been staying up way too late, like 2–3 am every day, it’s kinda messing up my immune system :}\ntake care and sleep well, good night✌🏼💤💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 286,
+          "like_count": 10522,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2637
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "just a man with all his imperfections",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/regaforz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/regaforz",
+                "start": 0,
+                "url": "https://t.co/Wsj86GGAPr"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "name": "Rega",
+        "pinned_tweet_id": "2033296173885452718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125758074982401/rV1USe1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1098,
+          "like_count": 6216,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/Wsj86GGAPr",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882977657895464960"
+      ],
+      "media_source_tweet_id": [
+        "1882977663549329607"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1883108999979254099",
+    "created_at": "2025-01-25T11:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T12:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883108999979254099"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "リスアニ"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2880189872",
+          "start": 3,
+          "username": "okada_mei0519"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wrjysF1lEI",
+          "end": 81,
+          "expanded_url": "https://x.com/okada_mei0519/status/1882977663549329607/photo/1",
+          "media_key": "3_1882977657895464960",
+          "start": 58,
+          "url": "https://t.co/wrjysF1lEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883108999979254099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1805
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882977663549329607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okada_mei0519: おはようございます。🌙🎸🐺🧃\n\n#リスアニ\n#バンドリ #AveMujica https://t.co/wrjysF1lEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_1882977657895464960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiGuNBLbMAAdO1V.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882977657895464960"
+          ],
+          "media_source_tweet_id": [
+            "1882977663549329607"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1883108999979254099",
+        "created_at": "2025-01-25T11:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883108999979254099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "リスアニ"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2880189872",
+              "start": 3,
+              "username": "okada_mei0519"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrjysF1lEI",
+              "end": 81,
+              "expanded_url": "https://x.com/okada_mei0519/status/1882977663549329607/photo/1",
+              "media_key": "3_1882977657895464960",
+              "start": 58,
+              "url": "https://t.co/wrjysF1lEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883108999979254099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1805
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882977663549329607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okada_mei0519: おはようございます。🌙🎸🐺🧃\n\n#リスアニ\n#バンドリ #AveMujica https://t.co/wrjysF1lEI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882977657895464960"
+          ]
+        },
+        "author_id": "2880189872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1882977663549329607",
+        "created_at": "2025-01-25T02:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882977663549329607"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "リスアニ"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wrjysF1lEI",
+              "end": 62,
+              "expanded_url": "https://x.com/okada_mei0519/status/1882977663549329607/photo/1",
+              "media_key": "3_1882977657895464960",
+              "start": 39,
+              "url": "https://t.co/wrjysF1lEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882977663549329607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 405,
+          "impression_count": 228874,
+          "like_count": 11953,
+          "quote_count": 152,
+          "reply_count": 83,
+          "retweet_count": 1805
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます。🌙🎸🐺🧃\n\n#リスアニ\n#バンドリ #AveMujica https://t.co/wrjysF1lEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 4394,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 894
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "A-Plus 𖧷 ｴｰｽｸﾙｰ･ｴﾝﾀｰﾃｲﾝﾒﾝﾄ 業務提携｜声優 #D4DJ 水島茉莉花, #バンドリ AveMujica Ba.🎸八幡海鈴, #らぶフォー 最上羅巫, #ROAD59 柊彩愛 etc…｜1st写真集『 𝑀𝑒𝑖 』💎｜fan club ❥ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 53,
+                "start": 48,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "ROAD59"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 153,
+                "expanded_url": "https://maysland.jp/",
+                "start": 130,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "location": "埼玉県 出身 🐇𖤐⁺｡",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1702328980588929047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848344854885171200/sMebPHkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81659,
+          "following_count": 386,
+          "like_count": 64757,
+          "listed_count": 1025,
+          "media_count": 4256,
+          "tweet_count": 13913
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true
+      }
+    ]
+  }
+}

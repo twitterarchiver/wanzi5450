@@ -1,0 +1,353 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1813494341329125376",
+        "3_1813494341337583616"
+      ],
+      "media_source_tweet_id": [
+        "1813494377119093232",
+        "1813494377119093232"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1813846405124853861",
+    "created_at": "2024-07-18T08:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T09:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813846405124853861"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "広島",
+          "probability": 0.9654,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 30,
+          "normalized_text": "アニメイト",
+          "probability": 0.3465,
+          "start": 26,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/O9Yf5bECcu",
+          "end": 84,
+          "expanded_url": "https://twitter.com/rina_togetoge/status/1813494377119093232/photo/1",
+          "media_key": "3_1813494341329125376",
+          "start": 61,
+          "url": "https://t.co/O9Yf5bECcu"
+        },
+        {
+          "display_url": "pic.twitter.com/O9Yf5bECcu",
+          "end": 84,
+          "expanded_url": "https://twitter.com/rina_togetoge/status/1813494377119093232/photo/1",
+          "media_key": "3_1813494341337583616",
+          "start": 61,
+          "url": "https://t.co/O9Yf5bECcu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813846405124853861",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813494377119093232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: 広島に帰省❣️アニメイトに行ってきました〜！ちゃんと届いてて嬉しいですт  ̫ т https://t.co/O9Yf5bECcu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_1813494341329125376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSrTfsEagAApygR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1813494341337583616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSrTfsGbkAA9vQX.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813494341329125376",
+            "3_1813494341337583616"
+          ],
+          "media_source_tweet_id": [
+            "1813494377119093232",
+            "1813494377119093232"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1813846405124853861",
+        "created_at": "2024-07-18T08:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T09:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813846405124853861"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "広島",
+              "probability": 0.9654,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 30,
+              "normalized_text": "アニメイト",
+              "probability": 0.3465,
+              "start": 26,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/O9Yf5bECcu",
+              "end": 84,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1813494377119093232/photo/1",
+              "media_key": "3_1813494341329125376",
+              "start": 61,
+              "url": "https://t.co/O9Yf5bECcu"
+            },
+            {
+              "display_url": "pic.twitter.com/O9Yf5bECcu",
+              "end": 84,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1813494377119093232/photo/1",
+              "media_key": "3_1813494341337583616",
+              "start": 61,
+              "url": "https://t.co/O9Yf5bECcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813846405124853861",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813494377119093232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: 広島に帰省❣️アニメイトに行ってきました〜！ちゃんと届いてて嬉しいですт  ̫ т https://t.co/O9Yf5bECcu"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813494341329125376",
+            "3_1813494341337583616"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "conversation_id": "1813494377119093232",
+        "created_at": "2024-07-17T08:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T09:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813494377119093232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "広島",
+              "probability": 0.9658,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 11,
+              "normalized_text": "アニメイト",
+              "probability": 0.3338,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/O9Yf5bECcu",
+              "end": 65,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1813494377119093232/photo/1",
+              "media_key": "3_1813494341329125376",
+              "start": 42,
+              "url": "https://t.co/O9Yf5bECcu"
+            },
+            {
+              "display_url": "pic.twitter.com/O9Yf5bECcu",
+              "end": 65,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1813494377119093232/photo/1",
+              "media_key": "3_1813494341337583616",
+              "start": 42,
+              "url": "https://t.co/O9Yf5bECcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813494377119093232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 240261,
+          "like_count": 5005,
+          "quote_count": 38,
+          "reply_count": 66,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "広島に帰省❣️アニメイトに行ってきました〜！ちゃんと届いてて嬉しいですт  ̫ т https://t.co/O9Yf5bECcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 2699,
+          "listed_count": 0,
+          "tweet_count": 458
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / ガールズバンドクライ 井芹仁菜役 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33077,
+          "following_count": 78,
+          "like_count": 653,
+          "listed_count": 213,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

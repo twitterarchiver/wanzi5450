@@ -1,0 +1,604 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1831996254626238541",
+        "1831996254626238541"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kawasaki",
+          "id": "1009168947009032192",
+          "name": "Kawasaki"
+        }
+      }
+    ],
+    "conversation_id": "1832296990002315357",
+    "created_at": "2024-09-07T05:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T06:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832296990002315357"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 35,
+          "tag": "ガールズバンドクライ"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 62,
+          "start": 53,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2dmxbskabv",
+          "end": 100,
+          "expanded_url": "https://twitter.com/rina_togetoge/status/1831996254626238541/photo/1",
+          "media_key": "3_1831996216378642432",
+          "start": 77,
+          "url": "https://t.co/2dMXbskABV"
+        },
+        {
+          "display_url": "pic.x.com/2dmxbskabv",
+          "end": 100,
+          "expanded_url": "https://twitter.com/rina_togetoge/status/1831996254626238541/photo/1",
+          "media_key": "3_1831996216395362304",
+          "start": 77,
+          "url": "https://t.co/2dMXbskABV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832296990002315357",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831996254626238541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: BAYCAMP！！かわいいよ♡\n#ガールズバンドクライ #ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/2dMXbskABV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1831996254626238541",
+            "1831996254626238541"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "1832296990002315357",
+        "created_at": "2024-09-07T05:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T06:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832296990002315357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 35,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dmxbskabv",
+              "end": 100,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1831996254626238541/photo/1",
+              "media_key": "3_1831996216378642432",
+              "start": 77,
+              "url": "https://t.co/2dMXbskABV"
+            },
+            {
+              "display_url": "pic.x.com/2dmxbskabv",
+              "end": 100,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1831996254626238541/photo/1",
+              "media_key": "3_1831996216395362304",
+              "start": 77,
+              "url": "https://t.co/2dMXbskABV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832296990002315357",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831996254626238541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: BAYCAMP！！かわいいよ♡\n#ガールズバンドクライ #ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/2dMXbskABV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831996216378642432",
+            "3_1831996216395362304"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kawasaki",
+              "id": "1009168947009032192",
+              "name": "Kawasaki"
+            }
+          }
+        ],
+        "conversation_id": "1831996254626238541",
+        "created_at": "2024-09-06T10:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T11:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831996254626238541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "ガールズバンドクライ"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 43,
+              "start": 34,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 57,
+              "start": 44,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dmxbskabv",
+              "end": 81,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1831996254626238541/photo/1",
+              "media_key": "3_1831996216378642432",
+              "start": 58,
+              "url": "https://t.co/2dMXbskABV"
+            },
+            {
+              "display_url": "pic.x.com/2dmxbskabv",
+              "end": 81,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1831996254626238541/photo/1",
+              "media_key": "3_1831996216395362304",
+              "start": 58,
+              "url": "https://t.co/2dMXbskABV"
+            },
+            {
+              "display_url": "x.com/girlsbandcry/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/girlsbandcry/status/1831904850789142985",
+              "start": 82,
+              "url": "https://t.co/S2yOoWghmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831996254626238541",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 151922,
+          "like_count": 3944,
+          "quote_count": 9,
+          "reply_count": 24,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831904850789142985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BAYCAMP！！かわいいよ♡\n#ガールズバンドクライ #ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/2dMXbskABV https://t.co/S2yOoWghmi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 59,
+          "like_count": 3057,
+          "listed_count": 0,
+          "tweet_count": 571
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / ガールズバンドクライ 井芹仁菜役 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44142,
+          "following_count": 94,
+          "like_count": 770,
+          "listed_count": 247,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

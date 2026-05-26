@@ -1,0 +1,280 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794234880660017153"
+      ],
+      "media_source_tweet_id": [
+        "1794235544693842066"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1794323252359405569",
+    "created_at": "2024-05-25T11:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T12:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794323252359405569"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "MyGO"
+        },
+        {
+          "end": 31,
+          "start": 20,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738490061317185536",
+          "start": 3,
+          "username": "alume_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/k449GJFDg1",
+          "end": 55,
+          "expanded_url": "https://twitter.com/alume_00/status/1794235544693842066/photo/1",
+          "media_key": "3_1794234880660017153",
+          "start": 32,
+          "url": "https://t.co/k449GJFDg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794323252359405569",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794235544693842066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alume_00: #MyGO #bandoriart https://t.co/k449GJFDg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_1794234880660017153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOZnHiFbEAEQOpG.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794234880660017153"
+          ],
+          "media_source_tweet_id": [
+            "1794235544693842066"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1794323252359405569",
+        "created_at": "2024-05-25T11:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T12:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794323252359405569"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "MyGO"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738490061317185536",
+              "start": 3,
+              "username": "alume_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/k449GJFDg1",
+              "end": 55,
+              "expanded_url": "https://twitter.com/alume_00/status/1794235544693842066/photo/1",
+              "media_key": "3_1794234880660017153",
+              "start": 32,
+              "url": "https://t.co/k449GJFDg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794323252359405569",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794235544693842066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alume_00: #MyGO #bandoriart https://t.co/k449GJFDg1"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794234880660017153"
+          ]
+        },
+        "author_id": "1738490061317185536",
+        "conversation_id": "1794235544693842066",
+        "created_at": "2024-05-25T05:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T06:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794235544693842066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            },
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/k449GJFDg1",
+              "end": 41,
+              "expanded_url": "https://twitter.com/alume_00/status/1794235544693842066/photo/1",
+              "media_key": "3_1794234880660017153",
+              "start": 18,
+              "url": "https://t.co/k449GJFDg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794235544693842066",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 7363,
+          "like_count": 519,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO #bandoriart https://t.co/k449GJFDg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 55,
+          "like_count": 2054,
+          "listed_count": 0,
+          "tweet_count": 339
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T09:22:03.000Z",
+        "description": "skeb▶︎https://t.co/p5CTWbljYv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@alume_00",
+                "end": 29,
+                "expanded_url": "https://skeb.jp/@alume_00",
+                "start": 6,
+                "url": "https://t.co/p5CTWbljYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6165364",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/6165364",
+                "start": 0,
+                "url": "https://t.co/2WzbMb4ffk"
+              }
+            ]
+          }
+        },
+        "id": "1738490061317185536",
+        "name": "alume",
+        "pinned_tweet_id": "1791109254717542848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792052563728289792/yHnQvP1Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 10,
+          "like_count": 18,
+          "listed_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/2WzbMb4ffk",
+        "username": "alume_00",
+        "verified": false
+      }
+    ]
+  }
+}

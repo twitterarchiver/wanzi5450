@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2044010416721084519",
+    "created_at": "2026-04-15T03:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T04:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044261244702732323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555622253806493696",
+          "start": 0,
+          "username": "Kaed3_tachibanA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044261244702732323",
+    "in_reply_to_user_id": "1555622253806493696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044258118755045460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaed3_tachibanA 诶嘿嘿嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044010416721084519",
+        "created_at": "2026-04-15T03:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044261244702732323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555622253806493696",
+              "start": 0,
+              "username": "Kaed3_tachibanA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044261244702732323",
+        "in_reply_to_user_id": "1555622253806493696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044258118755045460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaed3_tachibanA 诶嘿嘿嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555622253806493696",
+        "conversation_id": "2044010416721084519",
+        "created_at": "2026-04-15T03:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044258118755045460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044258118755045460",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044010416721084519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 萌我一跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 264,
+          "like_count": 11915,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 3237
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T18:30:29.000Z",
+        "description": "==橘楓/楓橘｜本垢｜精神障害⚠️⚠️(治療中)｜CAN / MAN / EN / 簡単な日本語｜挨拶不要｜Pansexual 🩷💛🩵｜💊＆🩸注意‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kaed3_tachibanA",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kaed3_tachibanA",
+                "start": 0,
+                "url": "https://t.co/YvOv7ErSJK"
+              }
+            ]
+          }
+        },
+        "id": "1555622253806493696",
+        "location": "天国",
+        "name": "ᐕ)ﾉ",
+        "pinned_tweet_id": "2034268070873899299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256078331727872/WBB_Tgde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 145,
+          "like_count": 40581,
+          "listed_count": 0,
+          "media_count": 1855,
+          "tweet_count": 20429
+        },
+        "url": "https://t.co/YvOv7ErSJK",
+        "username": "Kaed3_tachibanA",
+        "verified": false
+      }
+    ]
+  }
+}

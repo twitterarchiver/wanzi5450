@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880705076886642688"
+      ],
+      "media_source_tweet_id": [
+        "1880806635901247679"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1887318709368476156",
+    "created_at": "2025-02-06T01:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T02:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887318709368476156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "709019829504778242",
+          "start": 3,
+          "username": "Oox3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDBEuRaNEK",
+          "end": 41,
+          "expanded_url": "https://x.com/Oox3O/status/1880806635901247679/photo/1",
+          "media_key": "3_1880705076886642688",
+          "start": 18,
+          "url": "https://t.co/DDBEuRaNEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887318709368476156",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880806635901247679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oox3O: 慰めてあげる https://t.co/DDBEuRaNEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1880705076886642688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmbTZMaIAAjr-y.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880705076886642688"
+          ],
+          "media_source_tweet_id": [
+            "1880806635901247679"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1887318709368476156",
+        "created_at": "2025-02-06T01:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T02:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887318709368476156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "709019829504778242",
+              "start": 3,
+              "username": "Oox3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDBEuRaNEK",
+              "end": 41,
+              "expanded_url": "https://x.com/Oox3O/status/1880806635901247679/photo/1",
+              "media_key": "3_1880705076886642688",
+              "start": 18,
+              "url": "https://t.co/DDBEuRaNEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887318709368476156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880806635901247679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oox3O: 慰めてあげる https://t.co/DDBEuRaNEK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880705076886642688"
+          ]
+        },
+        "author_id": "709019829504778242",
+        "conversation_id": "1880806635901247679",
+        "created_at": "2025-01-19T02:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T03:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880806635901247679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDBEuRaNEK",
+              "end": 30,
+              "expanded_url": "https://x.com/Oox3O/status/1880806635901247679/photo/1",
+              "media_key": "3_1880705076886642688",
+              "start": 7,
+              "url": "https://t.co/DDBEuRaNEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880806635901247679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 115465,
+          "like_count": 7095,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 1132
+        },
+        "reply_settings": "everyone",
+        "text": "慰めてあげる https://t.co/DDBEuRaNEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 70,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 901
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-13T14:14:35.000Z",
+        "description": "香港人🇭🇰  | でろーん好き 、百合好き | 日本語丶中文丶English👌 | マシュマロ：https://t.co/D4YsirNlxn | Email：dokeyoox3o@gmail.com | \nGirl Band heals my depression",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3IzRfZg",
+                "end": 71,
+                "expanded_url": "https://bit.ly/3IzRfZg",
+                "start": 48,
+                "url": "https://t.co/D4YsirNlxn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13300467",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13300467",
+                "start": 0,
+                "url": "https://t.co/9Jhdhx0b9y"
+              }
+            ]
+          }
+        },
+        "id": "709019829504778242",
+        "location": "Hong Kong",
+        "name": "ドーキー",
+        "pinned_tweet_id": "1830560799817105726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830943533575856128/vIOqbcOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7412,
+          "following_count": 283,
+          "like_count": 10813,
+          "listed_count": 60,
+          "media_count": 186,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/9Jhdhx0b9y",
+        "username": "Oox3O",
+        "verified": false
+      }
+    ]
+  }
+}

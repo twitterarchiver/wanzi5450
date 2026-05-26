@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1838214092441653508",
+    "created_at": "2024-09-23T13:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T14:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838214092441653508"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "BanG Dream! It’s #MyGO !!!!!",
+          "probability": 0.7925,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 19,
+          "tag": "劇場版MyGOポスターメーカー"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "MyGO"
+        },
+        {
+          "end": 95,
+          "start": 89,
+          "tag": "サンジゲン"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 116,
+          "start": 108,
+          "tag": "劇場版MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "307759398",
+          "start": 3,
+          "username": "SANZIGEN_INC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838214092441653508",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838178918354112938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @SANZIGEN_INC: 🧭#劇場版MyGOポスターメーカー 劇場版「BanG Dream! It’s #MyGO !!!!!」のポスターを作成して、映画を宣伝しよう！#サンジゲン #バンドリ\n\n/／\n🗣️#劇場版MyGO !!!!!を宣伝中！\n\\＼\n\n⭐️ポスターメ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1838214092441653508",
+        "created_at": "2024-09-23T13:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T14:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838214092441653508"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "BanG Dream! It’s #MyGO !!!!!",
+              "probability": 0.7925,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 19,
+              "tag": "劇場版MyGOポスターメーカー"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "MyGO"
+            },
+            {
+              "end": 95,
+              "start": 89,
+              "tag": "サンジゲン"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 116,
+              "start": 108,
+              "tag": "劇場版MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "307759398",
+              "start": 3,
+              "username": "SANZIGEN_INC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838214092441653508",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838178918354112938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @SANZIGEN_INC: 🧭#劇場版MyGOポスターメーカー 劇場版「BanG Dream! It’s #MyGO !!!!!」のポスターを作成して、映画を宣伝しよう！#サンジゲン #バンドリ\n\n/／\n🗣️#劇場版MyGO !!!!!を宣伝中！\n\\＼\n\n⭐️ポスターメ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838178915736846336"
+          ]
+        },
+        "author_id": "307759398",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1838178918354112938",
+        "created_at": "2024-09-23T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838178918354112938"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "BanG Dream! It’s #MyGO !!!!!",
+              "probability": 0.8055,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 1,
+              "tag": "劇場版MyGOポスターメーカー"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "MyGO"
+            },
+            {
+              "end": 77,
+              "start": 71,
+              "tag": "サンジゲン"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 98,
+              "start": 90,
+              "tag": "劇場版MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mygo-movie.bang-dream.com/poster-maker/s…",
+              "end": 152,
+              "expanded_url": "https://mygo-movie.bang-dream.com/poster-maker/share/",
+              "start": 129,
+              "status": 200,
+              "unwound_url": "https://mygo-movie.bang-dream.com/poster-maker/share/",
+              "url": "https://t.co/r0yRmJ1aPa"
+            },
+            {
+              "display_url": "pic.x.com/oasznxmxqh",
+              "end": 176,
+              "expanded_url": "https://twitter.com/SANZIGEN_INC/status/1838178918354112938/photo/1",
+              "media_key": "3_1838178915736846336",
+              "start": 153,
+              "url": "https://t.co/oASznxmXqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838178918354112938",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7701,
+          "like_count": 330,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "reply_settings": "following",
+        "text": "🧭#劇場版MyGOポスターメーカー 劇場版「BanG Dream! It’s #MyGO !!!!!」のポスターを作成して、映画を宣伝しよう！#サンジゲン #バンドリ\n\n/／\n🗣️#劇場版MyGO !!!!!を宣伝中！\n\\＼\n\n⭐️ポスターメーカーはこちら\nhttps://t.co/r0yRmJ1aPa https://t.co/oASznxmXqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 3233,
+          "listed_count": 0,
+          "tweet_count": 642
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-30T07:22:35.000Z",
+        "description": "3DCGアニメ中心のお仕事に携わっております。#サンジゲン の情報発信中！個別返信は出来ませんが参考にさせて頂きます。「#バンドリ BanG Dream! It's #MyGO !!!!!」続編「#AveMujica」TVアニメ『#GUILTYGEAR STRIVE: DUAL RULERS』鋭意製作中！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 23,
+                "tag": "サンジゲン"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "MyGO"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "tag": "GUILTYGEAR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanzigen.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanzigen.co.jp",
+                "start": 0,
+                "url": "https://t.co/34qhb8ga9I"
+              }
+            ]
+          }
+        },
+        "id": "307759398",
+        "location": "荻窪",
+        "name": "株式会社サンジゲン 公式アカウント",
+        "pinned_tweet_id": "1831708867752775689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1200350775366471682/iPWZMRfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13394,
+          "following_count": 59,
+          "like_count": 1,
+          "listed_count": 548,
+          "tweet_count": 21716
+        },
+        "url": "https://t.co/34qhb8ga9I",
+        "username": "SANZIGEN_INC",
+        "verified": false
+      }
+    ]
+  }
+}

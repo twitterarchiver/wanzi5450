@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2028118844716490840",
+    "created_at": "2026-03-01T14:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028118844716490840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "マルコ is live",
+          "display_url": "x.com/i/broadcasts/1…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/broadcasts/1XxygmwBMDbGM",
+          "start": 0,
+          "status": 200,
+          "title": "マルコ",
+          "unwound_url": "https://twitter.com/i/broadcasts/1XxygmwBMDbGM",
+          "url": "https://t.co/cl8nDHJlDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028118844716490840",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/cl8nDHJlDR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2028118844716490840",
+        "created_at": "2026-03-01T14:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028118844716490840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "マルコ is live",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/broadcasts/1XxygmwBMDbGM",
+              "start": 0,
+              "status": 200,
+              "title": "マルコ",
+              "unwound_url": "https://twitter.com/i/broadcasts/1XxygmwBMDbGM",
+              "url": "https://t.co/cl8nDHJlDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028118844716490840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cl8nDHJlDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 212,
+          "like_count": 8471,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1711
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

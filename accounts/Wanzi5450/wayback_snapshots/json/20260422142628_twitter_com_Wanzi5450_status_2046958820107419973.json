@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046954464876302382",
+    "created_at": "2026-04-22T14:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046958820107419973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046958820107419973",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046954464876302382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 卡哇伊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2046954456374484992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg-O5uaoAA6lfa.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046954464876302382",
+        "created_at": "2026-04-22T14:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046958820107419973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046958820107419973",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046954464876302382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 卡哇伊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046954456374484992"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2046954464876302382",
+        "created_at": "2026-04-22T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046954464876302382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jnv9gbO59C",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2046954464876302382/photo/1",
+              "media_key": "3_2046954456374484992",
+              "start": 5,
+              "url": "https://t.co/Jnv9gbO59C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046954464876302382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫躲雨 https://t.co/Jnv9gbO59C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 275,
+          "like_count": 12791,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 3440
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 269,
+          "like_count": 8523,
+          "listed_count": 1,
+          "media_count": 519,
+          "tweet_count": 3297
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

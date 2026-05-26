@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876906489698496512"
+      ],
+      "media_source_tweet_id": [
+        "1876906497277354468"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1877026518406234228",
+    "created_at": "2025-01-08T16:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T17:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877026518406234228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bEyLjhJjfD",
+          "end": 82,
+          "expanded_url": "https://x.com/rina_togetoge/status/1876906497277354468/photo/1",
+          "media_key": "3_1876906489698496512",
+          "start": 59,
+          "url": "https://t.co/bEyLjhJjfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877026518406234228",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876906497277354468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: 2Daysリハを乗り越えた私にもう恐れるものはない。なんでもかかってきなさい。 https://t.co/bEyLjhJjfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876906489698496512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwcghMasAAQaZa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876906489698496512"
+          ],
+          "media_source_tweet_id": [
+            "1876906497277354468"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1877026518406234228",
+        "created_at": "2025-01-08T16:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T17:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877026518406234228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEyLjhJjfD",
+              "end": 82,
+              "expanded_url": "https://x.com/rina_togetoge/status/1876906497277354468/photo/1",
+              "media_key": "3_1876906489698496512",
+              "start": 59,
+              "url": "https://t.co/bEyLjhJjfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877026518406234228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876906497277354468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: 2Daysリハを乗り越えた私にもう恐れるものはない。なんでもかかってきなさい。 https://t.co/bEyLjhJjfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876906489698496512"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "conversation_id": "1876906497277354468",
+        "created_at": "2025-01-08T08:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876906497277354468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEyLjhJjfD",
+              "end": 63,
+              "expanded_url": "https://x.com/rina_togetoge/status/1876906497277354468/photo/1",
+              "media_key": "3_1876906489698496512",
+              "start": 40,
+              "url": "https://t.co/bEyLjhJjfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876906497277354468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 50966,
+          "like_count": 3226,
+          "quote_count": 8,
+          "reply_count": 46,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "2Daysリハを乗り越えた私にもう恐れるものはない。なんでもかかってきなさい。 https://t.co/bEyLjhJjfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 69,
+          "like_count": 4331,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 883
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72593,
+          "following_count": 110,
+          "like_count": 928,
+          "listed_count": 327,
+          "media_count": 240,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

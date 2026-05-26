@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044748736036036609"
+      ],
+      "media_source_tweet_id": [
+        "2044748747238940943"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045008158272434480",
+    "created_at": "2026-04-17T05:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045008158272434480"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "ともらな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1549919348252614656",
+          "start": 3,
+          "username": "guanosaur_eats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XLdwZ0lY5i",
+          "end": 49,
+          "expanded_url": "https://x.com/guanosaur_eats/status/2044748747238940943/photo/1",
+          "media_key": "3_2044748736036036609",
+          "start": 26,
+          "url": "https://t.co/XLdwZ0lY5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045008158272434480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044748747238940943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guanosaur_eats: #ともらな https://t.co/XLdwZ0lY5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1915,
+        "media_key": "3_2044748736036036609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBoJFJbYAEaAM1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044748736036036609"
+          ],
+          "media_source_tweet_id": [
+            "2044748747238940943"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045008158272434480",
+        "created_at": "2026-04-17T05:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045008158272434480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "ともらな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1549919348252614656",
+              "start": 3,
+              "username": "guanosaur_eats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLdwZ0lY5i",
+              "end": 49,
+              "expanded_url": "https://x.com/guanosaur_eats/status/2044748747238940943/photo/1",
+              "media_key": "3_2044748736036036609",
+              "start": 26,
+              "url": "https://t.co/XLdwZ0lY5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045008158272434480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044748747238940943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guanosaur_eats: #ともらな https://t.co/XLdwZ0lY5i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044748736036036609"
+          ]
+        },
+        "author_id": "1549919348252614656",
+        "conversation_id": "2044748747238940943",
+        "created_at": "2026-04-16T12:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044748747238940943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ともらな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLdwZ0lY5i",
+              "end": 29,
+              "expanded_url": "https://x.com/guanosaur_eats/status/2044748747238940943/photo/1",
+              "media_key": "3_2044748736036036609",
+              "start": 6,
+              "url": "https://t.co/XLdwZ0lY5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044748747238940943",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 17145,
+          "like_count": 1586,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "#ともらな https://t.co/XLdwZ0lY5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 265,
+          "like_count": 12101,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 3267
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-21T00:49:37.000Z",
+        "description": "🔕｜被樂團女綁架 ｜Mygo!!!!!｜Ave Mujica | 雜食黨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mmh07z9jlh43xq…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/mmh07z9jlh43xqs?t=8K1G5T&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5DHKjazZaH"
+              }
+            ]
+          }
+        },
+        "id": "1549919348252614656",
+        "name": "呱呱",
+        "pinned_tweet_id": "1924493652644200484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934954639205789696/Vx949B8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9833,
+          "following_count": 664,
+          "like_count": 3879,
+          "listed_count": 46,
+          "media_count": 208,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/5DHKjazZaH",
+        "username": "guanosaur_eats",
+        "verified": false
+      }
+    ]
+  }
+}

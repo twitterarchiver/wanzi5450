@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940339927742382080"
+      ],
+      "media_source_tweet_id": [
+        "1940339939394412780"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048019548155318458",
+    "created_at": "2026-04-25T12:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048019548155318458"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1183311813905018880",
+          "start": 3,
+          "username": "akayukikaede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8vO70Fcx3",
+          "end": 66,
+          "expanded_url": "https://x.com/akayukikaede/status/1940339939394412780/photo/1",
+          "media_key": "3_1940339927742382080",
+          "start": 43,
+          "url": "https://t.co/T8vO70Fcx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048019548155318458",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940339939394412780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akayukikaede: 久違的swim和hina ²背靠背\n\n#MyGO https://t.co/T8vO70Fcx3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1293,
+        "media_key": "3_1940339927742382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu144kiXgAAsghU.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940339927742382080"
+          ],
+          "media_source_tweet_id": [
+            "1940339939394412780"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048019548155318458",
+        "created_at": "2026-04-25T12:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048019548155318458"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1183311813905018880",
+              "start": 3,
+              "username": "akayukikaede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8vO70Fcx3",
+              "end": 66,
+              "expanded_url": "https://x.com/akayukikaede/status/1940339939394412780/photo/1",
+              "media_key": "3_1940339927742382080",
+              "start": 43,
+              "url": "https://t.co/T8vO70Fcx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048019548155318458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940339939394412780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akayukikaede: 久違的swim和hina ²背靠背\n\n#MyGO https://t.co/T8vO70Fcx3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940339927742382080"
+          ]
+        },
+        "author_id": "1183311813905018880",
+        "conversation_id": "1940339939394412780",
+        "created_at": "2025-07-02T09:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940339939394412780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8vO70Fcx3",
+              "end": 48,
+              "expanded_url": "https://x.com/akayukikaede/status/1940339939394412780/photo/1",
+              "media_key": "3_1940339927742382080",
+              "start": 25,
+              "url": "https://t.co/T8vO70Fcx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940339939394412780",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4818,
+          "like_count": 236,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "久違的swim和hina ²背靠背\n\n#MyGO https://t.co/T8vO70Fcx3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 279,
+          "like_count": 13282,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 3534
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-13T09:21:50.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41699205",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41699205",
+                "start": 0,
+                "url": "https://t.co/LJ0TI9X623"
+              }
+            ]
+          }
+        },
+        "id": "1183311813905018880",
+        "name": "赤雪楓",
+        "pinned_tweet_id": "1935210958466728452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989650518084669440/C7LH0NwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 814,
+          "like_count": 41507,
+          "listed_count": 12,
+          "media_count": 101,
+          "tweet_count": 9830
+        },
+        "url": "https://t.co/LJ0TI9X623",
+        "username": "akayukikaede",
+        "verified": false
+      }
+    ]
+  }
+}

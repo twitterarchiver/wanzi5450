@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862766103153324032",
+        "3_1862766103140712448"
+      ],
+      "media_source_tweet_id": [
+        "1862766112385245242",
+        "1862766112385245242"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026514830",
+          "name": "Starbucks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026514830",
+          "name": "Starbucks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1235272242193285120",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "1862878770535059938",
+    "created_at": "2024-11-30T15:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T16:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862878770535059938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuPpRGd34J",
+          "end": 77,
+          "expanded_url": "https://x.com/rina_togetoge/status/1862766112385245242/photo/1",
+          "media_key": "3_1862766103153324032",
+          "start": 54,
+          "url": "https://t.co/WuPpRGd34J"
+        },
+        {
+          "display_url": "pic.x.com/WuPpRGd34J",
+          "end": 77,
+          "expanded_url": "https://x.com/rina_togetoge/status/1862766112385245242/photo/1",
+          "media_key": "3_1862766103140712448",
+          "start": 54,
+          "url": "https://t.co/WuPpRGd34J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862878770535059938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 514
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862766112385245242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: 今日は学校頑張ったからご褒美にスターバックスラテを飲んで帰った☕️💭 https://t.co/WuPpRGd34J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862766103153324032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdnf5sYXsAA1X17.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1862766103140712448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdnf5sVXQAAKm_f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862766103153324032",
+            "3_1862766103140712448"
+          ],
+          "media_source_tweet_id": [
+            "1862766112385245242",
+            "1862766112385245242"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026514830",
+              "name": "Starbucks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026514830",
+              "name": "Starbucks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1235272242193285120",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1862878770535059938",
+        "created_at": "2024-11-30T15:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T16:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862878770535059938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuPpRGd34J",
+              "end": 77,
+              "expanded_url": "https://x.com/rina_togetoge/status/1862766112385245242/photo/1",
+              "media_key": "3_1862766103153324032",
+              "start": 54,
+              "url": "https://t.co/WuPpRGd34J"
+            },
+            {
+              "display_url": "pic.x.com/WuPpRGd34J",
+              "end": 77,
+              "expanded_url": "https://x.com/rina_togetoge/status/1862766112385245242/photo/1",
+              "media_key": "3_1862766103140712448",
+              "start": 54,
+              "url": "https://t.co/WuPpRGd34J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862878770535059938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 514
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862766112385245242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: 今日は学校頑張ったからご褒美にスターバックスラテを飲んで帰った☕️💭 https://t.co/WuPpRGd34J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862766103153324032",
+            "3_1862766103140712448"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026514830",
+              "name": "Starbucks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026514830",
+              "name": "Starbucks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1235272242193285120",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1862766112385245242",
+        "created_at": "2024-11-30T07:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T08:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862766112385245242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuPpRGd34J",
+              "end": 58,
+              "expanded_url": "https://x.com/rina_togetoge/status/1862766112385245242/photo/1",
+              "media_key": "3_1862766103153324032",
+              "start": 35,
+              "url": "https://t.co/WuPpRGd34J"
+            },
+            {
+              "display_url": "pic.x.com/WuPpRGd34J",
+              "end": 58,
+              "expanded_url": "https://x.com/rina_togetoge/status/1862766112385245242/photo/1",
+              "media_key": "3_1862766103140712448",
+              "start": 35,
+              "url": "https://t.co/WuPpRGd34J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862766112385245242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 137500,
+          "like_count": 6685,
+          "quote_count": 31,
+          "reply_count": 93,
+          "retweet_count": 514
+        },
+        "reply_settings": "everyone",
+        "text": "今日は学校頑張ったからご褒美にスターバックスラテを飲んで帰った☕️💭 https://t.co/WuPpRGd34J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 791
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / ガールズバンドクライ 井芹仁菜役 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62900,
+          "following_count": 98,
+          "like_count": 882,
+          "listed_count": 306,
+          "media_count": 182,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

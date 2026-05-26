@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045516830719213989",
+    "created_at": "2026-04-18T14:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045516830719213989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1744613740354646016",
+          "start": 3,
+          "username": "yuika_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045516830719213989",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045514271791227006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuika_staff: Yuika 2nd Asia Tour\nThank you, Hongkong! 📢\n\nWe’ve released the \"Ready for Yuika 2nd Asia Tour 2026 Playlist\" for Taipei, S…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2045513677890256896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMf2jnaAAACGEe.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045516830719213989",
+        "created_at": "2026-04-18T14:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045516830719213989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1744613740354646016",
+              "start": 3,
+              "username": "yuika_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045516830719213989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045514271791227006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuika_staff: Yuika 2nd Asia Tour\nThank you, Hongkong! 📢\n\nWe’ve released the \"Ready for Yuika 2nd Asia Tour 2026 Playlist\" for Taipei, S…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045513677890256896"
+          ]
+        },
+        "author_id": "1744613740354646016",
+        "conversation_id": "2045514271791227006",
+        "created_at": "2026-04-18T14:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045514271791227006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcYf7Ihz3o",
+              "end": 223,
+              "expanded_url": "https://x.com/yuika_staff/status/2045514271791227006/photo/1",
+              "media_key": "3_2045513677890256896",
+              "start": 200,
+              "url": "https://t.co/gcYf7Ihz3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045514271791227006",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Yuika 2nd Asia Tour\nThank you, Hongkong! 📢\n\nWe’ve released the \"Ready for Yuika 2nd Asia Tour 2026 Playlist\" for Taipei, Singapore, Bangkok, and Seoul!\n\nGive it a listen and get ready for the show ⤵️ https://t.co/gcYf7Ihz3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 269,
+          "like_count": 12231,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 3303
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T06:55:29.000Z",
+        "description": "@yuika_singuitarのスタッフアカウント🪼4/8配信「さんかくゲーム」https://t.co/8uLbwJx8zo 2026年9月に東京国際フォーラム ホールAでワンマンライブ開催！🐻‍❄️ 問合せ✉️https://t.co/CAIuxV6L64.0112@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yuika_singuitar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yuika.lnk.to/trianglegameTP",
+                "end": 64,
+                "expanded_url": "http://yuika.lnk.to/trianglegameTP",
+                "start": 41,
+                "url": "https://t.co/8uLbwJx8zo"
+              },
+              {
+                "display_url": "yuika.info",
+                "end": 131,
+                "expanded_url": "http://yuika.info",
+                "start": 108,
+                "url": "https://t.co/CAIuxV6L64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "universal-music.co.jp/yuika/",
+                "end": 23,
+                "expanded_url": "https://www.universal-music.co.jp/yuika/",
+                "start": 0,
+                "url": "https://t.co/Dn6LbItLfK"
+              }
+            ]
+          }
+        },
+        "id": "1744613740354646016",
+        "name": "『ユイカ』スタッフ",
+        "pinned_tweet_id": "2036050333575840128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011998865948553216/tlSRUuvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7342,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 12,
+          "media_count": 763,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/Dn6LbItLfK",
+        "username": "yuika_staff",
+        "verified": false
+      }
+    ]
+  }
+}

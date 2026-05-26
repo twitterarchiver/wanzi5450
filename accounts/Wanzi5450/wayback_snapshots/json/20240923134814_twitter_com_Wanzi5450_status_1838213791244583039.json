@@ -1,0 +1,883 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1469004845403164673",
+          "name": "Special TV programs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A radio station like Z-100",
+          "id": "90",
+          "name": "Radio Station"
+        },
+        "entity": {
+          "id": "1321852725240291331",
+          "name": "Nippon Broadcasting System"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1321852725240291331",
+          "name": "Nippon Broadcasting System"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1469004845403164673",
+          "name": "Special TV programs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490751882737819649",
+          "name": "Radio stations"
+        }
+      }
+    ],
+    "conversation_id": "1838213791244583039",
+    "created_at": "2024-09-23T13:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T14:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838213791244583039"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 91,
+          "normalized_text": "宮妃那さん",
+          "probability": 0.4253,
+          "start": 87,
+          "type": "Person"
+        },
+        {
+          "end": 97,
+          "normalized_text": "立石凛さん",
+          "probability": 0.6903,
+          "start": 93,
+          "type": "Person"
+        },
+        {
+          "end": 104,
+          "normalized_text": "青木陽菜さん",
+          "probability": 0.5772,
+          "start": 99,
+          "type": "Person"
+        },
+        {
+          "end": 128,
+          "normalized_text": "radiko",
+          "probability": 0.4906,
+          "start": 123,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 41,
+          "tag": "おしえてメディアミックス"
+        },
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "劇場版MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3009772568",
+          "start": 3,
+          "username": "bang_dream_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838213791244583039",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 334
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837765069771624549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_info: ／\n本日19:00～\n📻ニッポン放送\n「#おしえてメディアミックス！」\n#劇場版MyGO 特番📯\n＼\n\nMyGO!!!!!から羊宮妃那さん、立石凛さん、青木陽菜さんが出演✨\nぜひお聴きください🎵\n\nradikoはこちら👇\n🧭https:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1469004845403164673",
+              "name": "Special TV programs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A radio station like Z-100",
+              "id": "90",
+              "name": "Radio Station"
+            },
+            "entity": {
+              "id": "1321852725240291331",
+              "name": "Nippon Broadcasting System"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321852725240291331",
+              "name": "Nippon Broadcasting System"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469004845403164673",
+              "name": "Special TV programs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751882737819649",
+              "name": "Radio stations"
+            }
+          }
+        ],
+        "conversation_id": "1838213791244583039",
+        "created_at": "2024-09-23T13:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T14:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838213791244583039"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "宮妃那さん",
+              "probability": 0.4253,
+              "start": 87,
+              "type": "Person"
+            },
+            {
+              "end": 97,
+              "normalized_text": "立石凛さん",
+              "probability": 0.6903,
+              "start": 93,
+              "type": "Person"
+            },
+            {
+              "end": 104,
+              "normalized_text": "青木陽菜さん",
+              "probability": 0.5772,
+              "start": 99,
+              "type": "Person"
+            },
+            {
+              "end": 128,
+              "normalized_text": "radiko",
+              "probability": 0.4906,
+              "start": 123,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 41,
+              "tag": "おしえてメディアミックス"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "劇場版MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3009772568",
+              "start": 3,
+              "username": "bang_dream_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838213791244583039",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837765069771624549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_info: ／\n本日19:00～\n📻ニッポン放送\n「#おしえてメディアミックス！」\n#劇場版MyGO 特番📯\n＼\n\nMyGO!!!!!から羊宮妃那さん、立石凛さん、青木陽菜さんが出演✨\nぜひお聴きください🎵\n\nradikoはこちら👇\n🧭https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837764862035820544"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1469004845403164673",
+              "name": "Special TV programs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A radio station like Z-100",
+              "id": "90",
+              "name": "Radio Station"
+            },
+            "entity": {
+              "id": "1321852725240291331",
+              "name": "Nippon Broadcasting System"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321852725240291331",
+              "name": "Nippon Broadcasting System"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469004845403164673",
+              "name": "Special TV programs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751882737819649",
+              "name": "Radio stations"
+            }
+          }
+        ],
+        "conversation_id": "1837765069771624549",
+        "created_at": "2024-09-22T08:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T09:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837765069771624549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "宮妃那さん",
+              "probability": 0.4319,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "立石凛さん",
+              "probability": 0.6933,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "青木陽菜さん",
+              "probability": 0.5773,
+              "start": 78,
+              "type": "Person"
+            },
+            {
+              "end": 107,
+              "normalized_text": "radiko",
+              "probability": 0.5252,
+              "start": 102,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "おしえてメディアミックス"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "劇場版MyGO"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ラジコは、スマホやパソコンでラジオが聴けるサービスです。今いるエリアのラジオ放送局なら無料で、ラジコプレミアムなら全国のラジオ放送局が聴き放題。過去1週間以内に放送された番組を後から聴けるタイムフリー聴取機能も。",
+              "display_url": "radiko.jp/#!/ts/LFR/2024…",
+              "end": 135,
+              "expanded_url": "https://radiko.jp/#!/ts/LFR/20240922190000",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/1837763820527210496/9xNYRZs7?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1837763820527210496/9xNYRZs7?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "radiko",
+              "unwound_url": "https://radiko.jp/#!/ts/LFR/20240922190000",
+              "url": "https://t.co/mLSnyJWsKr"
+            },
+            {
+              "display_url": "pic.x.com/thcbr49nvw",
+              "end": 172,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1837765069771624549/photo/1",
+              "media_key": "3_1837764862035820544",
+              "start": 149,
+              "url": "https://t.co/thcBR49NVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837765069771624549",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 83416,
+          "like_count": 1642,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 334
+        },
+        "reply_settings": "everyone",
+        "text": "／\n本日19:00～\n📻ニッポン放送\n「#おしえてメディアミックス！」\n#劇場版MyGO 特番📯\n＼\n\nMyGO!!!!!から羊宮妃那さん、立石凛さん、青木陽菜さんが出演✨\nぜひお聴きください🎵\n\nradikoはこちら👇\n🧭https://t.co/mLSnyJWsKr\n\n#バンドリ #MyGO https://t.co/thcBR49NVw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 3222,
+          "listed_count": 0,
+          "tweet_count": 640
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式ツイッターです。 #バンドリ ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "location": "Instagram→bang_dream_official_",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "1817145025530384394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837044715113566211/SrRwb9oM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721026,
+          "following_count": 133,
+          "like_count": 326,
+          "listed_count": 4604,
+          "tweet_count": 27919
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true
+      }
+    ]
+  }
+}

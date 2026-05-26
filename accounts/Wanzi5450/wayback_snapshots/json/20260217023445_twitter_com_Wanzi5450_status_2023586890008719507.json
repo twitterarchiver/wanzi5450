@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022874590217998336"
+      ],
+      "media_source_tweet_id": [
+        "2022875619114242520"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2023586890008719507",
+    "created_at": "2026-02-17T02:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T03:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023586890008719507"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 19,
+          "tag": "BanGDream"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "MyGO"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "要楽奈"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "椎名立希"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "高松燈"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "長崎そよ"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "千早愛音"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1352104263812481025",
+          "start": 3,
+          "username": "Linden_bd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qsa2cnuBfl",
+          "end": 87,
+          "expanded_url": "https://x.com/Linden_bd/status/2022875619114242520/photo/1",
+          "media_key": "3_2022874590217998336",
+          "start": 64,
+          "url": "https://t.co/qsa2cnuBfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023586890008719507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022875619114242520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linden_bd: 壱雫空\n#BanGDream #MyGO #要楽奈 #椎名立希 #高松燈 #長崎そよ #千早愛音 https://t.co/qsa2cnuBfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2022874590217998336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKxuN8bkAAgU2L.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022874590217998336"
+          ],
+          "media_source_tweet_id": [
+            "2022875619114242520"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2023586890008719507",
+        "created_at": "2026-02-17T02:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023586890008719507"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "MyGO"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "要楽奈"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "椎名立希"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "高松燈"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "長崎そよ"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "千早愛音"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1352104263812481025",
+              "start": 3,
+              "username": "Linden_bd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsa2cnuBfl",
+              "end": 87,
+              "expanded_url": "https://x.com/Linden_bd/status/2022875619114242520/photo/1",
+              "media_key": "3_2022874590217998336",
+              "start": 64,
+              "url": "https://t.co/qsa2cnuBfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023586890008719507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022875619114242520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linden_bd: 壱雫空\n#BanGDream #MyGO #要楽奈 #椎名立希 #高松燈 #長崎そよ #千早愛音 https://t.co/qsa2cnuBfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022874590217998336"
+          ]
+        },
+        "author_id": "1352104263812481025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2022875619114242520",
+        "created_at": "2026-02-15T03:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022875619114242520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 4,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "MyGO"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "要楽奈"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "椎名立希"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "高松燈"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "長崎そよ"
+            },
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "千早愛音"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsa2cnuBfl",
+              "end": 72,
+              "expanded_url": "https://x.com/Linden_bd/status/2022875619114242520/photo/1",
+              "media_key": "3_2022874590217998336",
+              "start": 49,
+              "url": "https://t.co/qsa2cnuBfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022875619114242520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 31181,
+          "like_count": 2428,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "壱雫空\n#BanGDream #MyGO #要楽奈 #椎名立希 #高松燈 #長崎そよ #千早愛音 https://t.co/qsa2cnuBfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 198,
+          "like_count": 8356,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1604
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T04:02:42.000Z",
+        "description": "Linden 🇨🇳 ｜she/her｜eng/中文 | Pixiv@Linden_bd｜Lofter&mhs@橘外葡萄馅｜Creating fanart of anything I’m currently interested in｜Thank u for all the likes and retweets :)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112234403",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112234403",
+                "start": 0,
+                "url": "https://t.co/1z4h9KiIEz"
+              }
+            ]
+          }
+        },
+        "id": "1352104263812481025",
+        "name": "Linden_bd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878833208529399808/lXTk4JHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 101,
+          "like_count": 14691,
+          "listed_count": 13,
+          "media_count": 62,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/1z4h9KiIEz",
+        "username": "Linden_bd",
+        "verified": false
+      }
+    ]
+  }
+}

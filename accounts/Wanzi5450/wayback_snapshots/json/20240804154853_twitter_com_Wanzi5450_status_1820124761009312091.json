@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820052583987183616",
+        "3_1820052584037511168"
+      ],
+      "media_source_tweet_id": [
+        "1820052597426061603",
+        "1820052597426061603"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "1820124761009312091",
+    "created_at": "2024-08-04T15:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T16:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820124761009312091"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 92,
+          "tag": "MyGO夏祭り池袋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Lx6wigTNAF",
+          "end": 140,
+          "expanded_url": "https://twitter.com/kohinatamika/status/1820052597426061603/photo/1",
+          "media_key": "3_1820052583987183616",
+          "start": 117,
+          "url": "https://t.co/Lx6wigTNAF"
+        },
+        {
+          "display_url": "pic.twitter.com/Lx6wigTNAF",
+          "end": 140,
+          "expanded_url": "https://twitter.com/kohinatamika/status/1820052597426061603/photo/1",
+          "media_key": "3_1820052584037511168",
+          "start": 117,
+          "url": "https://t.co/Lx6wigTNAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820124761009312091",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820052597426061603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: これは載せるか迷った写真。\n\n「はい！水分補給に、そよのフルーツティー！☕️」\n\nフルーツが入ってて程よい甘さでさっぱりしてて美味しかったー✨\n\n #MyGO夏祭り池袋 もよろしくお願いします🧭🎆 https://t.co/Lx6wigTNAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1820052583987183616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUIgLp0WgAA7iXw.jpg",
+        "width": 1534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1820052584037511168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUIgLqAWcAAAn6o.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820052583987183616",
+            "3_1820052584037511168"
+          ],
+          "media_source_tweet_id": [
+            "1820052597426061603",
+            "1820052597426061603"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "1820124761009312091",
+        "created_at": "2024-08-04T15:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T16:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820124761009312091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 92,
+              "tag": "MyGO夏祭り池袋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Lx6wigTNAF",
+              "end": 140,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1820052597426061603/photo/1",
+              "media_key": "3_1820052583987183616",
+              "start": 117,
+              "url": "https://t.co/Lx6wigTNAF"
+            },
+            {
+              "display_url": "pic.twitter.com/Lx6wigTNAF",
+              "end": 140,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1820052597426061603/photo/1",
+              "media_key": "3_1820052584037511168",
+              "start": 117,
+              "url": "https://t.co/Lx6wigTNAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820124761009312091",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820052597426061603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: これは載せるか迷った写真。\n\n「はい！水分補給に、そよのフルーツティー！☕️」\n\nフルーツが入ってて程よい甘さでさっぱりしてて美味しかったー✨\n\n #MyGO夏祭り池袋 もよろしくお願いします🧭🎆 https://t.co/Lx6wigTNAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820052583987183616",
+            "3_1820052584037511168"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "1820052597426061603",
+        "created_at": "2024-08-04T11:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T12:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820052597426061603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 74,
+              "tag": "MyGO夏祭り池袋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Lx6wigTNAF",
+              "end": 122,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1820052597426061603/photo/1",
+              "media_key": "3_1820052583987183616",
+              "start": 99,
+              "url": "https://t.co/Lx6wigTNAF"
+            },
+            {
+              "display_url": "pic.twitter.com/Lx6wigTNAF",
+              "end": 122,
+              "expanded_url": "https://twitter.com/kohinatamika/status/1820052597426061603/photo/1",
+              "media_key": "3_1820052584037511168",
+              "start": 99,
+              "url": "https://t.co/Lx6wigTNAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820052597426061603",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 39270,
+          "like_count": 3130,
+          "quote_count": 23,
+          "reply_count": 84,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "これは載せるか迷った写真。\n\n「はい！水分補給に、そよのフルーツティー！☕️」\n\nフルーツが入ってて程よい甘さでさっぱりしてて美味しかったー✨\n\n #MyGO夏祭り池袋 もよろしくお願いします🧭🎆 https://t.co/Lx6wigTNAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2958,
+          "listed_count": 0,
+          "tweet_count": 539
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ【朗読劇】#ルームシェアの恩人/ナギサ #リトルノエル/シュウジ 【ラジオ】#小日向美香のラジラブ！ #よりこのうたラジ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "ルームシェアの恩人"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "tag": "リトルノエル"
+              },
+              {
+                "end": 147,
+                "start": 136,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 158,
+                "start": 149,
+                "tag": "よりこのうたラジ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1818462986362655231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45356,
+          "following_count": 333,
+          "like_count": 4044,
+          "listed_count": 488,
+          "tweet_count": 3172
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028094377030283264"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2028094385288794394",
+    "created_at": "2026-03-01T13:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028094385288794394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iglw0ZHMMf",
+          "end": 31,
+          "expanded_url": "https://x.com/Wanzi5450/status/2028094385288794394/photo/1",
+          "media_key": "3_2028094377030283264",
+          "start": 8,
+          "url": "https://t.co/iglw0ZHMMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028094385288794394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "15mg唑吡坦 https://t.co/iglw0ZHMMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028094377030283264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCU9FzHbcAAVnlU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028094377030283264"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2028094385288794394",
+        "created_at": "2026-03-01T13:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028094385288794394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iglw0ZHMMf",
+              "end": 31,
+              "expanded_url": "https://x.com/Wanzi5450/status/2028094385288794394/photo/1",
+              "media_key": "3_2028094377030283264",
+              "start": 8,
+              "url": "https://t.co/iglw0ZHMMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028094385288794394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "15mg唑吡坦 https://t.co/iglw0ZHMMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 212,
+          "like_count": 8464,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1709
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

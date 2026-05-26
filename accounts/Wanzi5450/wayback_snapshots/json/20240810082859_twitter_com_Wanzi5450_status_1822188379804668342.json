@@ -1,0 +1,743 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Drums",
+          "id": "898269950124490756",
+          "name": "Drums"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drums",
+          "id": "898269950124490756",
+          "name": "Drums"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      }
+    ],
+    "conversation_id": "1822188379804668342",
+    "created_at": "2024-08-10T08:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T09:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822188379804668342"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "立希ちゃん",
+          "probability": 0.6153,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 113,
+          "tag": "椎名立希生誕祭2024"
+        },
+        {
+          "end": 139,
+          "start": 127,
+          "tag": "椎名立希誕生祭2024"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822188379804668342",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1065
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821867572914221533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: 立希ちゃんお誕生日おめでとう！✨️\nあなたが苦しいときも楽しいときも、\nどんなときだってそばに居たいと思うよ。\nこれからもずっと、愛している……。\n🫰💘🐼𝑭𝒐𝒓𝒆𝒗𝒆𝒓 𝑳𝒐𝒗𝒆🐼💘🫰\n#椎名立希生誕祭2024 \n#椎名立希誕生祭2024…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1822188379804668342",
+        "created_at": "2024-08-10T08:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T09:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822188379804668342"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "立希ちゃん",
+              "probability": 0.6153,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 113,
+              "tag": "椎名立希生誕祭2024"
+            },
+            {
+              "end": 139,
+              "start": 127,
+              "tag": "椎名立希誕生祭2024"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822188379804668342",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821867572914221533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: 立希ちゃんお誕生日おめでとう！✨️\nあなたが苦しいときも楽しいときも、\nどんなときだってそばに居たいと思うよ。\nこれからもずっと、愛している……。\n🫰💘🐼𝑭𝒐𝒓𝒆𝒗𝒆𝒓 𝑳𝒐𝒗𝒆🐼💘🫰\n#椎名立希生誕祭2024 \n#椎名立希誕生祭2024…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821867552009490432"
+          ]
+        },
+        "author_id": "1394483928463941633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drums",
+              "id": "898269950124490756",
+              "name": "Drums"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "1821867572914221533",
+        "created_at": "2024-08-09T11:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T12:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821867572914221533"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "立希ちゃん",
+              "probability": 0.6787,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 93,
+              "tag": "椎名立希生誕祭2024"
+            },
+            {
+              "end": 119,
+              "start": 107,
+              "tag": "椎名立希誕生祭2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yl3ukzksc",
+              "end": 143,
+              "expanded_url": "https://twitter.com/cocohayashi515/status/1821867572914221533/photo/1",
+              "media_key": "3_1821867552009490432",
+              "start": 120,
+              "url": "https://t.co/2yl3UKzkSc"
+            },
+            {
+              "display_url": "x.com/bang_dream_gbp…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/bang_dream_gbp/status/1821562018551492649",
+              "start": 144,
+              "url": "https://t.co/TqN20fdFUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821867572914221533",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 217449,
+          "like_count": 4919,
+          "quote_count": 13,
+          "reply_count": 95,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821562018551492649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "立希ちゃんお誕生日おめでとう！✨️\nあなたが苦しいときも楽しいときも、\nどんなときだってそばに居たいと思うよ。\nこれからもずっと、愛している……。\n🫰💘🐼𝑭𝒐𝒓𝒆𝒗𝒆𝒓 𝑳𝒐𝒗𝒆🐼💘🫰\n#椎名立希生誕祭2024 \n#椎名立希誕生祭2024 https://t.co/2yl3UKzkSc https://t.co/TqN20fdFUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 3011,
+          "listed_count": 0,
+          "tweet_count": 553
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "mitt management所属 声優・俳優｜ミュージカルや宝塚、ロックと映画が好き。ドラムを叩きます｜FC🪄︎︎https://t.co/eHz0D4Plcz ｜お仕事のご依頼はこちらまで→info.mittmg@mittma.com ｜⚠︎画像や動画の無断転載・無断利用はおやめください⚠︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hayashicoco.com",
+                "end": 81,
+                "expanded_url": "http://hayashicoco.com",
+                "start": 58,
+                "url": "https://t.co/eHz0D4Plcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mittma.com",
+                "end": 23,
+                "expanded_url": "https://mittma.com/",
+                "start": 0,
+                "url": "https://t.co/1AuV4pXSZZ"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "name": "林鼓子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641821141982670848/ZS90ZFfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102459,
+          "following_count": 478,
+          "like_count": 7489,
+          "listed_count": 2474,
+          "tweet_count": 6700
+        },
+        "url": "https://t.co/1AuV4pXSZZ",
+        "username": "cocohayashi515",
+        "verified": false
+      }
+    ]
+  }
+}

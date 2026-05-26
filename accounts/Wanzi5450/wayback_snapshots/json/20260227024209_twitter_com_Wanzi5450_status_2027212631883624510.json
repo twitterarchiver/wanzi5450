@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027212625294344192"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2027212631883624510",
+    "created_at": "2026-02-27T02:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027212631883624510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qHKGPyaqg7",
+          "end": 31,
+          "expanded_url": "https://x.com/Wanzi5450/status/2027212631883624510/photo/1",
+          "media_key": "3_2027212625294344192",
+          "start": 8,
+          "url": "https://t.co/qHKGPyaqg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027212631883624510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严肃服用6粒😋 https://t.co/qHKGPyaqg7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027212625294344192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIbJF7bQAAWrse.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027212625294344192"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2027212631883624510",
+        "created_at": "2026-02-27T02:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027212631883624510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHKGPyaqg7",
+              "end": 31,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027212631883624510/photo/1",
+              "media_key": "3_2027212625294344192",
+              "start": 8,
+              "url": "https://t.co/qHKGPyaqg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027212631883624510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃服用6粒😋 https://t.co/qHKGPyaqg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 201,
+          "like_count": 8409,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1667
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

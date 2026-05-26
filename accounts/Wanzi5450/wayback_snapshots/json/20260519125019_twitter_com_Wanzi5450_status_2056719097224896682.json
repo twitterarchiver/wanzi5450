@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056716716055679010",
+    "created_at": "2026-05-19T12:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056719097224896682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609380631917776896",
+          "start": 0,
+          "username": "_Yt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056719097224896682",
+    "in_reply_to_user_id": "1609380631917776896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056716716055679010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Yt8964 奢侈一把了猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056716692630450176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrs71vasAA20o3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056716716055679010",
+        "created_at": "2026-05-19T12:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056719097224896682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609380631917776896",
+              "start": 0,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056719097224896682",
+        "in_reply_to_user_id": "1609380631917776896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056716716055679010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yt8964 奢侈一把了猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056716692630450176"
+          ]
+        },
+        "author_id": "1609380631917776896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056716716055679010",
+        "created_at": "2026-05-19T12:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056716716055679010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOsRdbRGHJ",
+              "end": 38,
+              "expanded_url": "https://x.com/_Yt8964/status/2056716716055679010/photo/1",
+              "media_key": "3_2056716692630450176",
+              "start": 15,
+              "url": "https://t.co/MOsRdbRGHJ"
+            },
+            {
+              "display_url": "x.com/_yt8964/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/_yt8964/status/2056329306838835209",
+              "start": 39,
+              "url": "https://t.co/wS2ydosKGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056716716055679010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056329306838835209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ok今天叫了四个m服侍自己。 https://t.co/MOsRdbRGHJ https://t.co/wS2ydosKGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 287,
+          "like_count": 15910,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 3831
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T02:49:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2y4cvikwgy4n55…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/2y4cvikwgy4n55e?t=HEZBPO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/1jaGCXGcJD"
+              }
+            ]
+          }
+        },
+        "id": "1609380631917776896",
+        "location": "宛平南路600號",
+        "name": "晨昏線",
+        "pinned_tweet_id": "2042290012419735694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046414644261367808/ukHa-L-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 362,
+          "like_count": 27113,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/1jaGCXGcJD",
+        "username": "_Yt8964",
+        "verified": false
+      }
+    ]
+  }
+}

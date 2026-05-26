@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028781280045977601",
+        "3_2028781280004018176"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2028781287532843294",
+    "created_at": "2026-03-03T10:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028781287532843294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIJ8JhPKMT",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2028781287532843294/photo/1",
+          "media_key": "3_2028781280045977601",
+          "start": 6,
+          "url": "https://t.co/WIJ8JhPKMT"
+        },
+        {
+          "display_url": "pic.x.com/WIJ8JhPKMT",
+          "end": 29,
+          "expanded_url": "https://x.com/Wanzi5450/status/2028781287532843294/photo/1",
+          "media_key": "3_2028781280004018176",
+          "start": 6,
+          "url": "https://t.co/WIJ8JhPKMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028781287532843294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实不爱吃 https://t.co/WIJ8JhPKMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028781280045977601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCet00QaUAEMa0i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028781280004018176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCet00GaEAA5dAs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028781280045977601",
+            "3_2028781280004018176"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028781287532843294",
+        "created_at": "2026-03-03T10:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028781287532843294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIJ8JhPKMT",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2028781287532843294/photo/1",
+              "media_key": "3_2028781280045977601",
+              "start": 6,
+              "url": "https://t.co/WIJ8JhPKMT"
+            },
+            {
+              "display_url": "pic.x.com/WIJ8JhPKMT",
+              "end": 29,
+              "expanded_url": "https://x.com/Wanzi5450/status/2028781287532843294/photo/1",
+              "media_key": "3_2028781280004018176",
+              "start": 6,
+              "url": "https://t.co/WIJ8JhPKMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028781287532843294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实不爱吃 https://t.co/WIJ8JhPKMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 213,
+          "like_count": 8511,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1737
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

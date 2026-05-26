@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961439504847572996"
+      ],
+      "media_source_tweet_id": [
+        "1961439512648978657"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2053096404495806868",
+    "created_at": "2026-05-09T12:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053096404495806868"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "ともらな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1183311813905018880",
+          "start": 3,
+          "username": "akayukikaede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mTkYNujsR",
+          "end": 60,
+          "expanded_url": "https://x.com/akayukikaede/status/1961439512648978657/photo/1",
+          "media_key": "3_1961439504847572996",
+          "start": 37,
+          "url": "https://t.co/7mTkYNujsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053096404495806868",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961439512648978657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akayukikaede: 不會怕夢醒後無路可走。\n\n#ともらな https://t.co/7mTkYNujsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_1961439504847572996",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzhu1mbbkAQ9-hD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961439504847572996"
+          ],
+          "media_source_tweet_id": [
+            "1961439512648978657"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2053096404495806868",
+        "created_at": "2026-05-09T12:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053096404495806868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "ともらな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1183311813905018880",
+              "start": 3,
+              "username": "akayukikaede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mTkYNujsR",
+              "end": 60,
+              "expanded_url": "https://x.com/akayukikaede/status/1961439512648978657/photo/1",
+              "media_key": "3_1961439504847572996",
+              "start": 37,
+              "url": "https://t.co/7mTkYNujsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053096404495806868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961439512648978657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akayukikaede: 不會怕夢醒後無路可走。\n\n#ともらな https://t.co/7mTkYNujsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961439504847572996"
+          ]
+        },
+        "author_id": "1183311813905018880",
+        "conversation_id": "1961439512648978657",
+        "created_at": "2025-08-29T14:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961439512648978657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ともらな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mTkYNujsR",
+              "end": 42,
+              "expanded_url": "https://x.com/akayukikaede/status/1961439512648978657/photo/1",
+              "media_key": "3_1961439504847572996",
+              "start": 19,
+              "url": "https://t.co/7mTkYNujsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961439512648978657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7596,
+          "like_count": 316,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "不會怕夢醒後無路可走。\n\n#ともらな https://t.co/7mTkYNujsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 287,
+          "like_count": 14748,
+          "listed_count": 0,
+          "media_count": 497,
+          "tweet_count": 3788
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-13T09:21:50.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41699205",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41699205",
+                "start": 0,
+                "url": "https://t.co/LJ0TI9X623"
+              }
+            ]
+          }
+        },
+        "id": "1183311813905018880",
+        "name": "赤雪楓",
+        "pinned_tweet_id": "1935210958466728452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989650518084669440/C7LH0NwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 818,
+          "like_count": 41930,
+          "listed_count": 12,
+          "media_count": 101,
+          "tweet_count": 9909
+        },
+        "url": "https://t.co/LJ0TI9X623",
+        "username": "akayukikaede",
+        "verified": false
+      }
+    ]
+  }
+}

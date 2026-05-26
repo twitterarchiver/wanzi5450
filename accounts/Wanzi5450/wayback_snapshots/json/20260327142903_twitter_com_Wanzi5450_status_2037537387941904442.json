@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2037387578920587457",
+    "created_at": "2026-03-27T14:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037537387941904442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037537387941904442",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037537180227404090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 谢谢泥嘿嘿🥰🥰💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2037387578920587457",
+        "created_at": "2026-03-27T14:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037537387941904442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037537387941904442",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037537180227404090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 谢谢泥嘿嘿🥰🥰💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812363069487742976",
+        "conversation_id": "2037387578920587457",
+        "created_at": "2026-03-27T14:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037537180227404090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037537180227404090",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037387578920587457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 268,
+          "like_count": 9964,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 2426
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 2009,
+          "like_count": 81185,
+          "listed_count": 14,
+          "media_count": 134,
+          "tweet_count": 15634
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

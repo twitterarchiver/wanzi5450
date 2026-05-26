@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1827364807819063597",
+    "created_at": "2024-08-24T15:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T16:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827364807819063597"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "見つけた景色、たずさえて",
+          "probability": 0.5815,
+          "start": 45,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "上海",
+          "probability": 0.6958,
+          "start": 58,
+          "type": "Place"
+        },
+        {
+          "end": 107,
+          "normalized_text": "上海",
+          "probability": 0.7813,
+          "start": 106,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827364807819063597",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826945218354249942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 【出演情報】\n\nMyGO!!!!! 6thLIVE\n『見つけた景色、たずさえて』上海追加公演\n燈役として出演させて頂きます。\n\n日程┊︎9月21日(土)\n場所┊︎国家会展中心(上海)虹館EH\n\n来てくださる方にも、遠くからエールを送ってくださ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1827364807819063597",
+        "created_at": "2024-08-24T15:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T16:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827364807819063597"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.5815,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "上海",
+              "probability": 0.6958,
+              "start": 58,
+              "type": "Place"
+            },
+            {
+              "end": 107,
+              "normalized_text": "上海",
+              "probability": 0.7813,
+              "start": 106,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827364807819063597",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826945218354249942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 【出演情報】\n\nMyGO!!!!! 6thLIVE\n『見つけた景色、たずさえて』上海追加公演\n燈役として出演させて頂きます。\n\n日程┊︎9月21日(土)\n場所┊︎国家会展中心(上海)虹館EH\n\n来てくださる方にも、遠くからエールを送ってくださ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826945207646179328",
+            "3_1826945207637835776"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1826945218354249942",
+        "created_at": "2024-08-23T11:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T12:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826945218354249942"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "見つけた景色、たずさえて",
+              "probability": 0.6317,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "上海",
+              "probability": 0.6683,
+              "start": 40,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "上海",
+              "probability": 0.7644,
+              "start": 88,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxalvxjxxm",
+              "end": 186,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1826945218354249942/photo/1",
+              "media_key": "3_1826945207646179328",
+              "start": 163,
+              "url": "https://t.co/hxALvxJxxM"
+            },
+            {
+              "display_url": "pic.x.com/hxalvxjxxm",
+              "end": 186,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1826945218354249942/photo/1",
+              "media_key": "3_1826945207637835776",
+              "start": 163,
+              "url": "https://t.co/hxALvxJxxM"
+            },
+            {
+              "display_url": "x.com/bang_dream_myg…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1826609530303906159",
+              "start": 187,
+              "url": "https://t.co/ervwhWM6ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826945218354249942",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 217703,
+          "like_count": 7245,
+          "quote_count": 25,
+          "reply_count": 152,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826609530303906159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【出演情報】\n\nMyGO!!!!! 6thLIVE\n『見つけた景色、たずさえて』上海追加公演\n燈役として出演させて頂きます。\n\n日程┊︎9月21日(土)\n場所┊︎国家会展中心(上海)虹館EH\n\n来てくださる方にも、遠くからエールを送ってくださる方にも、精一杯お届けします✨\n何卒宜しくお願いします✨\n\n#バンドリ #MyGO https://t.co/hxALvxJxxM https://t.co/ervwhWM6ms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 3037,
+          "listed_count": 0,
+          "tweet_count": 563
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控え頂けますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1766447125494419721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131260,
+          "following_count": 231,
+          "like_count": 1984,
+          "listed_count": 1219,
+          "tweet_count": 808
+        },
+        "username": "Hina_Youmiya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837068350314401793"
+      ],
+      "media_source_tweet_id": [
+        "1837068463938097377"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1837329547890675946",
+    "created_at": "2024-09-21T03:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T04:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837329547890675946"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "nina",
+          "probability": 0.3977,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 43,
+          "normalized_text": "GirlsBandCry",
+          "probability": 0.6623,
+          "start": 32,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 44,
+          "start": 31,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "943768620500316160",
+          "start": 3,
+          "username": "FightingDodo95"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gud3v6thqz",
+          "end": 68,
+          "expanded_url": "https://twitter.com/FightingDodo95/status/1837068463938097377/photo/1",
+          "media_key": "3_1837068350314401793",
+          "start": 45,
+          "url": "https://t.co/GuD3V6THQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837329547890675946",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 829
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837068463938097377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FightingDodo95: nina #ガルクラ #GirlsBandCry https://t.co/GuD3V6THQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2318,
+        "media_key": "3_1837068350314401793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX6T7nCaUAEjRJ0.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837068350314401793"
+          ],
+          "media_source_tweet_id": [
+            "1837068463938097377"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1837329547890675946",
+        "created_at": "2024-09-21T03:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837329547890675946"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "nina",
+              "probability": 0.3977,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 43,
+              "normalized_text": "GirlsBandCry",
+              "probability": 0.6623,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 44,
+              "start": 31,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "943768620500316160",
+              "start": 3,
+              "username": "FightingDodo95"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gud3v6thqz",
+              "end": 68,
+              "expanded_url": "https://twitter.com/FightingDodo95/status/1837068463938097377/photo/1",
+              "media_key": "3_1837068350314401793",
+              "start": 45,
+              "url": "https://t.co/GuD3V6THQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837329547890675946",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 829
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837068463938097377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FightingDodo95: nina #ガルクラ #GirlsBandCry https://t.co/GuD3V6THQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837068350314401793"
+          ]
+        },
+        "author_id": "943768620500316160",
+        "conversation_id": "1837068463938097377",
+        "created_at": "2024-09-20T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837068463938097377"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "nina",
+              "probability": 0.5213,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 23,
+              "normalized_text": "GirlsBandCry",
+              "probability": 0.8219,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 24,
+              "start": 11,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gud3v6thqz",
+              "end": 48,
+              "expanded_url": "https://twitter.com/FightingDodo95/status/1837068463938097377/photo/1",
+              "media_key": "3_1837068350314401793",
+              "start": 25,
+              "url": "https://t.co/GuD3V6THQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837068463938097377",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 431,
+          "impression_count": 78049,
+          "like_count": 5603,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 829
+        },
+        "reply_settings": "everyone",
+        "text": "nina #ガルクラ #GirlsBandCry https://t.co/GuD3V6THQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3173,
+          "listed_count": 0,
+          "tweet_count": 611
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-21T09:02:28.000Z",
+        "description": "Pixiv：dododo |\nbilibili：fdodo",
+        "id": "943768620500316160",
+        "name": "Fdodo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345574428365656065/LF8h-0ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 164,
+          "like_count": 12,
+          "listed_count": 28,
+          "tweet_count": 41
+        },
+        "username": "FightingDodo95",
+        "verified": false
+      }
+    ]
+  }
+}

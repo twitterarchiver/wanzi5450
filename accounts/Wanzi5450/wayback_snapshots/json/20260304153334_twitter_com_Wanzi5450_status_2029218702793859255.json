@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2029216883199885617",
+    "created_at": "2026-03-04T15:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029218702793859255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930617503212064768",
+          "start": 0,
+          "username": "_Ty8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029218702793859255",
+    "in_reply_to_user_id": "1930617503212064768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029216883199885617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Ty8964 这是我 我已经两天晚上没刷牙洗澡了。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029216883199885617].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029216883199885617",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029216883199885617"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2029216883199885617",
+        "created_at": "2026-03-04T15:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029218702793859255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930617503212064768",
+              "start": 0,
+              "username": "_Ty8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029218702793859255",
+        "in_reply_to_user_id": "1930617503212064768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029216883199885617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Ty8964 这是我 我已经两天晚上没刷牙洗澡了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 216,
+          "like_count": 8570,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 1776
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T13:27:54.000Z",
+        "description": "@_Yt8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "_Yt8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ty8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ty8964",
+                "start": 0,
+                "url": "https://t.co/r65UMyCxcm"
+              }
+            ]
+          }
+        },
+        "id": "1930617503212064768",
+        "name": "日界線",
+        "pinned_tweet_id": "2028784057572806788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023816823029067779/0cxVXTi3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 60,
+          "like_count": 5058,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/r65UMyCxcm",
+        "username": "_Ty8964",
+        "verified": false
+      }
+    ]
+  }
+}

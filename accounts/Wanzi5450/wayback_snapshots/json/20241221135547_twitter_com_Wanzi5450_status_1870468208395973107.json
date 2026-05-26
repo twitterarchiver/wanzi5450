@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1437501554794188801",
+          "name": "Capsule toys"
+        }
+      }
+    ],
+    "conversation_id": "1870468208395973107",
+    "created_at": "2024-12-21T13:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T14:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870468208395973107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "747338829695070208",
+          "start": 3,
+          "username": "bushi_creative"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870468208395973107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870306972014391493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi_creative: ＼\\📢事前物販　開催中‼/／\n　　  MyGO!!!!! 7th LIVE\n　「こたえなんてなくても」\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nカプセルトイブースにて、\nBanG Dream!　カプセルアソートコレクション MyGO!!!!! vo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          }
+        ],
+        "conversation_id": "1870468208395973107",
+        "created_at": "2024-12-21T13:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T14:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870468208395973107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "747338829695070208",
+              "start": 3,
+              "username": "bushi_creative"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870468208395973107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870306972014391493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi_creative: ＼\\📢事前物販　開催中‼/／\n　　  MyGO!!!!! 7th LIVE\n　「こたえなんてなくても」\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nカプセルトイブースにて、\nBanG Dream!　カプセルアソートコレクション MyGO!!!!! vo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870217708920549376",
+            "3_1870217717363683328",
+            "3_1870217725978783744",
+            "3_1870217735516631040"
+          ]
+        },
+        "author_id": "747338829695070208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1437501554794188801",
+              "name": "Capsule toys"
+            }
+          }
+        ],
+        "conversation_id": "1870306972014391493",
+        "created_at": "2024-12-21T03:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T04:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870306972014391493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "こたえなんてなくても",
+              "probability": 0.3992,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "BanG Dream!　カプセルアソートコレクション",
+              "probability": 0.3613,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOFIfxjlQh",
+              "end": 160,
+              "expanded_url": "https://x.com/bushi_creative/status/1870306972014391493/photo/1",
+              "media_key": "3_1870217708920549376",
+              "start": 137,
+              "url": "https://t.co/uOFIfxjlQh"
+            },
+            {
+              "display_url": "pic.x.com/uOFIfxjlQh",
+              "end": 160,
+              "expanded_url": "https://x.com/bushi_creative/status/1870306972014391493/photo/1",
+              "media_key": "3_1870217717363683328",
+              "start": 137,
+              "url": "https://t.co/uOFIfxjlQh"
+            },
+            {
+              "display_url": "pic.x.com/uOFIfxjlQh",
+              "end": 160,
+              "expanded_url": "https://x.com/bushi_creative/status/1870306972014391493/photo/1",
+              "media_key": "3_1870217725978783744",
+              "start": 137,
+              "url": "https://t.co/uOFIfxjlQh"
+            },
+            {
+              "display_url": "pic.x.com/uOFIfxjlQh",
+              "end": 160,
+              "expanded_url": "https://x.com/bushi_creative/status/1870306972014391493/photo/1",
+              "media_key": "3_1870217735516631040",
+              "start": 137,
+              "url": "https://t.co/uOFIfxjlQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870306972014391493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 214,
+                "start": 209,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 220,
+                "start": 215,
+                "tag": "MyGO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream.com/events/2024122…",
+                "end": 207,
+                "expanded_url": "https://bang-dream.com/events/20241221_jizenbuppan",
+                "start": 184,
+                "url": "https://t.co/ytk0rpJWou"
+              }
+            ]
+          },
+          "text": "＼\\📢事前物販　開催中‼/／\n　　  MyGO!!!!! 7th LIVE\n　「こたえなんてなくても」\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nカプセルトイブースにて、\nBanG Dream!　カプセルアソートコレクション MyGO!!!!! vol.2\nを販売しております！👀🎉\n\n※ご利用の際は、物販当日整理券が必要になりますので詳細をご確認ください。\n\n▼詳細はコチラ！\nhttps://t.co/ytk0rpJWou\n\n#バンドリ\n#MyGO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 32485,
+          "like_count": 298,
+          "quote_count": 16,
+          "reply_count": 1,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "＼\\📢事前物販　開催中‼/／\n　　  MyGO!!!!! 7th LIVE\n　「こたえなんてなくても」\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nカプセルトイブースにて、\nBanG Dream!　カプセルアソートコレクション MyGO!!!!! vol.2\nを販売しております！👀🎉… https://t.co/uOFIfxjlQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 69,
+          "like_count": 4134,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 841
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-27T08:00:36.000Z",
+        "description": "キャラクターグッズ、カプセルトイ、プライズ、物販催事企画等のマーチャンダイジング事業展開をしています。こちらではご質問に対するお返事はしかねますので、お問い合わせ窓口（公式サイト内参考）へお願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bushiroad-creative.com",
+                "end": 23,
+                "expanded_url": "https://bushiroad-creative.com/",
+                "start": 0,
+                "url": "https://t.co/G0f21TbI17"
+              }
+            ]
+          }
+        },
+        "id": "747338829695070208",
+        "name": "ブシロードクリエイティブ公式",
+        "pinned_tweet_id": "1868566784774914255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908613103167741953/iiZJaUCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186068,
+          "following_count": 185,
+          "like_count": 521,
+          "listed_count": 594,
+          "media_count": 13010,
+          "tweet_count": 23847
+        },
+        "url": "https://t.co/G0f21TbI17",
+        "username": "bushi_creative",
+        "verified": true
+      }
+    ]
+  }
+}

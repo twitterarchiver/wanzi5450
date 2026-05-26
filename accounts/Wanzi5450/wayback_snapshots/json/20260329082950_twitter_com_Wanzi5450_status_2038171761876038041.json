@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2037728275020325053",
+    "created_at": "2026-03-29T08:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038171761876038041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "137646275",
+          "start": 0,
+          "username": "yamanobejin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038171761876038041",
+    "in_reply_to_user_id": "137646275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038171428273770770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamanobejin うわー！😭\nねこちゃんはめちゃかわいい！🥺💗\nありがとう！╰(*´︶`*)╯♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2037728275020325053",
+        "created_at": "2026-03-29T08:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038171761876038041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "137646275",
+              "start": 0,
+              "username": "yamanobejin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038171761876038041",
+        "in_reply_to_user_id": "137646275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038171428273770770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamanobejin うわー！😭\nねこちゃんはめちゃかわいい！🥺💗\nありがとう！╰(*´︶`*)╯♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "137646275",
+        "conversation_id": "2037728275020325053",
+        "created_at": "2026-03-29T08:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038171428273770770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038171428273770770",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037728275020325053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 谢谢你🐱🍣🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 274,
+          "like_count": 10108,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 2491
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-27T09:54:37.000Z",
+        "description": "漫画家です。銀河一かわいいシャム系女子あずきさんの写真やエッセイを投稿します。猫とポケモンとカワイイものが好き。二次創作もします。お仕事のご依頼はnobekotoazuki@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nobeko",
+                "end": 23,
+                "expanded_url": "https://lit.link/nobeko",
+                "start": 0,
+                "url": "https://t.co/fktURCfP2e"
+              }
+            ]
+          }
+        },
+        "id": "137646275",
+        "location": "🇯🇵",
+        "name": "のべ子とシャム猫あずきさん",
+        "pinned_tweet_id": "2025455157987958955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434388884519936000/bFfmVMk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126491,
+          "following_count": 840,
+          "like_count": 161329,
+          "listed_count": 1569,
+          "media_count": 21543,
+          "tweet_count": 96562
+        },
+        "url": "https://t.co/fktURCfP2e",
+        "username": "yamanobejin",
+        "verified": true
+      }
+    ]
+  }
+}

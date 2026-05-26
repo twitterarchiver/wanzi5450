@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056979290223448143",
+    "created_at": "2026-05-20T13:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057087890375823826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2043328563676364800",
+          "start": 0,
+          "username": "Chen912795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057087890375823826",
+    "in_reply_to_user_id": "2043328563676364800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057085755152044061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chen912795 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T13:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057087890375823826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2043328563676364800",
+              "start": 0,
+              "username": "Chen912795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057087890375823826",
+        "in_reply_to_user_id": "2043328563676364800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057085755152044061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chen912795 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043328563676364800",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T13:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057085755152044061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057085755152044061",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056979290223448143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 懂你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 298,
+          "like_count": 16178,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3880
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T14:01:15.000Z",
+        "description": "已去势｜杭州｜门槛68 \nmtx",
+        "id": "2043328563676364800",
+        "location": "杭州",
+        "name": "Chen",
+        "pinned_tweet_id": "2054984755977093418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056158634443505664/j_R6YxWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 15,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "Chen912795",
+        "verified": false
+      }
+    ]
+  }
+}

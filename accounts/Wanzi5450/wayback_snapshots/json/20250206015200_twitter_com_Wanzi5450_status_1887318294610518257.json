@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887291062852739072",
+        "3_1887291062848516096",
+        "3_1887291062844334081",
+        "3_1887291062844317696"
+      ],
+      "media_source_tweet_id": [
+        "1887291068737335534",
+        "1887291068737335534",
+        "1887291068737335534",
+        "1887291068737335534"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1887318294610518257",
+    "created_at": "2025-02-06T01:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T02:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887318294610518257"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "抹茶の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5OvfdXafi",
+          "end": 52,
+          "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+          "media_key": "3_1887291062852739072",
+          "start": 29,
+          "url": "https://t.co/G5OvfdXafi"
+        },
+        {
+          "display_url": "pic.x.com/G5OvfdXafi",
+          "end": 52,
+          "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+          "media_key": "3_1887291062848516096",
+          "start": 29,
+          "url": "https://t.co/G5OvfdXafi"
+        },
+        {
+          "display_url": "pic.x.com/G5OvfdXafi",
+          "end": 52,
+          "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+          "media_key": "3_1887291062844334081",
+          "start": 29,
+          "url": "https://t.co/G5OvfdXafi"
+        },
+        {
+          "display_url": "pic.x.com/G5OvfdXafi",
+          "end": 52,
+          "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+          "media_key": "3_1887291062844317696",
+          "start": 29,
+          "url": "https://t.co/G5OvfdXafi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887318294610518257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 392
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887291068737335534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: ふーん。🐈🍵 #抹茶の日 https://t.co/G5OvfdXafi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2010,
+        "media_key": "3_1887291062852739072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjEBOO0bYAAAnSd.jpg",
+        "width": 2010
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1887291062848516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjEBOOza8AAyNG-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1887291062844334081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjEBOOybIAEZzE8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 920,
+        "media_key": "3_1887291062844317696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjEBOOya4AAhoxl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887291062852739072",
+            "3_1887291062848516096",
+            "3_1887291062844334081",
+            "3_1887291062844317696"
+          ],
+          "media_source_tweet_id": [
+            "1887291068737335534",
+            "1887291068737335534",
+            "1887291068737335534",
+            "1887291068737335534"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1887318294610518257",
+        "created_at": "2025-02-06T01:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T02:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887318294610518257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "抹茶の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 52,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062852739072",
+              "start": 29,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 52,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062848516096",
+              "start": 29,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 52,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062844334081",
+              "start": 29,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 52,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062844317696",
+              "start": 29,
+              "url": "https://t.co/G5OvfdXafi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887318294610518257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887291068737335534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: ふーん。🐈🍵 #抹茶の日 https://t.co/G5OvfdXafi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887291062852739072",
+            "3_1887291062848516096",
+            "3_1887291062844334081",
+            "3_1887291062844317696"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1887291068737335534",
+        "created_at": "2025-02-06T00:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T01:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887291068737335534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "抹茶の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 36,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062852739072",
+              "start": 13,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 36,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062848516096",
+              "start": 13,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 36,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062844334081",
+              "start": 13,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "pic.x.com/G5OvfdXafi",
+              "end": 36,
+              "expanded_url": "https://x.com/aoki__hina/status/1887291068737335534/photo/1",
+              "media_key": "3_1887291062844317696",
+              "start": 13,
+              "url": "https://t.co/G5OvfdXafi"
+            },
+            {
+              "display_url": "x.com/bushim_ongaku/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/bushim_ongaku/status/1887286652550201836",
+              "start": 37,
+              "url": "https://t.co/6c6YHY0kYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887291068737335534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 43546,
+          "like_count": 2093,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 392
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887286652550201836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ふーん。🐈🍵 #抹茶の日 https://t.co/G5OvfdXafi https://t.co/6c6YHY0kYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 70,
+          "like_count": 4410,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 900
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1877193838709592511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103530,
+          "following_count": 289,
+          "like_count": 1,
+          "listed_count": 897,
+          "media_count": 1102,
+          "tweet_count": 4031
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

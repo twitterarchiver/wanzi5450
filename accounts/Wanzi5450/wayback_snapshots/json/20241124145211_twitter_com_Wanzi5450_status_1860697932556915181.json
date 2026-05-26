@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860578797835419651",
+        "3_1860578797843808256"
+      ],
+      "media_source_tweet_id": [
+        "1860578804705701959",
+        "1860578804705701959"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1860697932556915181",
+    "created_at": "2024-11-24T14:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T15:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860697932556915181"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "江ノ島",
+          "probability": 0.6035,
+          "start": 23,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1681944655041265664",
+          "start": 3,
+          "username": "shuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sCEjtu9gVk",
+          "end": 68,
+          "expanded_url": "https://x.com/shuri_togetoge/status/1860578804705701959/photo/1",
+          "media_key": "3_1860578797835419651",
+          "start": 45,
+          "url": "https://t.co/sCEjtu9gVk"
+        },
+        {
+          "display_url": "pic.x.com/sCEjtu9gVk",
+          "end": 68,
+          "expanded_url": "https://x.com/shuri_togetoge/status/1860578804705701959/photo/1",
+          "media_key": "3_1860578797843808256",
+          "start": 45,
+          "url": "https://t.co/sCEjtu9gVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860697932556915181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 496
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860578804705701959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuri_togetoge: りなと江ノ島きたwwwwwwwwwwwwwwww https://t.co/sCEjtu9gVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1860578797835419651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdIajxGagAMdE8V.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1860578797843808256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdIajxIagAAH81E.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860578797835419651",
+            "3_1860578797843808256"
+          ],
+          "media_source_tweet_id": [
+            "1860578804705701959",
+            "1860578804705701959"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1860697932556915181",
+        "created_at": "2024-11-24T14:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860697932556915181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "江ノ島",
+              "probability": 0.6035,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1681944655041265664",
+              "start": 3,
+              "username": "shuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCEjtu9gVk",
+              "end": 68,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1860578804705701959/photo/1",
+              "media_key": "3_1860578797835419651",
+              "start": 45,
+              "url": "https://t.co/sCEjtu9gVk"
+            },
+            {
+              "display_url": "pic.x.com/sCEjtu9gVk",
+              "end": 68,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1860578804705701959/photo/1",
+              "media_key": "3_1860578797843808256",
+              "start": 45,
+              "url": "https://t.co/sCEjtu9gVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860697932556915181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 496
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860578804705701959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuri_togetoge: りなと江ノ島きたwwwwwwwwwwwwwwww https://t.co/sCEjtu9gVk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860578797835419651",
+            "3_1860578797843808256"
+          ]
+        },
+        "author_id": "1681944655041265664",
+        "conversation_id": "1860578804705701959",
+        "created_at": "2024-11-24T06:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T07:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860578804705701959"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "江ノ島",
+              "probability": 0.5991,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sCEjtu9gVk",
+              "end": 48,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1860578804705701959/photo/1",
+              "media_key": "3_1860578797835419651",
+              "start": 25,
+              "url": "https://t.co/sCEjtu9gVk"
+            },
+            {
+              "display_url": "pic.x.com/sCEjtu9gVk",
+              "end": 48,
+              "expanded_url": "https://x.com/shuri_togetoge/status/1860578804705701959/photo/1",
+              "media_key": "3_1860578797843808256",
+              "start": 25,
+              "url": "https://t.co/sCEjtu9gVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860578804705701959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 84792,
+          "like_count": 4690,
+          "quote_count": 9,
+          "reply_count": 46,
+          "retweet_count": 496
+        },
+        "reply_settings": "everyone",
+        "text": "りなと江ノ島きたwwwwwwwwwwwwwwww https://t.co/sCEjtu9gVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 3751,
+          "listed_count": 0,
+          "tweet_count": 773
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:30:38.000Z",
+        "description": "朱李(Shuri) / アニメ『#ガールズバンドクライ』#ルパ 役 / バンド『#トゲナシトゲアリ』Ba. / Instagram→ https://t.co/mN4Sucbxpb / 爬虫類と金魚と野球が好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "ルパ"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/shuri_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/shuri_togetoge",
+                "start": 67,
+                "url": "https://t.co/mN4Sucbxpb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuritogetoge",
+                "start": 0,
+                "url": "https://t.co/OX3Xk30yGt"
+              }
+            ]
+          }
+        },
+        "id": "1681944655041265664",
+        "name": "朱李 / ガールズバンドクライ ルパ役 / トゲナシトゲアリ Ba.",
+        "pinned_tweet_id": "1778774042537021944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795663226290176/mMoS4Kqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38765,
+          "following_count": 98,
+          "like_count": 2069,
+          "listed_count": 259,
+          "tweet_count": 1578
+        },
+        "url": "https://t.co/OX3Xk30yGt",
+        "username": "shuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

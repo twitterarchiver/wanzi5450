@@ -1,0 +1,230 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811883187074703361"
+      ],
+      "media_source_tweet_id": [
+        "1811883189180219543"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1812014047597883855",
+    "created_at": "2024-07-13T06:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T07:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812014047597883855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1792696944931799040",
+          "start": 3,
+          "username": "SubaNinaBot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/HjHghwnJnq",
+          "end": 40,
+          "expanded_url": "https://twitter.com/SubaNinaBot/status/1811883189180219543/photo/1",
+          "media_key": "3_1811883187074703361",
+          "start": 17,
+          "url": "https://t.co/HjHghwnJnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812014047597883855",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811883189180219543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SubaNinaBot: https://t.co/HjHghwnJnq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "3_1811883187074703361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSUaKKwXIAEp3dY.jpg",
+        "width": 306
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811883187074703361"
+          ],
+          "media_source_tweet_id": [
+            "1811883189180219543"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1812014047597883855",
+        "created_at": "2024-07-13T06:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T07:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812014047597883855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792696944931799040",
+              "start": 3,
+              "username": "SubaNinaBot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HjHghwnJnq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/SubaNinaBot/status/1811883189180219543/photo/1",
+              "media_key": "3_1811883187074703361",
+              "start": 17,
+              "url": "https://t.co/HjHghwnJnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812014047597883855",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811883189180219543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SubaNinaBot: https://t.co/HjHghwnJnq"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811883187074703361"
+          ]
+        },
+        "author_id": "1792696944931799040",
+        "conversation_id": "1811883189180219543",
+        "created_at": "2024-07-12T21:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T22:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811883189180219543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HjHghwnJnq",
+              "end": 23,
+              "expanded_url": "https://twitter.com/SubaNinaBot/status/1811883189180219543/photo/1",
+              "media_key": "3_1811883187074703361",
+              "start": 0,
+              "url": "https://t.co/HjHghwnJnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811883189180219543",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1754,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HjHghwnJnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2603,
+          "listed_count": 0,
+          "tweet_count": 434
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T23:20:51.000Z",
+        "description": "SubaNina content every 3 hours. bot made with @gimmickbots",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "gimmickbots"
+              }
+            ]
+          }
+        },
+        "id": "1792696944931799040",
+        "name": "SubaNina Bot",
+        "pinned_tweet_id": "1792721806803046607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802139921362067456/beNVaEf3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 20,
+          "like_count": 370,
+          "listed_count": 3,
+          "tweet_count": 434
+        },
+        "username": "SubaNinaBot",
+        "verified": false
+      }
+    ]
+  }
+}

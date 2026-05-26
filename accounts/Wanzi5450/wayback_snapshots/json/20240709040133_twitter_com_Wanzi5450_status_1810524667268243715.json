@@ -1,0 +1,634 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      }
+    ],
+    "conversation_id": "1810524667268243715",
+    "created_at": "2024-07-09T04:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T05:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810524667268243715"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "Quaerere Lumina",
+          "probability": 0.6801,
+          "start": 37,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "愛知",
+          "probability": 0.8729,
+          "start": 53,
+          "type": "Place"
+        },
+        {
+          "end": 127,
+          "normalized_text": "🩵 オブリビオニス",
+          "probability": 0.616,
+          "start": 118,
+          "type": "Person"
+        },
+        {
+          "end": 132,
+          "normalized_text": "豊川祥子",
+          "probability": 0.9706,
+          "start": 129,
+          "type": "Person"
+        },
+        {
+          "end": 137,
+          "normalized_text": "高尾奏",
+          "probability": 0.7292,
+          "start": 135,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 98,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "767910567071801344",
+          "start": 3,
+          "username": "Kanon_Takao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810524667268243715",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 695
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809899919836344450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanon_Takao: Ave Mujica 2nd LIVE『Quaerere Lumina』愛知公演 🌙⚙️\nありがとうございました🌠\n\n足が潰れても歩き続ける。\n光を探して…。\n\n#AveMujica キーボード🎹🩵\nオブリビオニス/豊川祥子役 高尾奏音🕊\n\n#…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "1810524667268243715",
+        "created_at": "2024-07-09T04:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T05:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810524667268243715"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Quaerere Lumina",
+              "probability": 0.6801,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "愛知",
+              "probability": 0.8729,
+              "start": 53,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "🩵 オブリビオニス",
+              "probability": 0.616,
+              "start": 118,
+              "type": "Person"
+            },
+            {
+              "end": 132,
+              "normalized_text": "豊川祥子",
+              "probability": 0.9706,
+              "start": 129,
+              "type": "Person"
+            },
+            {
+              "end": 137,
+              "normalized_text": "高尾奏",
+              "probability": 0.7292,
+              "start": 135,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 98,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "767910567071801344",
+              "start": 3,
+              "username": "Kanon_Takao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810524667268243715",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 695
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809899919836344450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanon_Takao: Ave Mujica 2nd LIVE『Quaerere Lumina』愛知公演 🌙⚙️\nありがとうございました🌠\n\n足が潰れても歩き続ける。\n光を探して…。\n\n#AveMujica キーボード🎹🩵\nオブリビオニス/豊川祥子役 高尾奏音🕊\n\n#…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809899915361107968"
+          ]
+        },
+        "author_id": "767910567071801344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "1809899919836344450",
+        "created_at": "2024-07-07T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809899919836344450"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Ave Mujica",
+              "probability": 0.2708,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Quaerere Lumina",
+              "probability": 0.7093,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "愛知",
+              "probability": 0.865,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 110,
+              "normalized_text": "🩵 オブリビオニス",
+              "probability": 0.6271,
+              "start": 101,
+              "type": "Person"
+            },
+            {
+              "end": 115,
+              "normalized_text": "豊川祥子",
+              "probability": 0.9694,
+              "start": 112,
+              "type": "Person"
+            },
+            {
+              "end": 120,
+              "normalized_text": "高尾奏",
+              "probability": 0.7495,
+              "start": 118,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 81,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 146,
+              "start": 128,
+              "tag": "QuaerereLumina_愛知"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4tqt2qAwmb",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Kanon_Takao/status/1809899919836344450/photo/1",
+              "media_key": "3_1809899915361107968",
+              "start": 147,
+              "url": "https://t.co/4tqt2qAwmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809899919836344450",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 80131,
+          "like_count": 3639,
+          "quote_count": 11,
+          "reply_count": 30,
+          "retweet_count": 695
+        },
+        "reply_settings": "everyone",
+        "text": "Ave Mujica 2nd LIVE『Quaerere Lumina』愛知公演 🌙⚙️\nありがとうございました🌠\n\n足が潰れても歩き続ける。\n光を探して…。\n\n#AveMujica キーボード🎹🩵\nオブリビオニス/豊川祥子役 高尾奏音🕊\n\n#バンドリ \n#QuaerereLumina_愛知 https://t.co/4tqt2qAwmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2482,
+          "listed_count": 0,
+          "tweet_count": 409
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T02:25:21.000Z",
+        "description": "新人声優です！大学4年21歳『#このすば3期』アイリス『#天使つき』蔓深ひすい『#バンドリ It's MyGO』#AveMujica key.豊川祥子/オブリビオニス『#遊戯王』ユウナ『#真の仲間』リット『#アイプラ』白石千紗『#プリコネR』プレシア『#原神』ノエル『#マギレコ』かごめ『#艦これ』ゴトランド #あぐのん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "このすば3期"
+              },
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "天使つき"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "遊戯王"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "真の仲間"
+              },
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "アイプラ"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "プリコネR"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "原神"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "マギレコ"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "艦これ"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "あぐのん"
+              }
+            ]
+          }
+        },
+        "id": "767910567071801344",
+        "location": "高尾山のんのん村＼( 'ω')／ﾍｰｲ",
+        "name": "高尾奏音",
+        "pinned_tweet_id": "1779792314443129053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779109265237516288/_Z4YFiFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75113,
+          "following_count": 639,
+          "like_count": 21966,
+          "listed_count": 1143,
+          "tweet_count": 14691
+        },
+        "username": "Kanon_Takao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1864495287915696457",
+    "created_at": "2024-12-05T02:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T03:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864495287915696457"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "小市民シリーズ",
+          "probability": 0.5039,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "船戸高校",
+          "probability": 0.4114,
+          "start": 36,
+          "type": "Organization"
+        },
+        {
+          "end": 51,
+          "normalized_text": "岐阜北高等学校",
+          "probability": 0.7257,
+          "start": 45,
+          "type": "Organization"
+        },
+        {
+          "end": 90,
+          "normalized_text": "ゆきちゃん",
+          "probability": 0.795,
+          "start": 86,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864495287915696457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1507
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864270974713319586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『小市民シリーズ』モデル地巡り②\n\n船戸高校のモデル、岐阜北高等学校です✨\n生徒さんのお声が聞こえてきたり、優しくお話してくださったり、ゆきちゃん達のように通っている気持ちになれました✨\n関係者以外立ち入り禁止されておりますので、\nお写真から…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1864495287915696457",
+        "created_at": "2024-12-05T02:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T03:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864495287915696457"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "小市民シリーズ",
+              "probability": 0.5039,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "船戸高校",
+              "probability": 0.4114,
+              "start": 36,
+              "type": "Organization"
+            },
+            {
+              "end": 51,
+              "normalized_text": "岐阜北高等学校",
+              "probability": 0.7257,
+              "start": 45,
+              "type": "Organization"
+            },
+            {
+              "end": 90,
+              "normalized_text": "ゆきちゃん",
+              "probability": 0.795,
+              "start": 86,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864495287915696457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1507
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864270974713319586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『小市民シリーズ』モデル地巡り②\n\n船戸高校のモデル、岐阜北高等学校です✨\n生徒さんのお声が聞こえてきたり、優しくお話してくださったり、ゆきちゃん達のように通っている気持ちになれました✨\n関係者以外立ち入り禁止されておりますので、\nお写真から…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864270960200962048",
+            "3_1864270960196767746"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1864270974713319586",
+        "created_at": "2024-12-04T11:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T12:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864270974713319586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "小市民シリーズ",
+              "probability": 0.5562,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "船戸高校",
+              "probability": 0.4537,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 33,
+              "normalized_text": "岐阜北高等学校",
+              "probability": 0.7481,
+              "start": 27,
+              "type": "Organization"
+            },
+            {
+              "end": 72,
+              "normalized_text": "ゆきちゃん",
+              "probability": 0.7941,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "小市民"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rzbfNGz6h",
+              "end": 168,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1864270974713319586/photo/1",
+              "media_key": "3_1864270960200962048",
+              "start": 145,
+              "url": "https://t.co/2rzbfNGz6h"
+            },
+            {
+              "display_url": "pic.x.com/2rzbfNGz6h",
+              "end": 168,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1864270974713319586/photo/1",
+              "media_key": "3_1864270960196767746",
+              "start": 145,
+              "url": "https://t.co/2rzbfNGz6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864270974713319586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 257755,
+          "like_count": 11200,
+          "quote_count": 73,
+          "reply_count": 123,
+          "retweet_count": 1507
+        },
+        "reply_settings": "everyone",
+        "text": "『小市民シリーズ』モデル地巡り②\n\n船戸高校のモデル、岐阜北高等学校です✨\n生徒さんのお声が聞こえてきたり、優しくお話してくださったり、ゆきちゃん達のように通っている気持ちになれました✨\n関係者以外立ち入り禁止されておりますので、\nお写真から共有させていただけますと幸いです✨\n\n#小市民 https://t.co/2rzbfNGz6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3930,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 800
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控えいただけますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1766447125494419721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153181,
+          "following_count": 248,
+          "like_count": 1980,
+          "listed_count": 1325,
+          "media_count": 73,
+          "tweet_count": 912
+        },
+        "username": "Hina_Youmiya",
+        "verified": false
+      }
+    ]
+  }
+}

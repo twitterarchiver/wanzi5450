@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1837093449172168704"
+      ],
+      "media_source_tweet_id": [
+        "1837093514737602739"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1837329595273523313",
+    "created_at": "2024-09-21T03:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T04:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837329595273523313"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 67,
+          "start": 58,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "girlsbandcry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1681944655041265664",
+          "start": 3,
+          "username": "shuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0kk3ndz8yh",
+          "end": 105,
+          "expanded_url": "https://twitter.com/shuri_togetoge/status/1837093514737602739/video/1",
+          "media_key": "7_1837093449172168704",
+          "start": 82,
+          "url": "https://t.co/0kK3ndz8yH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837329595273523313",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837093514737602739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuri_togetoge: 生配信ありがとうございました〜！！！\n今回も楽しかったあ！！！\n#ガルクラ #トゲナシトゲアリ #girlsbandcry https://t.co/0kK3ndz8yH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12726,
+        "height": 1280,
+        "media_key": "7_1837093449172168704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1837093449172168704/pu/img/PyEPLIwNRP02Z2rp.jpg",
+        "public_metrics": {
+          "view_count": 15186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837093449172168704/pu/vid/avc1/320x568/2lgd9Tl09e1ejd9F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837093449172168704/pu/vid/avc1/480x852/Dxs7EJAHH7L6XGvq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1837093449172168704/pu/vid/avc1/720x1280/TR4rg2Dxaj3jUnsI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1837093449172168704/pu/pl/ZjmLmgSPYK-86cXa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837093449172168704"
+          ],
+          "media_source_tweet_id": [
+            "1837093514737602739"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1837329595273523313",
+        "created_at": "2024-09-21T03:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837329595273523313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "girlsbandcry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1681944655041265664",
+              "start": 3,
+              "username": "shuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kk3ndz8yh",
+              "end": 105,
+              "expanded_url": "https://twitter.com/shuri_togetoge/status/1837093514737602739/video/1",
+              "media_key": "7_1837093449172168704",
+              "start": 82,
+              "url": "https://t.co/0kK3ndz8yH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837329595273523313",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837093514737602739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuri_togetoge: 生配信ありがとうございました〜！！！\n今回も楽しかったあ！！！\n#ガルクラ #トゲナシトゲアリ #girlsbandcry https://t.co/0kK3ndz8yH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1837093449172168704"
+          ]
+        },
+        "author_id": "1681944655041265664",
+        "conversation_id": "1837093514737602739",
+        "created_at": "2024-09-20T11:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T12:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837093514737602739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 61,
+              "start": 48,
+              "tag": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0kk3ndz8yh",
+              "end": 85,
+              "expanded_url": "https://twitter.com/shuri_togetoge/status/1837093514737602739/video/1",
+              "media_key": "7_1837093449172168704",
+              "start": 62,
+              "url": "https://t.co/0kK3ndz8yH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837093514737602739",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 40369,
+          "like_count": 2767,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "生配信ありがとうございました〜！！！\n今回も楽しかったあ！！！\n#ガルクラ #トゲナシトゲアリ #girlsbandcry https://t.co/0kK3ndz8yH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3175,
+          "listed_count": 0,
+          "tweet_count": 612
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:30:38.000Z",
+        "description": "朱李(Shuri) / アニメ『#ガールズバンドクライ』#ルパ 役 / バンド『#トゲナシトゲアリ』Ba. / Instagram→ https://t.co/mN4Sucbxpb / 爬虫類と金魚と野球が好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "ルパ"
+              },
+              {
+                "end": 49,
+                "start": 40,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/shuri_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/shuri_togetoge",
+                "start": 67,
+                "url": "https://t.co/mN4Sucbxpb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/shuritogetoge",
+                "start": 0,
+                "url": "https://t.co/OX3Xk30yGt"
+              }
+            ]
+          }
+        },
+        "id": "1681944655041265664",
+        "name": "朱李 / ガールズバンドクライ ルパ役 / トゲナシトゲアリ Ba.",
+        "pinned_tweet_id": "1778774042537021944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795663226290176/mMoS4Kqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30644,
+          "following_count": 94,
+          "like_count": 1871,
+          "listed_count": 230,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/OX3Xk30yGt",
+        "username": "shuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

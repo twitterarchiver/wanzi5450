@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around Fashion",
+          "id": "1006277139233103872",
+          "name": "Behavior around fashion"
+        }
+      }
+    ],
+    "conversation_id": "2058573507072831531",
+    "created_at": "2026-05-24T23:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T00:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058699375883567152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058699375883567152",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058698635127202033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric Thank u🥺🩷I really love her I’m so glad with wearing her clothes well"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          }
+        ],
+        "conversation_id": "2058573507072831531",
+        "created_at": "2026-05-24T23:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058699375883567152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058699375883567152",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058698635127202033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric Thank u🥺🩷I really love her I’m so glad with wearing her clothes well"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2058573507072831531",
+        "created_at": "2026-05-24T23:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058698635127202033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058698635127202033",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058573507072831531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 you look beautiful with her clothes it suits you well😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 304,
+          "like_count": 16773,
+          "listed_count": 0,
+          "media_count": 502,
+          "tweet_count": 3961
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "艺术家。非典型。不稳定。宅男。弱智中。我既不是天使也不是恶魔。我展现出的形象完全体现了我的个性。经常有人告诉我，我是纯洁的。我温柔又善良。我希望你能以善意接纳真实的我。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我无法忍受暴力。我痛恨战争和政治。我讨厌性与爱。我与你分享我的情绪状态。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBWgrr"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2058693143105610072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047474227993829378/Tpk4CX1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 147,
+          "like_count": 15253,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 4171
+        },
+        "url": "https://t.co/OARyaBWgrr",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

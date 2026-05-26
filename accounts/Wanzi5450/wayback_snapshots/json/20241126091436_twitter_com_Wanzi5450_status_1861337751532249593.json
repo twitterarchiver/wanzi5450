@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "1861337751532249593",
+    "created_at": "2024-11-26T09:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T10:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861337751532249593"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 72,
+          "normalized_text": "玉名満美ちゃん",
+          "probability": 0.5614,
+          "start": 66,
+          "type": "Person"
+        },
+        {
+          "end": 82,
+          "normalized_text": "玉名温泉観光大使",
+          "probability": 0.4026,
+          "start": 75,
+          "type": "Other"
+        },
+        {
+          "end": 113,
+          "normalized_text": "玉名市",
+          "probability": 0.4339,
+          "start": 111,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 58,
+          "tag": "温泉むすめ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861337751532249593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861293299564425331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 11月26日は＼いい風呂の日／💆♨️\n\nそんな本日、私が声を担当している玉名温泉の\n#温泉むすめ 玉名満美ちゃんが「玉名温泉観光大使」に就任しました㊗️✨\n\n観光大使のお姿もかわいい🥰\n玉名市では私のお祝いコメントも流れております！\nこれからもよ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1861337751532249593",
+        "created_at": "2024-11-26T09:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861337751532249593"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "玉名満美ちゃん",
+              "probability": 0.5614,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "玉名温泉観光大使",
+              "probability": 0.4026,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "玉名市",
+              "probability": 0.4339,
+              "start": 111,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "温泉むすめ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861337751532249593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861293299564425331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 11月26日は＼いい風呂の日／💆♨️\n\nそんな本日、私が声を担当している玉名温泉の\n#温泉むすめ 玉名満美ちゃんが「玉名温泉観光大使」に就任しました㊗️✨\n\n観光大使のお姿もかわいい🥰\n玉名市では私のお祝いコメントも流れております！\nこれからもよ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861293295089172480"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1861293299564425331",
+        "created_at": "2024-11-26T06:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T07:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861293299564425331"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "玉名満美ちゃん",
+              "probability": 0.5481,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "玉名温泉観光大使",
+              "probability": 0.392,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "🥰 玉名市",
+              "probability": 0.3835,
+              "start": 92,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "玉名温泉",
+              "probability": 0.3362,
+              "start": 129,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "温泉むすめ"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "温むす"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pH5EUOre8s",
+              "end": 172,
+              "expanded_url": "https://x.com/aoki__hina/status/1861293299564425331/photo/1",
+              "media_key": "3_1861293295089172480",
+              "start": 149,
+              "url": "https://t.co/pH5EUOre8s"
+            },
+            {
+              "display_url": "x.com/onsen_musume_j…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/onsen_musume_jp/status/1861213281169682903",
+              "start": 173,
+              "url": "https://t.co/lnONCUGEgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861293299564425331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 46458,
+          "like_count": 1665,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861213281169682903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11月26日は＼いい風呂の日／💆♨️\n\nそんな本日、私が声を担当している玉名温泉の\n#温泉むすめ 玉名満美ちゃんが「玉名温泉観光大使」に就任しました㊗️✨\n\n観光大使のお姿もかわいい🥰\n玉名市では私のお祝いコメントも流れております！\nこれからもより一層、玉名温泉の魅力が伝わりますように✨#温むす https://t.co/pH5EUOre8s https://t.co/lnONCUGEgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 65,
+          "like_count": 3779,
+          "listed_count": 0,
+          "tweet_count": 776
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86572,
+          "following_count": 276,
+          "like_count": 0,
+          "listed_count": 831,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

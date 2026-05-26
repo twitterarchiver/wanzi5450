@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827334344647790592",
+        "3_1827334344828186624",
+        "3_1827334344811347968",
+        "3_1827334344811433984"
+      ],
+      "media_source_tweet_id": [
+        "1827334352004641188",
+        "1827334352004641188",
+        "1827334352004641188",
+        "1827334352004641188"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1827365143229165940",
+    "created_at": "2024-08-24T15:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T16:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827365143229165940"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "好きなLiyuu"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "744906956649857024",
+          "start": 3,
+          "username": "Liyu0109"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ec4occouj1",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+          "media_key": "3_1827334344647790592",
+          "start": 33,
+          "url": "https://t.co/ec4ocCouj1"
+        },
+        {
+          "display_url": "pic.x.com/ec4occouj1",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+          "media_key": "3_1827334344828186624",
+          "start": 33,
+          "url": "https://t.co/ec4ocCouj1"
+        },
+        {
+          "display_url": "pic.x.com/ec4occouj1",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+          "media_key": "3_1827334344811347968",
+          "start": 33,
+          "url": "https://t.co/ec4ocCouj1"
+        },
+        {
+          "display_url": "pic.x.com/ec4occouj1",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+          "media_key": "3_1827334344811433984",
+          "start": 33,
+          "url": "https://t.co/ec4ocCouj1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827365143229165940",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 809
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827334352004641188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liyu0109: 🫶🏻😗🫶🏻きゅ\n\n#好きなLiyuu https://t.co/ec4ocCouj1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1827334344647790592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVv-56KaUAAVSew.jpg",
+        "width": 1534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1827334344828186624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVv-561a8AAdSR0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1827334344811347968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVv-56xaAAAO26Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1827334344811433984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVv-56xbUAAmDs4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827334344647790592",
+            "3_1827334344828186624",
+            "3_1827334344811347968",
+            "3_1827334344811433984"
+          ],
+          "media_source_tweet_id": [
+            "1827334352004641188",
+            "1827334352004641188",
+            "1827334352004641188",
+            "1827334352004641188"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1827365143229165940",
+        "created_at": "2024-08-24T15:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T16:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827365143229165940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "好きなLiyuu"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "744906956649857024",
+              "start": 3,
+              "username": "Liyu0109"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344647790592",
+              "start": 33,
+              "url": "https://t.co/ec4ocCouj1"
+            },
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344828186624",
+              "start": 33,
+              "url": "https://t.co/ec4ocCouj1"
+            },
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344811347968",
+              "start": 33,
+              "url": "https://t.co/ec4ocCouj1"
+            },
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344811433984",
+              "start": 33,
+              "url": "https://t.co/ec4ocCouj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827365143229165940",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 809
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827334352004641188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liyu0109: 🫶🏻😗🫶🏻きゅ\n\n#好きなLiyuu https://t.co/ec4ocCouj1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827334344647790592",
+            "3_1827334344828186624",
+            "3_1827334344811347968",
+            "3_1827334344811433984"
+          ]
+        },
+        "author_id": "744906956649857024",
+        "conversation_id": "1827334352004641188",
+        "created_at": "2024-08-24T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827334352004641188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "好きなLiyuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344647790592",
+              "start": 19,
+              "url": "https://t.co/ec4ocCouj1"
+            },
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344828186624",
+              "start": 19,
+              "url": "https://t.co/ec4ocCouj1"
+            },
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344811347968",
+              "start": 19,
+              "url": "https://t.co/ec4ocCouj1"
+            },
+            {
+              "display_url": "pic.x.com/ec4occouj1",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1827334352004641188/photo/1",
+              "media_key": "3_1827334344811433984",
+              "start": 19,
+              "url": "https://t.co/ec4ocCouj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827334352004641188",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 68673,
+          "like_count": 4395,
+          "quote_count": 40,
+          "reply_count": 116,
+          "retweet_count": 809
+        },
+        "reply_settings": "everyone",
+        "text": "🫶🏻😗🫶🏻きゅ\n\n#好きなLiyuu https://t.co/ec4ocCouj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 3043,
+          "listed_count": 0,
+          "tweet_count": 565
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-20T14:57:12.000Z",
+        "description": "「リーユウ 」中国上海人、歌手、コスプレ好きです。#lovelive #Liella 唐 可可役、FC #YuUKoiDays 、ラジオ #Liyuuはつらじ #好きなLiyuu 、8月28日Release 5th SG「No Complete」⛓️ （TVアニメ『この世界は不完全すぎる』OP主題歌）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 25,
+                "tag": "lovelive"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "Liella"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "tag": "YuUKoiDays"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "tag": "Liyuuはつらじ"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "tag": "好きなLiyuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liyuu0109.com",
+                "end": 23,
+                "expanded_url": "https://liyuu0109.com/",
+                "start": 0,
+                "url": "https://t.co/KiKd81L2tY"
+              }
+            ]
+          }
+        },
+        "id": "744906956649857024",
+        "location": "ホリプロインターナショナル",
+        "name": "Liyuu",
+        "pinned_tweet_id": "1809424512364265601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741476337343250432/8sG1vf80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685843,
+          "following_count": 328,
+          "like_count": 12136,
+          "listed_count": 6977,
+          "tweet_count": 4135
+        },
+        "url": "https://t.co/KiKd81L2tY",
+        "username": "Liyu0109",
+        "verified": true
+      }
+    ]
+  }
+}

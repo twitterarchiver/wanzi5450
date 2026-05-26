@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042200191399518340",
+    "created_at": "2026-04-10T04:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042466950656434202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632831430706475008",
+          "start": 0,
+          "username": "vari2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042466950656434202",
+    "in_reply_to_user_id": "1632831430706475008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042466313986326681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vari2025 www现在一直在戴着😭😭缓解了好多TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042200191399518340",
+        "created_at": "2026-04-10T04:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042466950656434202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632831430706475008",
+              "start": 0,
+              "username": "vari2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042466950656434202",
+        "in_reply_to_user_id": "1632831430706475008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042466313986326681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vari2025 www现在一直在戴着😭😭缓解了好多TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632831430706475008",
+        "conversation_id": "2042200191399518340",
+        "created_at": "2026-04-10T04:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042466313986326681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042466313986326681",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042200191399518340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 麻露口(急需下肢义体版)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 264,
+          "like_count": 11558,
+          "listed_count": 0,
+          "media_count": 447,
+          "tweet_count": 3070
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:52:18.000Z",
+        "description": "",
+        "id": "1632831430706475008",
+        "name": "🐧姐毒唯",
+        "pinned_tweet_id": "1650526942331047936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953012448858169344/ncEVMiea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 375,
+          "like_count": 8810,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1535
+        },
+        "username": "vari2025",
+        "verified": false
+      }
+    ]
+  }
+}

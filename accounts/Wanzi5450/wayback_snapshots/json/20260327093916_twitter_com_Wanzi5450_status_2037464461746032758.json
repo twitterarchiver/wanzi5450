@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2026352560320426238",
+    "created_at": "2026-03-27T09:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037464461746032758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427509553466200071",
+          "start": 0,
+          "username": "celerino_lau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037464461746032758",
+    "in_reply_to_user_id": "1427509553466200071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026352560320426238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celerino_lau 这也太甜了 祝幸福🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2026352560320426238",
+        "created_at": "2026-03-27T09:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037464461746032758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427509553466200071",
+              "start": 0,
+              "username": "celerino_lau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037464461746032758",
+        "in_reply_to_user_id": "1427509553466200071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026352560320426238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celerino_lau 这也太甜了 祝幸福🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427509553466200071",
+        "conversation_id": "2026352560320426238",
+        "created_at": "2026-02-24T17:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026352560320426238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026352560320426238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她讲到前任我真的恨到不行，自己所爱不被珍惜的那种气愤。\n\n我可算是知道了她在我们刚开始时候一直在强调“自己不是白幼瘦”的原因了，就是因为前面遇见的那只总会嫌弃我宝宝不够白不够瘦😭我操，到底凭什么啊，我想宰了他狗逼，有什么理由这样对别人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 265,
+          "like_count": 9942,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2418
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T05:56:29.000Z",
+        "description": "4myself.只记录文字，不分享生活",
+        "id": "1427509553466200071",
+        "location": "Unknown",
+        "name": ".c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809622051101265920/9BrRqa9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 410,
+          "like_count": 6002,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 2223
+        },
+        "username": "celerino_lau",
+        "verified": false
+      }
+    ]
+  }
+}

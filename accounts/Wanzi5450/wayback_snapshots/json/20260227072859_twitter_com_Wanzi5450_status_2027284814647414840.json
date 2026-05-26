@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027284804442771456",
+        "3_2027284804463706113"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2027284814647414840",
+    "created_at": "2026-02-27T07:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027284814647414840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nySfNZUUHg",
+          "end": 30,
+          "expanded_url": "https://x.com/Wanzi5450/status/2027284814647414840/photo/1",
+          "media_key": "3_2027284804442771456",
+          "start": 7,
+          "url": "https://t.co/nySfNZUUHg"
+        },
+        {
+          "display_url": "pic.x.com/nySfNZUUHg",
+          "end": 30,
+          "expanded_url": "https://x.com/Wanzi5450/status/2027284814647414840/photo/1",
+          "media_key": "3_2027284804463706113",
+          "start": 7,
+          "url": "https://t.co/nySfNZUUHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027284814647414840",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "puipui https://t.co/nySfNZUUHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027284804442771456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJcyeNb0AARjF1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027284804463706113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJcyeSbQAEqCT8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027284804442771456",
+            "3_2027284804463706113"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2027284814647414840",
+        "created_at": "2026-02-27T07:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027284814647414840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nySfNZUUHg",
+              "end": 30,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027284814647414840/photo/1",
+              "media_key": "3_2027284804442771456",
+              "start": 7,
+              "url": "https://t.co/nySfNZUUHg"
+            },
+            {
+              "display_url": "pic.x.com/nySfNZUUHg",
+              "end": 30,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027284814647414840/photo/1",
+              "media_key": "3_2027284804463706113",
+              "start": 7,
+              "url": "https://t.co/nySfNZUUHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027284814647414840",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "puipui https://t.co/nySfNZUUHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 204,
+          "like_count": 8420,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1677
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

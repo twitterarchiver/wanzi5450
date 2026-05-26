@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2038194503962722707",
+    "created_at": "2026-03-31T08:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038894836577886374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1855621322220437504",
+          "start": 0,
+          "username": "clcqzxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038894836577886374",
+    "in_reply_to_user_id": "1855621322220437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038721897018577249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clcqzxc 不会的🥺🥺不要骂自己！抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038194503962722707",
+        "created_at": "2026-03-31T08:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038894836577886374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1855621322220437504",
+              "start": 0,
+              "username": "clcqzxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038894836577886374",
+        "in_reply_to_user_id": "1855621322220437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038721897018577249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clcqzxc 不会的🥺🥺不要骂自己！抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2038194503962722707",
+        "created_at": "2026-03-30T20:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038721897018577249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038721897018577249",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038194503962722707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 对不起。这样就不会再给别人造成负担了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 283,
+          "like_count": 10423,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 2592
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 168,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

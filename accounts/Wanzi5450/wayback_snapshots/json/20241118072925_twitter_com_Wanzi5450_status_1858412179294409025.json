@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857982395523411969",
+        "3_1857982395515023363",
+        "3_1857982395527606273"
+      ],
+      "media_source_tweet_id": [
+        "1857982405975617792",
+        "1857982405975617792",
+        "1857982405975617792"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1858412179294409025",
+    "created_at": "2024-11-18T07:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T08:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858412179294409025"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "親友ちゃん",
+          "probability": 0.4959,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YjG7DBipha",
+          "end": 86,
+          "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+          "media_key": "3_1857982395523411969",
+          "start": 63,
+          "url": "https://t.co/YjG7DBipha"
+        },
+        {
+          "display_url": "pic.x.com/YjG7DBipha",
+          "end": 86,
+          "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+          "media_key": "3_1857982395515023363",
+          "start": 63,
+          "url": "https://t.co/YjG7DBipha"
+        },
+        {
+          "display_url": "pic.x.com/YjG7DBipha",
+          "end": 86,
+          "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+          "media_key": "3_1857982395527606273",
+          "start": 63,
+          "url": "https://t.co/YjG7DBipha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858412179294409025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 545
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857982405975617792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: 親友ちゃんが撮ってくれたチュロスもぐもぐショット📷\nハロウィンの味、美味しかった…！！🎃 https://t.co/YjG7DBipha"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1857982395523411969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcjhJQwaMAEoIP0.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1857982395515023363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcjhJQuaMAMwq0G.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1857982395527606273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcjhJQxaMAEJu4g.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857982395523411969",
+            "3_1857982395515023363",
+            "3_1857982395527606273"
+          ],
+          "media_source_tweet_id": [
+            "1857982405975617792",
+            "1857982405975617792",
+            "1857982405975617792"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1858412179294409025",
+        "created_at": "2024-11-18T07:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T08:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858412179294409025"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "親友ちゃん",
+              "probability": 0.4959,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YjG7DBipha",
+              "end": 86,
+              "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+              "media_key": "3_1857982395523411969",
+              "start": 63,
+              "url": "https://t.co/YjG7DBipha"
+            },
+            {
+              "display_url": "pic.x.com/YjG7DBipha",
+              "end": 86,
+              "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+              "media_key": "3_1857982395515023363",
+              "start": 63,
+              "url": "https://t.co/YjG7DBipha"
+            },
+            {
+              "display_url": "pic.x.com/YjG7DBipha",
+              "end": 86,
+              "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+              "media_key": "3_1857982395527606273",
+              "start": 63,
+              "url": "https://t.co/YjG7DBipha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858412179294409025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 545
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857982405975617792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: 親友ちゃんが撮ってくれたチュロスもぐもぐショット📷\nハロウィンの味、美味しかった…！！🎃 https://t.co/YjG7DBipha"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857982395523411969",
+            "3_1857982395515023363",
+            "3_1857982395527606273"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1857982405975617792",
+        "created_at": "2024-11-17T03:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T04:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857982405975617792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YjG7DBipha",
+              "end": 68,
+              "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+              "media_key": "3_1857982395523411969",
+              "start": 45,
+              "url": "https://t.co/YjG7DBipha"
+            },
+            {
+              "display_url": "pic.x.com/YjG7DBipha",
+              "end": 68,
+              "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+              "media_key": "3_1857982395515023363",
+              "start": 45,
+              "url": "https://t.co/YjG7DBipha"
+            },
+            {
+              "display_url": "pic.x.com/YjG7DBipha",
+              "end": 68,
+              "expanded_url": "https://x.com/kohinatamika/status/1857982405975617792/photo/1",
+              "media_key": "3_1857982395527606273",
+              "start": 45,
+              "url": "https://t.co/YjG7DBipha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857982405975617792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 94377,
+          "like_count": 4379,
+          "quote_count": 41,
+          "reply_count": 99,
+          "retweet_count": 545
+        },
+        "reply_settings": "everyone",
+        "text": "親友ちゃんが撮ってくれたチュロスもぐもぐショット📷\nハロウィンの味、美味しかった…！！🎃 https://t.co/YjG7DBipha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 3589,
+          "listed_count": 0,
+          "tweet_count": 737
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #よりこのうたラジ 【配信】#こひなたぼっこ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "よりこのうたラジ"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "こひなたぼっこ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1823332454998172013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58236,
+          "following_count": 350,
+          "like_count": 4500,
+          "listed_count": 564,
+          "tweet_count": 3647
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": false
+      }
+    ]
+  }
+}

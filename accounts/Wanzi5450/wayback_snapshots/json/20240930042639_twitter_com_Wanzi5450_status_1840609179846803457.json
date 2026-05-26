@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1820424153071034368"
+      ],
+      "media_source_tweet_id": [
+        "1820424258461258182"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1840609179846803457",
+    "created_at": "2024-09-30T04:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T05:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840609179846803457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1781900380072525824",
+          "start": 3,
+          "username": "NongAnnBNK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3vxphc8xts",
+          "end": 58,
+          "expanded_url": "https://twitter.com/NongAnnBNK/status/1820424258461258182/photo/1",
+          "media_key": "16_1820424153071034368",
+          "start": 35,
+          "url": "https://t.co/3VxPhc8xtS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840609179846803457",
+    "lang": "th",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840372006933680612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NongAnnBNK: มีใครเข้าใจเรามั้ย https://t.co/3VxPhc8xtS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 470,
+        "media_key": "16_1820424153071034368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GUNyH0hXIAAcgWW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GUNyH0hXIAAcgWW.mp4"
+          }
+        ],
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1820424153071034368"
+          ],
+          "media_source_tweet_id": [
+            "1820424258461258182"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1840609179846803457",
+        "created_at": "2024-09-30T04:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T05:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840609179846803457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1781900380072525824",
+              "start": 3,
+              "username": "NongAnnBNK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vxphc8xts",
+              "end": 58,
+              "expanded_url": "https://twitter.com/NongAnnBNK/status/1820424258461258182/photo/1",
+              "media_key": "16_1820424153071034368",
+              "start": 35,
+              "url": "https://t.co/3VxPhc8xtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840609179846803457",
+        "lang": "th",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840372006933680612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NongAnnBNK: มีใครเข้าใจเรามั้ย https://t.co/3VxPhc8xtS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1820424153071034368"
+          ],
+          "media_source_tweet_id": [
+            "1820424258461258182"
+          ]
+        },
+        "author_id": "1781900380072525824",
+        "conversation_id": "1840372006933680612",
+        "created_at": "2024-09-29T12:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T13:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840372006933680612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3vxphc8xts",
+              "end": 42,
+              "expanded_url": "https://twitter.com/NongAnnBNK/status/1820424258461258182/photo/1",
+              "media_key": "16_1820424153071034368",
+              "start": 19,
+              "url": "https://t.co/3VxPhc8xtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840372006933680612",
+        "lang": "th",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 26790,
+          "like_count": 1280,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "มีใครเข้าใจเรามั้ย https://t.co/3VxPhc8xtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 3322,
+          "listed_count": 0,
+          "tweet_count": 671
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T04:19:00.000Z",
+        "description": "ansy |MyGO main| I might miss your mentions - noti shown only for mutuals and mute over 20RTs tweet| header by @rktr__ | pfp by @yogurt_pt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 111,
+                "username": "rktr__"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "yogurt_pt"
+              }
+            ]
+          }
+        },
+        "id": "1781900380072525824",
+        "name": "Ansytk in bio🎸🎸",
+        "pinned_tweet_id": "1822599468803563693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832765535727284224/kJkCuu92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 491,
+          "like_count": 3100,
+          "listed_count": 1,
+          "tweet_count": 21116
+        },
+        "username": "NongAnnBNK",
+        "verified": false
+      }
+    ]
+  }
+}

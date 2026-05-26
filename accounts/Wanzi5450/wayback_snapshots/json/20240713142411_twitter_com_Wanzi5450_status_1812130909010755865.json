@@ -1,0 +1,541 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1812130909010755865",
+    "created_at": "2024-07-13T14:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T15:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812130909010755865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353543505432301569",
+          "start": 3,
+          "username": "ttisrn_0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812130909010755865",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812071030976094555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttisrn_0710: 「BiliBili World 2024」🇨🇳\n\nMyGO!!!!!ステージありがとうございました！！たくさんの人に集まって頂き、とっても嬉しかったです！\n\n中国のみなさんのMyGO!!!!!への愛情たくさん伝わりました〜！また遊びに来ます◎◎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1812130909010755865",
+        "created_at": "2024-07-13T14:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T15:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812130909010755865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353543505432301569",
+              "start": 3,
+              "username": "ttisrn_0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812130909010755865",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812071030976094555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttisrn_0710: 「BiliBili World 2024」🇨🇳\n\nMyGO!!!!!ステージありがとうございました！！たくさんの人に集まって頂き、とっても嬉しかったです！\n\n中国のみなさんのMyGO!!!!!への愛情たくさん伝わりました〜！また遊びに来ます◎◎…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812070983311740928",
+            "3_1812070983303409664"
+          ]
+        },
+        "author_id": "1353543505432301569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1812071030976094555",
+        "created_at": "2024-07-13T10:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T11:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812071030976094555"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "BiliBili World 2024",
+              "probability": 0.8111,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "中国",
+              "probability": 0.8647,
+              "start": 81,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 124,
+              "tag": "BW2024"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zYcVP4gqAB",
+              "end": 167,
+              "expanded_url": "https://twitter.com/ttisrn_0710/status/1812071030976094555/photo/1",
+              "media_key": "3_1812070983311740928",
+              "start": 144,
+              "url": "https://t.co/zYcVP4gqAB"
+            },
+            {
+              "display_url": "pic.twitter.com/zYcVP4gqAB",
+              "end": 167,
+              "expanded_url": "https://twitter.com/ttisrn_0710/status/1812071030976094555/photo/1",
+              "media_key": "3_1812070983303409664",
+              "start": 144,
+              "url": "https://t.co/zYcVP4gqAB"
+            },
+            {
+              "display_url": "x.com/bang_dream_myg…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1812016777548955768",
+              "start": 168,
+              "url": "https://t.co/TohDAl9wWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812071030976094555",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 64055,
+          "like_count": 2722,
+          "quote_count": 7,
+          "reply_count": 82,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812016777548955768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「BiliBili World 2024」🇨🇳\n\nMyGO!!!!!ステージありがとうございました！！たくさんの人に集まって頂き、とっても嬉しかったです！\n\n中国のみなさんのMyGO!!!!!への愛情たくさん伝わりました〜！また遊びに来ます◎◎\n\n#BW2024\n#バンドリ #MyGO https://t.co/zYcVP4gqAB https://t.co/TohDAl9wWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2625,
+          "listed_count": 0,
+          "tweet_count": 437
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:24:31.000Z",
+        "description": "響 新人声優  https://t.co/XTzqpKHxDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rin_.t710",
+                "end": 31,
+                "expanded_url": "https://www.instagram.com/rin_.t710",
+                "start": 8,
+                "url": "https://t.co/XTzqpKHxDR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freecalend.com/open/mem231613…",
+                "end": 23,
+                "expanded_url": "https://freecalend.com/open/mem231613_date202407_modefull",
+                "start": 0,
+                "url": "https://t.co/kdP8UCdeZg"
+              }
+            ]
+          }
+        },
+        "id": "1353543505432301569",
+        "location": "#ぺこりんちゅ",
+        "name": "立石凛",
+        "pinned_tweet_id": "1772204455720817078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749408673724825600/SiKCGmUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47922,
+          "following_count": 121,
+          "like_count": 17,
+          "listed_count": 539,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/kdP8UCdeZg",
+        "username": "ttisrn_0710",
+        "verified": false
+      }
+    ]
+  }
+}

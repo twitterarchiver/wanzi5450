@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2043919437225701843",
+    "created_at": "2026-04-14T08:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043965497616773286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043965497616773286",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043919437225701843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 喵喵喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043919437225701843].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043919437225701843",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043919437225701843"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2043919437225701843",
+        "created_at": "2026-04-14T08:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043965497616773286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043965497616773286",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043919437225701843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 263,
+          "like_count": 11806,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 3183
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【锁推是防止被推送出去】关注人=喜欢你的内容!/同类想互关喵\n成分：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜退役ODer｜■tFtMtFtMtX\n#drugtwt #nonbinary #overdose，不发 #shtwt #shedtwt 但会看\n这边是混中推用的，画画大号可以私信我问id 只是怕被认出来",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "tag": "overdose"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "tag": "shtwt"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo!｜发言都是阿普唑仑干的不代表本人）",
+        "pinned_tweet_id": "2022074802262225026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041490609119375360/faJ8UOHY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 1115,
+          "like_count": 4793,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 3178
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

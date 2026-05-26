@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027951883433005056"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2027951952936784376",
+    "created_at": "2026-03-01T03:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T04:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027951952936784376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c4LcpdSRTX",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2027951952936784376/video/1",
+          "media_key": "13_2027951883433005056",
+          "start": 12,
+          "url": "https://t.co/c4LcpdSRTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027951952936784376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我补药去外婆家吃饭啊😭 https://t.co/c4LcpdSRTX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18518,
+        "height": 1280,
+        "media_key": "13_2027951883433005056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027951883433005056/img/vDUoD42ctxiXNfhl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027951883433005056/vid/avc1/320x568/MczW9gzq5EwmDY8o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027951883433005056/vid/avc1/480x852/H1JhOe0ysG1cXca4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027951883433005056/vid/avc1/720x1280/8huqY7p6B2e9DfCk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027951883433005056/pl/9CqzYZRCx-yGomTq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027951883433005056"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2027951952936784376",
+        "created_at": "2026-03-01T03:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027951952936784376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4LcpdSRTX",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027951952936784376/video/1",
+              "media_key": "13_2027951883433005056",
+              "start": 12,
+              "url": "https://t.co/c4LcpdSRTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027951952936784376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我补药去外婆家吃饭啊😭 https://t.co/c4LcpdSRTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 207,
+          "like_count": 8446,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1695
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2036344534796476419",
+    "created_at": "2026-03-24T11:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036411832072806468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000880188650143744",
+          "start": 0,
+          "username": "huanjunling"
+        },
+        {
+          "end": 25,
+          "id": "2028846216944242688",
+          "start": 13,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036411832072806468",
+    "in_reply_to_user_id": "2000880188650143744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036408280193384469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanjunling @YingZaisama 收到 加仓冰激凌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2036344534796476419",
+        "created_at": "2026-03-24T11:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036411832072806468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000880188650143744",
+              "start": 0,
+              "username": "huanjunling"
+            },
+            {
+              "end": 25,
+              "id": "2028846216944242688",
+              "start": 13,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036411832072806468",
+        "in_reply_to_user_id": "2000880188650143744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036408280193384469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanjunling @YingZaisama 收到 加仓冰激凌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000880188650143744",
+        "conversation_id": "2036344534796476419",
+        "created_at": "2026-03-24T11:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036408280193384469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            },
+            {
+              "end": 23,
+              "id": "1738375202168532992",
+              "start": 13,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036408280193384469",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036357103540121986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama @Wanzi5450 冰淇淋是不会吃胖的，因为冰的哪来热量呢对吧（开个玩笑哈别给我当智障了，主要是X里真有智障）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 259,
+          "like_count": 9713,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2312
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T10:46:44.000Z",
+        "description": "是天上星辰落人间\n星の天より人に落ちぬ。\nA star from sky to earth descends",
+        "id": "2000880188650143744",
+        "location": "九界",
+        "name": "星之星幻",
+        "pinned_tweet_id": "2003477318455689450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001240161833906176/2uCigY22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 62,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 270
+        },
+        "username": "huanjunling",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "这里是鹰仔！06大学生一只～梦想是成为魔王大人，创造一个大家，每个人都能开开心心的乌托邦世界！希望我的点点滴滴日常可以为大家带来温暖与快乐！不键政❌",
+        "id": "2028846216944242688",
+        "location": "乌托邦",
+        "name": "鷹仔大魔王",
+        "pinned_tweet_id": "2033880344085336081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031688080722366464/anQQX9Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 248,
+          "like_count": 2159,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1013
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808347469593681920"
+      ],
+      "media_source_tweet_id": [
+        "1808347474823991576"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1808457096972640256",
+    "created_at": "2024-07-03T11:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T12:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808457096972640256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779067977444573184",
+          "start": 3,
+          "username": "henyomenmen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UITdNJR9DR",
+          "end": 52,
+          "expanded_url": "https://twitter.com/henyomenmen/status/1808347474823991576/photo/1",
+          "media_key": "3_1808347469593681920",
+          "start": 29,
+          "url": "https://t.co/UITdNJR9DR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808457096972640256",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808347474823991576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @henyomenmen: #ガルクラ\n 怒怒怒怒 https://t.co/UITdNJR9DR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2104,
+        "media_key": "3_1808347469593681920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRiKcUuboAAqfvJ.jpg",
+        "width": 2440
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808347469593681920"
+          ],
+          "media_source_tweet_id": [
+            "1808347474823991576"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1808457096972640256",
+        "created_at": "2024-07-03T11:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T12:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808457096972640256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779067977444573184",
+              "start": 3,
+              "username": "henyomenmen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UITdNJR9DR",
+              "end": 52,
+              "expanded_url": "https://twitter.com/henyomenmen/status/1808347474823991576/photo/1",
+              "media_key": "3_1808347469593681920",
+              "start": 29,
+              "url": "https://t.co/UITdNJR9DR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808457096972640256",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808347474823991576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @henyomenmen: #ガルクラ\n 怒怒怒怒 https://t.co/UITdNJR9DR"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808347469593681920"
+          ]
+        },
+        "author_id": "1779067977444573184",
+        "conversation_id": "1808347474823991576",
+        "created_at": "2024-07-03T03:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T04:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808347474823991576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UITdNJR9DR",
+              "end": 35,
+              "expanded_url": "https://twitter.com/henyomenmen/status/1808347474823991576/photo/1",
+              "media_key": "3_1808347469593681920",
+              "start": 12,
+              "url": "https://t.co/UITdNJR9DR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808347474823991576",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 35132,
+          "like_count": 3668,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "#ガルクラ\n 怒怒怒怒 https://t.co/UITdNJR9DR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2438,
+          "listed_count": 0,
+          "tweet_count": 397
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T08:44:24.000Z",
+        "description": "へにょめんと申します。ゆる〜く更新!",
+        "id": "1779067977444573184",
+        "name": "へにょめん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788734582524973056/3PPk5wd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4637,
+          "following_count": 88,
+          "like_count": 33,
+          "listed_count": 34,
+          "tweet_count": 126
+        },
+        "username": "henyomenmen",
+        "verified": false
+      }
+    ]
+  }
+}

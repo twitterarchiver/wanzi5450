@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867950297743544320",
+        "3_1867950297747804160"
+      ],
+      "media_source_tweet_id": [
+        "1867950317712904418",
+        "1867950317712904418"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1868262494109851800",
+    "created_at": "2024-12-15T11:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T12:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868262494109851800"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "上海",
+          "probability": 0.5912,
+          "start": 25,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "凛音の理"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 83,
+          "start": 74,
+          "tag": "トゲナシトゲアリ"
+        },
+        {
+          "end": 97,
+          "start": 84,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681941563302346752",
+          "start": 3,
+          "username": "yuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rDMDwQCbCE",
+          "end": 121,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1867950317712904418/photo/1",
+          "media_key": "3_1867950297743544320",
+          "start": 98,
+          "url": "https://t.co/rDMDwQCbCE"
+        },
+        {
+          "display_url": "pic.x.com/rDMDwQCbCE",
+          "end": 121,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1867950317712904418/photo/1",
+          "media_key": "3_1867950297747804160",
+          "start": 98,
+          "url": "https://t.co/rDMDwQCbCE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868262494109851800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 258
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867950317712904418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_togetoge: #凛音の理 上海公演Day1ありがとうございました〜！とっても熱いライブで楽しかったです❤️‍🔥\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/rDMDwQCbCE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1867950297743544320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GexK5iMW0AAGKZG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1867950297747804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GexK5iNX0AAfg0Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867950297743544320",
+            "3_1867950297747804160"
+          ],
+          "media_source_tweet_id": [
+            "1867950317712904418",
+            "1867950317712904418"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1868262494109851800",
+        "created_at": "2024-12-15T11:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868262494109851800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "上海",
+              "probability": 0.5912,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "凛音の理"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 97,
+              "start": 84,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681941563302346752",
+              "start": 3,
+              "username": "yuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDMDwQCbCE",
+              "end": 121,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1867950317712904418/photo/1",
+              "media_key": "3_1867950297743544320",
+              "start": 98,
+              "url": "https://t.co/rDMDwQCbCE"
+            },
+            {
+              "display_url": "pic.x.com/rDMDwQCbCE",
+              "end": 121,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1867950317712904418/photo/1",
+              "media_key": "3_1867950297747804160",
+              "start": 98,
+              "url": "https://t.co/rDMDwQCbCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868262494109851800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 258
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867950317712904418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_togetoge: #凛音の理 上海公演Day1ありがとうございました〜！とっても熱いライブで楽しかったです❤️‍🔥\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/rDMDwQCbCE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867950297743544320",
+            "3_1867950297747804160"
+          ]
+        },
+        "author_id": "1681941563302346752",
+        "conversation_id": "1867950317712904418",
+        "created_at": "2024-12-14T15:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T16:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867950317712904418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "上海",
+              "probability": 0.638,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "凛音の理"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "トゲナシトゲアリ"
+            },
+            {
+              "end": 78,
+              "start": 65,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDMDwQCbCE",
+              "end": 102,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1867950317712904418/photo/1",
+              "media_key": "3_1867950297743544320",
+              "start": 79,
+              "url": "https://t.co/rDMDwQCbCE"
+            },
+            {
+              "display_url": "pic.x.com/rDMDwQCbCE",
+              "end": 102,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1867950317712904418/photo/1",
+              "media_key": "3_1867950297747804160",
+              "start": 79,
+              "url": "https://t.co/rDMDwQCbCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867950317712904418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 50713,
+          "like_count": 2517,
+          "quote_count": 12,
+          "reply_count": 31,
+          "retweet_count": 258
+        },
+        "reply_settings": "everyone",
+        "text": "#凛音の理 上海公演Day1ありがとうございました〜！とっても熱いライブで楽しかったです❤️‍🔥\n#ガルクラ #トゲナシトゲアリ #GirlsBandCry https://t.co/rDMDwQCbCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 4022,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 823
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:18:25.000Z",
+        "description": "夕莉(Yuri) / アニメ『#ガールズバンドクライ』#河原木桃香 役 / バンド『#トゲナシトゲアリ』Gt. / Instagram→ https://t.co/w3tWoVPjwJ / 猫とサメ好き / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "河原木桃香"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yuri_togetoge",
+                "end": 92,
+                "expanded_url": "http://instagram.com/yuri_togetoge",
+                "start": 69,
+                "url": "https://t.co/w3tWoVPjwJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuritogetoge",
+                "start": 0,
+                "url": "https://t.co/Llf6CPKu18"
+              }
+            ]
+          }
+        },
+        "id": "1681941563302346752",
+        "name": "夕莉 / ガールズバンドクライ 河原木桃香役 / トゲナシトゲアリ Gt.",
+        "pinned_tweet_id": "1778774209046643150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795161042219008/pBbtpL8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38050,
+          "following_count": 99,
+          "like_count": 988,
+          "listed_count": 259,
+          "media_count": 147,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/Llf6CPKu18",
+        "username": "yuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

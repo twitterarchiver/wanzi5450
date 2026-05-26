@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039229387732860928"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2039229399531463098",
+    "created_at": "2026-04-01T06:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039229399531463098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2pDDakmAH3",
+          "end": 47,
+          "expanded_url": "https://x.com/Wanzi5450/status/2039229399531463098/photo/1",
+          "media_key": "3_2039229387732860928",
+          "start": 24,
+          "url": "https://t.co/2pDDakmAH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039229399531463098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头发的颜色和樱花还挺配的，就是相机自拍属实一般 https://t.co/2pDDakmAH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2039229387732860928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzMUudawAAqaAH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039229387732860928"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2039229399531463098",
+        "created_at": "2026-04-01T06:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039229399531463098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pDDakmAH3",
+              "end": 47,
+              "expanded_url": "https://x.com/Wanzi5450/status/2039229399531463098/photo/1",
+              "media_key": "3_2039229387732860928",
+              "start": 24,
+              "url": "https://t.co/2pDDakmAH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039229399531463098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发的颜色和樱花还挺配的，就是相机自拍属实一般 https://t.co/2pDDakmAH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 287,
+          "like_count": 10602,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2666
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

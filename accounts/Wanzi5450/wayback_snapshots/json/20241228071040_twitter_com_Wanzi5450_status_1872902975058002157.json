@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872833965155115008"
+      ],
+      "media_source_tweet_id": [
+        "1872833973401088023"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1872902975058002157",
+    "created_at": "2024-12-28T07:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T08:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872902975058002157"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Pita",
+          "probability": 0.4852,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3156203150",
+          "start": 3,
+          "username": "bakaookami2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ecGpEIVOJk",
+          "end": 48,
+          "expanded_url": "https://x.com/bakaookami2333/status/1872833973401088023/photo/1",
+          "media_key": "3_1872833965155115008",
+          "start": 25,
+          "url": "https://t.co/ecGpEIVOJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872902975058002157",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872833973401088023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bakaookami2333: Pita https://t.co/ecGpEIVOJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1872833965155115008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf2kkZBbYAAn4HY.jpg",
+        "width": 2687
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872833965155115008"
+          ],
+          "media_source_tweet_id": [
+            "1872833973401088023"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1872902975058002157",
+        "created_at": "2024-12-28T07:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T08:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872902975058002157"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Pita",
+              "probability": 0.4852,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3156203150",
+              "start": 3,
+              "username": "bakaookami2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecGpEIVOJk",
+              "end": 48,
+              "expanded_url": "https://x.com/bakaookami2333/status/1872833973401088023/photo/1",
+              "media_key": "3_1872833965155115008",
+              "start": 25,
+              "url": "https://t.co/ecGpEIVOJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872902975058002157",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872833973401088023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bakaookami2333: Pita https://t.co/ecGpEIVOJk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872833965155115008"
+          ]
+        },
+        "author_id": "3156203150",
+        "conversation_id": "1872833973401088023",
+        "created_at": "2024-12-28T02:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T03:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872833973401088023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Pita",
+              "probability": 0.5875,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecGpEIVOJk",
+              "end": 28,
+              "expanded_url": "https://x.com/bakaookami2333/status/1872833973401088023/photo/1",
+              "media_key": "3_1872833965155115008",
+              "start": 5,
+              "url": "https://t.co/ecGpEIVOJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872833973401088023",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 18527,
+          "like_count": 1571,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "Pita https://t.co/ecGpEIVOJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 4246,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 868
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-14T13:32:30.000Z",
+        "description": "private commissions.禁止转载搬运，禁止喂AI。",
+        "id": "3156203150",
+        "location": "宮城県仙台",
+        "name": "バカオオカミ",
+        "pinned_tweet_id": "1625325674813849600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778693231628398592/cyIcPzTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16018,
+          "following_count": 422,
+          "like_count": 4910,
+          "listed_count": 98,
+          "media_count": 269,
+          "tweet_count": 2829
+        },
+        "username": "bakaookami2333",
+        "verified": false
+      }
+    ]
+  }
+}

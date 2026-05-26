@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1928977486710227098",
+    "created_at": "2025-06-01T00:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T01:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928977486710227098"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "ゲキクロさん",
+          "probability": 0.2003,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1359055471106134016",
+          "start": 3,
+          "username": "kohinatamika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/d1lsDk5P",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/d1lsDk5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928977486710227098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 618
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928442995986116820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohinatamika: いよいよ明日は！！\nゲキクロさんでの1日店長の日でございます📢✨\n\n皆に会えるの楽しみだよー！！☺️\nお越しいただく皆様、足元にお気を付けてくださいね…☔️\n一緒に楽しい時間を過ごしましょうー！！✨ https://t.co/d1lsDk5P…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928442989195726848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsM0rmyakAAgwss.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1928977486710227098",
+        "created_at": "2025-06-01T00:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T01:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928977486710227098"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "ゲキクロさん",
+              "probability": 0.2003,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1359055471106134016",
+              "start": 3,
+              "username": "kohinatamika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/d1lsDk5P",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/d1lsDk5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928977486710227098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 618
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928442995986116820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohinatamika: いよいよ明日は！！\nゲキクロさんでの1日店長の日でございます📢✨\n\n皆に会えるの楽しみだよー！！☺️\nお越しいただく皆様、足元にお気を付けてくださいね…☔️\n一緒に楽しい時間を過ごしましょうー！！✨ https://t.co/d1lsDk5P…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928442989195726848"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "conversation_id": "1928442995986116820",
+        "created_at": "2025-05-30T13:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T14:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928442995986116820"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "ゲキクロさん",
+              "probability": 0.2026,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1lsDk5PZS",
+              "end": 123,
+              "expanded_url": "https://x.com/kohinatamika/status/1928442995986116820/photo/1",
+              "media_key": "3_1928442989195726848",
+              "start": 100,
+              "url": "https://t.co/d1lsDk5PZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928442995986116820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 106013,
+          "like_count": 6072,
+          "quote_count": 51,
+          "reply_count": 69,
+          "retweet_count": 618
+        },
+        "reply_settings": "everyone",
+        "text": "いよいよ明日は！！\nゲキクロさんでの1日店長の日でございます📢✨\n\n皆に会えるの楽しみだよー！！☺️\nお越しいただく皆様、足元にお気を付けてくださいね…☔️\n一緒に楽しい時間を過ごしましょうー！！✨ https://t.co/d1lsDk5PZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4501,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 914
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO /Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "イマ2"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "こひなたぼっこ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk3vm0"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465882237480562691/nvGpWL-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96654,
+          "following_count": 413,
+          "like_count": 5526,
+          "listed_count": 751,
+          "media_count": 1245,
+          "tweet_count": 4568
+        },
+        "url": "https://t.co/55PTrk3vm0",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2047706551914574306",
+    "created_at": "2026-04-24T16:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047710484028436695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930617503212064768",
+          "start": 0,
+          "username": "_Ty8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047710484028436695",
+    "in_reply_to_user_id": "1930617503212064768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047706551914574306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Ty8964 我也是！！！！😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047706551914574306].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047706551914574306",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047706551914574306"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2047706551914574306",
+        "created_at": "2026-04-24T16:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047710484028436695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930617503212064768",
+              "start": 0,
+              "username": "_Ty8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047710484028436695",
+        "in_reply_to_user_id": "1930617503212064768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047706551914574306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Ty8964 我也是！！！！😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 276,
+          "like_count": 13123,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 3495
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T13:27:54.000Z",
+        "description": "",
+        "id": "1930617503212064768",
+        "name": "日界線",
+        "pinned_tweet_id": "2044807597275115533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046665180294283264/PwRwQGfj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 25,
+          "like_count": 5684,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1332
+        },
+        "username": "_Ty8964",
+        "verified": false
+      }
+    ]
+  }
+}

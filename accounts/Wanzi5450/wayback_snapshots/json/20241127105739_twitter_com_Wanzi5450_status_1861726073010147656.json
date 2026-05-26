@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861715875012972544"
+      ],
+      "media_source_tweet_id": [
+        "1861715889235927095"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1861726073010147656",
+    "created_at": "2024-11-27T10:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T11:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861726073010147656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cz6OGj5XIN",
+          "end": 68,
+          "expanded_url": "https://x.com/rina_togetoge/status/1861715889235927095/photo/1",
+          "media_key": "3_1861715875012972544",
+          "start": 45,
+          "url": "https://t.co/cz6OGj5XIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861726073010147656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861715889235927095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: 今日もおつかれさま⟡.*\nスペースで待ってるよ✊🏻 https://t.co/cz6OGj5XIN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861715875012972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdYkuXrakAAnEUK.jpg",
+        "width": 1660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861715875012972544"
+          ],
+          "media_source_tweet_id": [
+            "1861715889235927095"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1861726073010147656",
+        "created_at": "2024-11-27T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861726073010147656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cz6OGj5XIN",
+              "end": 68,
+              "expanded_url": "https://x.com/rina_togetoge/status/1861715889235927095/photo/1",
+              "media_key": "3_1861715875012972544",
+              "start": 45,
+              "url": "https://t.co/cz6OGj5XIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861726073010147656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861715889235927095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: 今日もおつかれさま⟡.*\nスペースで待ってるよ✊🏻 https://t.co/cz6OGj5XIN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861715875012972544"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "conversation_id": "1861715889235927095",
+        "created_at": "2024-11-27T10:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861715889235927095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cz6OGj5XIN",
+              "end": 49,
+              "expanded_url": "https://x.com/rina_togetoge/status/1861715889235927095/photo/1",
+              "media_key": "3_1861715875012972544",
+              "start": 26,
+              "url": "https://t.co/cz6OGj5XIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861715889235927095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 12572,
+          "like_count": 1240,
+          "quote_count": 6,
+          "reply_count": 30,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "今日もおつかれさま⟡.*\nスペースで待ってるよ✊🏻 https://t.co/cz6OGj5XIN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 65,
+          "like_count": 3821,
+          "listed_count": 0,
+          "tweet_count": 781
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / ガールズバンドクライ 井芹仁菜役 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61639,
+          "following_count": 98,
+          "like_count": 878,
+          "listed_count": 306,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

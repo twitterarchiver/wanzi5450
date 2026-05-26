@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042285189351756277",
+    "created_at": "2026-04-10T00:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042403981583139150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675081139684294656",
+          "start": 0,
+          "username": "phil0v0_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042403981583139150",
+    "in_reply_to_user_id": "1675081139684294656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042285189351756277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phil0v0_bot 宝宝！！！！！！！你回来了😭😭😭还好吗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2042285184733888512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFenjhYbQAA2EH2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042285189351756277",
+        "created_at": "2026-04-10T00:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042403981583139150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675081139684294656",
+              "start": 0,
+              "username": "phil0v0_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042403981583139150",
+        "in_reply_to_user_id": "1675081139684294656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042285189351756277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phil0v0_bot 宝宝！！！！！！！你回来了😭😭😭还好吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042285184733888512"
+          ]
+        },
+        "author_id": "1675081139684294656",
+        "conversation_id": "2042285189351756277",
+        "created_at": "2026-04-09T16:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042285189351756277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4c6n3piNyq",
+              "end": 23,
+              "expanded_url": "https://x.com/phil0v0_bot/status/2042285189351756277/photo/1",
+              "media_key": "3_2042285184733888512",
+              "start": 0,
+              "url": "https://t.co/4c6n3piNyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042285189351756277",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4c6n3piNyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 264,
+          "like_count": 11524,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 3048
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T09:57:36.000Z",
+        "description": "私たちの約束(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )",
+        "id": "1675081139684294656",
+        "location": "Tokyo-to, Japan",
+        "name": "Philosssss",
+        "pinned_tweet_id": "1995078214373589132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012796514825822209/-XNUyeLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 362,
+          "like_count": 4631,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1622
+        },
+        "username": "phil0v0_bot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2057088701877071939",
+    "created_at": "2026-05-20T13:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057089917386448981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973666613762334722",
+          "start": 0,
+          "username": "ethanhwong05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057089917386448981",
+    "in_reply_to_user_id": "1973666613762334722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057089728185590221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethanhwong05 但确实是吧!!手指也很细长w毕竟很基础的款式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2057088701877071939",
+        "created_at": "2026-05-20T13:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057089917386448981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973666613762334722",
+              "start": 0,
+              "username": "ethanhwong05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057089917386448981",
+        "in_reply_to_user_id": "1973666613762334722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057089728185590221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethanhwong05 但确实是吧!!手指也很细长w毕竟很基础的款式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973666613762334722",
+        "conversation_id": "2057088701877071939",
+        "created_at": "2026-05-20T13:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057089728185590221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057089728185590221",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057089359636254734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 主要是甲型好看（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 298,
+          "like_count": 16189,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3884
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T08:29:45.000Z",
+        "description": "我的梦想是变成幸福的人。 | 05年ENTP｜練習ㄧㄥㄩˇ中｜喜欢🏐⚽️｜ 主页充斥男孩无意义碎碎念日常｜精神状态敏感不稳定｜欢迎互fo～",
+        "id": "1973666613762334722",
+        "name": "電鋸",
+        "pinned_tweet_id": "2056996303721386269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018747709688315904/PPauUvD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 132,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 255
+        },
+        "username": "ethanhwong05",
+        "verified": false
+      }
+    ]
+  }
+}

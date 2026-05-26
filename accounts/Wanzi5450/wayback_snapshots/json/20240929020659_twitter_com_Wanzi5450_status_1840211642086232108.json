@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839500302757888001"
+      ],
+      "media_source_tweet_id": [
+        "1839500307094450552"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1840211642086232108",
+    "created_at": "2024-09-29T02:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T03:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840211642086232108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "293868374",
+          "start": 3,
+          "username": "taltalasuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmfo9yhugj",
+          "end": 52,
+          "expanded_url": "https://twitter.com/taltalasuka/status/1839500307094450552/photo/1",
+          "media_key": "3_1839500302757888001",
+          "start": 29,
+          "url": "https://t.co/nmFo9YHUgJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840211642086232108",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 233590
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839500307094450552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taltalasuka: さユりに関するお知らせ https://t.co/nmFo9YHUgJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1839500302757888001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYc3x34bgAEO6YQ.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839500302757888001"
+          ],
+          "media_source_tweet_id": [
+            "1839500307094450552"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1840211642086232108",
+        "created_at": "2024-09-29T02:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T03:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840211642086232108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "293868374",
+              "start": 3,
+              "username": "taltalasuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmfo9yhugj",
+              "end": 52,
+              "expanded_url": "https://twitter.com/taltalasuka/status/1839500307094450552/photo/1",
+              "media_key": "3_1839500302757888001",
+              "start": 29,
+              "url": "https://t.co/nmFo9YHUgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840211642086232108",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 233590
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839500307094450552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taltalasuka: さユりに関するお知らせ https://t.co/nmFo9YHUgJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839500302757888001"
+          ]
+        },
+        "author_id": "293868374",
+        "conversation_id": "1839500307094450552",
+        "created_at": "2024-09-27T03:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839500307094450552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmfo9yhugj",
+              "end": 35,
+              "expanded_url": "https://twitter.com/taltalasuka/status/1839500307094450552/photo/1",
+              "media_key": "3_1839500302757888001",
+              "start": 12,
+              "url": "https://t.co/nmFo9YHUgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839500307094450552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34480,
+          "impression_count": 109657162,
+          "like_count": 611574,
+          "quote_count": 76552,
+          "reply_count": 13010,
+          "retweet_count": 233590
+        },
+        "reply_settings": "everyone",
+        "text": "さユりに関するお知らせ https://t.co/nmFo9YHUgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 3313,
+          "listed_count": 0,
+          "tweet_count": 665
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-06T03:42:27.000Z",
+        "description": "土の中 https://t.co/OtC4CYdTgo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sayuri-yellow.com",
+                "end": 27,
+                "expanded_url": "https://sayuri-yellow.com",
+                "start": 4,
+                "url": "https://t.co/OtC4CYdTgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sayuri.lnk.to/FiwiW1",
+                "end": 23,
+                "expanded_url": "https://sayuri.lnk.to/FiwiW1",
+                "start": 0,
+                "url": "https://t.co/lbOHnOL7TZ"
+              }
+            ]
+          }
+        },
+        "id": "293868374",
+        "location": "2ndアルバム「酸欠少女」発売中",
+        "name": "酸欠少女　さユり",
+        "pinned_tweet_id": "1839500307094450552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803109380268892165/3vqI_1mD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274623,
+          "following_count": 686,
+          "like_count": 8414,
+          "listed_count": 1583,
+          "tweet_count": 10664
+        },
+        "url": "https://t.co/lbOHnOL7TZ",
+        "username": "taltalasuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056720060958531685",
+    "created_at": "2026-05-19T12:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056721056585683245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720585683184857088",
+          "start": 0,
+          "username": "xiaoqi3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056721056585683245",
+    "in_reply_to_user_id": "1720585683184857088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056720060958531685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqi3377 抱住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056720060958531685",
+        "created_at": "2026-05-19T12:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056721056585683245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056721056585683245",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056720060958531685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 抱住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056720060958531685",
+        "created_at": "2026-05-19T12:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056720060958531685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056720060958531685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想他妈的一刀两刀捅脖子上。到底在干什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 288,
+          "like_count": 15921,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 3832
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 199,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 208
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

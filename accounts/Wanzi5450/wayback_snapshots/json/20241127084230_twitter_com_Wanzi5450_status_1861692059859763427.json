@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861337849473441792"
+      ],
+      "media_source_tweet_id": [
+        "1861337853793575328"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1861692059859763427",
+    "created_at": "2024-11-27T08:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T09:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861692059859763427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuOdTpJlJr",
+          "end": 46,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1861337853793575328/photo/1",
+          "media_key": "3_1861337849473441792",
+          "start": 23,
+          "url": "https://t.co/RuOdTpJlJr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861692059859763427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4386
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861337853793575328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: ヘビ？ https://t.co/RuOdTpJlJr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_1861337849473441792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdTM6YzaoAAcGe7.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861337849473441792"
+          ],
+          "media_source_tweet_id": [
+            "1861337853793575328"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1861692059859763427",
+        "created_at": "2024-11-27T08:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T09:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861692059859763427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuOdTpJlJr",
+              "end": 46,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1861337853793575328/photo/1",
+              "media_key": "3_1861337849473441792",
+              "start": 23,
+              "url": "https://t.co/RuOdTpJlJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861692059859763427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4386
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861337853793575328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: ヘビ？ https://t.co/RuOdTpJlJr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861337849473441792"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "conversation_id": "1861337853793575328",
+        "created_at": "2024-11-26T09:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861337853793575328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuOdTpJlJr",
+              "end": 27,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1861337853793575328/photo/1",
+              "media_key": "3_1861337849473441792",
+              "start": 4,
+              "url": "https://t.co/RuOdTpJlJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861337853793575328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1209,
+          "impression_count": 1337299,
+          "like_count": 67069,
+          "quote_count": 280,
+          "reply_count": 185,
+          "retweet_count": 4386
+        },
+        "reply_settings": "everyone",
+        "text": "ヘビ？ https://t.co/RuOdTpJlJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 65,
+          "like_count": 3820,
+          "listed_count": 0,
+          "tweet_count": 780
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527530,
+          "following_count": 4305,
+          "like_count": 91391,
+          "listed_count": 1486,
+          "tweet_count": 13491
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

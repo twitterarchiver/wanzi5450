@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2042478318470250871",
+    "created_at": "2026-04-10T05:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042480901578506536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042480901578506536",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042478318470250871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaiiea 好会搭配饰！很帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042478280939642880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhXLMzboAAejTE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042478280939573248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhXLMzakAAP0uv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042478280931229697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhXLMxbQAEaj0w.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2042478318470250871",
+        "created_at": "2026-04-10T05:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042480901578506536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042480901578506536",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042478318470250871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea 好会搭配饰！很帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042478280939642880",
+            "3_2042478280939573248",
+            "3_2042478280931229697"
+          ]
+        },
+        "author_id": "1816489710682030080",
+        "conversation_id": "2042478318470250871",
+        "created_at": "2026-04-10T05:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042478318470250871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v67VtXWQev",
+              "end": 30,
+              "expanded_url": "https://x.com/keaiiea/status/2042478318470250871/photo/1",
+              "media_key": "3_2042478280939642880",
+              "start": 7,
+              "url": "https://t.co/v67VtXWQev"
+            },
+            {
+              "display_url": "pic.x.com/v67VtXWQev",
+              "end": 30,
+              "expanded_url": "https://x.com/keaiiea/status/2042478318470250871/photo/1",
+              "media_key": "3_2042478280939573248",
+              "start": 7,
+              "url": "https://t.co/v67VtXWQev"
+            },
+            {
+              "display_url": "pic.x.com/v67VtXWQev",
+              "end": 30,
+              "expanded_url": "https://x.com/keaiiea/status/2042478318470250871/photo/1",
+              "media_key": "3_2042478280931229697",
+              "start": 7,
+              "url": "https://t.co/v67VtXWQev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042478318470250871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晒足180天 https://t.co/v67VtXWQev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2042100348303896775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 264,
+          "like_count": 11579,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 3081
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "人生有梦磕药撸管886",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 383,
+          "like_count": 24715,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

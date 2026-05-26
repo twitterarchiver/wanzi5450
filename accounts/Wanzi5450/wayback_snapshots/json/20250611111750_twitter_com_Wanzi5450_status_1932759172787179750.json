@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932703379710779392"
+      ],
+      "media_source_tweet_id": [
+        "1932703383615619265"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1932759172787179750",
+    "created_at": "2025-06-11T11:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T12:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932759172787179750"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 31,
+          "tag": "GirlsBandCry"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "943768620500316160",
+          "start": 3,
+          "username": "FightingDodo95"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qpuu8cPZzx",
+          "end": 74,
+          "expanded_url": "https://x.com/FightingDodo95/status/1932703383615619265/photo/1",
+          "media_key": "3_1932703379710779392",
+          "start": 51,
+          "url": "https://t.co/qpuu8cPZzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932759172787179750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932703383615619265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FightingDodo95: 无刺有刺复古专辑封面\n#GirlsBandCry #ガルクラ https://t.co/qpuu8cPZzx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932703379710779392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJXe-PboAAkwuh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932703379710779392"
+          ],
+          "media_source_tweet_id": [
+            "1932703383615619265"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1932759172787179750",
+        "created_at": "2025-06-11T11:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T12:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932759172787179750"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 31,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "943768620500316160",
+              "start": 3,
+              "username": "FightingDodo95"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpuu8cPZzx",
+              "end": 74,
+              "expanded_url": "https://x.com/FightingDodo95/status/1932703383615619265/photo/1",
+              "media_key": "3_1932703379710779392",
+              "start": 51,
+              "url": "https://t.co/qpuu8cPZzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932759172787179750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932703383615619265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FightingDodo95: 无刺有刺复古专辑封面\n#GirlsBandCry #ガルクラ https://t.co/qpuu8cPZzx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932703379710779392"
+          ]
+        },
+        "author_id": "943768620500316160",
+        "conversation_id": "1932703383615619265",
+        "created_at": "2025-06-11T07:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T08:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932703383615619265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 11,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpuu8cPZzx",
+              "end": 54,
+              "expanded_url": "https://x.com/FightingDodo95/status/1932703383615619265/photo/1",
+              "media_key": "3_1932703379710779392",
+              "start": 31,
+              "url": "https://t.co/qpuu8cPZzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932703383615619265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 30077,
+          "like_count": 2765,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "无刺有刺复古专辑封面\n#GirlsBandCry #ガルクラ https://t.co/qpuu8cPZzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4508,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 922
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-21T09:02:28.000Z",
+        "description": "Pixiv：dododo |\nbilibili：fdodo",
+        "id": "943768620500316160",
+        "name": "Fdodo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345574428365656065/LF8h-0ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7711,
+          "following_count": 192,
+          "like_count": 32,
+          "listed_count": 65,
+          "media_count": 64,
+          "tweet_count": 67
+        },
+        "username": "FightingDodo95",
+        "verified": false
+      }
+    ]
+  }
+}

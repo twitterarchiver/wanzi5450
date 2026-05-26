@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2027233634516602957",
+    "created_at": "2026-02-27T06:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T07:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027272825992823250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1517113519522873344",
+          "start": 0,
+          "username": "xxNYAS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027272825992823250",
+    "in_reply_to_user_id": "1517113519522873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027233634516602957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNYAS_ 我有😭但是我不知道怎么寄，怕被警"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2027233634516602957",
+        "created_at": "2026-02-27T06:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027272825992823250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1517113519522873344",
+              "start": 0,
+              "username": "xxNYAS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027272825992823250",
+        "in_reply_to_user_id": "1517113519522873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027233634516602957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNYAS_ 我有😭但是我不知道怎么寄，怕被警"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517113519522873344",
+        "conversation_id": "2027233634516602957",
+        "created_at": "2026-02-27T04:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027233634516602957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027233634516602957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有人能給我寄文拉法辛\n我願意雙倍價買 包郵費"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 204,
+          "like_count": 8419,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1676
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "💉にゃんぱいあスキ/♀/AB型/うお座.雙魚/🧊🩹🩶⛓️🌧️❄️🥛🤍",
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1864162686642344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002762730193723392/3dQSwBek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 1183,
+          "like_count": 19355,
+          "listed_count": 8,
+          "media_count": 497,
+          "tweet_count": 4059
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      }
+    ]
+  }
+}

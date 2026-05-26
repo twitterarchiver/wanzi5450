@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038831558665338880"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038831566324142211",
+    "created_at": "2026-03-31T04:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T05:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038831566324142211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EOmCTAiCym",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2038831566324142211/photo/1",
+          "media_key": "3_2038831558665338880",
+          "start": 12,
+          "url": "https://t.co/EOmCTAiCym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038831566324142211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在家已经只需要穿单件了 https://t.co/EOmCTAiCym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038831558665338880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtigBsagAAUETZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038831558665338880"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038831566324142211",
+        "created_at": "2026-03-31T04:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T05:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038831566324142211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOmCTAiCym",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2038831566324142211/photo/1",
+              "media_key": "3_2038831558665338880",
+              "start": 12,
+              "url": "https://t.co/EOmCTAiCym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038831566324142211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家已经只需要穿单件了 https://t.co/EOmCTAiCym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 282,
+          "like_count": 10385,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 2575
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861008144887099392",
+        "3_1861008144891363328",
+        "3_1861008144887074816"
+      ],
+      "media_source_tweet_id": [
+        "1861008151031779645",
+        "1861008151031779645",
+        "1861008151031779645"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Knitting",
+          "id": "1047097832878952448",
+          "name": "Knitting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Arts and Crafts",
+          "id": "847868793636372480",
+          "name": "Arts and Crafts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Knitting",
+          "id": "1047097832878952448",
+          "name": "Knitting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1861383713009082379",
+    "created_at": "2024-11-26T12:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T13:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861383713009082379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681941563302346752",
+          "start": 3,
+          "username": "yuri_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wGeFoRmPqg",
+          "end": 97,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+          "media_key": "3_1861008144887099392",
+          "start": 74,
+          "url": "https://t.co/wGeFoRmPqg"
+        },
+        {
+          "display_url": "pic.x.com/wGeFoRmPqg",
+          "end": 97,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+          "media_key": "3_1861008144891363328",
+          "start": 74,
+          "url": "https://t.co/wGeFoRmPqg"
+        },
+        {
+          "display_url": "pic.x.com/wGeFoRmPqg",
+          "end": 97,
+          "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+          "media_key": "3_1861008144887074816",
+          "start": 74,
+          "url": "https://t.co/wGeFoRmPqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861383713009082379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861008151031779645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_togetoge: 最近は編み物でバッグ作って、ビーズとかリボンとか色々でキーホルダー作ってたよ。ほわほわでキラキラで可愛い🤍✨ https://t.co/wGeFoRmPqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 987,
+        "media_key": "3_1861008144887099392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOhDDgasAA8Gwp.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1861008144891363328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOhDDhbwAAKyiZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1874,
+        "media_key": "3_1861008144887074816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdOhDDgaUAAgjOy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861008144887099392",
+            "3_1861008144891363328",
+            "3_1861008144887074816"
+          ],
+          "media_source_tweet_id": [
+            "1861008151031779645",
+            "1861008151031779645",
+            "1861008151031779645"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Knitting",
+              "id": "1047097832878952448",
+              "name": "Knitting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arts and Crafts",
+              "id": "847868793636372480",
+              "name": "Arts and Crafts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Knitting",
+              "id": "1047097832878952448",
+              "name": "Knitting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1861383713009082379",
+        "created_at": "2024-11-26T12:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T13:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861383713009082379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681941563302346752",
+              "start": 3,
+              "username": "yuri_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGeFoRmPqg",
+              "end": 97,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+              "media_key": "3_1861008144887099392",
+              "start": 74,
+              "url": "https://t.co/wGeFoRmPqg"
+            },
+            {
+              "display_url": "pic.x.com/wGeFoRmPqg",
+              "end": 97,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+              "media_key": "3_1861008144891363328",
+              "start": 74,
+              "url": "https://t.co/wGeFoRmPqg"
+            },
+            {
+              "display_url": "pic.x.com/wGeFoRmPqg",
+              "end": 97,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+              "media_key": "3_1861008144887074816",
+              "start": 74,
+              "url": "https://t.co/wGeFoRmPqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861383713009082379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861008151031779645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_togetoge: 最近は編み物でバッグ作って、ビーズとかリボンとか色々でキーホルダー作ってたよ。ほわほわでキラキラで可愛い🤍✨ https://t.co/wGeFoRmPqg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861008144887099392",
+            "3_1861008144891363328",
+            "3_1861008144887074816"
+          ]
+        },
+        "author_id": "1681941563302346752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Knitting",
+              "id": "1047097832878952448",
+              "name": "Knitting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arts and Crafts",
+              "id": "847868793636372480",
+              "name": "Arts and Crafts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Knitting",
+              "id": "1047097832878952448",
+              "name": "Knitting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1861008151031779645",
+        "created_at": "2024-11-25T11:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T12:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861008151031779645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wGeFoRmPqg",
+              "end": 78,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+              "media_key": "3_1861008144887099392",
+              "start": 55,
+              "url": "https://t.co/wGeFoRmPqg"
+            },
+            {
+              "display_url": "pic.x.com/wGeFoRmPqg",
+              "end": 78,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+              "media_key": "3_1861008144891363328",
+              "start": 55,
+              "url": "https://t.co/wGeFoRmPqg"
+            },
+            {
+              "display_url": "pic.x.com/wGeFoRmPqg",
+              "end": 78,
+              "expanded_url": "https://x.com/yuri_togetoge/status/1861008151031779645/photo/1",
+              "media_key": "3_1861008144887074816",
+              "start": 55,
+              "url": "https://t.co/wGeFoRmPqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861008151031779645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 27489,
+          "like_count": 1490,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "最近は編み物でバッグ作って、ビーズとかリボンとか色々でキーホルダー作ってたよ。ほわほわでキラキラで可愛い🤍✨ https://t.co/wGeFoRmPqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 65,
+          "like_count": 3782,
+          "listed_count": 0,
+          "tweet_count": 777
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:18:25.000Z",
+        "description": "夕莉(Yuri) / アニメ『#ガールズバンドクライ』#河原木桃香 役 / バンド『#トゲナシトゲアリ』Gt. / Instagram→ https://t.co/w3tWoVPjwJ / 猫とサメ好き / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "河原木桃香"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/yuri_togetoge",
+                "end": 92,
+                "expanded_url": "http://instagram.com/yuri_togetoge",
+                "start": 69,
+                "url": "https://t.co/w3tWoVPjwJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuritogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/yuritogetoge",
+                "start": 0,
+                "url": "https://t.co/Llf6CPKu18"
+              }
+            ]
+          }
+        },
+        "id": "1681941563302346752",
+        "name": "夕莉 / ガールズバンドクライ 河原木桃香役 / トゲナシトゲアリ Gt.",
+        "pinned_tweet_id": "1778774209046643150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778795161042219008/pBbtpL8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35563,
+          "following_count": 99,
+          "like_count": 964,
+          "listed_count": 253,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/Llf6CPKu18",
+        "username": "yuri_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

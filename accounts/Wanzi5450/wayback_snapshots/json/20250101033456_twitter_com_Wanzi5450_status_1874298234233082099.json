@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874099582688542720",
+        "3_1874099582688509952"
+      ],
+      "media_source_tweet_id": [
+        "1874099587482636366",
+        "1874099587482636366"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286400936550608896",
+          "name": "Music events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324850959449616384",
+          "name": "Kouhaku Music Show"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1874298234233082099",
+    "created_at": "2025-01-01T03:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T04:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874298234233082099"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "NHK紅白"
+        },
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "紅白歌合戦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690345111006425089",
+          "start": 3,
+          "username": "tuki_music_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d45PSfyyrn",
+          "end": 83,
+          "expanded_url": "https://x.com/tuki_music_/status/1874099587482636366/photo/1",
+          "media_key": "3_1874099582688542720",
+          "start": 60,
+          "url": "https://t.co/d45PSfyyrn"
+        },
+        {
+          "display_url": "pic.x.com/d45PSfyyrn",
+          "end": 83,
+          "expanded_url": "https://x.com/tuki_music_/status/1874099587482636366/photo/1",
+          "media_key": "3_1874099582688509952",
+          "start": 60,
+          "url": "https://t.co/d45PSfyyrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874298234233082099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3430
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874099587482636366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuki_music_: 2024年もありがとうございました！\n良いお年を〜🌙\n #NHK紅白  #紅白歌合戦 https://t.co/d45PSfyyrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_1874099582688542720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgIjpBvbwAAeAWm.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1108,
+        "media_key": "3_1874099582688509952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgIjpBvbQAAbvyO.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874099582688542720",
+            "3_1874099582688509952"
+          ],
+          "media_source_tweet_id": [
+            "1874099587482636366",
+            "1874099587482636366"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1874298234233082099",
+        "created_at": "2025-01-01T03:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874298234233082099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "NHK紅白"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "紅白歌合戦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690345111006425089",
+              "start": 3,
+              "username": "tuki_music_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d45PSfyyrn",
+              "end": 83,
+              "expanded_url": "https://x.com/tuki_music_/status/1874099587482636366/photo/1",
+              "media_key": "3_1874099582688542720",
+              "start": 60,
+              "url": "https://t.co/d45PSfyyrn"
+            },
+            {
+              "display_url": "pic.x.com/d45PSfyyrn",
+              "end": 83,
+              "expanded_url": "https://x.com/tuki_music_/status/1874099587482636366/photo/1",
+              "media_key": "3_1874099582688509952",
+              "start": 60,
+              "url": "https://t.co/d45PSfyyrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874298234233082099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3430
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874099587482636366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuki_music_: 2024年もありがとうございました！\n良いお年を〜🌙\n #NHK紅白  #紅白歌合戦 https://t.co/d45PSfyyrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874099582688542720",
+            "3_1874099582688509952"
+          ]
+        },
+        "author_id": "1690345111006425089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1874099587482636366",
+        "created_at": "2024-12-31T14:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874099587482636366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "NHK紅白"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "紅白歌合戦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d45PSfyyrn",
+              "end": 66,
+              "expanded_url": "https://x.com/tuki_music_/status/1874099587482636366/photo/1",
+              "media_key": "3_1874099582688542720",
+              "start": 43,
+              "url": "https://t.co/d45PSfyyrn"
+            },
+            {
+              "display_url": "pic.x.com/d45PSfyyrn",
+              "end": 66,
+              "expanded_url": "https://x.com/tuki_music_/status/1874099587482636366/photo/1",
+              "media_key": "3_1874099582688509952",
+              "start": 43,
+              "url": "https://t.co/d45PSfyyrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874099587482636366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1543,
+          "impression_count": 4670296,
+          "like_count": 78808,
+          "quote_count": 273,
+          "reply_count": 475,
+          "retweet_count": 3430
+        },
+        "reply_settings": "everyone",
+        "text": "2024年もありがとうございました！\n良いお年を〜🌙\n #NHK紅白  #紅白歌合戦 https://t.co/d45PSfyyrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 69,
+          "like_count": 4290,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 878
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T12:51:05.000Z",
+        "description": "高校一年生15歳 弾き語り。お仕事の依頼はこちら tuki.oshigoto.irai@gmail.com オリジナル曲『晩餐歌』『ひゅるりらぱっぱ』『サクラキミワタシ』『地獄恋文』『愛の賞味期限』『アイモライモ』など配信中🔥 ”1st Album「15」2025/1/8 RELEASE 予約は↓↓↓リンクから”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tuki.lnk.to/20250108_15_PKG",
+                "end": 23,
+                "expanded_url": "https://tuki.lnk.to/20250108_15_PKG",
+                "start": 0,
+                "url": "https://t.co/qfDmedTYSd"
+              }
+            ]
+          }
+        },
+        "id": "1690345111006425089",
+        "location": "月の裏側",
+        "name": "tuki.(15)",
+        "pinned_tweet_id": "1859886418363027750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705136655374618624/h5n9cUVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258489,
+          "following_count": 15,
+          "like_count": 2034,
+          "listed_count": 221,
+          "media_count": 184,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/qfDmedTYSd",
+        "username": "tuki_music_",
+        "verified": false
+      }
+    ]
+  }
+}

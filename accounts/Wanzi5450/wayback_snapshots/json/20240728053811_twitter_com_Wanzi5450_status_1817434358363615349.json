@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817019209404366849"
+      ],
+      "media_source_tweet_id": [
+        "1817019217063145813"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1817434358363615349",
+    "created_at": "2024-07-28T05:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T06:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817434358363615349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gFQwYjTENb",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aoki__hina/status/1817019217063145813/photo/1",
+          "media_key": "3_1817019209404366849",
+          "start": 33,
+          "url": "https://t.co/gFQwYjTENb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817434358363615349",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 662
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817019217063145813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 楽屋に抹茶あった。ライブ楽しみー https://t.co/gFQwYjTENb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1817019209404366849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTdZWA6bwAEUhSj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817019209404366849"
+          ],
+          "media_source_tweet_id": [
+            "1817019217063145813"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1817434358363615349",
+        "created_at": "2024-07-28T05:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T06:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817434358363615349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gFQwYjTENb",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1817019217063145813/photo/1",
+              "media_key": "3_1817019209404366849",
+              "start": 33,
+              "url": "https://t.co/gFQwYjTENb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817434358363615349",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 662
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817019217063145813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 楽屋に抹茶あった。ライブ楽しみー https://t.co/gFQwYjTENb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817019209404366849"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1817019217063145813",
+        "created_at": "2024-07-27T02:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T03:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817019217063145813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gFQwYjTENb",
+              "end": 40,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1817019217063145813/photo/1",
+              "media_key": "3_1817019209404366849",
+              "start": 17,
+              "url": "https://t.co/gFQwYjTENb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817019217063145813",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 88018,
+          "like_count": 4855,
+          "quote_count": 17,
+          "reply_count": 67,
+          "retweet_count": 662
+        },
+        "reply_settings": "everyone",
+        "text": "楽屋に抹茶あった。ライブ楽しみー https://t.co/gFQwYjTENb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2863,
+          "listed_count": 0,
+          "tweet_count": 511
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響の新人声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 69,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 46,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1812822865361965315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68662,
+          "following_count": 241,
+          "like_count": 0,
+          "listed_count": 725,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

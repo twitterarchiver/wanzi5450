@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797995125181943808"
+      ],
+      "media_source_tweet_id": [
+        "1797995129598620013"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1798315655252603091",
+    "created_at": "2024-06-05T11:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T12:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798315655252603091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1348277585285824514",
+          "start": 3,
+          "username": "n_wtnk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/TYyNlIUkyv",
+          "end": 37,
+          "expanded_url": "https://twitter.com/n_wtnk/status/1797995129598620013/photo/1",
+          "media_key": "3_1797995125181943808",
+          "start": 14,
+          "url": "https://t.co/TYyNlIUkyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798315655252603091",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797995129598620013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n_wtnk: 👓 https://t.co/TYyNlIUkyv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_1797995125181943808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPPDCkhakAA7ddu.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797995125181943808"
+          ],
+          "media_source_tweet_id": [
+            "1797995129598620013"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1798315655252603091",
+        "created_at": "2024-06-05T11:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T12:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798315655252603091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1348277585285824514",
+              "start": 3,
+              "username": "n_wtnk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TYyNlIUkyv",
+              "end": 37,
+              "expanded_url": "https://twitter.com/n_wtnk/status/1797995129598620013/photo/1",
+              "media_key": "3_1797995125181943808",
+              "start": 14,
+              "url": "https://t.co/TYyNlIUkyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798315655252603091",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797995129598620013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n_wtnk: 👓 https://t.co/TYyNlIUkyv"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797995125181943808"
+          ]
+        },
+        "author_id": "1348277585285824514",
+        "conversation_id": "1797995129598620013",
+        "created_at": "2024-06-04T14:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T15:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797995129598620013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TYyNlIUkyv",
+              "end": 25,
+              "expanded_url": "https://twitter.com/n_wtnk/status/1797995129598620013/photo/1",
+              "media_key": "3_1797995125181943808",
+              "start": 2,
+              "url": "https://t.co/TYyNlIUkyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797995129598620013",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 51759,
+          "like_count": 2668,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "👓 https://t.co/TYyNlIUkyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2196,
+          "listed_count": 0,
+          "tweet_count": 373
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T14:36:54.000Z",
+        "description": "二次創作/成人済/イラストの転載・利用禁止/Do not repost or use my artworks. 雑多垢。好きな時に好きなものを話したり描いたり",
+        "id": "1348277585285824514",
+        "location": "MyGO!!!!!ansy",
+        "name": "わたぬき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742557372889890817/VAiAgu4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10719,
+          "following_count": 91,
+          "like_count": 5556,
+          "listed_count": 95,
+          "tweet_count": 5467
+        },
+        "username": "n_wtnk",
+        "verified": false
+      }
+    ]
+  }
+}

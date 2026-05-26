@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863533721082892288",
+        "3_1863533721078657024",
+        "3_1863533721082884096"
+      ],
+      "media_source_tweet_id": [
+        "1863533725834985513",
+        "1863533725834985513",
+        "1863533725834985513"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1863602954080805089",
+    "created_at": "2024-12-02T15:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863602954080805089"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "日本",
+          "probability": 0.6003,
+          "start": 16,
+          "type": "Place"
+        },
+        {
+          "end": 34,
+          "normalized_text": "ひなりん",
+          "probability": 0.6723,
+          "start": 31,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxjq1RSI2H",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+          "media_key": "3_1863533721082892288",
+          "start": 67,
+          "url": "https://t.co/wxjq1RSI2H"
+        },
+        {
+          "display_url": "pic.x.com/wxjq1RSI2H",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+          "media_key": "3_1863533721078657024",
+          "start": 67,
+          "url": "https://t.co/wxjq1RSI2H"
+        },
+        {
+          "display_url": "pic.x.com/wxjq1RSI2H",
+          "end": 90,
+          "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+          "media_key": "3_1863533721082884096",
+          "start": 67,
+          "url": "https://t.co/wxjq1RSI2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863602954080805089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863533725834985513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 日本戻ってきてますただいま！\nひなりん稼働今回もとても楽しかった( ɞ̴̶̷ ̫ ʚ̴̶̷̷ )🐾✨ https://t.co/wxjq1RSI2H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863533721082892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyaC8AbkAAHBz5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1863533721078657024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyaC7_a8AARdQY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1430,
+        "media_key": "3_1863533721082884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdyaC8AbcAAQ42u.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863533721082892288",
+            "3_1863533721078657024",
+            "3_1863533721082884096"
+          ],
+          "media_source_tweet_id": [
+            "1863533725834985513",
+            "1863533725834985513",
+            "1863533725834985513"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1863602954080805089",
+        "created_at": "2024-12-02T15:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863602954080805089"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "日本",
+              "probability": 0.6003,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "ひなりん",
+              "probability": 0.6723,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxjq1RSI2H",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+              "media_key": "3_1863533721082892288",
+              "start": 67,
+              "url": "https://t.co/wxjq1RSI2H"
+            },
+            {
+              "display_url": "pic.x.com/wxjq1RSI2H",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+              "media_key": "3_1863533721078657024",
+              "start": 67,
+              "url": "https://t.co/wxjq1RSI2H"
+            },
+            {
+              "display_url": "pic.x.com/wxjq1RSI2H",
+              "end": 90,
+              "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+              "media_key": "3_1863533721082884096",
+              "start": 67,
+              "url": "https://t.co/wxjq1RSI2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863602954080805089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863533725834985513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 日本戻ってきてますただいま！\nひなりん稼働今回もとても楽しかった( ɞ̴̶̷ ̫ ʚ̴̶̷̷ )🐾✨ https://t.co/wxjq1RSI2H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863533721082892288",
+            "3_1863533721078657024",
+            "3_1863533721082884096"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1863533725834985513",
+        "created_at": "2024-12-02T10:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T11:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863533725834985513"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.6119,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 18,
+              "normalized_text": "ひなりん",
+              "probability": 0.6817,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxjq1RSI2H",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+              "media_key": "3_1863533721082892288",
+              "start": 51,
+              "url": "https://t.co/wxjq1RSI2H"
+            },
+            {
+              "display_url": "pic.x.com/wxjq1RSI2H",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+              "media_key": "3_1863533721078657024",
+              "start": 51,
+              "url": "https://t.co/wxjq1RSI2H"
+            },
+            {
+              "display_url": "pic.x.com/wxjq1RSI2H",
+              "end": 74,
+              "expanded_url": "https://x.com/aoki__hina/status/1863533725834985513/photo/1",
+              "media_key": "3_1863533721082884096",
+              "start": 51,
+              "url": "https://t.co/wxjq1RSI2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863533725834985513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 47450,
+          "like_count": 3020,
+          "quote_count": 18,
+          "reply_count": 57,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "日本戻ってきてますただいま！\nひなりん稼働今回もとても楽しかった( ɞ̴̶̷ ̫ ʚ̴̶̷̷ )🐾✨ https://t.co/wxjq1RSI2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 67,
+          "like_count": 3892,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 794
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87346,
+          "following_count": 276,
+          "like_count": 0,
+          "listed_count": 831,
+          "media_count": 1035,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

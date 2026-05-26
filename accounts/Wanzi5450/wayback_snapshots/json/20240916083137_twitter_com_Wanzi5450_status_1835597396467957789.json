@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835212332160761856"
+      ],
+      "media_source_tweet_id": [
+        "1835212341631500797"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1835597396467957789",
+    "created_at": "2024-09-16T08:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T09:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835597396467957789"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "BAYCAMP",
+          "probability": 0.4252,
+          "start": 22,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cg0cavohlq",
+          "end": 89,
+          "expanded_url": "https://twitter.com/rina_togetoge/status/1835212341631500797/photo/1",
+          "media_key": "3_1835212332160761856",
+          "start": 66,
+          "url": "https://t.co/cg0CAvohLq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835597396467957789",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835212341631500797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: 今日はBAYCAMP！9月だけどまだまだ暑いのでたくさんお水飲んでくださいね！待ってます！♡ https://t.co/cg0CAvohLq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1835212332160761856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXf75InbwAA7TYQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835212332160761856"
+          ],
+          "media_source_tweet_id": [
+            "1835212341631500797"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1835597396467957789",
+        "created_at": "2024-09-16T08:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T09:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835597396467957789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "BAYCAMP",
+              "probability": 0.4252,
+              "start": 22,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cg0cavohlq",
+              "end": 89,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1835212341631500797/photo/1",
+              "media_key": "3_1835212332160761856",
+              "start": 66,
+              "url": "https://t.co/cg0CAvohLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835597396467957789",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835212341631500797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: 今日はBAYCAMP！9月だけどまだまだ暑いのでたくさんお水飲んでくださいね！待ってます！♡ https://t.co/cg0CAvohLq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835212332160761856"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "conversation_id": "1835212341631500797",
+        "created_at": "2024-09-15T07:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T08:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835212341631500797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "BAYCAMP",
+              "probability": 0.4365,
+              "start": 3,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cg0cavohlq",
+              "end": 70,
+              "expanded_url": "https://twitter.com/rina_togetoge/status/1835212341631500797/photo/1",
+              "media_key": "3_1835212332160761856",
+              "start": 47,
+              "url": "https://t.co/cg0CAvohLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835212341631500797",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 60872,
+          "like_count": 2125,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "今日はBAYCAMP！9月だけどまだまだ暑いのでたくさんお水飲んでくださいね！待ってます！♡ https://t.co/cg0CAvohLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 3113,
+          "listed_count": 0,
+          "tweet_count": 596
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / ガールズバンドクライ 井芹仁菜役 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46355,
+          "following_count": 95,
+          "like_count": 784,
+          "listed_count": 258,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

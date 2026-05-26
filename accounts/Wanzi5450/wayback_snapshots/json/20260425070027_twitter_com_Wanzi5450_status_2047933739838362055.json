@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047921981656567808"
+      ],
+      "media_source_tweet_id": [
+        "2047922102020526533"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2047933739838362055",
+    "created_at": "2026-04-25T07:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047933739838362055"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "avemujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1450351733620674564",
+          "start": 3,
+          "username": "lvliu1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HvnltsyYEU",
+          "end": 49,
+          "expanded_url": "https://x.com/lvliu1/status/2047922102020526533/photo/1",
+          "media_key": "3_2047921981656567808",
+          "start": 26,
+          "url": "https://t.co/HvnltsyYEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047933739838362055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047922102020526533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lvliu1: 春夜\n#avemujica https://t.co/HvnltsyYEU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2047921981656567808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuuMSRakAAVc1f.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047921981656567808"
+          ],
+          "media_source_tweet_id": [
+            "2047922102020526533"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2047933739838362055",
+        "created_at": "2026-04-25T07:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047933739838362055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "avemujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1450351733620674564",
+              "start": 3,
+              "username": "lvliu1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvnltsyYEU",
+              "end": 49,
+              "expanded_url": "https://x.com/lvliu1/status/2047922102020526533/photo/1",
+              "media_key": "3_2047921981656567808",
+              "start": 26,
+              "url": "https://t.co/HvnltsyYEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047933739838362055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047922102020526533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lvliu1: 春夜\n#avemujica https://t.co/HvnltsyYEU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047921981656567808"
+          ]
+        },
+        "author_id": "1450351733620674564",
+        "conversation_id": "2047922102020526533",
+        "created_at": "2026-04-25T06:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047922102020526533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 3,
+              "tag": "avemujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HvnltsyYEU",
+              "end": 37,
+              "expanded_url": "https://x.com/lvliu1/status/2047922102020526533/photo/1",
+              "media_key": "3_2047921981656567808",
+              "start": 14,
+              "url": "https://t.co/HvnltsyYEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047922102020526533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 652,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "春夜\n#avemujica https://t.co/HvnltsyYEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 276,
+          "like_count": 13194,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 3517
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T06:43:05.000Z",
+        "description": "中文/ENG/簡单日本語OK\nmidori33989@gmail.com",
+        "id": "1450351733620674564",
+        "name": "绿羊midori",
+        "pinned_tweet_id": "1878426217310818686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863177543194411010/PUZUHdG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6943,
+          "following_count": 1136,
+          "like_count": 11294,
+          "listed_count": 63,
+          "media_count": 80,
+          "tweet_count": 516
+        },
+        "username": "lvliu1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1806987233951637504"
+      ],
+      "media_source_tweet_id": [
+        "1806988727123943470"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1807288349377569257",
+    "created_at": "2024-06-30T05:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T06:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807288349377569257"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Girls Band",
+          "probability": 0.569,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521481219468591104",
+          "start": 3,
+          "username": "Kumolin33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/aCzEpOIvB9",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Kumolin33/status/1806988727123943470/photo/1",
+          "media_key": "3_1806987233951637504",
+          "start": 42,
+          "url": "https://t.co/aCzEpOIvB9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807288349377569257",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1562
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806988727123943470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kumolin33: Girls Band Cry🎸🥁🎤🎹🍺 \n#ガルクラ https://t.co/aCzEpOIvB9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2558,
+        "media_key": "3_1806987233951637504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRO1UMFaYAAMDFl.jpg",
+        "width": 3539
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806987233951637504"
+          ],
+          "media_source_tweet_id": [
+            "1806988727123943470"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1807288349377569257",
+        "created_at": "2024-06-30T05:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T06:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807288349377569257"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Girls Band",
+              "probability": 0.569,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521481219468591104",
+              "start": 3,
+              "username": "Kumolin33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aCzEpOIvB9",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Kumolin33/status/1806988727123943470/photo/1",
+              "media_key": "3_1806987233951637504",
+              "start": 42,
+              "url": "https://t.co/aCzEpOIvB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807288349377569257",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1562
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806988727123943470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kumolin33: Girls Band Cry🎸🥁🎤🎹🍺 \n#ガルクラ https://t.co/aCzEpOIvB9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806987233951637504"
+          ]
+        },
+        "author_id": "1521481219468591104",
+        "conversation_id": "1806988727123943470",
+        "created_at": "2024-06-29T09:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T10:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806988727123943470"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Girls Band",
+              "probability": 0.6103,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aCzEpOIvB9",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Kumolin33/status/1806988727123943470/photo/1",
+              "media_key": "3_1806987233951637504",
+              "start": 27,
+              "url": "https://t.co/aCzEpOIvB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806988727123943470",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 135955,
+          "like_count": 7204,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1562
+        },
+        "reply_settings": "everyone",
+        "text": "Girls Band Cry🎸🥁🎤🎹🍺 \n#ガルクラ https://t.co/aCzEpOIvB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 2388,
+          "listed_count": 0,
+          "tweet_count": 393
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T13:26:17.000Z",
+        "description": "好きなものを描きます",
+        "id": "1521481219468591104",
+        "name": "kumo33",
+        "pinned_tweet_id": "1806988727123943470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530943471527157762/wNpkyeRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7005,
+          "following_count": 782,
+          "like_count": 5210,
+          "listed_count": 89,
+          "tweet_count": 1501
+        },
+        "username": "Kumolin33",
+        "verified": false
+      }
+    ]
+  }
+}

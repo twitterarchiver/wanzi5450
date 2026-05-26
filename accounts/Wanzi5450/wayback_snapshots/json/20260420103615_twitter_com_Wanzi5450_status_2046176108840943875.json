@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046176031711821824"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046176108840943875",
+    "created_at": "2026-04-20T10:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046176108840943875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r1CNyMzAio",
+          "end": 42,
+          "expanded_url": "https://x.com/Wanzi5450/status/2046176108840943875/video/1",
+          "media_key": "13_2046176031711821824",
+          "start": 19,
+          "url": "https://t.co/r1CNyMzAio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046176108840943875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的只是不小心刮了一下\n最后一次？ https://t.co/r1CNyMzAio"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046176108840943875].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046176108840943875",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046176108840943875"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19148,
+        "height": 720,
+        "media_key": "13_2046176031711821824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046176031711821824/img/WdVAWC1qacYb7gXl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046176031711821824/vid/avc1/480x270/ZrCcSdppPiacikdf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046176031711821824/vid/avc1/640x360/0Q00rNneCUG7yLN9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046176031711821824/vid/avc1/1280x720/i71QtHXM_VegOgB8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046176031711821824/pl/ook6mCWZKPEnIWS8.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 274,
+          "like_count": 12373,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 3338
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

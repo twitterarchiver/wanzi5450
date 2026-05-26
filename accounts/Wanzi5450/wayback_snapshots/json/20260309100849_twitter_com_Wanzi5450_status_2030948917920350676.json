@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030948913159733248"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2030948917920350676",
+    "created_at": "2026-03-09T10:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T11:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030948917920350676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnEzvdatNq",
+          "end": 37,
+          "expanded_url": "https://x.com/Wanzi5450/status/2030948917920350676/photo/1",
+          "media_key": "3_2030948913159733248",
+          "start": 14,
+          "url": "https://t.co/HnEzvdatNq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030948917920350676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已下单\n好好奇染完长什么样 https://t.co/HnEzvdatNq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 264,
+        "media_key": "3_2030948913159733248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9hRq3aAAArdJG.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030948913159733248"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2030948917920350676",
+        "created_at": "2026-03-09T10:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030948917920350676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnEzvdatNq",
+              "end": 37,
+              "expanded_url": "https://x.com/Wanzi5450/status/2030948917920350676/photo/1",
+              "media_key": "3_2030948913159733248",
+              "start": 14,
+              "url": "https://t.co/HnEzvdatNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030948917920350676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已下单\n好好奇染完长什么样 https://t.co/HnEzvdatNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 227,
+          "like_count": 8763,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1885
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

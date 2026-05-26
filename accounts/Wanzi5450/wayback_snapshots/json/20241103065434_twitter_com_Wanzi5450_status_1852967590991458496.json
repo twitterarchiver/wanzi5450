@@ -1,0 +1,781 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10039019957",
+          "name": "月刊ブシロードTV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1331655527999303680",
+          "name": "Hiroshi Tanahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "新日本プロレスリング　本隊",
+          "id": "1524158712306274304",
+          "name": "Hontai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1331655527999303680",
+          "name": "Hiroshi Tanahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "description": "新日本プロレスリング　本隊",
+          "id": "1524158712306274304",
+          "name": "Hontai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544341584474112",
+          "name": "Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1268287173591093248",
+          "name": "New Japan Pro Wrestling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1331655527999303680",
+          "name": "Hiroshi Tanahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "新日本プロレスリング　本隊",
+          "id": "1524158712306274304",
+          "name": "Hontai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "1852967590991458496",
+    "created_at": "2024-11-03T06:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T07:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852967590991458496"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "ブシロード",
+          "probability": 0.4355,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "名古屋",
+          "probability": 0.8241,
+          "start": 33,
+          "type": "Place"
+        },
+        {
+          "end": 110,
+          "normalized_text": "名古屋",
+          "probability": 0.9776,
+          "start": 108,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "プロテイン祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852967590991458496",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 415
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852653719164494304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: ブシロードの #プロテイン祭 in名古屋DAY1\nお足元の悪い中のご参加、\n誠にありがとうございました❤️‍🔥💪\n\n応援の言葉など、\nたくさん頂けて嬉しかったです！🎶\n\nドタバタ名古屋だったのでまたゆっくり来たい🙂‍↕️\nありがとうございました！…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039019957",
+              "name": "月刊ブシロードTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1331655527999303680",
+              "name": "Hiroshi Tanahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "新日本プロレスリング　本隊",
+              "id": "1524158712306274304",
+              "name": "Hontai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1331655527999303680",
+              "name": "Hiroshi Tanahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "新日本プロレスリング　本隊",
+              "id": "1524158712306274304",
+              "name": "Hontai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544341584474112",
+              "name": "Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268287173591093248",
+              "name": "New Japan Pro Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331655527999303680",
+              "name": "Hiroshi Tanahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "新日本プロレスリング　本隊",
+              "id": "1524158712306274304",
+              "name": "Hontai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1852967590991458496",
+        "created_at": "2024-11-03T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852967590991458496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ブシロード",
+              "probability": 0.4355,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "名古屋",
+              "probability": 0.8241,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 110,
+              "normalized_text": "名古屋",
+              "probability": 0.9776,
+              "start": 108,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "プロテイン祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852967590991458496",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 415
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852653719164494304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: ブシロードの #プロテイン祭 in名古屋DAY1\nお足元の悪い中のご参加、\n誠にありがとうございました❤️‍🔥💪\n\n応援の言葉など、\nたくさん頂けて嬉しかったです！🎶\n\nドタバタ名古屋だったのでまたゆっくり来たい🙂‍↕️\nありがとうございました！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852653697916088320",
+            "3_1852653697932926976",
+            "3_1852653697899302912"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10039019957",
+              "name": "月刊ブシロードTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1331655527999303680",
+              "name": "Hiroshi Tanahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "新日本プロレスリング　本隊",
+              "id": "1524158712306274304",
+              "name": "Hontai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1331655527999303680",
+              "name": "Hiroshi Tanahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "新日本プロレスリング　本隊",
+              "id": "1524158712306274304",
+              "name": "Hontai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544341584474112",
+              "name": "Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1268287173591093248",
+              "name": "New Japan Pro Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1331655527999303680",
+              "name": "Hiroshi Tanahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "新日本プロレスリング　本隊",
+              "id": "1524158712306274304",
+              "name": "Hontai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1852653719164494304",
+        "created_at": "2024-11-02T10:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T11:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852653719164494304"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ブシロード",
+              "probability": 0.3576,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "名古屋",
+              "probability": 0.7772,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 94,
+              "normalized_text": "名古屋",
+              "probability": 0.9751,
+              "start": 92,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "プロテイン祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LR1blo7RZj",
+              "end": 147,
+              "expanded_url": "https://x.com/aoki__hina/status/1852653719164494304/photo/1",
+              "media_key": "3_1852653697916088320",
+              "start": 124,
+              "url": "https://t.co/LR1blo7RZj"
+            },
+            {
+              "display_url": "pic.x.com/LR1blo7RZj",
+              "end": 147,
+              "expanded_url": "https://x.com/aoki__hina/status/1852653719164494304/photo/1",
+              "media_key": "3_1852653697932926976",
+              "start": 124,
+              "url": "https://t.co/LR1blo7RZj"
+            },
+            {
+              "display_url": "pic.x.com/LR1blo7RZj",
+              "end": 147,
+              "expanded_url": "https://x.com/aoki__hina/status/1852653719164494304/photo/1",
+              "media_key": "3_1852653697899302912",
+              "start": 124,
+              "url": "https://t.co/LR1blo7RZj"
+            },
+            {
+              "display_url": "x.com/bushiroadwellb…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/bushiroadwellbe/status/1852616380526498093",
+              "start": 148,
+              "url": "https://t.co/KefNsdXO3W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852653719164494304",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 89239,
+          "like_count": 2945,
+          "quote_count": 17,
+          "reply_count": 54,
+          "retweet_count": 415
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852616380526498093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ブシロードの #プロテイン祭 in名古屋DAY1\nお足元の悪い中のご参加、\n誠にありがとうございました❤️‍🔥💪\n\n応援の言葉など、\nたくさん頂けて嬉しかったです！🎶\n\nドタバタ名古屋だったのでまたゆっくり来たい🙂‍↕️\nありがとうございました！ https://t.co/LR1blo7RZj https://t.co/KefNsdXO3W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 3548,
+          "listed_count": 0,
+          "tweet_count": 733
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83713,
+          "following_count": 270,
+          "like_count": 0,
+          "listed_count": 810,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

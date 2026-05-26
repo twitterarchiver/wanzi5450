@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007509687487586304"
+      ],
+      "media_source_tweet_id": [
+        "2007509711650992623"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048060665580204076",
+    "created_at": "2026-04-25T15:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T16:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048060665580204076"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "らなとも"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801538177175588866",
+          "start": 3,
+          "username": "FhysiLev127_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjPUQC7owD",
+          "end": 54,
+          "expanded_url": "https://x.com/FhysiLev127_/status/2007509711650992623/photo/1",
+          "media_key": "3_2007509687487586304",
+          "start": 31,
+          "url": "https://t.co/kjPUQC7owD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048060665580204076",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007509711650992623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FhysiLev127_: #らなとも \n#MyGO https://t.co/kjPUQC7owD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2007509687487586304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wbbK3aYAAI8An.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007509687487586304"
+          ],
+          "media_source_tweet_id": [
+            "2007509711650992623"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048060665580204076",
+        "created_at": "2026-04-25T15:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048060665580204076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "らなとも"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801538177175588866",
+              "start": 3,
+              "username": "FhysiLev127_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjPUQC7owD",
+              "end": 54,
+              "expanded_url": "https://x.com/FhysiLev127_/status/2007509711650992623/photo/1",
+              "media_key": "3_2007509687487586304",
+              "start": 31,
+              "url": "https://t.co/kjPUQC7owD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048060665580204076",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007509711650992623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FhysiLev127_: #らなとも \n#MyGO https://t.co/kjPUQC7owD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007509687487586304"
+          ]
+        },
+        "author_id": "1801538177175588866",
+        "conversation_id": "2007509711650992623",
+        "created_at": "2026-01-03T17:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007509711650992623"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "らなとも"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjPUQC7owD",
+              "end": 36,
+              "expanded_url": "https://x.com/FhysiLev127_/status/2007509711650992623/photo/1",
+              "media_key": "3_2007509687487586304",
+              "start": 13,
+              "url": "https://t.co/kjPUQC7owD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007509711650992623",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 588,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#らなとも \n#MyGO https://t.co/kjPUQC7owD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 279,
+          "like_count": 13337,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 3547
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:52:45.000Z",
+        "description": "19↑ | 雑多垢 BL · GL多め | バンドリ→レイマス | p4→足堂 | 金カム→ogt推し  全CP大好き、どれでもOK。特に尾左カプを好みます🙆 | dcst→ゲン単推し | いいね&RT＝心から激愛してる証✨🔥 | 無言フォロー失礼します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/fhysile",
+                "end": 23,
+                "expanded_url": "http://x.com/fhysile",
+                "start": 0,
+                "url": "https://t.co/d0tODAMAzw"
+              }
+            ]
+          }
+        },
+        "id": "1801538177175588866",
+        "name": "凑区",
+        "pinned_tweet_id": "1826838151635370125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018596439119810560/7NDyrRBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 235,
+          "like_count": 3095,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 5823
+        },
+        "url": "https://t.co/d0tODAMAzw",
+        "username": "FhysiLev127_",
+        "verified": false
+      }
+    ]
+  }
+}

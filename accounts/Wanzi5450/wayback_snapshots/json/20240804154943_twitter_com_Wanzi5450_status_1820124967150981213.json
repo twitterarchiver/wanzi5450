@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819889571230060544"
+      ],
+      "media_source_tweet_id": [
+        "1819889574157701580"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1820124967150981213",
+    "created_at": "2024-08-04T15:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T16:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820124967150981213"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696059165326639104",
+          "start": 3,
+          "username": "NTK_0023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/QCG7z6Sle3",
+          "end": 43,
+          "expanded_url": "https://twitter.com/NTK_0023/status/1819889574157701580/photo/1",
+          "media_key": "3_1819889571230060544",
+          "start": 20,
+          "url": "https://t.co/QCG7z6Sle3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820124967150981213",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819889574157701580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NTK_0023: #MyGO https://t.co/QCG7z6Sle3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1819889571230060544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUGL7D-bEAA75c6.jpg",
+        "width": 1976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819889571230060544"
+          ],
+          "media_source_tweet_id": [
+            "1819889574157701580"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1820124967150981213",
+        "created_at": "2024-08-04T15:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T16:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820124967150981213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696059165326639104",
+              "start": 3,
+              "username": "NTK_0023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QCG7z6Sle3",
+              "end": 43,
+              "expanded_url": "https://twitter.com/NTK_0023/status/1819889574157701580/photo/1",
+              "media_key": "3_1819889571230060544",
+              "start": 20,
+              "url": "https://t.co/QCG7z6Sle3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820124967150981213",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819889574157701580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NTK_0023: #MyGO https://t.co/QCG7z6Sle3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819889571230060544"
+          ]
+        },
+        "author_id": "1696059165326639104",
+        "conversation_id": "1819889574157701580",
+        "created_at": "2024-08-04T00:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T01:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819889574157701580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QCG7z6Sle3",
+              "end": 29,
+              "expanded_url": "https://twitter.com/NTK_0023/status/1819889574157701580/photo/1",
+              "media_key": "3_1819889571230060544",
+              "start": 6,
+              "url": "https://t.co/QCG7z6Sle3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819889574157701580",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7357,
+          "like_count": 522,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO https://t.co/QCG7z6Sle3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 2970,
+          "listed_count": 0,
+          "tweet_count": 545
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:16:43.000Z",
+        "description": "",
+        "id": "1696059165326639104",
+        "location": "MAY's LAND",
+        "name": "Natsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787325864667131904/UFn1hxBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 373,
+          "like_count": 3229,
+          "listed_count": 1,
+          "tweet_count": 1187
+        },
+        "username": "NTK_0023",
+        "verified": false
+      }
+    ]
+  }
+}

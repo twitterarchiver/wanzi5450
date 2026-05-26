@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809864449131761664"
+      ],
+      "media_source_tweet_id": [
+        "1809864461110636883"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1810525347152322897",
+    "created_at": "2024-07-09T04:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T05:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810525347152322897"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2478318420",
+          "start": 3,
+          "username": "coffee87119"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Ir0gPahbZe",
+          "end": 82,
+          "expanded_url": "https://twitter.com/coffee87119/status/1809864461110636883/photo/1",
+          "media_key": "3_1809864449131761664",
+          "start": 59,
+          "url": "https://t.co/Ir0gPahbZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810525347152322897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809864461110636883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coffee87119: #ガルクラ\n#MyGO \n每個小動物主唱的背後都有一個暗戀她們的黑長直紫瞳鼓手（？ https://t.co/Ir0gPahbZe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_1809864449131761664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR3uIJ4bUAACCLN.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809864449131761664"
+          ],
+          "media_source_tweet_id": [
+            "1809864461110636883"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1810525347152322897",
+        "created_at": "2024-07-09T04:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T05:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810525347152322897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2478318420",
+              "start": 3,
+              "username": "coffee87119"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ir0gPahbZe",
+              "end": 82,
+              "expanded_url": "https://twitter.com/coffee87119/status/1809864461110636883/photo/1",
+              "media_key": "3_1809864449131761664",
+              "start": 59,
+              "url": "https://t.co/Ir0gPahbZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810525347152322897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809864461110636883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coffee87119: #ガルクラ\n#MyGO \n每個小動物主唱的背後都有一個暗戀她們的黑長直紫瞳鼓手（？ https://t.co/Ir0gPahbZe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809864449131761664"
+          ]
+        },
+        "author_id": "2478318420",
+        "conversation_id": "1809864461110636883",
+        "created_at": "2024-07-07T08:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T09:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809864461110636883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ir0gPahbZe",
+              "end": 65,
+              "expanded_url": "https://twitter.com/coffee87119/status/1809864461110636883/photo/1",
+              "media_key": "3_1809864449131761664",
+              "start": 42,
+              "url": "https://t.co/Ir0gPahbZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809864461110636883",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 35970,
+          "like_count": 1568,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ\n#MyGO \n每個小動物主唱的背後都有一個暗戀她們的黑長直紫瞳鼓手（？ https://t.co/Ir0gPahbZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 2491,
+          "listed_count": 0,
+          "tweet_count": 410
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-05T12:54:11.000Z",
+        "description": "艾連葉卡漂亮漂亮漂亮",
+        "id": "2478318420",
+        "location": "西甘西納區",
+        "name": "咖啡葉卡",
+        "pinned_tweet_id": "1790375836585218207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800454243729723392/nA9CCsQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 594,
+          "like_count": 41667,
+          "listed_count": 12,
+          "tweet_count": 9513
+        },
+        "username": "coffee87119",
+        "verified": false
+      }
+    ]
+  }
+}

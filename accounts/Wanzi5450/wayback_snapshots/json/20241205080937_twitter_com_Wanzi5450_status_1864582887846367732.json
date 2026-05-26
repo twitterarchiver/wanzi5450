@@ -1,0 +1,730 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1864582887846367732",
+    "created_at": "2024-12-05T08:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T09:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864582887846367732"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "こたえなんてなくても",
+          "probability": 0.7306,
+          "start": 64,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "747338829695070208",
+          "start": 3,
+          "username": "bushi_creative"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864582887846367732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864580516810490226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi_creative: ＼\\ 新商品情報 /／\n\n12月22日（日）開催　MyGO!!!!! 7th LIVE「こたえなんてなくても」より、\nライブ衣装をイメージしたオーバージャケットの発売が決定しました🎉\n\nBanG Dream!　オーバージャケット MyGO…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1864582887846367732",
+        "created_at": "2024-12-05T08:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T09:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864582887846367732"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "こたえなんてなくても",
+              "probability": 0.7306,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "747338829695070208",
+              "start": 3,
+              "username": "bushi_creative"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864582887846367732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864580516810490226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi_creative: ＼\\ 新商品情報 /／\n\n12月22日（日）開催　MyGO!!!!! 7th LIVE「こたえなんてなくても」より、\nライブ衣装をイメージしたオーバージャケットの発売が決定しました🎉\n\nBanG Dream!　オーバージャケット MyGO…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864580502579236865",
+            "3_1864580505725001728",
+            "3_1864580509185265670"
+          ]
+        },
+        "author_id": "747338829695070208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1864580516810490226",
+        "created_at": "2024-12-05T08:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T09:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864580516810490226"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "こたえなんてなくても",
+              "probability": 0.7363,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 183,
+              "start": 178,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MyGO!!!!! 7th LIVE「こたえなんてなくても」について掲載中。",
+              "display_url": "bang-dream.com/events/mygo_7th",
+              "end": 176,
+              "expanded_url": "https://bang-dream.com/events/mygo_7th",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/1864580522405666816/65hDQyGC?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1864580522405666816/65hDQyGC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 153,
+              "status": 200,
+              "title": "MyGO!!!!! 7th LIVE「こたえなんてなくても」 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/events/mygo_7th",
+              "url": "https://t.co/3vJeL7tq4q"
+            },
+            {
+              "display_url": "pic.x.com/xnAdpl6y6Z",
+              "end": 208,
+              "expanded_url": "https://x.com/bushi_creative/status/1864580516810490226/photo/1",
+              "media_key": "3_1864580502579236865",
+              "start": 185,
+              "url": "https://t.co/xnAdpl6y6Z"
+            },
+            {
+              "display_url": "pic.x.com/xnAdpl6y6Z",
+              "end": 208,
+              "expanded_url": "https://x.com/bushi_creative/status/1864580516810490226/photo/1",
+              "media_key": "3_1864580505725001728",
+              "start": 185,
+              "url": "https://t.co/xnAdpl6y6Z"
+            },
+            {
+              "display_url": "pic.x.com/xnAdpl6y6Z",
+              "end": 208,
+              "expanded_url": "https://x.com/bushi_creative/status/1864580516810490226/photo/1",
+              "media_key": "3_1864580509185265670",
+              "start": 185,
+              "url": "https://t.co/xnAdpl6y6Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864580516810490226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 183,
+                "start": 178,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 189,
+                "start": 184,
+                "tag": "MyGO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream.com/events/mygo_7th",
+                "end": 176,
+                "expanded_url": "https://bang-dream.com/events/mygo_7th",
+                "start": 153,
+                "url": "https://t.co/12ZdIgM0fF"
+              }
+            ]
+          },
+          "text": "＼\\ 新商品情報 /／\n\n12月22日（日）開催　MyGO!!!!! 7th LIVE「こたえなんてなくても」より、\nライブ衣装をイメージしたオーバージャケットの発売が決定しました🎉\n\nBanG Dream!　オーバージャケット MyGO!!!!!ライブ衣装風　¥16,500(税込)\n\n▼詳細はコチラ👀\nhttps://t.co/12ZdIgM0fF\n\n#バンドリ\n#MyGO"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6748,
+          "like_count": 169,
+          "quote_count": 28,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "＼\\ 新商品情報 /／\n\n12月22日（日）開催　MyGO!!!!! 7th LIVE「こたえなんてなくても」より、\nライブ衣装をイメージしたオーバージャケットの発売が決定しました🎉\n\nBanG Dream!　オーバージャケット MyGO!!!!!ライブ衣装風　¥16,500(税込)\n\n▼詳細はコチラ👀\nhttps://t.co/3vJeL7tq4q\n\n#バンドリ… https://t.co/xnAdpl6y6Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3937,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 803
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-27T08:00:36.000Z",
+        "description": "キャラクターグッズ、カプセルトイ、プライズ、物販催事企画等のマーチャンダイジング事業展開をしています。こちらではご質問に対するお返事はしかねますので、お問い合わせ窓口（公式サイト内参考）へお願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bushiroad-creative.com",
+                "end": 23,
+                "expanded_url": "https://bushiroad-creative.com/",
+                "start": 0,
+                "url": "https://t.co/G0f21TbI17"
+              }
+            ]
+          }
+        },
+        "id": "747338829695070208",
+        "name": "ブシロードクリエイティブ公式",
+        "pinned_tweet_id": "1859793977744163206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908613103167741953/iiZJaUCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185834,
+          "following_count": 184,
+          "like_count": 510,
+          "listed_count": 589,
+          "media_count": 12949,
+          "tweet_count": 23753
+        },
+        "url": "https://t.co/G0f21TbI17",
+        "username": "bushi_creative",
+        "verified": true
+      }
+    ]
+  }
+}

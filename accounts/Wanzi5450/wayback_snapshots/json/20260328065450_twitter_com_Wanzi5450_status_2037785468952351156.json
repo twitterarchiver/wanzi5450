@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2037783661136032142",
+    "created_at": "2026-03-28T06:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037785468952351156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028846216944242688",
+          "start": 0,
+          "username": "YingZaisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037785468952351156",
+    "in_reply_to_user_id": "2028846216944242688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037783661136032142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingZaisama ohno，肠胃炎了吗🥺摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2037783661136032142",
+        "created_at": "2026-03-28T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037785468952351156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028846216944242688",
+              "start": 0,
+              "username": "YingZaisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037785468952351156",
+        "in_reply_to_user_id": "2028846216944242688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037783661136032142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingZaisama ohno，肠胃炎了吗🥺摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028846216944242688",
+        "conversation_id": "2037783661136032142",
+        "created_at": "2026-03-28T06:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037783661136032142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037783661136032142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常好的炸鸡，令我剧烈呕吐，剧烈疼痛，剧烈蜷缩."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 271,
+          "like_count": 10010,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 2443
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:53:45.000Z",
+        "description": "这里是鹰仔！06大学生一只～梦想是成为魔王大人，创造一个大家，每个人都能开开心心的乌托邦世界！希望我的点点滴滴日常可以为大家带来温暖与快乐！不键政❌不聊黄❌ 我只是一只猫头鹰，也只是一只猫头鹰.",
+        "id": "2028846216944242688",
+        "location": "乌托邦",
+        "name": "鷹仔大魔王",
+        "pinned_tweet_id": "2033880344085336081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031688080722366464/anQQX9Iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 255,
+          "like_count": 2336,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1119
+        },
+        "username": "YingZaisama",
+        "verified": false
+      }
+    ]
+  }
+}

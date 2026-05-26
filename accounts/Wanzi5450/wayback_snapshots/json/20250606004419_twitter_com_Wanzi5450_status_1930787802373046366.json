@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Fukuoka",
+          "id": "1009168505252352000",
+          "name": "Fukuoka"
+        }
+      }
+    ],
+    "conversation_id": "1930787802373046366",
+    "created_at": "2025-06-06T00:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T01:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930787802373046366"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "関西",
+          "probability": 0.8671,
+          "start": 32,
+          "type": "Place"
+        },
+        {
+          "end": 39,
+          "normalized_text": "福岡",
+          "probability": 0.992,
+          "start": 38,
+          "type": "Place"
+        },
+        {
+          "end": 112,
+          "normalized_text": "福岡",
+          "probability": 0.9848,
+          "start": 111,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1681939616256102401",
+          "start": 3,
+          "username": "rina_togetoge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/z5EpFmzT",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/z5EpFmzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930787802373046366",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930468351551386019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rina_togetoge: おはようございます！昨日は関西、本日は福岡に来ております✊🏻\n\nまた後ほど告知しますが、今日は皆さんにお会いできるタイミングが何度かあるということで……😳楽しみにしております！\n\n福岡楽しむぞ〜！ https://t.co/z5EpFmzT…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930468302662578179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspmsXZasAMA-jn.jpg",
+        "width": 1166
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930468302675197952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspmsXcbQAA1Md8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          }
+        ],
+        "conversation_id": "1930787802373046366",
+        "created_at": "2025-06-06T00:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T01:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930787802373046366"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "関西",
+              "probability": 0.8671,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "福岡",
+              "probability": 0.992,
+              "start": 38,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "福岡",
+              "probability": 0.9848,
+              "start": 111,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1681939616256102401",
+              "start": 3,
+              "username": "rina_togetoge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/z5EpFmzT",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/z5EpFmzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930787802373046366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930468351551386019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rina_togetoge: おはようございます！昨日は関西、本日は福岡に来ております✊🏻\n\nまた後ほど告知しますが、今日は皆さんにお会いできるタイミングが何度かあるということで……😳楽しみにしております！\n\n福岡楽しむぞ〜！ https://t.co/z5EpFmzT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930468302662578179",
+            "3_1930468302675197952"
+          ]
+        },
+        "author_id": "1681939616256102401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          }
+        ],
+        "conversation_id": "1930468351551386019",
+        "created_at": "2025-06-05T03:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930468351551386019"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "関西",
+              "probability": 0.8766,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 20,
+              "normalized_text": "福岡",
+              "probability": 0.9917,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 93,
+              "normalized_text": "福岡",
+              "probability": 0.981,
+              "start": 92,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5EpFmzTx1",
+              "end": 122,
+              "expanded_url": "https://x.com/rina_togetoge/status/1930468351551386019/photo/1",
+              "media_key": "3_1930468302662578179",
+              "start": 99,
+              "url": "https://t.co/z5EpFmzTx1"
+            },
+            {
+              "display_url": "pic.x.com/z5EpFmzTx1",
+              "end": 122,
+              "expanded_url": "https://x.com/rina_togetoge/status/1930468351551386019/photo/1",
+              "media_key": "3_1930468302675197952",
+              "start": 99,
+              "url": "https://t.co/z5EpFmzTx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930468351551386019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 94752,
+          "like_count": 5553,
+          "quote_count": 12,
+          "reply_count": 46,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます！昨日は関西、本日は福岡に来ております✊🏻\n\nまた後ほど告知しますが、今日は皆さんにお会いできるタイミングが何度かあるということで……😳楽しみにしております！\n\n福岡楽しむぞ〜！ https://t.co/z5EpFmzTx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4505,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 918
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T08:12:07.000Z",
+        "description": "理名(Rina) / アニメ『#ガールズバンドクライ』#井芹仁菜 役 / バンド『#トゲナシトゲアリ』Vo. / Instagram→https://t.co/6akJGvT9lu /音楽とゲームとサーモンが大好きです / @girlsbandcry",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 15,
+                "tag": "ガールズバンドクライ"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "井芹仁菜"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "tag": "トゲナシトゲアリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "girlsbandcry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/rina_togetoge",
+                "end": 90,
+                "expanded_url": "http://instagram.com/rina_togetoge",
+                "start": 67,
+                "url": "https://t.co/6akJGvT9lu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rinatogetoge",
+                "end": 23,
+                "expanded_url": "https://lit.link/rinatogetoge",
+                "start": 0,
+                "url": "https://t.co/HDtOB7XIss"
+              }
+            ]
+          }
+        },
+        "id": "1681939616256102401",
+        "name": "理名 / トゲナシトゲアリ Vo.",
+        "pinned_tweet_id": "1778773537077211174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778794996734566400/cjOGhYCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111782,
+          "following_count": 125,
+          "like_count": 993,
+          "listed_count": 371,
+          "media_count": 323,
+          "tweet_count": 1767
+        },
+        "url": "https://t.co/HDtOB7XIss",
+        "username": "rina_togetoge",
+        "verified": false
+      }
+    ]
+  }
+}

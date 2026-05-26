@@ -1,0 +1,704 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1840211603037532224",
+    "created_at": "2024-09-29T02:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T03:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840211603037532224"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "BanG Dream! It",
+          "probability": 0.7414,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "陽だまり",
+          "probability": 0.3581,
+          "start": 56,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "MyGO"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "羊宮妃那"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "立石凛"
+        },
+        {
+          "end": 86,
+          "start": 81,
+          "tag": "青木陽菜"
+        },
+        {
+          "end": 93,
+          "start": 87,
+          "tag": "小日向美香"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "林鼓子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "340032591",
+          "start": 3,
+          "username": "repotama"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ブシロードによるメディアミックスプロジェクト『BanG Dream!』から飛び出した『BanG Dream! It’s MyGO!!!!!』。2023年6月から9月まで放送されたテレビアニメの再編集劇場版、そ […]",
+          "display_url": "repotama.com/2024/09/186671/",
+          "end": 122,
+          "expanded_url": "https://repotama.com/2024/09/186671/",
+          "images": [
+            {
+              "height": 427,
+              "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "作品の舞台でメンバーが想いをアツく語る「劇場版『BanG Dream! It's MyGO!!!!!』 前編 : 春の陽だまり、迷い猫」公開記念舞台挨拶 - れポたま！",
+          "unwound_url": "https://repotama.com/2024/09/186671/",
+          "url": "https://t.co/GetdNDRzZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840211603037532224",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839832644403769594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @repotama: 「劇場版『BanG Dream! It's #MyGO !!!!!』 前編 : 春の陽だまり、迷い猫」舞台挨拶 #羊宮妃那 #立石凛 #青木陽菜 #小日向美香 #林鼓子 https://t.co/GetdNDRzZi https://t.co/Get…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1840211603037532224",
+        "created_at": "2024-09-29T02:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T03:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840211603037532224"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "BanG Dream! It",
+              "probability": 0.7414,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "陽だまり",
+              "probability": 0.3581,
+              "start": 56,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "MyGO"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "立石凛"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "青木陽菜"
+            },
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "小日向美香"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "林鼓子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "340032591",
+              "start": 3,
+              "username": "repotama"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードによるメディアミックスプロジェクト『BanG Dream!』から飛び出した『BanG Dream! It’s MyGO!!!!!』。2023年6月から9月まで放送されたテレビアニメの再編集劇場版、そ […]",
+              "display_url": "repotama.com/2024/09/186671/",
+              "end": 122,
+              "expanded_url": "https://repotama.com/2024/09/186671/",
+              "images": [
+                {
+                  "height": 427,
+                  "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "作品の舞台でメンバーが想いをアツく語る「劇場版『BanG Dream! It's MyGO!!!!!』 前編 : 春の陽だまり、迷い猫」公開記念舞台挨拶 - れポたま！",
+              "unwound_url": "https://repotama.com/2024/09/186671/",
+              "url": "https://t.co/GetdNDRzZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840211603037532224",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839832644403769594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @repotama: 「劇場版『BanG Dream! It's #MyGO !!!!!』 前編 : 春の陽だまり、迷い猫」舞台挨拶 #羊宮妃那 #立石凛 #青木陽菜 #小日向美香 #林鼓子 https://t.co/GetdNDRzZi https://t.co/Get…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "340032591",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1839832644403769594",
+        "created_at": "2024-09-28T01:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T02:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839832644403769594"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "BanG Dream! It",
+              "probability": 0.6543,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "陽だまり",
+              "probability": 0.3235,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "MyGO"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "羊宮妃那"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "立石凛"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "青木陽菜"
+            },
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "小日向美香"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "林鼓子"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードによるメディアミックスプロジェクト『BanG Dream!』から飛び出した『BanG Dream! It’s MyGO!!!!!』。2023年6月から9月まで放送されたテレビアニメの再編集劇場版、そ […]",
+              "display_url": "repotama.com/2024/09/186671/",
+              "end": 108,
+              "expanded_url": "https://repotama.com/2024/09/186671/",
+              "images": [
+                {
+                  "height": 427,
+                  "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "作品の舞台でメンバーが想いをアツく語る「劇場版『BanG Dream! It's MyGO!!!!!』 前編 : 春の陽だまり、迷い猫」公開記念舞台挨拶 - れポたま！",
+              "unwound_url": "https://repotama.com/2024/09/186671/",
+              "url": "https://t.co/GetdNDRzZi"
+            },
+            {
+              "description": "ブシロードによるメディアミックスプロジェクト『BanG Dream!』から飛び出した『BanG Dream! It’s MyGO!!!!!』。2023年6月から9月まで放送されたテレビアニメの再編集劇場版、そ […]",
+              "display_url": "repotama.com/2024/09/186671/",
+              "end": 132,
+              "expanded_url": "https://repotama.com/2024/09/186671/",
+              "images": [
+                {
+                  "height": 427,
+                  "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1839832651769012224/IIlk9K1P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "作品の舞台でメンバーが想いをアツく語る「劇場版『BanG Dream! It's MyGO!!!!!』 前編 : 春の陽だまり、迷い猫」公開記念舞台挨拶 - れポたま！",
+              "unwound_url": "https://repotama.com/2024/09/186671/",
+              "url": "https://t.co/GetdNDRzZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839832644403769594",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 49630,
+          "like_count": 800,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "「劇場版『BanG Dream! It's #MyGO !!!!!』 前編 : 春の陽だまり、迷い猫」舞台挨拶 #羊宮妃那 #立石凛 #青木陽菜 #小日向美香 #林鼓子 https://t.co/GetdNDRzZi https://t.co/GetdNDRzZi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 3309,
+          "listed_count": 0,
+          "tweet_count": 664
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T01:29:24.000Z",
+        "description": "アニメ・声優・アイドル情報サイト。ライブレポートや独占インタビュー、最新リリースをお届けします。\n\nRepotama is a news site. We publish anime info, live reports, exclusive interviews, new release info and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "repotama.com",
+                "end": 22,
+                "expanded_url": "http://repotama.com/",
+                "start": 0,
+                "url": "http://t.co/VjRLUxloTr"
+              }
+            ]
+          }
+        },
+        "id": "340032591",
+        "name": "れポたま！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456254562/logo_header2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13633,
+          "following_count": 11303,
+          "like_count": 5,
+          "listed_count": 211,
+          "tweet_count": 16189
+        },
+        "url": "http://t.co/VjRLUxloTr",
+        "username": "repotama",
+        "verified": false
+      }
+    ]
+  }
+}

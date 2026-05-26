@@ -1,0 +1,160 @@
+{
+  "data": {
+    "author_id": "1738375202168532992",
+    "conversation_id": "1848549925359129005",
+    "created_at": "2024-10-22T02:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T03:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848549925359129005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353543505432301569",
+          "start": 3,
+          "username": "ttisrn_0710"
+        }
+      ]
+    },
+    "id": "1848549925359129005",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 274
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848346378835247315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttisrn_0710: 『立石凛をモニタ凛グ』 初回配信、見てくだりありがとうございましたー！！！！\n\nちはるんも遊びに来てくれてありがとう🥰\nもはや何をしたかは覚えてないです。\n\nこれからも毎月しっかり観察して観察日記をよろしくお願いします！！！！\n\n#モニ凛\n#ぺ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1738375202168532992",
+        "conversation_id": "1848549925359129005",
+        "created_at": "2024-10-22T02:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T03:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848549925359129005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353543505432301569",
+              "start": 3,
+              "username": "ttisrn_0710"
+            }
+          ]
+        },
+        "id": "1848549925359129005",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 274
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848346378835247315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttisrn_0710: 『立石凛をモニタ凛グ』 初回配信、見てくだりありがとうございましたー！！！！\n\nちはるんも遊びに来てくれてありがとう🥰\nもはや何をしたかは覚えてないです。\n\nこれからも毎月しっかり観察して観察日記をよろしくお願いします！！！！\n\n#モニ凛\n#ぺ…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 65,
+          "like_count": 3763,
+          "listed_count": 0,
+          "tweet_count": 774
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:24:31.000Z",
+        "description": "響 声優 https://t.co/XTzqpKHxDR┊https://t.co/BzqoGzEpoN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rin_.t710",
+                "end": 28,
+                "expanded_url": "https://www.instagram.com/rin_.t710",
+                "start": 5,
+                "url": "https://t.co/XTzqpKHxDR"
+              },
+              {
+                "display_url": "youtube.com/@Tateishi_rin",
+                "end": 52,
+                "expanded_url": "https://www.youtube.com/@Tateishi_rin",
+                "start": 29,
+                "url": "https://t.co/BzqoGzEpoN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freecalend.com/open/mem231613…",
+                "end": 23,
+                "expanded_url": "https://freecalend.com/open/mem231613_date202407_modefull",
+                "start": 0,
+                "url": "https://t.co/kdP8UCdeZg"
+              }
+            ]
+          }
+        },
+        "id": "1353543505432301569",
+        "location": "#ぺこりんちゅ",
+        "name": "立石凛",
+        "pinned_tweet_id": "1846474953937584144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749408673724825600/SiKCGmUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65349,
+          "following_count": 140,
+          "like_count": 59,
+          "listed_count": 629,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/kdP8UCdeZg",
+        "username": "ttisrn_0710",
+        "verified": false
+      }
+    ]
+  }
+}

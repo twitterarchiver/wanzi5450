@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027209336867704832"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2027209343280837111",
+    "created_at": "2026-02-27T02:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027209343280837111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i25KEOIpOY",
+          "end": 28,
+          "expanded_url": "https://x.com/Wanzi5450/status/2027209343280837111/photo/1",
+          "media_key": "3_2027209336867704832",
+          "start": 5,
+          "url": "https://t.co/i25KEOIpOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027209343280837111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小o怡情 https://t.co/i25KEOIpOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027209336867704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIYJrla0AAEXch.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027209336867704832"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2027209343280837111",
+        "created_at": "2026-02-27T02:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027209343280837111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i25KEOIpOY",
+              "end": 28,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027209343280837111/photo/1",
+              "media_key": "3_2027209336867704832",
+              "start": 5,
+              "url": "https://t.co/i25KEOIpOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027209343280837111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小o怡情 https://t.co/i25KEOIpOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 201,
+          "like_count": 8408,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1666
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2027592311539175602",
+    "created_at": "2026-02-28T08:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027662423180849430"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027662423180849430",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027592311539175602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实太油了不好吃，不喜欢山东菜，这个豆腐还可以。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027592301288296451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN0dJObEAMC6K0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027592301292490752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN0dJPbEAAYT6e.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027592301292490756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN0dJPbEAQ1uBB.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2027592311539175602",
+        "created_at": "2026-02-28T08:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027662423180849430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027662423180849430",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027592311539175602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实太油了不好吃，不喜欢山东菜，这个豆腐还可以。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027592301288296451",
+            "3_2027592301292490752",
+            "3_2027592301292490756"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027592311539175602",
+        "created_at": "2026-02-28T03:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027592311539175602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItQtJKoKkf",
+              "end": 66,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027592311539175602/photo/1",
+              "media_key": "3_2027592301288296451",
+              "start": 43,
+              "url": "https://t.co/ItQtJKoKkf"
+            },
+            {
+              "display_url": "pic.x.com/ItQtJKoKkf",
+              "end": 66,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027592311539175602/photo/1",
+              "media_key": "3_2027592301292490752",
+              "start": 43,
+              "url": "https://t.co/ItQtJKoKkf"
+            },
+            {
+              "display_url": "pic.x.com/ItQtJKoKkf",
+              "end": 66,
+              "expanded_url": "https://x.com/Wanzi5450/status/2027592311539175602/photo/1",
+              "media_key": "3_2027592301292490756",
+              "start": 43,
+              "url": "https://t.co/ItQtJKoKkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027592311539175602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健身是为了更好的吃\n第一次吃海肠捞饭，现在想吃也吃不下多少了(＜_＜)好想吃好多美食 https://t.co/ItQtJKoKkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 206,
+          "like_count": 8432,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1688
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

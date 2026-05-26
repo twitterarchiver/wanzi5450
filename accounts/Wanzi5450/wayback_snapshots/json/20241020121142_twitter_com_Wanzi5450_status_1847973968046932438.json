@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1847973968046932438",
+    "created_at": "2024-10-20T12:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T13:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847973968046932438"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "虹7th_day1"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "虹ヶ咲"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847973968046932438",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2645
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847634772753010933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: #虹7th_day1 \nラブライブ！ #虹ヶ咲 学園スクールアイドル同好会 7th Live! NEW TOKIMEKI LAND Day1\nありがとうございました！🌈✨\n\nとっても楽しかったー！🎙️🔥\nみんなの\"大好き\"\n明日もたくさん…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1847973968046932438",
+        "created_at": "2024-10-20T12:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T13:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847973968046932438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "虹7th_day1"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "虹ヶ咲"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847973968046932438",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2645
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847634772753010933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: #虹7th_day1 \nラブライブ！ #虹ヶ咲 学園スクールアイドル同好会 7th Live! NEW TOKIMEKI LAND Day1\nありがとうございました！🌈✨\n\nとっても楽しかったー！🎙️🔥\nみんなの\"大好き\"\n明日もたくさん…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847634732408033280",
+            "3_1847634732391288834"
+          ]
+        },
+        "author_id": "1394483928463941633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1847634772753010933",
+        "created_at": "2024-10-19T13:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T14:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847634772753010933"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "学園スクールアイドル同好会 7th Live! NEW TOKIMEKI LAND Day1",
+              "probability": 0.2392,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "虹7th_day1"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "虹ヶ咲"
+            },
+            {
+              "end": 139,
+              "start": 130,
+              "tag": "lovelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ETZjbmy6S",
+              "end": 163,
+              "expanded_url": "https://x.com/cocohayashi515/status/1847634772753010933/photo/1",
+              "media_key": "3_1847634732408033280",
+              "start": 140,
+              "url": "https://t.co/7ETZjbmy6S"
+            },
+            {
+              "display_url": "pic.x.com/7ETZjbmy6S",
+              "end": 163,
+              "expanded_url": "https://x.com/cocohayashi515/status/1847634772753010933/photo/1",
+              "media_key": "3_1847634732391288834",
+              "start": 140,
+              "url": "https://t.co/7ETZjbmy6S"
+            },
+            {
+              "display_url": "x.com/lovelive_staff…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/lovelive_staff/status/1847613688574070872",
+              "start": 164,
+              "url": "https://t.co/n1mZpnfmKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847634772753010933",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 243942,
+          "like_count": 10845,
+          "quote_count": 43,
+          "reply_count": 218,
+          "retweet_count": 2645
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847613688574070872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#虹7th_day1 \nラブライブ！ #虹ヶ咲 学園スクールアイドル同好会 7th Live! NEW TOKIMEKI LAND Day1\nありがとうございました！🌈✨\n\nとっても楽しかったー！🎙️🔥\nみんなの\"大好き\"\n明日もたくさん聞かせてくださいっ！\n#lovelive https://t.co/7ETZjbmy6S https://t.co/n1mZpnfmKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 61,
+          "like_count": 3460,
+          "listed_count": 0,
+          "tweet_count": 705
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "mitt management所属 声優・俳優｜ミュージカルや宝塚、ロックと映画が好き。ドラムを叩きます｜FC🪄︎︎https://t.co/eHz0D4Plcz ｜お仕事のご依頼はこちらまで→info.mittmg@mittma.com ｜⚠︎画像や動画の無断転載・無断利用はおやめください⚠︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hayashicoco.com",
+                "end": 81,
+                "expanded_url": "http://hayashicoco.com",
+                "start": 58,
+                "url": "https://t.co/eHz0D4Plcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mittma.com",
+                "end": 23,
+                "expanded_url": "https://mittma.com/",
+                "start": 0,
+                "url": "https://t.co/1AuV4pXSZZ"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "name": "林鼓子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641821141982670848/ZS90ZFfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109802,
+          "following_count": 495,
+          "like_count": 7582,
+          "listed_count": 2532,
+          "tweet_count": 6842
+        },
+        "url": "https://t.co/1AuV4pXSZZ",
+        "username": "cocohayashi515",
+        "verified": false
+      }
+    ]
+  }
+}

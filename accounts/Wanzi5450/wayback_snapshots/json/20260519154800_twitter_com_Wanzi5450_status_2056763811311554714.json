@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056763144710869120",
+    "created_at": "2026-05-19T15:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056763811311554714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1720585683184857088",
+          "start": 0,
+          "username": "xiaoqi3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056763811311554714",
+    "in_reply_to_user_id": "1720585683184857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056763144710869120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqi3377 确实要先照顾好自己TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056763144710869120",
+        "created_at": "2026-05-19T15:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056763811311554714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720585683184857088",
+              "start": 0,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056763811311554714",
+        "in_reply_to_user_id": "1720585683184857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056763144710869120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqi3377 确实要先照顾好自己TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720585683184857088",
+        "conversation_id": "2056763144710869120",
+        "created_at": "2026-05-19T15:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056763144710869120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056763144710869120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人给我过所谓的520。从小到大。没人愿意在任何一个节日给我准备惊喜。我前任说自己多么爱多么爱。但其实当时的所有节日祝福红包礼物都是我先给  对方收了也不回礼。人到最后还是自私一点比较好。别对别人有期待。其实我对待别人的方式就是我想被对待的方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 290,
+          "like_count": 15992,
+          "listed_count": 0,
+          "media_count": 494,
+          "tweet_count": 3835
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2056690709546373216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052042182337703936/MH9mDRzL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 202,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 219
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

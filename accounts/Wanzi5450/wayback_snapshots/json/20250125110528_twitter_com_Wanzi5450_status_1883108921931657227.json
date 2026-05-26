@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1883108921931657227",
+    "created_at": "2025-01-25T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883108921931657227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712916973066027008",
+          "start": 3,
+          "username": "donk1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883108921931657227",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882936663174959130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @donk1337: 18"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1883108921931657227",
+        "created_at": "2025-01-25T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883108921931657227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712916973066027008",
+              "start": 3,
+              "username": "donk1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883108921931657227",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882936663174959130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @donk1337: 18"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712916973066027008",
+        "conversation_id": "1882936663174959130",
+        "created_at": "2025-01-24T23:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T00:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882936663174959130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882936663174959130",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 457417,
+          "like_count": 13633,
+          "quote_count": 64,
+          "reply_count": 821,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 70,
+          "like_count": 4391,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 892
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T19:43:34.000Z",
+        "description": "Playing for @Team__Spirit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "Team__Spirit"
+              }
+            ]
+          }
+        },
+        "id": "1712916973066027008",
+        "name": "donk1337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712917191257993216/UFqPyD0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106139,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 86,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "donk1337",
+        "verified": false
+      }
+    ]
+  }
+}

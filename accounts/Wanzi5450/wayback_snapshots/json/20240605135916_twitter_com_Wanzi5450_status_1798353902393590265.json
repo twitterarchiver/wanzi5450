@@ -1,0 +1,622 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798341291031592960"
+      ],
+      "media_source_tweet_id": [
+        "1798341294277943465"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Blues",
+          "id": "849673841244741632",
+          "name": "Blues music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1286087026526150656",
+          "name": "Soul music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      }
+    ],
+    "conversation_id": "1798353902393590265",
+    "created_at": "2024-06-05T13:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T14:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798353902393590265"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Blues in the Closet",
+          "probability": 0.6718,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "986275202030907392",
+          "start": 3,
+          "username": "zutomayo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "大人になると苦さも心地よく美味しくなれるかなStreaming/DL：https://lnk.to/ZTMY_bitc映画『好きでも嫌いなあまのじゃく』挿入歌「Blues in the Closet」(ZUTOMAYO - Blues in the Closet)Lyrics - ACAねMusic - ACAね...",
+          "display_url": "youtu.be/E8RMWLoAsa0",
+          "end": 100,
+          "expanded_url": "https://youtu.be/E8RMWLoAsa0",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1798341297775972352/kn2nGa3d?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1798341297775972352/kn2nGa3d?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 77,
+          "status": 200,
+          "title": "ずっと真夜中でいいのに。『Blues in the Closet』MV (ZUTOMAYO – Blues in the Closet)",
+          "unwound_url": "https://www.youtube.com/watch?v=E8RMWLoAsa0&feature=youtu.be",
+          "url": "https://t.co/dK4Fppddyg"
+        },
+        {
+          "display_url": "pic.twitter.com/WIn4gn71vC",
+          "end": 124,
+          "expanded_url": "https://twitter.com/zutomayo/status/1798341294277943465/photo/1",
+          "media_key": "3_1798341291031592960",
+          "start": 101,
+          "url": "https://t.co/WIn4gn71vC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798353902393590265",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 982
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798341294277943465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zutomayo: 新曲 “Blues in the Closet”\n\n明日6/6 21:00 MV・曲 ☽ \n\nお部屋もできたよ　ぶるくろにら\nhttps://t.co/dK4Fppddyg https://t.co/WIn4gn71vC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1798341291031592960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPT94EzbAAAb9n4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798341291031592960"
+          ],
+          "media_source_tweet_id": [
+            "1798341294277943465"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Blues",
+              "id": "849673841244741632",
+              "name": "Blues music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1286087026526150656",
+              "name": "Soul music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "1798353902393590265",
+        "created_at": "2024-06-05T13:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T14:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798353902393590265"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Blues in the Closet",
+              "probability": 0.6718,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "986275202030907392",
+              "start": 3,
+              "username": "zutomayo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "大人になると苦さも心地よく美味しくなれるかなStreaming/DL：https://lnk.to/ZTMY_bitc映画『好きでも嫌いなあまのじゃく』挿入歌「Blues in the Closet」(ZUTOMAYO - Blues in the Closet)Lyrics - ACAねMusic - ACAね...",
+              "display_url": "youtu.be/E8RMWLoAsa0",
+              "end": 100,
+              "expanded_url": "https://youtu.be/E8RMWLoAsa0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1798341297775972352/kn2nGa3d?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1798341297775972352/kn2nGa3d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "ずっと真夜中でいいのに。『Blues in the Closet』MV (ZUTOMAYO – Blues in the Closet)",
+              "unwound_url": "https://www.youtube.com/watch?v=E8RMWLoAsa0&feature=youtu.be",
+              "url": "https://t.co/dK4Fppddyg"
+            },
+            {
+              "display_url": "pic.twitter.com/WIn4gn71vC",
+              "end": 124,
+              "expanded_url": "https://twitter.com/zutomayo/status/1798341294277943465/photo/1",
+              "media_key": "3_1798341291031592960",
+              "start": 101,
+              "url": "https://t.co/WIn4gn71vC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798353902393590265",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 983
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798341294277943465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zutomayo: 新曲 “Blues in the Closet”\n\n明日6/6 21:00 MV・曲 ☽ \n\nお部屋もできたよ　ぶるくろにら\nhttps://t.co/dK4Fppddyg https://t.co/WIn4gn71vC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798341291031592960"
+          ]
+        },
+        "author_id": "986275202030907392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Blues",
+              "id": "849673841244741632",
+              "name": "Blues music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1286087026526150656",
+              "name": "Soul music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "1798341294277943465",
+        "created_at": "2024-06-05T13:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T14:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798341294277943465"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Blues in the Closet",
+              "probability": 0.7504,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "大人になると苦さも心地よく美味しくなれるかなStreaming/DL：https://lnk.to/ZTMY_bitc映画『好きでも嫌いなあまのじゃく』挿入歌「Blues in the Closet」(ZUTOMAYO - Blues in the Closet)Lyrics - ACAねMusic - ACAね...",
+              "display_url": "youtu.be/E8RMWLoAsa0",
+              "end": 86,
+              "expanded_url": "https://youtu.be/E8RMWLoAsa0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1798341297775972352/kn2nGa3d?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1798341297775972352/kn2nGa3d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "ずっと真夜中でいいのに。『Blues in the Closet』MV (ZUTOMAYO – Blues in the Closet)",
+              "unwound_url": "https://www.youtube.com/watch?v=E8RMWLoAsa0&feature=youtu.be",
+              "url": "https://t.co/dK4Fppddyg"
+            },
+            {
+              "display_url": "pic.twitter.com/WIn4gn71vC",
+              "end": 110,
+              "expanded_url": "https://twitter.com/zutomayo/status/1798341294277943465/photo/1",
+              "media_key": "3_1798341291031592960",
+              "start": 87,
+              "url": "https://t.co/WIn4gn71vC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798341294277943465",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 111284,
+          "like_count": 5489,
+          "quote_count": 148,
+          "reply_count": 158,
+          "retweet_count": 983
+        },
+        "reply_settings": "everyone",
+        "text": "新曲 “Blues in the Closet”\n\n明日6/6 21:00 MV・曲 ☽ \n\nお部屋もできたよ　ぶるくろにら\nhttps://t.co/dK4Fppddyg https://t.co/WIn4gn71vC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2205,
+          "listed_count": 0,
+          "tweet_count": 375
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T16:08:27.000Z",
+        "description": "https://t.co/9MiAS9i79m ううううううううううううう 曲とかライブ作りしてます あそびきてね 新曲 嘘じゃない/Blues in the Closet でます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lnk.to/ZUTOMAYO_YT",
+                "end": 23,
+                "expanded_url": "https://lnk.to/ZUTOMAYO_YT",
+                "start": 0,
+                "url": "https://t.co/9MiAS9i79m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/zutomayo/",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/zutomayo/",
+                "start": 0,
+                "url": "https://t.co/ZMjuEbK5Xz"
+              }
+            ]
+          }
+        },
+        "id": "986275202030907392",
+        "name": "ACAね a.k.a にくきゅう博士",
+        "pinned_tweet_id": "1793613163843481909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409459829316284419/nrIiFKWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594200,
+          "following_count": 3,
+          "like_count": 5929,
+          "listed_count": 2926,
+          "tweet_count": 5823
+        },
+        "url": "https://t.co/ZMjuEbK5Xz",
+        "username": "zutomayo",
+        "verified": false
+      }
+    ]
+  }
+}

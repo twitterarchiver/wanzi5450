@@ -1,0 +1,320 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1807158208504774656",
+        "3_1807158257510957056"
+      ],
+      "media_source_tweet_id": [
+        "1807158963529785500",
+        "1807158963529785500"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1807728198886817986",
+    "created_at": "2024-07-01T10:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T11:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807728198886817986"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 67,
+          "start": 54,
+          "tag": "GirlsBandCry"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "井芹仁菜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506997974798577666",
+          "start": 3,
+          "username": "kz_nezu3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/9ZI5Yh11Fe",
+          "end": 97,
+          "expanded_url": "https://twitter.com/kz_nezu3/status/1807158963529785500/photo/1",
+          "media_key": "3_1807158208504774656",
+          "start": 74,
+          "url": "https://t.co/9ZI5Yh11Fe"
+        },
+        {
+          "display_url": "pic.twitter.com/9ZI5Yh11Fe",
+          "end": 97,
+          "expanded_url": "https://twitter.com/kz_nezu3/status/1807158963529785500/photo/1",
+          "media_key": "3_1807158257510957056",
+          "start": 74,
+          "url": "https://t.co/9ZI5Yh11Fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807728198886817986",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 588
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807158963529785500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kz_nezu3: 最終回テンションのままニーナ描きました\n小指を立てて続編待ってます\n#ガルクラ #GirlsBandCry #井芹仁菜 https://t.co/9ZI5Yh11Fe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2865,
+        "media_key": "3_1807158208504774656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRRQ0N7bwAA6uK2.jpg",
+        "width": 1246
+      },
+      {
+        "height": 2865,
+        "media_key": "3_1807158257510957056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRRQ3EfawAAdG47.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807158208504774656",
+            "3_1807158257510957056"
+          ],
+          "media_source_tweet_id": [
+            "1807158963529785500",
+            "1807158963529785500"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1807728198886817986",
+        "created_at": "2024-07-01T10:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T11:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807728198886817986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 67,
+              "start": 54,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "井芹仁菜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506997974798577666",
+              "start": 3,
+              "username": "kz_nezu3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9ZI5Yh11Fe",
+              "end": 97,
+              "expanded_url": "https://twitter.com/kz_nezu3/status/1807158963529785500/photo/1",
+              "media_key": "3_1807158208504774656",
+              "start": 74,
+              "url": "https://t.co/9ZI5Yh11Fe"
+            },
+            {
+              "display_url": "pic.twitter.com/9ZI5Yh11Fe",
+              "end": 97,
+              "expanded_url": "https://twitter.com/kz_nezu3/status/1807158963529785500/photo/1",
+              "media_key": "3_1807158257510957056",
+              "start": 74,
+              "url": "https://t.co/9ZI5Yh11Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807728198886817986",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 588
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807158963529785500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kz_nezu3: 最終回テンションのままニーナ描きました\n小指を立てて続編待ってます\n#ガルクラ #GirlsBandCry #井芹仁菜 https://t.co/9ZI5Yh11Fe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807158208504774656",
+            "3_1807158257510957056"
+          ]
+        },
+        "author_id": "1506997974798577666",
+        "conversation_id": "1807158963529785500",
+        "created_at": "2024-06-29T21:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T22:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807158963529785500"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 53,
+              "start": 40,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "井芹仁菜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9ZI5Yh11Fe",
+              "end": 83,
+              "expanded_url": "https://twitter.com/kz_nezu3/status/1807158963529785500/photo/1",
+              "media_key": "3_1807158208504774656",
+              "start": 60,
+              "url": "https://t.co/9ZI5Yh11Fe"
+            },
+            {
+              "display_url": "pic.twitter.com/9ZI5Yh11Fe",
+              "end": 83,
+              "expanded_url": "https://twitter.com/kz_nezu3/status/1807158963529785500/photo/1",
+              "media_key": "3_1807158257510957056",
+              "start": 60,
+              "url": "https://t.co/9ZI5Yh11Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807158963529785500",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 69591,
+          "like_count": 3554,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 588
+        },
+        "reply_settings": "everyone",
+        "text": "最終回テンションのままニーナ描きました\n小指を立てて続編待ってます\n#ガルクラ #GirlsBandCry #井芹仁菜 https://t.co/9ZI5Yh11Fe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 2404,
+          "listed_count": 0,
+          "tweet_count": 394
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T14:15:27.000Z",
+        "description": "アニメやらゲームやら気が向いたものを描きます。\n関わらせて頂いた作品∶『ゴエティアクロス』\nお仕事などご連絡ありましたらこちらにどうぞ→kz.nezunezu3@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66168198",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/users/66168198",
+                "start": 0,
+                "url": "https://t.co/hLXC7VGOy0"
+              }
+            ]
+          }
+        },
+        "id": "1506997974798577666",
+        "name": "和鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512787056308928513/UBUmiWt8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 75,
+          "like_count": 316,
+          "listed_count": 31,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/hLXC7VGOy0",
+        "username": "kz_nezu3",
+        "verified": false
+      }
+    ]
+  }
+}

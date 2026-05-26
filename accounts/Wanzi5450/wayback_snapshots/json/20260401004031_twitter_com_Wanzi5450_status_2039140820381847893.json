@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2038893166783570003",
+    "created_at": "2026-04-01T00:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039140820381847893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1826984750332116992",
+          "start": 0,
+          "username": "liey_r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039140820381847893",
+    "in_reply_to_user_id": "1826984750332116992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039053933558235323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liey_r 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038893166783570003",
+        "created_at": "2026-04-01T00:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039140820381847893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1826984750332116992",
+              "start": 0,
+              "username": "liey_r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039140820381847893",
+        "in_reply_to_user_id": "1826984750332116992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039053933558235323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liey_r 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984750332116992",
+        "conversation_id": "2038893166783570003",
+        "created_at": "2026-03-31T18:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039053933558235323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039053933558235323",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038893166783570003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 观众或者读者，我觉得这是个恰当的范围，既有互动又避免了高情感高期待的交流。粉丝的话，总感觉要付出点我所不能接受的代价才能获得喜爱，那太可怕了。不图钱不图名利，不想把同样的人群划分出阶级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 287,
+          "like_count": 10539,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2641
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:18.000Z",
+        "description": "infp/istj，希望从天而降五个亿砸死我\n不接受恶评和低俗私信，仅友好互动",
+        "id": "1826984750332116992",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ike-u-eyes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038994259081310208/m1MOnRd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 64,
+          "like_count": 3650,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 386
+        },
+        "username": "liey_r",
+        "verified": false
+      }
+    ]
+  }
+}

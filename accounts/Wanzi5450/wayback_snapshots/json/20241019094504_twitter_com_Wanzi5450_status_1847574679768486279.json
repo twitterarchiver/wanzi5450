@@ -1,0 +1,154 @@
+{
+  "data": {
+    "author_id": "1738375202168532992",
+    "conversation_id": "1847574679768486279",
+    "created_at": "2024-10-19T09:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T10:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847574679768486279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ]
+    },
+    "id": "1847574679768486279",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847171575331844395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: 〜心の友〜下野由貴ちゃん出演\n劇走 #江戸鴉 新橋演舞場にて観劇いたしました！✨\n江戸ギャルかわゆかったよ由貴ちゃん！\n\n新橋演舞場は素晴らしい劇場だなぁ！\nたくさん笑わせていただきましたー！\nさとゆりお姉さまと。 https://t.c…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1738375202168532992",
+        "conversation_id": "1847574679768486279",
+        "created_at": "2024-10-19T09:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T10:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847574679768486279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ]
+        },
+        "id": "1847574679768486279",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847171575331844395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: 〜心の友〜下野由貴ちゃん出演\n劇走 #江戸鴉 新橋演舞場にて観劇いたしました！✨\n江戸ギャルかわゆかったよ由貴ちゃん！\n\n新橋演舞場は素晴らしい劇場だなぁ！\nたくさん笑わせていただきましたー！\nさとゆりお姉さまと。 https://t.c…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3995,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 812
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "mitt management所属 声優・俳優｜ミュージカルや宝塚、ロックと映画が好き。ドラムを叩きます｜FC🪄︎︎https://t.co/eHz0D4Plcz ｜お仕事のご依頼はこちらまで→info.mittmg@mittma.com ｜⚠︎画像や動画の無断転載・無断利用はおやめください⚠︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hayashicoco.com",
+                "end": 81,
+                "expanded_url": "http://hayashicoco.com",
+                "start": 58,
+                "url": "https://t.co/eHz0D4Plcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mittma.com",
+                "end": 23,
+                "expanded_url": "https://mittma.com/",
+                "start": 0,
+                "url": "https://t.co/1AuV4pXSZZ"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "name": "林鼓子",
+        "pinned_tweet_id": "1849289943866290372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641821141982670848/ZS90ZFfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114181,
+          "following_count": 501,
+          "like_count": 7668,
+          "listed_count": 2574,
+          "media_count": 1365,
+          "tweet_count": 6973
+        },
+        "url": "https://t.co/1AuV4pXSZZ",
+        "username": "cocohayashi515",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2043687433569706340",
+    "created_at": "2026-04-13T15:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043711249884836070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749719755119071232",
+          "start": 0,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043711249884836070",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043710913451364840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_shang32900 真的很美味啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2043687433569706340",
+        "created_at": "2026-04-13T15:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043711249884836070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043711249884836070",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043710913451364840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 真的很美味啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2043687433569706340",
+        "created_at": "2026-04-13T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043710913451364840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043710913451364840",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043687433569706340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 我也想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 263,
+          "like_count": 11769,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 3165
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 799,
+          "like_count": 44026,
+          "listed_count": 2,
+          "media_count": 780,
+          "tweet_count": 11068
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

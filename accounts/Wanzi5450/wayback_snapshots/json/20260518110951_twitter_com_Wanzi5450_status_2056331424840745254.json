@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056329306838835209",
+    "created_at": "2026-05-18T11:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056331424840745254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609380631917776896",
+          "start": 0,
+          "username": "_Yt8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056331424840745254",
+    "in_reply_to_user_id": "1609380631917776896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056329306838835209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Yt8964 1+1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056329306838835209",
+        "created_at": "2026-05-18T11:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056331424840745254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609380631917776896",
+              "start": 0,
+              "username": "_Yt8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056331424840745254",
+        "in_reply_to_user_id": "1609380631917776896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056329306838835209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Yt8964 1+1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609380631917776896",
+        "conversation_id": "2056329306838835209",
+        "created_at": "2026-05-18T11:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056329306838835209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056329306838835209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "犹豫吃麦当劳还是肯德基的时候发现只剩十七块了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 287,
+          "like_count": 15780,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 3813
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T02:49:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2y4cvikwgy4n55…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/2y4cvikwgy4n55e?t=HEZBPO&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/1jaGCXGcJD"
+              }
+            ]
+          }
+        },
+        "id": "1609380631917776896",
+        "location": "宛平南路600號",
+        "name": "晨昏線",
+        "pinned_tweet_id": "2042290012419735694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046414644261367808/ukHa-L-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 362,
+          "like_count": 27088,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/1jaGCXGcJD",
+        "username": "_Yt8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1855870125037289645",
+    "created_at": "2024-11-11T07:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T08:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855870125037289645"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "こたえなんてなくても",
+          "probability": 0.6745,
+          "start": 62,
+          "type": "Other"
+        },
+        {
+          "end": 83,
+          "normalized_text": "日比谷公園大音楽堂",
+          "probability": 0.1946,
+          "start": 75,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "MyGO!!!!! 7th LIVE「こたえなんてなくても」について掲載中。",
+          "display_url": "bang-dream.com/events/mygo_7th",
+          "end": 131,
+          "expanded_url": "https://bang-dream.com/events/mygo_7th",
+          "images": [
+            {
+              "height": 418,
+              "url": "https://pbs.twimg.com/news_img/1855203739168108544/8QRvzyP6?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1855203739168108544/8QRvzyP6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "MyGO!!!!! 7th LIVE「こたえなんてなくても」 | BanG Dream!（バンドリ！）公式サイト",
+          "unwound_url": "https://bang-dream.com/events/mygo_7th",
+          "url": "https://t.co/jyHYmL4MGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855870125037289645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855203686575747341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: 【ライブ情報】\n\n12月22日(日)開催\nMyGO!!!!! 7th LIVE\n「こたえなんてなくても」\n@日比谷公園大音楽堂\n\n配信チケットが発売中です。\n\n詳細はこちら\nhttps://t.co/jyHYmL4MGl\n\n#バンドリ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1855870125037289645",
+        "created_at": "2024-11-11T07:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T08:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855870125037289645"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "こたえなんてなくても",
+              "probability": 0.6745,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 83,
+              "normalized_text": "日比谷公園大音楽堂",
+              "probability": 0.1946,
+              "start": 75,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MyGO!!!!! 7th LIVE「こたえなんてなくても」について掲載中。",
+              "display_url": "bang-dream.com/events/mygo_7th",
+              "end": 131,
+              "expanded_url": "https://bang-dream.com/events/mygo_7th",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/1855203739168108544/8QRvzyP6?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1855203739168108544/8QRvzyP6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "MyGO!!!!! 7th LIVE「こたえなんてなくても」 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/events/mygo_7th",
+              "url": "https://t.co/jyHYmL4MGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855870125037289645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855203686575747341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: 【ライブ情報】\n\n12月22日(日)開催\nMyGO!!!!! 7th LIVE\n「こたえなんてなくても」\n@日比谷公園大音楽堂\n\n配信チケットが発売中です。\n\n詳細はこちら\nhttps://t.co/jyHYmL4MGl\n\n#バンドリ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1855203686575747341",
+        "created_at": "2024-11-09T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855203686575747341"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "こたえなんてなくても",
+              "probability": 0.6716,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "日比谷公園大音楽堂",
+              "probability": 0.188,
+              "start": 54,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "MyGO!!!!! 7th LIVE「こたえなんてなくても」について掲載中。",
+              "display_url": "bang-dream.com/events/mygo_7th",
+              "end": 110,
+              "expanded_url": "https://bang-dream.com/events/mygo_7th",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/1855203739168108544/8QRvzyP6?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1855203739168108544/8QRvzyP6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "MyGO!!!!! 7th LIVE「こたえなんてなくても」 | BanG Dream!（バンドリ！）公式サイト",
+              "unwound_url": "https://bang-dream.com/events/mygo_7th",
+              "url": "https://t.co/jyHYmL4MGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855203686575747341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 50436,
+          "like_count": 947,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "【ライブ情報】\n\n12月22日(日)開催\nMyGO!!!!! 7th LIVE\n「こたえなんてなくても」\n@日比谷公園大音楽堂\n\n配信チケットが発売中です。\n\n詳細はこちら\nhttps://t.co/jyHYmL4MGl\n\n#バンドリ #MyGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 3605,
+          "listed_count": 0,
+          "tweet_count": 746
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。12月22日(日) 、MyGO!!!!! 7th LIVE「こたえなんてなくても」が日比谷公園大音楽堂にて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 127,
+                "start": 122,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1839862595165290579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124749,
+          "following_count": 40,
+          "like_count": 194,
+          "listed_count": 605,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

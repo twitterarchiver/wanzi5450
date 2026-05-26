@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2054533226363043937",
+    "created_at": "2026-05-13T12:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054535248231407900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054535248231407900",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054533226363043937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz that’s so cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_2054533209577451520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMrEZgbcAAsrj8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1845,
+        "media_key": "3_2054533218590998528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMrE7FbQAA0Ki_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2054533226363043937",
+        "created_at": "2026-05-13T12:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054535248231407900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054535248231407900",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054533226363043937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz that’s so cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054533209577451520",
+            "3_2054533218590998528"
+          ]
+        },
+        "author_id": "1594653039109230598",
+        "conversation_id": "2054533226363043937",
+        "created_at": "2026-05-13T12:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054533226363043937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwrE79Ad9X",
+              "end": 55,
+              "expanded_url": "https://x.com/regaforz/status/2054533226363043937/photo/1",
+              "media_key": "3_2054533209577451520",
+              "start": 32,
+              "url": "https://t.co/vwrE79Ad9X"
+            },
+            {
+              "display_url": "pic.x.com/vwrE79Ad9X",
+              "end": 55,
+              "expanded_url": "https://x.com/regaforz/status/2054533226363043937/photo/1",
+              "media_key": "3_2054533218590998528",
+              "start": 32,
+              "url": "https://t.co/vwrE79Ad9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054533226363043937",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Guitarist since childhood 🤷🏻‍♂️ https://t.co/vwrE79Ad9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 288,
+          "like_count": 15144,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 3814
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "peace of mind above everything",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/regaforz?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/regaforz?igsh=dzdhcXg4dGNkN3J0",
+                "start": 0,
+                "url": "https://t.co/SbjaqOv0Z7"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "location": "Guitarist🎸",
+        "name": "Rega",
+        "pinned_tweet_id": "2033296173885452718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051516500742414336/ffrAQrb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1693,
+          "like_count": 14701,
+          "listed_count": 8,
+          "media_count": 560,
+          "tweet_count": 4045
+        },
+        "url": "https://t.co/SbjaqOv0Z7",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

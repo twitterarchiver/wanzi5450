@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047001430792552587",
+    "created_at": "2026-04-22T17:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047001430792552587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994221672577298432",
+          "start": 3,
+          "username": "ugtp4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047001430792552587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046872207306129747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ugtp4: 死にたいのに毎日ご飯食べて薬飲んで寝てるの普通に気持ち悪い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047001430792552587",
+        "created_at": "2026-04-22T17:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047001430792552587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994221672577298432",
+              "start": 3,
+              "username": "ugtp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047001430792552587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046872207306129747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ugtp4: 死にたいのに毎日ご飯食べて薬飲んで寝てるの普通に気持ち悪い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994221672577298432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046872207306129747",
+        "created_at": "2026-04-22T08:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046872207306129747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046872207306129747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 24911,
+          "like_count": 1349,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "死にたいのに毎日ご飯食べて薬飲んで寝てるの普通に気持ち悪い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 275,
+          "like_count": 12889,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 3458
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T01:48:31.000Z",
+        "description": "05┊︎🚺 ┊︎専門▶︎中退┊︎うつ病(診断済) ┊︎ASD,ADHD(グレー)┊︎任意入院2回┊︎医療保護入院１回(閉鎖2回┊︎開放2回 )┊︎ネガツイ多め",
+        "id": "1994221672577298432",
+        "location": "天国",
+        "name": "無理ちゃ",
+        "pinned_tweet_id": "2005202227133366763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002312551141629952/S16yZ2lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 76,
+          "like_count": 11135,
+          "listed_count": 9,
+          "media_count": 10,
+          "tweet_count": 1584
+        },
+        "username": "ugtp4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2044220829886759292",
+    "created_at": "2026-04-15T01:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T02:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044222361646576069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044222361646576069",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044220829886759292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o 码住了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044220820550234112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6IAWtasAAJa5j.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044220829886759292",
+        "created_at": "2026-04-15T01:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044222361646576069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044222361646576069",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044220829886759292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o 码住了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044220820550234112"
+          ]
+        },
+        "author_id": "2015583135480811520",
+        "conversation_id": "2044220829886759292",
+        "created_at": "2026-04-15T01:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044220829886759292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YVlTifezsJ",
+              "end": 38,
+              "expanded_url": "https://x.com/OvooLOO3o/status/2044220829886759292/photo/1",
+              "media_key": "3_2044220820550234112",
+              "start": 15,
+              "url": "https://t.co/YVlTifezsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044220829886759292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这家袖套都好好看但是好贵…！ https://t.co/YVlTifezsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 264,
+          "like_count": 11898,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 3227
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "salmon__sukiii"
+              }
+            ]
+          }
+        },
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027671982087802885/O4MzddLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 535,
+          "like_count": 16355,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 4717
+        },
+        "username": "OvooLOO3o",
+        "verified": false
+      }
+    ]
+  }
+}

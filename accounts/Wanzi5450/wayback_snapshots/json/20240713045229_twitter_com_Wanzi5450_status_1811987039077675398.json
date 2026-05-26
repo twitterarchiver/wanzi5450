@@ -1,0 +1,310 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811338397673291776"
+      ],
+      "media_source_tweet_id": [
+        "1811339663099015626"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1811987039077675398",
+    "created_at": "2024-07-13T04:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T05:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811987039077675398"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 41,
+          "start": 28,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1022461876058423296",
+          "start": 3,
+          "username": "StudioHaoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/xEGeRCUs2S",
+          "end": 65,
+          "expanded_url": "https://twitter.com/StudioHaoto/status/1811339663099015626/photo/1",
+          "media_key": "3_1811338397673291776",
+          "start": 42,
+          "url": "https://t.co/xEGeRCUs2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811987039077675398",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811339663099015626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StudioHaoto: Nina #ガルクラ #GirlsBandCry https://t.co/xEGeRCUs2S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1811338397673291776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSMqrQFXgAApADn.jpg",
+        "width": 1935
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811338397673291776"
+          ],
+          "media_source_tweet_id": [
+            "1811339663099015626"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1811987039077675398",
+        "created_at": "2024-07-13T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811987039077675398"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 41,
+              "start": 28,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1022461876058423296",
+              "start": 3,
+              "username": "StudioHaoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xEGeRCUs2S",
+              "end": 65,
+              "expanded_url": "https://twitter.com/StudioHaoto/status/1811339663099015626/photo/1",
+              "media_key": "3_1811338397673291776",
+              "start": 42,
+              "url": "https://t.co/xEGeRCUs2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811987039077675398",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811339663099015626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StudioHaoto: Nina #ガルクラ #GirlsBandCry https://t.co/xEGeRCUs2S"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811338397673291776"
+          ]
+        },
+        "author_id": "1022461876058423296",
+        "conversation_id": "1811339663099015626",
+        "created_at": "2024-07-11T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811339663099015626"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Nina",
+              "probability": 0.5866,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "GirlsBandCry",
+              "probability": 0.7791,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 24,
+              "start": 11,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xEGeRCUs2S",
+              "end": 48,
+              "expanded_url": "https://twitter.com/StudioHaoto/status/1811339663099015626/photo/1",
+              "media_key": "3_1811338397673291776",
+              "start": 25,
+              "url": "https://t.co/xEGeRCUs2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811339663099015626",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 22277,
+          "like_count": 1777,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "Nina #ガルクラ #GirlsBandCry https://t.co/xEGeRCUs2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 2583,
+          "listed_count": 0,
+          "tweet_count": 428
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-26T12:41:22.000Z",
+        "description": "◆ Artist Couple (Writer & Illustrator)\n◆ Read our Yuri #LightNovel Your Healer - https://t.co/XEqjh8uw16\n◆ Commissions: https://t.co/URL9aawG1O",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 55,
+                "tag": "LightNovel"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yourhealer-lightnovel.carrd.co",
+                "end": 104,
+                "expanded_url": "https://yourhealer-lightnovel.carrd.co/",
+                "start": 81,
+                "url": "https://t.co/XEqjh8uw16"
+              },
+              {
+                "display_url": "vgen.co/StudioHaoto",
+                "end": 143,
+                "expanded_url": "http://vgen.co/StudioHaoto",
+                "start": 120,
+                "url": "https://t.co/URL9aawG1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/studio.haoto",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/studio.haoto",
+                "start": 0,
+                "url": "https://t.co/2EcDHOcTyr"
+              }
+            ]
+          }
+        },
+        "id": "1022461876058423296",
+        "location": "Deutschland",
+        "name": "Studio Haoto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811813142621564928/w2E1zDkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 443,
+          "like_count": 24114,
+          "listed_count": 8,
+          "tweet_count": 4278
+        },
+        "url": "https://t.co/2EcDHOcTyr",
+        "username": "StudioHaoto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048412864227274752"
+      ],
+      "media_source_tweet_id": [
+        "2048412872091594916"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048638029640896720",
+    "created_at": "2026-04-27T05:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048638029640896720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1111584083740495872",
+          "start": 3,
+          "username": "mot_1623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NqfQmKT4rb",
+          "end": 37,
+          "expanded_url": "https://x.com/mot_1623/status/2048412872091594916/photo/1",
+          "media_key": "3_2048412864227274752",
+          "start": 14,
+          "url": "https://t.co/NqfQmKT4rb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048638029640896720",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048412872091594916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mot_1623: https://t.co/NqfQmKT4rb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2258,
+        "media_key": "3_2048412864227274752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1spaWbcAAmOAc.jpg",
+        "width": 1355
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048412864227274752"
+          ],
+          "media_source_tweet_id": [
+            "2048412872091594916"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048638029640896720",
+        "created_at": "2026-04-27T05:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048638029640896720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1111584083740495872",
+              "start": 3,
+              "username": "mot_1623"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqfQmKT4rb",
+              "end": 37,
+              "expanded_url": "https://x.com/mot_1623/status/2048412872091594916/photo/1",
+              "media_key": "3_2048412864227274752",
+              "start": 14,
+              "url": "https://t.co/NqfQmKT4rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048638029640896720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412872091594916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mot_1623: https://t.co/NqfQmKT4rb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048412864227274752"
+          ]
+        },
+        "author_id": "1111584083740495872",
+        "conversation_id": "2048412872091594916",
+        "created_at": "2026-04-26T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048412872091594916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqfQmKT4rb",
+              "end": 23,
+              "expanded_url": "https://x.com/mot_1623/status/2048412872091594916/photo/1",
+              "media_key": "3_2048412864227274752",
+              "start": 0,
+              "url": "https://t.co/NqfQmKT4rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048412872091594916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 8269,
+          "like_count": 964,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NqfQmKT4rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 280,
+          "like_count": 13520,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 3573
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-29T11:01:12.000Z",
+        "description": "最後、蝶になるのがいい。",
+        "id": "1111584083740495872",
+        "location": " 20↑ 雑多 転載禁止",
+        "name": "も",
+        "pinned_tweet_id": "1824274142830661943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966801214437552132/wWjklGmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 80,
+          "like_count": 2597,
+          "listed_count": 17,
+          "media_count": 145,
+          "tweet_count": 2444
+        },
+        "username": "mot_1623",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2033769990340665373",
+    "created_at": "2026-03-17T05:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T06:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033777073698050528"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033777073698050528",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033769990340665373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如说是对这个敏感才更高概率成为双相，今天一下子下雨➕阴天我就比昨天down很多。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2033769990340665373",
+        "created_at": "2026-03-17T05:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033777073698050528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033777073698050528",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033769990340665373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如说是对这个敏感才更高概率成为双相，今天一下子下雨➕阴天我就比昨天down很多。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2033769990340665373",
+        "created_at": "2026-03-17T04:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033769990340665373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033769990340665373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得双相患者真的对睡眠和饮食很敏感，哪怕一天什么也不做只要你每天准时睡觉和起床，就会改善你的精神状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 240,
+          "like_count": 9222,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 2107
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

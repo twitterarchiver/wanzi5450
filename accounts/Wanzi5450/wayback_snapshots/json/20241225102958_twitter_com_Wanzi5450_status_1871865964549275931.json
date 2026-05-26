@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871829061875679232",
+        "3_1871829061884080128"
+      ],
+      "media_source_tweet_id": [
+        "1871829123901059500",
+        "1871829123901059500"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1871865964549275931",
+    "created_at": "2024-12-25T10:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T11:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871865964549275931"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "tukiサンタ",
+          "probability": 0.3558,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690345111006425089",
+          "start": 3,
+          "username": "tuki_music_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcaceg9MIf",
+          "end": 61,
+          "expanded_url": "https://x.com/tuki_music_/status/1871829123901059500/photo/1",
+          "media_key": "3_1871829061875679232",
+          "start": 38,
+          "url": "https://t.co/qcaceg9MIf"
+        },
+        {
+          "display_url": "pic.x.com/qcaceg9MIf",
+          "end": 61,
+          "expanded_url": "https://x.com/tuki_music_/status/1871829123901059500/photo/1",
+          "media_key": "3_1871829061884080128",
+          "start": 38,
+          "url": "https://t.co/qcaceg9MIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871865964549275931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 772
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871829123901059500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuki_music_: tukiサンタはみんなに歌を届けるよ〜🎅 https://t.co/qcaceg9MIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_1871829061875679232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfoSnUlaQAAHgHd.jpg",
+        "width": 2047
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1871829061884080128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfoSnUnacAAOP6r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871829061875679232",
+            "3_1871829061884080128"
+          ],
+          "media_source_tweet_id": [
+            "1871829123901059500",
+            "1871829123901059500"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1871865964549275931",
+        "created_at": "2024-12-25T10:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T11:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871865964549275931"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "tukiサンタ",
+              "probability": 0.3558,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690345111006425089",
+              "start": 3,
+              "username": "tuki_music_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcaceg9MIf",
+              "end": 61,
+              "expanded_url": "https://x.com/tuki_music_/status/1871829123901059500/photo/1",
+              "media_key": "3_1871829061875679232",
+              "start": 38,
+              "url": "https://t.co/qcaceg9MIf"
+            },
+            {
+              "display_url": "pic.x.com/qcaceg9MIf",
+              "end": 61,
+              "expanded_url": "https://x.com/tuki_music_/status/1871829123901059500/photo/1",
+              "media_key": "3_1871829061884080128",
+              "start": 38,
+              "url": "https://t.co/qcaceg9MIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871865964549275931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871829123901059500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuki_music_: tukiサンタはみんなに歌を届けるよ〜🎅 https://t.co/qcaceg9MIf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871829061875679232",
+            "3_1871829061884080128"
+          ]
+        },
+        "author_id": "1690345111006425089",
+        "conversation_id": "1871829123901059500",
+        "created_at": "2024-12-25T08:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T09:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871829123901059500"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "tukiサンタ",
+              "probability": 0.378,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcaceg9MIf",
+              "end": 44,
+              "expanded_url": "https://x.com/tuki_music_/status/1871829123901059500/photo/1",
+              "media_key": "3_1871829061875679232",
+              "start": 21,
+              "url": "https://t.co/qcaceg9MIf"
+            },
+            {
+              "display_url": "pic.x.com/qcaceg9MIf",
+              "end": 44,
+              "expanded_url": "https://x.com/tuki_music_/status/1871829123901059500/photo/1",
+              "media_key": "3_1871829061884080128",
+              "start": 21,
+              "url": "https://t.co/qcaceg9MIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871829123901059500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 677,
+          "impression_count": 767158,
+          "like_count": 17114,
+          "quote_count": 273,
+          "reply_count": 220,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "tukiサンタはみんなに歌を届けるよ〜🎅 https://t.co/qcaceg9MIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 4220,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 861
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T12:51:05.000Z",
+        "description": "高校一年生15歳 弾き語り。お仕事の依頼はこちら tuki.oshigoto.irai@gmail.com オリジナル曲『晩餐歌』『ひゅるりらぱっぱ』『サクラキミワタシ』『地獄恋文』『愛の賞味期限』『アイモライモ』など配信中🔥 ”1st Album「15」2025/1/8 RELEASE 予約は↓↓↓リンクから”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tuki.lnk.to/20250108_15_PKG",
+                "end": 23,
+                "expanded_url": "https://tuki.lnk.to/20250108_15_PKG",
+                "start": 0,
+                "url": "https://t.co/qfDmedTYSd"
+              }
+            ]
+          }
+        },
+        "id": "1690345111006425089",
+        "location": "月の裏側",
+        "name": "tuki.(15)",
+        "pinned_tweet_id": "1859886418363027750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705136655374618624/h5n9cUVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239648,
+          "following_count": 15,
+          "like_count": 1939,
+          "listed_count": 203,
+          "media_count": 179,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/qfDmedTYSd",
+        "username": "tuki_music_",
+        "verified": false
+      }
+    ]
+  }
+}

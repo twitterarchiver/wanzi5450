@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048389062692900865",
+        "3_2048389062688686080",
+        "3_2048389062810345472",
+        "3_2048389062705524737"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2048389069651243096",
+    "created_at": "2026-04-26T13:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048389069651243096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 67,
+          "id": "1523441300644663299",
+          "start": 55,
+          "username": "HarbourMuR_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y1u88clQgk",
+          "end": 91,
+          "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+          "media_key": "3_2048389062692900865",
+          "start": 68,
+          "url": "https://t.co/Y1u88clQgk"
+        },
+        {
+          "display_url": "pic.x.com/Y1u88clQgk",
+          "end": 91,
+          "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+          "media_key": "3_2048389062688686080",
+          "start": 68,
+          "url": "https://t.co/Y1u88clQgk"
+        },
+        {
+          "display_url": "pic.x.com/Y1u88clQgk",
+          "end": 91,
+          "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+          "media_key": "3_2048389062810345472",
+          "start": 68,
+          "url": "https://t.co/Y1u88clQgk"
+        },
+        {
+          "display_url": "pic.x.com/Y1u88clQgk",
+          "end": 91,
+          "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+          "media_key": "3_2048389062705524737",
+          "start": 68,
+          "url": "https://t.co/Y1u88clQgk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048389069651243096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给好妈妈用柚子冰沙加入酱油制作了土豆泥，妈妈不吃，好伤心\n但玩的好开心，收到了好喜欢的礼物…真的好开心😭🥺💕💕@HarbourMuR_ https://t.co/Y1u88clQgk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048389062692900865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1W_-ubEAEAsyT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2048389062688686080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1W_-tawAAP9BM.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048389062810345472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1W__KbIAA05Ry.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048389062705524737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1W_-xbsAEUzOu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048389062692900865",
+            "3_2048389062688686080",
+            "3_2048389062810345472",
+            "3_2048389062705524737"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048389069651243096",
+        "created_at": "2026-04-26T13:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048389069651243096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1523441300644663299",
+              "start": 55,
+              "username": "HarbourMuR_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1u88clQgk",
+              "end": 91,
+              "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+              "media_key": "3_2048389062692900865",
+              "start": 68,
+              "url": "https://t.co/Y1u88clQgk"
+            },
+            {
+              "display_url": "pic.x.com/Y1u88clQgk",
+              "end": 91,
+              "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+              "media_key": "3_2048389062688686080",
+              "start": 68,
+              "url": "https://t.co/Y1u88clQgk"
+            },
+            {
+              "display_url": "pic.x.com/Y1u88clQgk",
+              "end": 91,
+              "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+              "media_key": "3_2048389062810345472",
+              "start": 68,
+              "url": "https://t.co/Y1u88clQgk"
+            },
+            {
+              "display_url": "pic.x.com/Y1u88clQgk",
+              "end": 91,
+              "expanded_url": "https://x.com/Wanzi5450/status/2048389069651243096/photo/1",
+              "media_key": "3_2048389062705524737",
+              "start": 68,
+              "url": "https://t.co/Y1u88clQgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048389069651243096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给好妈妈用柚子冰沙加入酱油制作了土豆泥，妈妈不吃，好伤心\n但玩的好开心，收到了好喜欢的礼物…真的好开心😭🥺💕💕@HarbourMuR_ https://t.co/Y1u88clQgk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 280,
+          "like_count": 13428,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 3555
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T23:14:54.000Z",
+        "description": "I speak：中文/English/Deutsch｜\nMe：Metal Bassist&Composing/Pixel Art Lover/Learning IndieDev/Pansexual｜\n上一世@Tovar1shchU 不知道怎么就死了｜\n永远友善 永远在意｜\n能和你做朋友很开心☺️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Tovar1shchU"
+              }
+            ]
+          }
+        },
+        "id": "1523441300644663299",
+        "location": "在你身边",
+        "name": "老摩",
+        "pinned_tweet_id": "1644960885461630976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 1302,
+          "like_count": 34978,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 3264
+        },
+        "username": "HarbourMuR_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026571740823040001"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2026571748532170941",
+    "created_at": "2026-02-25T08:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026571748532170941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ht3V0z3luk",
+          "end": 69,
+          "expanded_url": "https://x.com/Wanzi5450/status/2026571748532170941/photo/1",
+          "media_key": "3_2026571740823040001",
+          "start": 46,
+          "url": "https://t.co/Ht3V0z3luk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026571748532170941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前面那家店又喝了一杯，这个是氮气咖啡\n我觉得比绵云冷萃好喝！很清爽\n价格也比星巴克便宜很多 https://t.co/Ht3V0z3luk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026571740823040001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_UQtOaMAEvUOC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026571740823040001"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2026571748532170941",
+        "created_at": "2026-02-25T08:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026571748532170941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht3V0z3luk",
+              "end": 69,
+              "expanded_url": "https://x.com/Wanzi5450/status/2026571748532170941/photo/1",
+              "media_key": "3_2026571740823040001",
+              "start": 46,
+              "url": "https://t.co/Ht3V0z3luk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026571748532170941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前面那家店又喝了一杯，这个是氮气咖啡\n我觉得比绵云冷萃好喝！很清爽\n价格也比星巴克便宜很多 https://t.co/Ht3V0z3luk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 200,
+          "like_count": 8384,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1637
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

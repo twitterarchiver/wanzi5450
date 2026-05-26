@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046835298102046888",
+    "created_at": "2026-04-22T06:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T07:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046843858978537715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045022236201918465",
+          "start": 0,
+          "username": "cVPrL20wIa42392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046843858978537715",
+    "in_reply_to_user_id": "2045022236201918465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046835298102046888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cVPrL20wIa42392 学到了！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22166,
+        "height": 1280,
+        "media_key": "13_2045174283958353920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045174283958353920/img/qoSvPfMhucTAIq9X.jpg",
+        "public_metrics": {
+          "view_count": 129124
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045174283958353920/vid/avc1/320x568/s4UKAed0TzjSdAaf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045174283958353920/vid/avc1/480x852/U0j_DIW4UdyNyupb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045174283958353920/vid/avc1/720x1280/cIaEzly5tx4mdXRu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045174283958353920/pl/kI0x6_Z-rcll4ZlN.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046835298102046888",
+        "created_at": "2026-04-22T06:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046843858978537715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046843858978537715",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046835298102046888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 学到了！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045174283958353920"
+          ],
+          "media_source_tweet_id": [
+            "2045174395682034131"
+          ]
+        },
+        "author_id": "2045022236201918465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046835298102046888",
+        "created_at": "2026-04-22T06:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046835298102046888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3I6VxlXvRA",
+              "end": 31,
+              "expanded_url": "https://x.com/backpainrelif/status/2045174395682034131/video/1",
+              "media_key": "13_2045174283958353920",
+              "start": 8,
+              "url": "https://t.co/3I6VxlXvRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046835298102046888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们需要这个！ https://t.co/3I6VxlXvRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 274,
+          "like_count": 12627,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 3404
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 500,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": true
+      }
+    ]
+  }
+}

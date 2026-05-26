@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2044034860160037168",
+    "created_at": "2026-04-14T12:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044034860160037168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029092511634079748",
+          "start": 3,
+          "username": "akisa162196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044034860160037168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036148799677321419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akisa162196: 几年前跟着医院实习，去的重症病房。当时我脑内只有一个想法——治疗到底带给他们的是救赎，还是痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2044034860160037168",
+        "created_at": "2026-04-14T12:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044034860160037168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029092511634079748",
+              "start": 3,
+              "username": "akisa162196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044034860160037168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036148799677321419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akisa162196: 几年前跟着医院实习，去的重症病房。当时我脑内只有一个想法——治疗到底带给他们的是救赎，还是痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029092511634079748",
+        "conversation_id": "2036148799677321419",
+        "created_at": "2026-03-23T18:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036148799677321419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036148799677321419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几年前跟着医院实习，去的重症病房。当时我脑内只有一个想法——治疗到底带给他们的是救赎，还是痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 264,
+          "like_count": 11881,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 3212
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T07:12:17.000Z",
+        "description": "pansexual｜alcoholic｜oder｜药理毒理｜意识涣散爱说胡话｜进食障碍和一些其他的mental problems",
+        "id": "2029092511634079748",
+        "name": "akisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029093411056435201/b2FOZ0N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 71,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 115
+        },
+        "username": "akisa162196",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2038926873330331902",
+    "created_at": "2026-03-31T12:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038950326204780686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038950326204780686",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038949353734447194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks 我爱食麦当劳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038926873330331902",
+        "created_at": "2026-03-31T12:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038950326204780686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038950326204780686",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038949353734447194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks 我爱食麦当劳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2038926873330331902",
+        "created_at": "2026-03-31T11:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038949353734447194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038949353734447194",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038926873330331902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 286,
+          "like_count": 10469,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 2611
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳",
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 308,
+          "like_count": 4077,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1476
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}

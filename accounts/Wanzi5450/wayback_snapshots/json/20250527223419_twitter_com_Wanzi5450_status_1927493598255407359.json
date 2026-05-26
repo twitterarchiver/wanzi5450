@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1927493598255407359",
+    "created_at": "2025-05-27T22:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T23:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927493598255407359"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "SHIBUYA ANIME BASE",
+          "probability": 0.6331,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "燈ちゃん",
+          "probability": 0.8212,
+          "start": 90,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 44,
+          "tag": "わかれ道のその先へ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927493598255407359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1354
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927326460206776740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 『SHIBUYA ANIME BASE』#47\n\n「#わかれ道のその先へ」を\n冒頭で取り上げていただいておりました✨\n取材に対応される皆さんが\n燈ちゃん達のぬいぐるみを大事に抱えられていて\nあたたかい気持ちになりました✨\nメディア初公開のライ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1927326442280419329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr89MBZXgAEE-Jd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1927326442242596864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr89MBQWYAAJY-u.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1927493598255407359",
+        "created_at": "2025-05-27T22:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T23:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927493598255407359"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "SHIBUYA ANIME BASE",
+              "probability": 0.6331,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "燈ちゃん",
+              "probability": 0.8212,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "わかれ道のその先へ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927493598255407359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1354
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927326460206776740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 『SHIBUYA ANIME BASE』#47\n\n「#わかれ道のその先へ」を\n冒頭で取り上げていただいておりました✨\n取材に対応される皆さんが\n燈ちゃん達のぬいぐるみを大事に抱えられていて\nあたたかい気持ちになりました✨\nメディア初公開のライ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927326442280419329",
+            "3_1927326442242596864"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1927326460206776740",
+        "created_at": "2025-05-27T11:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927326460206776740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "SHIBUYA ANIME BASE",
+              "probability": 0.6679,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "燈ちゃん",
+              "probability": 0.8263,
+              "start": 72,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "わかれ道のその先へ"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "シブアニ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5vtB4aflj",
+              "end": 182,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1927326460206776740/photo/1",
+              "media_key": "3_1927326442280419329",
+              "start": 159,
+              "url": "https://t.co/l5vtB4aflj"
+            },
+            {
+              "display_url": "pic.x.com/l5vtB4aflj",
+              "end": 182,
+              "expanded_url": "https://x.com/Hina_Youmiya/status/1927326460206776740/photo/1",
+              "media_key": "3_1927326442242596864",
+              "start": 159,
+              "url": "https://t.co/l5vtB4aflj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927326460206776740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 134864,
+          "like_count": 9916,
+          "quote_count": 28,
+          "reply_count": 77,
+          "retweet_count": 1354
+        },
+        "reply_settings": "everyone",
+        "text": "『SHIBUYA ANIME BASE』#47\n\n「#わかれ道のその先へ」を\n冒頭で取り上げていただいておりました✨\n取材に対応される皆さんが\n燈ちゃん達のぬいぐるみを大事に抱えられていて\nあたたかい気持ちになりました✨\nメディア初公開のライブ映像もありますので\nよければ皆さんもご覧ください...✨\n\n #シブアニ https://t.co/l5vtB4aflj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4502,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 913
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控えいただけますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1916817230379291128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196968,
+          "following_count": 271,
+          "like_count": 1976,
+          "listed_count": 1525,
+          "media_count": 110,
+          "tweet_count": 1130
+        },
+        "username": "Hina_Youmiya",
+        "verified": true
+      }
+    ]
+  }
+}

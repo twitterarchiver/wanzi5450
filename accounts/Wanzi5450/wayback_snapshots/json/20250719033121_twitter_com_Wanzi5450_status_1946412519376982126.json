@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946260524078911488",
+        "3_1946260541715980288",
+        "3_1946260555209084930",
+        "3_1946260568798617600"
+      ],
+      "media_source_tweet_id": [
+        "1946404628825776356",
+        "1946404628825776356",
+        "1946404628825776356",
+        "1946404628825776356"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1946412519376982126",
+    "created_at": "2025-07-19T03:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T04:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946412519376982126"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "岐阜",
+          "probability": 0.9319,
+          "start": 35,
+          "type": "Place"
+        },
+        {
+          "end": 55,
+          "normalized_text": "佐内ゆき",
+          "probability": 0.3752,
+          "start": 52,
+          "type": "Person"
+        },
+        {
+          "end": 88,
+          "normalized_text": "岐阜",
+          "probability": 0.9155,
+          "start": 87,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "小市民"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "羊宮妃那"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1717055085338058753",
+          "start": 3,
+          "username": "shoshimin_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ja5c16TzQi",
+          "end": 131,
+          "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+          "media_key": "3_1946260524078911488",
+          "start": 108,
+          "url": "https://t.co/ja5c16TzQi"
+        },
+        {
+          "display_url": "pic.x.com/ja5c16TzQi",
+          "end": 131,
+          "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+          "media_key": "3_1946260541715980288",
+          "start": 108,
+          "url": "https://t.co/ja5c16TzQi"
+        },
+        {
+          "display_url": "pic.x.com/ja5c16TzQi",
+          "end": 131,
+          "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+          "media_key": "3_1946260555209084930",
+          "start": 108,
+          "url": "https://t.co/ja5c16TzQi"
+        },
+        {
+          "display_url": "pic.x.com/ja5c16TzQi",
+          "end": 131,
+          "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+          "media_key": "3_1946260568798617600",
+          "start": 108,
+          "url": "https://t.co/ja5c16TzQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946412519376982126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946404628825776356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shoshimin_pr: 『#小市民 シリーズ』\nモデル地・岐阜でのイベント開催を記念して\n小佐内ゆき役 #羊宮妃那 さん写真をお届け🥄　\n\n第12話より📷\n\n岐阜へお越しの皆様、是非訪れてみてください！ https://t.co/ja5c16TzQi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1946260524078911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKBoooW0AAM9Ow.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1946260541715980288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKBpqVXIAANlBO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1946260555209084930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKBqcmXkAINlNv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1946260568798617600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKBrPOXYAAviJ9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946260524078911488",
+            "3_1946260541715980288",
+            "3_1946260555209084930",
+            "3_1946260568798617600"
+          ],
+          "media_source_tweet_id": [
+            "1946404628825776356",
+            "1946404628825776356",
+            "1946404628825776356",
+            "1946404628825776356"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1946412519376982126",
+        "created_at": "2025-07-19T03:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946412519376982126"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "岐阜",
+              "probability": 0.9319,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "佐内ゆき",
+              "probability": 0.3752,
+              "start": 52,
+              "type": "Person"
+            },
+            {
+              "end": 88,
+              "normalized_text": "岐阜",
+              "probability": 0.9155,
+              "start": 87,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "小市民"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1717055085338058753",
+              "start": 3,
+              "username": "shoshimin_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 131,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260524078911488",
+              "start": 108,
+              "url": "https://t.co/ja5c16TzQi"
+            },
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 131,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260541715980288",
+              "start": 108,
+              "url": "https://t.co/ja5c16TzQi"
+            },
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 131,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260555209084930",
+              "start": 108,
+              "url": "https://t.co/ja5c16TzQi"
+            },
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 131,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260568798617600",
+              "start": 108,
+              "url": "https://t.co/ja5c16TzQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946412519376982126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946404628825776356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shoshimin_pr: 『#小市民 シリーズ』\nモデル地・岐阜でのイベント開催を記念して\n小佐内ゆき役 #羊宮妃那 さん写真をお届け🥄　\n\n第12話より📷\n\n岐阜へお越しの皆様、是非訪れてみてください！ https://t.co/ja5c16TzQi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946260524078911488",
+            "3_1946260541715980288",
+            "3_1946260555209084930",
+            "3_1946260568798617600"
+          ]
+        },
+        "author_id": "1717055085338058753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1946404628825776356",
+        "created_at": "2025-07-19T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946404628825776356"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "岐阜",
+              "probability": 0.9298,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 37,
+              "normalized_text": "佐内ゆき",
+              "probability": 0.3663,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "岐阜",
+              "probability": 0.9164,
+              "start": 69,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 1,
+              "tag": "小市民"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "羊宮妃那"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 113,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260524078911488",
+              "start": 90,
+              "url": "https://t.co/ja5c16TzQi"
+            },
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 113,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260541715980288",
+              "start": 90,
+              "url": "https://t.co/ja5c16TzQi"
+            },
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 113,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260555209084930",
+              "start": 90,
+              "url": "https://t.co/ja5c16TzQi"
+            },
+            {
+              "display_url": "pic.x.com/ja5c16TzQi",
+              "end": 113,
+              "expanded_url": "https://x.com/shoshimin_pr/status/1946404628825776356/photo/1",
+              "media_key": "3_1946260568798617600",
+              "start": 90,
+              "url": "https://t.co/ja5c16TzQi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946404628825776356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 15100,
+          "like_count": 719,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "『#小市民 シリーズ』\nモデル地・岐阜でのイベント開催を記念して\n小佐内ゆき役 #羊宮妃那 さん写真をお届け🥄　\n\n第12話より📷\n\n岐阜へお越しの皆様、是非訪れてみてください！ https://t.co/ja5c16TzQi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 76,
+          "like_count": 4623,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 929
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T05:47:00.000Z",
+        "description": "#米澤穂信 先生の人気小説〈小市民〉シリーズがTVアニメ化！『春期限定いちごタルト事件』『夏期限定トロピカルパフェ事件』『秋期限定栗きんとん事件』『冬期限定ボンボンショコラ事件』（創元推理文庫 刊）┊推奨タグ：#小市民┊🍓🍧🌰🍫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "米澤穂信"
+              },
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "小市民"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shoshimin-anime.com",
+                "end": 23,
+                "expanded_url": "http://shoshimin-anime.com",
+                "start": 0,
+                "url": "https://t.co/SNmcSIjVxD"
+              }
+            ]
+          }
+        },
+        "id": "1717055085338058753",
+        "location": "船戸高校",
+        "name": "TVアニメ『小市民シリーズ』公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940062399077265408/3lDLV4bT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66128,
+          "following_count": 40,
+          "like_count": 22,
+          "listed_count": 409,
+          "media_count": 817,
+          "tweet_count": 1796
+        },
+        "url": "https://t.co/SNmcSIjVxD",
+        "username": "shoshimin_pr",
+        "verified": false
+      }
+    ]
+  }
+}

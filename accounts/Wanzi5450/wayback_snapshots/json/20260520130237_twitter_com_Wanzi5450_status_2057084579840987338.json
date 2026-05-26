@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056979290223448143",
+    "created_at": "2026-05-20T13:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057084579840987338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561593418425413632",
+          "start": 0,
+          "username": "MeiStingray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057084579840987338",
+    "in_reply_to_user_id": "1561593418425413632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057083114045010210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiStingray 下次!!!!!!感谢🥳🥳🥳🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T13:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057084579840987338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561593418425413632",
+              "start": 0,
+              "username": "MeiStingray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057084579840987338",
+        "in_reply_to_user_id": "1561593418425413632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057083114045010210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiStingray 下次!!!!!!感谢🥳🥳🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561593418425413632",
+        "conversation_id": "2056979290223448143",
+        "created_at": "2026-05-20T12:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057083114045010210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057083114045010210",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056979290223448143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 试试酱油泡金枪鱼……人间美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 298,
+          "like_count": 16170,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 3879
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "♂  / 自我拍摄 / 重加工 / UIUC Alum / 宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "ヨイツ",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1897574302020727075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908429654941487104/HBUqAg_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4572,
+          "following_count": 624,
+          "like_count": 61029,
+          "listed_count": 22,
+          "media_count": 305,
+          "tweet_count": 14126
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": true
+      }
+    ]
+  }
+}

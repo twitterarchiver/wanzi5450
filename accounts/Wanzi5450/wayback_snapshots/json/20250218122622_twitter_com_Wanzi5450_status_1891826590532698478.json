@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890727006716981248"
+      ],
+      "media_source_tweet_id": [
+        "1890727010978132322"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1891826590532698478",
+    "created_at": "2025-02-18T12:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T13:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891826590532698478"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 66,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1465923253554548736",
+          "start": 3,
+          "username": "BTR_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「劇場総集編ぼっち・ざ・ろっく！」Blu-ray＆DVD 2025.2.12 RELEASE",
+          "display_url": "bocchi.rocks",
+          "end": 64,
+          "expanded_url": "https://bocchi.rocks/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1891496278158151680/toe_XSUy?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1891496278158151680/toe_XSUy?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 41,
+          "status": 200,
+          "title": "「劇場総集編ぼっち・ざ・ろっく！」公式サイト",
+          "unwound_url": "https://bocchi.rocks/",
+          "url": "https://t.co/A4NBPgpdox"
+        },
+        {
+          "display_url": "pic.x.com/m5ULzro7jW",
+          "end": 100,
+          "expanded_url": "https://x.com/BTR_anime/status/1890727010978132322/photo/1",
+          "media_key": "3_1890727006716981248",
+          "start": 77,
+          "url": "https://t.co/m5ULzro7jW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891826590532698478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113366
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890727010978132322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTR_anime: ㊗️ぼっち・ざ・ろっく！\nアニメ2期制作決定‼️📸\nhttps://t.co/A4NBPgpdox\n\n#ぼっち・ざ・ろっく https://t.co/m5ULzro7jW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1890727006716981248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj02MfKacAAcZkD.jpg",
+        "width": 763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890727006716981248"
+          ],
+          "media_source_tweet_id": [
+            "1890727010978132322"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1891826590532698478",
+        "created_at": "2025-02-18T12:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T13:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891826590532698478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1465923253554548736",
+              "start": 3,
+              "username": "BTR_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「劇場総集編ぼっち・ざ・ろっく！」Blu-ray＆DVD 2025.2.12 RELEASE",
+              "display_url": "bocchi.rocks",
+              "end": 64,
+              "expanded_url": "https://bocchi.rocks/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1891496278158151680/toe_XSUy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1891496278158151680/toe_XSUy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "「劇場総集編ぼっち・ざ・ろっく！」公式サイト",
+              "unwound_url": "https://bocchi.rocks/",
+              "url": "https://t.co/A4NBPgpdox"
+            },
+            {
+              "display_url": "pic.x.com/m5ULzro7jW",
+              "end": 100,
+              "expanded_url": "https://x.com/BTR_anime/status/1890727010978132322/photo/1",
+              "media_key": "3_1890727006716981248",
+              "start": 77,
+              "url": "https://t.co/m5ULzro7jW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891826590532698478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113366
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890727010978132322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTR_anime: ㊗️ぼっち・ざ・ろっく！\nアニメ2期制作決定‼️📸\nhttps://t.co/A4NBPgpdox\n\n#ぼっち・ざ・ろっく https://t.co/m5ULzro7jW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890727006716981248"
+          ]
+        },
+        "author_id": "1465923253554548736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1890727010978132322",
+        "created_at": "2025-02-15T11:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T12:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890727010978132322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 51,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「劇場総集編ぼっち・ざ・ろっく！」Blu-ray＆DVD 2025.2.12 RELEASE",
+              "display_url": "bocchi.rocks",
+              "end": 49,
+              "expanded_url": "https://bocchi.rocks/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1891496278158151680/toe_XSUy?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1891496278158151680/toe_XSUy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "「劇場総集編ぼっち・ざ・ろっく！」公式サイト",
+              "unwound_url": "https://bocchi.rocks/",
+              "url": "https://t.co/A4NBPgpdox"
+            },
+            {
+              "display_url": "pic.x.com/m5ULzro7jW",
+              "end": 85,
+              "expanded_url": "https://x.com/BTR_anime/status/1890727010978132322/photo/1",
+              "media_key": "3_1890727006716981248",
+              "start": 62,
+              "url": "https://t.co/m5ULzro7jW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890727010978132322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13314,
+          "impression_count": 17186224,
+          "like_count": 363061,
+          "quote_count": 13454,
+          "reply_count": 1540,
+          "retweet_count": 113366
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️ぼっち・ざ・ろっく！\nアニメ2期制作決定‼️📸\nhttps://t.co/A4NBPgpdox\n\n#ぼっち・ざ・ろっく https://t.co/m5ULzro7jW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 70,
+          "like_count": 4432,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 906
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T05:58:51.000Z",
+        "description": "アニメ「ぼっち・ざ・ろっく！」公式アカウント 結束バンド Zeppツアー「We will」開催中！ 追加公演「We will B」開催決定！ 推奨ハッシュタグ⇒ #ぼっち・ざ・ろっく #結束バンド",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 81,
+                "tag": "ぼっち・ざ・ろっく"
+              },
+              {
+                "end": 98,
+                "start": 92,
+                "tag": "結束バンド"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "http://bocchi.rocks",
+                "start": 0,
+                "url": "https://t.co/9csHWKaKpd"
+              }
+            ]
+          }
+        },
+        "id": "1465923253554548736",
+        "name": "アニメ「ぼっち・ざ・ろっく！」公式",
+        "pinned_tweet_id": "1890727010978132322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853046750023766016/aHC8hoUW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744478,
+          "following_count": 33,
+          "like_count": 67,
+          "listed_count": 2467,
+          "media_count": 2632,
+          "tweet_count": 7009
+        },
+        "url": "https://t.co/9csHWKaKpd",
+        "username": "BTR_anime",
+        "verified": true
+      }
+    ]
+  }
+}

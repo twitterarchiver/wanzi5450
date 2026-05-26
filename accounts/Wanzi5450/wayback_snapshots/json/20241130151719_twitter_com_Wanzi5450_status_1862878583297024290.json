@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862085292309561344"
+      ],
+      "media_source_tweet_id": [
+        "1862085299276529773"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1862878583297024290",
+    "created_at": "2024-11-30T15:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T16:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862878583297024290"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "高松燈"
+        },
+        {
+          "end": 31,
+          "start": 20,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654013096757952512",
+          "start": 3,
+          "username": "latte__rr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2XE1RvZVH",
+          "end": 55,
+          "expanded_url": "https://x.com/latte__rr/status/1862085299276529773/photo/1",
+          "media_key": "3_1862085292309561344",
+          "start": 32,
+          "url": "https://t.co/c2XE1RvZVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862878583297024290",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862085299276529773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @latte__rr: #高松燈　#bandoriart https://t.co/c2XE1RvZVH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1862085292309561344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd0tSWXQAAAt4N.jpg",
+        "width": 2229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862085292309561344"
+          ],
+          "media_source_tweet_id": [
+            "1862085299276529773"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1862878583297024290",
+        "created_at": "2024-11-30T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862878583297024290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "高松燈"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654013096757952512",
+              "start": 3,
+              "username": "latte__rr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2XE1RvZVH",
+              "end": 55,
+              "expanded_url": "https://x.com/latte__rr/status/1862085299276529773/photo/1",
+              "media_key": "3_1862085292309561344",
+              "start": 32,
+              "url": "https://t.co/c2XE1RvZVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862878583297024290",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862085299276529773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @latte__rr: #高松燈　#bandoriart https://t.co/c2XE1RvZVH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862085292309561344"
+          ]
+        },
+        "author_id": "1654013096757952512",
+        "conversation_id": "1862085299276529773",
+        "created_at": "2024-11-28T10:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T11:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862085299276529773"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "高松燈"
+            },
+            {
+              "end": 16,
+              "start": 5,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2XE1RvZVH",
+              "end": 40,
+              "expanded_url": "https://x.com/latte__rr/status/1862085299276529773/photo/1",
+              "media_key": "3_1862085292309561344",
+              "start": 17,
+              "url": "https://t.co/c2XE1RvZVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862085299276529773",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 13363,
+          "like_count": 706,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "#高松燈　#bandoriart https://t.co/c2XE1RvZVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3876,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 789
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T06:40:34.000Z",
+        "description": "絵を描いています バンドリが好きです マシュマロ→https://t.co/mrwh7upxoS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6tfddaw2c1jx9ta",
+                "end": 48,
+                "expanded_url": "https://marshmallow-qa.com/6tfddaw2c1jx9ta",
+                "start": 25,
+                "url": "https://t.co/mrwh7upxoS"
+              }
+            ]
+          }
+        },
+        "id": "1654013096757952512",
+        "name": "らて",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841269785948286976/nG05Tjkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 36,
+          "like_count": 179,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 168
+        },
+        "username": "latte__rr",
+        "verified": false
+      }
+    ]
+  }
+}

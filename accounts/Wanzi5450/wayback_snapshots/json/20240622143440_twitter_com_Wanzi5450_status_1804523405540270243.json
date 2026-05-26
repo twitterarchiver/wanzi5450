@@ -1,0 +1,377 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804482162537959424",
+        "3_1804482162533797888",
+        "3_1804482162554777600",
+        "3_1804482162537975808"
+      ],
+      "media_source_tweet_id": [
+        "1804482180405747901",
+        "1804482180405747901",
+        "1804482180405747901",
+        "1804482180405747901"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1804523405540270243",
+    "created_at": "2024-06-22T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804523405540270243"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/nAlUU5yKqQ",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+          "media_key": "3_1804482162537959424",
+          "start": 33,
+          "url": "https://t.co/nAlUU5yKqQ"
+        },
+        {
+          "display_url": "pic.twitter.com/nAlUU5yKqQ",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+          "media_key": "3_1804482162533797888",
+          "start": 33,
+          "url": "https://t.co/nAlUU5yKqQ"
+        },
+        {
+          "display_url": "pic.twitter.com/nAlUU5yKqQ",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+          "media_key": "3_1804482162554777600",
+          "start": 33,
+          "url": "https://t.co/nAlUU5yKqQ"
+        },
+        {
+          "display_url": "pic.twitter.com/nAlUU5yKqQ",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+          "media_key": "3_1804482162537975808",
+          "start": 33,
+          "url": "https://t.co/nAlUU5yKqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804523405540270243",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 900
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804482180405747901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: おもしれー女、たち🐈 #MyGO https://t.co/nAlUU5yKqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1804482162537959424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQrO912akAAlVHK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1804482162533797888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQrO911bEAA-uLF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1804482162554777600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQrO916bMAA3zPO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1804482162537975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQrO912a0AAI9Hi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804482162537959424",
+            "3_1804482162533797888",
+            "3_1804482162554777600",
+            "3_1804482162537975808"
+          ],
+          "media_source_tweet_id": [
+            "1804482180405747901",
+            "1804482180405747901",
+            "1804482180405747901",
+            "1804482180405747901"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1804523405540270243",
+        "created_at": "2024-06-22T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804523405540270243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162537959424",
+              "start": 33,
+              "url": "https://t.co/nAlUU5yKqQ"
+            },
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162533797888",
+              "start": 33,
+              "url": "https://t.co/nAlUU5yKqQ"
+            },
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162554777600",
+              "start": 33,
+              "url": "https://t.co/nAlUU5yKqQ"
+            },
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162537975808",
+              "start": 33,
+              "url": "https://t.co/nAlUU5yKqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804523405540270243",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 900
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804482180405747901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: おもしれー女、たち🐈 #MyGO https://t.co/nAlUU5yKqQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804482162537959424",
+            "3_1804482162533797888",
+            "3_1804482162554777600",
+            "3_1804482162537975808"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1804482180405747901",
+        "created_at": "2024-06-22T11:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T12:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804482180405747901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 40,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162537959424",
+              "start": 17,
+              "url": "https://t.co/nAlUU5yKqQ"
+            },
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 40,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162533797888",
+              "start": 17,
+              "url": "https://t.co/nAlUU5yKqQ"
+            },
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 40,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162554777600",
+              "start": 17,
+              "url": "https://t.co/nAlUU5yKqQ"
+            },
+            {
+              "display_url": "pic.twitter.com/nAlUU5yKqQ",
+              "end": 40,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1804482180405747901/photo/1",
+              "media_key": "3_1804482162537975808",
+              "start": 17,
+              "url": "https://t.co/nAlUU5yKqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804482180405747901",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 143536,
+          "like_count": 4123,
+          "quote_count": 40,
+          "reply_count": 59,
+          "retweet_count": 900
+        },
+        "reply_settings": "everyone",
+        "text": "おもしれー女、たち🐈 #MyGO https://t.co/nAlUU5yKqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 56,
+          "like_count": 2297,
+          "listed_count": 0,
+          "tweet_count": 385
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響の新人声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊舞台『少女☆歌劇 レヴュースタァライト -The STAGE 中等部- Remains』 7/6~7/15上演┊［SNS］https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 131,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 108,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1783075708342043113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63536,
+          "following_count": 226,
+          "like_count": 1,
+          "listed_count": 700,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

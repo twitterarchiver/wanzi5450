@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2046665808366211552",
+    "created_at": "2026-04-21T19:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T20:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046668527885865347"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046668527885865347",
+    "in_reply_to_user_id": "1738375202168532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046665808366211552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "长大后流出的泪变成了血你才发觉我的难过吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046665808366211552",
+        "created_at": "2026-04-21T19:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046668527885865347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046668527885865347",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046665808366211552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长大后流出的泪变成了血你才发觉我的难过吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2046665808366211552",
+        "created_at": "2026-04-21T19:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046665808366211552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046665808366211552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概我10岁的时候，想证明自己也有能力照顾弟弟，我带他去附近的公园玩，没告诉大人。妈妈找到我们的时候瞪了我一眼之后头也不回的推着弟弟上车走了，我一个人走了回家。\n你很恨我吗？不恨的话为什么不多关心关心我呢，虽然现在的我已经不需要了。\n那一段路真的好长啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 274,
+          "like_count": 12596,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 3394
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

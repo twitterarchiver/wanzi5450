@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048227373414580646",
+    "created_at": "2026-04-26T03:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048237505884078123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043994337126563840",
+          "start": 0,
+          "username": "Lomyral8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048237505884078123",
+    "in_reply_to_user_id": "2043994337126563840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048227373414580646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral8964 阿普唑仑是这个👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048227373414580646",
+        "created_at": "2026-04-26T03:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048237505884078123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043994337126563840",
+              "start": 0,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048237505884078123",
+        "in_reply_to_user_id": "2043994337126563840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048227373414580646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral8964 阿普唑仑是这个👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043994337126563840",
+        "conversation_id": "2048227373414580646",
+        "created_at": "2026-04-26T02:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048227373414580646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048227373414580646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没什么想要说的，阿普唑仑是这个👍🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 280,
+          "like_count": 13391,
+          "listed_count": 0,
+          "media_count": 483,
+          "tweet_count": 3552
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。依然不吸毒不卖东西。\n\n互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 188,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 191
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

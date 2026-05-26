@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2032446198490267983",
+    "created_at": "2026-03-13T13:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032454056363585733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905857832072933376",
+          "start": 0,
+          "username": "susukikii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032454056363585733",
+    "in_reply_to_user_id": "1905857832072933376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032446198490267983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susukikii 先顾好自己啦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2032446198490267983",
+        "created_at": "2026-03-13T13:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032454056363585733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905857832072933376",
+              "start": 0,
+              "username": "susukikii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032454056363585733",
+        "in_reply_to_user_id": "1905857832072933376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032446198490267983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susukikii 先顾好自己啦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905857832072933376",
+        "conversation_id": "2032446198490267983",
+        "created_at": "2026-03-13T13:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032446198490267983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032446198490267983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该分手吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 234,
+          "like_count": 9044,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2024
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:41:43.000Z",
+        "description": "这里是suki！想和各位交朋友！欢迎互fo小窗！INTP/诞生日：2010.02.25 #抑郁#焦虑#自残#暴饮暴食",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susukikii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/susukikii",
+                "start": 0,
+                "url": "https://t.co/RYKO5u7AVc"
+              }
+            ]
+          }
+        },
+        "id": "1905857832072933376",
+        "name": "su ki",
+        "pinned_tweet_id": "2027408748369854829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027384805680349184/1WhP74e0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 45,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/RYKO5u7AVc",
+        "username": "susukikii",
+        "verified": false
+      }
+    ]
+  }
+}

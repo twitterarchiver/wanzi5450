@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "1842126017714151606",
+    "created_at": "2024-10-04T08:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T09:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842126017714151606"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "#おはリナ",
+          "probability": 0.494,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 90,
+          "normalized_text": "アナウンサーさん",
+          "probability": 0.7088,
+          "start": 83,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "おはリナ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842126017714151606",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841621536459129236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: TOKYO MX 『#おはリナ』\nご視聴いただきありがとうございました☀️\n\nニュースやお天気、特集のナレーションなどを担当しました。アナウンサーさんってすごい、私ももっと頑張らねば！！\n\n皆様も一日頑張ってくださいね！\nいってらっしゃいませ🐣…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1842126017714151606",
+        "created_at": "2024-10-04T08:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T09:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842126017714151606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "#おはリナ",
+              "probability": 0.494,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "アナウンサーさん",
+              "probability": 0.7088,
+              "start": 83,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "おはリナ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842126017714151606",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841621536459129236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: TOKYO MX 『#おはリナ』\nご視聴いただきありがとうございました☀️\n\nニュースやお天気、特集のナレーションなどを担当しました。アナウンサーさんってすごい、私ももっと頑張らねば！！\n\n皆様も一日頑張ってくださいね！\nいってらっしゃいませ🐣…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841621529408503811",
+            "3_1841621529425281024"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1841621536459129236",
+        "created_at": "2024-10-02T23:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T00:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841621536459129236"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "TOKYO MX",
+              "probability": 0.356,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 14,
+              "normalized_text": "#おはリナ",
+              "probability": 0.524,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "アナウンサーさん",
+              "probability": 0.6976,
+              "start": 67,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "おはリナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ihjs5GVjE",
+              "end": 146,
+              "expanded_url": "https://x.com/aoki__hina/status/1841621536459129236/photo/1",
+              "media_key": "3_1841621529408503811",
+              "start": 123,
+              "url": "https://t.co/9ihjs5GVjE"
+            },
+            {
+              "display_url": "pic.x.com/9ihjs5GVjE",
+              "end": 146,
+              "expanded_url": "https://x.com/aoki__hina/status/1841621536459129236/photo/1",
+              "media_key": "3_1841621529425281024",
+              "start": 123,
+              "url": "https://t.co/9ihjs5GVjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841621536459129236",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 65031,
+          "like_count": 3051,
+          "quote_count": 14,
+          "reply_count": 46,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "TOKYO MX 『#おはリナ』\nご視聴いただきありがとうございました☀️\n\nニュースやお天気、特集のナレーションなどを担当しました。アナウンサーさんってすごい、私ももっと頑張らねば！！\n\n皆様も一日頑張ってくださいね！\nいってらっしゃいませ🐣 https://t.co/9ihjs5GVjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 3340,
+          "listed_count": 0,
+          "tweet_count": 677
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1829875794883342611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79719,
+          "following_count": 262,
+          "like_count": 0,
+          "listed_count": 792,
+          "tweet_count": 3572
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

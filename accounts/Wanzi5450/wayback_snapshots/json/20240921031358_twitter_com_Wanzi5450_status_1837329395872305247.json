@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1837329395872305247",
+    "created_at": "2024-09-21T03:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T04:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837329395872305247"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "BanG Dream! It's MyGO!!!!!",
+          "probability": 0.7444,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "747338829695070208",
+          "start": 3,
+          "username": "bushi_creative"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837329395872305247",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836978632562184615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi_creative: 劇場版 「BanG Dream! It's MyGO!!!!!」\n前編公開記念フェア🐬\n\n【追加新商品情報】\n・トレーディングアクリルキーホルダー おもしれー猫ver.\n・トレーディングダイカットステッカー おもしれー猫ver.\n\n👇詳細…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1837329395872305247",
+        "created_at": "2024-09-21T03:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837329395872305247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.7444,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "747338829695070208",
+              "start": 3,
+              "username": "bushi_creative"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837329395872305247",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836978632562184615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi_creative: 劇場版 「BanG Dream! It's MyGO!!!!!」\n前編公開記念フェア🐬\n\n【追加新商品情報】\n・トレーディングアクリルキーホルダー おもしれー猫ver.\n・トレーディングダイカットステッカー おもしれー猫ver.\n\n👇詳細…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836964024950607874",
+            "3_1836964028402520066"
+          ]
+        },
+        "author_id": "747338829695070208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1836978632562184615",
+        "created_at": "2024-09-20T04:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T05:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836978632562184615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "BanG Dream! It's MyGO!!!!!",
+              "probability": 0.7184,
+              "start": 5,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ブシロードクリエイティブのイベント情報をお届けしています。",
+              "display_url": "bushiroad-creative.com/events/mygo-mo…",
+              "end": 143,
+              "expanded_url": "https://bushiroad-creative.com/events/mygo-movefair",
+              "images": [
+                {
+                  "height": 345,
+                  "url": "https://pbs.twimg.com/news_img/1836601155285323778/LGd-S-Zr?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1836601155285323778/LGd-S-Zr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "劇場版 「BanG Dream! It’s MyGO!!!!!」前編公開記念フェア｜イベント｜ブシロードクリエイティブ",
+              "unwound_url": "https://bushiroad-creative.com/events/mygo-movefair",
+              "url": "https://t.co/O0ku5dlLg6"
+            },
+            {
+              "display_url": "pic.x.com/g63delacsr",
+              "end": 180,
+              "expanded_url": "https://twitter.com/bushi_creative/status/1836978632562184615/photo/1",
+              "media_key": "3_1836964024950607874",
+              "start": 157,
+              "url": "https://t.co/g63DElacSr"
+            },
+            {
+              "display_url": "pic.x.com/g63delacsr",
+              "end": 180,
+              "expanded_url": "https://twitter.com/bushi_creative/status/1836978632562184615/photo/1",
+              "media_key": "3_1836964028402520066",
+              "start": 157,
+              "url": "https://t.co/g63DElacSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836978632562184615",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 228934,
+          "like_count": 3296,
+          "quote_count": 563,
+          "reply_count": 19,
+          "retweet_count": 1220
+        },
+        "reply_settings": "everyone",
+        "text": "劇場版 「BanG Dream! It's MyGO!!!!!」\n前編公開記念フェア🐬\n\n【追加新商品情報】\n・トレーディングアクリルキーホルダー おもしれー猫ver.\n・トレーディングダイカットステッカー おもしれー猫ver.\n\n👇詳細\nhttps://t.co/O0ku5dlLg6\n\n#バンドリ #MyGO https://t.co/g63DElacSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3164,
+          "listed_count": 0,
+          "tweet_count": 609
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-27T08:00:36.000Z",
+        "description": "キャラクターグッズ、カプセルトイ、プライズ、物販催事企画等のマーチャンダイジング事業展開をしています。こちらではご質問に対するお返事はしかねますので、お問い合わせ窓口（公式サイト内参考）へお願いします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bushiroad-creative.com",
+                "end": 23,
+                "expanded_url": "https://bushiroad-creative.com/",
+                "start": 0,
+                "url": "https://t.co/G0f21TbI17"
+              }
+            ]
+          }
+        },
+        "id": "747338829695070208",
+        "name": "ブシロードクリエイティブ公式",
+        "pinned_tweet_id": "1825820077637472541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908613103167741953/iiZJaUCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184721,
+          "following_count": 184,
+          "like_count": 474,
+          "listed_count": 583,
+          "tweet_count": 23435
+        },
+        "url": "https://t.co/G0f21TbI17",
+        "username": "bushi_creative",
+        "verified": true
+      }
+    ]
+  }
+}

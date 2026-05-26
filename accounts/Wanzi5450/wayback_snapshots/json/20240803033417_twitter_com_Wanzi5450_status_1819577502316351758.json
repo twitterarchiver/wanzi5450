@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1819577502316351758",
+    "created_at": "2024-08-03T03:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T04:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819577502316351758"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 62,
+          "tag": "見つけた景色たずさえて"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819577502316351758",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 102
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819553774492336252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: 【DAY1 アーカイブ配信は本日まで】\n\nMyGO!!!!! 6th LIVE\n「#見つけた景色たずさえて」\n\nDAY1の配信は本日で終了となります。\n2DAYS通し視聴チケットも本日21時までの販売です。\n\nご購入はこちら\nhttps…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1819577502316351758",
+        "created_at": "2024-08-03T03:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T04:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819577502316351758"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 62,
+              "tag": "見つけた景色たずさえて"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819577502316351758",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819553774492336252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: 【DAY1 アーカイブ配信は本日まで】\n\nMyGO!!!!! 6th LIVE\n「#見つけた景色たずさえて」\n\nDAY1の配信は本日で終了となります。\n2DAYS通し視聴チケットも本日21時までの販売です。\n\nご購入はこちら\nhttps…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819294135653965824"
+          ]
+        },
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1819553774492336252",
+        "created_at": "2024-08-03T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819553774492336252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 41,
+              "tag": "見つけた景色たずさえて"
+            },
+            {
+              "end": 188,
+              "start": 183,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 194,
+              "start": 189,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "eplus.jp/sf/detail/3853…",
+              "end": 136,
+              "expanded_url": "https://eplus.jp/sf/detail/3853260002-P0030028P0030029P0030030?P6=001&P1=0402&P59=1&block=true",
+              "start": 113,
+              "unwound_url": "https://eplus.jp/sf/detail/3853260002-P0030028P0030029P0030030?P6=001&P1=0402&P59=1&block=true",
+              "url": "https://t.co/vzGlEQeAjZ"
+            },
+            {
+              "description": "FROM July 27, 2024 TO August 4, 2024 in STREAMING. [Artists]MyGO!!!!! (Hina Youmiya, Rin Tateishi, Hina Aoki, Mika Kohinata, Coco Hayashi)Official Website * Please note that this ticket is for online event.* Streaming service may not be available",
+              "display_url": "ib.eplus.jp/mygo_6th_st",
+              "end": 181,
+              "expanded_url": "https://ib.eplus.jp/mygo_6th_st",
+              "images": [
+                {
+                  "height": 418,
+                  "url": "https://pbs.twimg.com/news_img/1819312240358789120/dybCTnPD?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1819312240358789120/dybCTnPD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 158,
+              "status": 200,
+              "title": "[Streaming+] MyGO!!!!! 6th LIVE \"Mitsuketa Keshiki, Tazusaete\" Verified Tickets | eplus - Japan most famous ticket provider",
+              "unwound_url": "https://ib.eplus.jp/mygo_6th_st",
+              "url": "https://t.co/vyMI1ou6Tq"
+            },
+            {
+              "display_url": "pic.twitter.com/agxETcVPfx",
+              "end": 218,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1819553774492336252/photo/1",
+              "media_key": "3_1819294135653965824",
+              "start": 195,
+              "url": "https://t.co/agxETcVPfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819553774492336252",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 11627,
+          "like_count": 497,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "【DAY1 アーカイブ配信は本日まで】\n\nMyGO!!!!! 6th LIVE\n「#見つけた景色たずさえて」\n\nDAY1の配信は本日で終了となります。\n2DAYS通し視聴チケットも本日21時までの販売です。\n\nご購入はこちら\nhttps://t.co/vzGlEQeAjZ\n\nTicket for overseas\nhttps://t.co/vyMI1ou6Tq\n\n#バンドリ #MyGO https://t.co/agxETcVPfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 2935,
+          "listed_count": 0,
+          "tweet_count": 531
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。7月27日(土)・28日(日) MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」武蔵野の森総合スポーツプラザにて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1817170571727450253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107653,
+          "following_count": 40,
+          "like_count": 190,
+          "listed_count": 558,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

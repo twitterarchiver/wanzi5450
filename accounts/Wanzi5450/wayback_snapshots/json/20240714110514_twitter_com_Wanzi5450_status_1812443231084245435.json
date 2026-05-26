@@ -1,0 +1,270 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1812155591550238720"
+      ],
+      "media_source_tweet_id": [
+        "1812155632822452475"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1812443231084245435",
+    "created_at": "2024-07-14T11:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T12:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812443231084245435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1605143399270842369",
+          "start": 3,
+          "username": "danger474747"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VXNwbDWCft",
+          "end": 56,
+          "expanded_url": "https://twitter.com/danger474747/status/1812155632822452475/video/1",
+          "media_key": "7_1812155591550238720",
+          "start": 33,
+          "url": "https://t.co/VXNwbDWCft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812443231084245435",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812155632822452475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danger474747: ansy utakotoba https://t.co/VXNwbDWCft"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19266,
+        "height": 652,
+        "media_key": "7_1812155591550238720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1812155591550238720/pu/img/sax8rVScVmMqd2K_.jpg",
+        "public_metrics": {
+          "view_count": 20459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812155591550238720/pu/vid/avc1/476x270/afZCyWAJ6fbMqtqT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812155591550238720/pu/vid/avc1/636x360/R6JIUPyP9gCg3EBL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1812155591550238720/pu/vid/avc1/1152x652/b70o8X4ha73jq2DJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1812155591550238720/pu/pl/vLL1cDzgbr5ezi07.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1812155591550238720"
+          ],
+          "media_source_tweet_id": [
+            "1812155632822452475"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1812443231084245435",
+        "created_at": "2024-07-14T11:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T12:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812443231084245435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605143399270842369",
+              "start": 3,
+              "username": "danger474747"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VXNwbDWCft",
+              "end": 56,
+              "expanded_url": "https://twitter.com/danger474747/status/1812155632822452475/video/1",
+              "media_key": "7_1812155591550238720",
+              "start": 33,
+              "url": "https://t.co/VXNwbDWCft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812443231084245435",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812155632822452475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danger474747: ansy utakotoba https://t.co/VXNwbDWCft"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1812155591550238720"
+          ]
+        },
+        "author_id": "1605143399270842369",
+        "conversation_id": "1812155632822452475",
+        "created_at": "2024-07-13T16:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T17:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812155632822452475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VXNwbDWCft",
+              "end": 38,
+              "expanded_url": "https://twitter.com/danger474747/status/1812155632822452475/video/1",
+              "media_key": "7_1812155591550238720",
+              "start": 15,
+              "url": "https://t.co/VXNwbDWCft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812155632822452475",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 46844,
+          "like_count": 1227,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "ansy utakotoba https://t.co/VXNwbDWCft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2657,
+          "listed_count": 0,
+          "tweet_count": 446
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T10:09:48.000Z",
+        "description": "its mygo!!!!!\nanon ♡\n🐑 ♡♡♡",
+        "id": "1605143399270842369",
+        "name": "ymyhtr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770295951598768128/Xq-TMVqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1143,
+          "like_count": 1,
+          "listed_count": 1,
+          "tweet_count": 11251
+        },
+        "username": "danger474747",
+        "verified": false
+      }
+    ]
+  }
+}

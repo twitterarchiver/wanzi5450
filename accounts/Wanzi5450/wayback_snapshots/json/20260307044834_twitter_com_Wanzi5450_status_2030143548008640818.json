@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030143414050902020"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2030143548008640818",
+    "created_at": "2026-03-07T04:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T05:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030143548008640818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KKhBKIHdsy",
+          "end": 32,
+          "expanded_url": "https://x.com/Wanzi5450/status/2030143548008640818/video/1",
+          "media_key": "13_2030143414050902020",
+          "start": 9,
+          "url": "https://t.co/KKhBKIHdsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030143548008640818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弹吉他一点也不帅 https://t.co/KKhBKIHdsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83521,
+        "height": 1278,
+        "media_key": "13_2030143414050902020",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030143414050902020/img/IDNX7NhxGfeVFBfz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030143414050902020/vid/avc1/320x568/VYyw_njvj0liz4_B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030143414050902020/vid/avc1/480x852/vjFTemCQmq_il1mL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030143414050902020/vid/avc1/720x1278/IzCSDAGwpraBar7X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030143414050902020/pl/1L_dfrgS7IRfthwP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030143414050902020"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2030143548008640818",
+        "created_at": "2026-03-07T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030143548008640818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKhBKIHdsy",
+              "end": 32,
+              "expanded_url": "https://x.com/Wanzi5450/status/2030143548008640818/video/1",
+              "media_key": "13_2030143414050902020",
+              "start": 9,
+              "url": "https://t.co/KKhBKIHdsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030143548008640818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弹吉他一点也不帅 https://t.co/KKhBKIHdsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 220,
+          "like_count": 8635,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1822
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

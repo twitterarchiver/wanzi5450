@@ -1,0 +1,815 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1934164359229665722",
+    "created_at": "2025-06-15T08:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T09:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934164359229665722"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "推し旅"
+        },
+        {
+          "end": 93,
+          "start": 88,
+          "tag": "MyGO"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "高松燈"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "893378835265110016",
+          "start": 3,
+          "username": "oshitabi_update"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934164359229665722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 865
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934083484198617237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oshitabi_update: BanG Dream! 10th Anniversary!\n× #推し旅\n\n┏━━ イラスト公開🎉 ━━┓\n 　　　　7月担当\n　　　#MyGO #高松燈\n┗━━━━━━━━━━━━┛\n\n7/1より新幹線車内コンテンツに\n#MyGO が…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1934083449805209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtc-pn-aAAATIqP.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1934164359229665722",
+        "created_at": "2025-06-15T08:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T09:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934164359229665722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "推し旅"
+            },
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "MyGO"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "高松燈"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "893378835265110016",
+              "start": 3,
+              "username": "oshitabi_update"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934164359229665722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 865
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934083484198617237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oshitabi_update: BanG Dream! 10th Anniversary!\n× #推し旅\n\n┏━━ イラスト公開🎉 ━━┓\n 　　　　7月担当\n　　　#MyGO #高松燈\n┗━━━━━━━━━━━━┛\n\n7/1より新幹線車内コンテンツに\n#MyGO が…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934083449805209600"
+          ]
+        },
+        "author_id": "893378835265110016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1934083484198617237",
+        "created_at": "2025-06-15T03:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T04:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934083484198617237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "推し旅"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "MyGO"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "高松燈"
+            },
+            {
+              "end": 116,
+              "start": 111,
+              "tag": "MyGO"
+            },
+            {
+              "end": 166,
+              "start": 161,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 175,
+              "start": 167,
+              "tag": "バンドリ推し旅"
+            }
+          ],
+          "urls": [
+            {
+              "description": "JＲ東海",
+              "display_url": "recommend.jr-central.co.jp/oshi-tabi/bang…",
+              "end": 160,
+              "expanded_url": "http://recommend.jr-central.co.jp/oshi-tabi/bang-dream-10th/?utm_source=oshitabi_twitter&utm_medium=social&utm_campaign=bang-dream-10th_cjr&utm_content=250615_1_bang-dream-10th_cjr",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1934083494596190209/yxYrkvzD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934083494596190209/yxYrkvzD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "JＲ東海",
+              "unwound_url": "https://recommend.jr-central.co.jp/oshi-tabi/bang-dream-10th/?utm_source=oshitabi_twitter&utm_medium=social&utm_campaign=bang-dream-10th_cjr&utm_content=250529_bang-dream-10th_cjr",
+              "url": "https://t.co/v9iuI5SIGk"
+            },
+            {
+              "display_url": "pic.x.com/yjNpslPbOf",
+              "end": 199,
+              "expanded_url": "https://x.com/oshitabi_update/status/1934083484198617237/photo/1",
+              "media_key": "3_1934083449805209600",
+              "start": 176,
+              "url": "https://t.co/yjNpslPbOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934083484198617237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 109986,
+          "like_count": 2921,
+          "quote_count": 131,
+          "reply_count": 0,
+          "retweet_count": 865
+        },
+        "reply_settings": "everyone",
+        "text": "BanG Dream! 10th Anniversary!\n× #推し旅\n\n┏━━ イラスト公開🎉 ━━┓\n 　　　　7月担当\n　　　#MyGO #高松燈\n┗━━━━━━━━━━━━┛\n\n7/1より新幹線車内コンテンツに\n#MyGO が登場‼\nぜひお楽しみに✨\n\n詳細は👇\nhttps://t.co/v9iuI5SIGk\n#バンドリ #バンドリ推し旅 https://t.co/yjNpslPbOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4511,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 923
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-04T07:51:27.000Z",
+        "description": "あなたがあなたの“推し”をもっと推せるように。あなたの好きという気持ちが、誰かの支えになるように。これからの推し旅に、新しい楽しさや新しい安心を提案します。\n※お問合せにはお答えできないこともあります\n規約 https://t.co/84cX1Ai1Ad",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jr-central.co.jp/socialmedia",
+                "end": 127,
+                "expanded_url": "http://jr-central.co.jp/socialmedia",
+                "start": 104,
+                "url": "https://t.co/84cX1Ai1Ad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "recommend.jr-central.co.jp/oshi-tabi/",
+                "end": 23,
+                "expanded_url": "https://recommend.jr-central.co.jp/oshi-tabi/",
+                "start": 0,
+                "url": "https://t.co/s0u32yi6ow"
+              }
+            ]
+          }
+        },
+        "id": "893378835265110016",
+        "name": "推し旅【JR東海公式】",
+        "pinned_tweet_id": "1932331903530791015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764482524938670080/tseJZIsM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88647,
+          "following_count": 210,
+          "like_count": 11160,
+          "listed_count": 261,
+          "media_count": 1679,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/s0u32yi6ow",
+        "username": "oshitabi_update",
+        "verified": true
+      }
+    ]
+  }
+}

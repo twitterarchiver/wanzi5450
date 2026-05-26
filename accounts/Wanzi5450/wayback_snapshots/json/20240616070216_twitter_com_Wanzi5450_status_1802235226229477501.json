@@ -1,0 +1,403 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070722394010992641",
+          "name": "Ayasa Ito"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070722394010992641",
+          "name": "Ayasa Ito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress",
+          "id": "1070722394010992641",
+          "name": "Ayasa Ito"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1802235226229477501",
+    "created_at": "2024-06-16T07:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T08:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802235226229477501"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "HiBiKi StYle",
+          "probability": 0.2817,
+          "start": 26,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 111,
+          "tag": "HiBiKiFes2024"
+        },
+        {
+          "end": 133,
+          "start": 126,
+          "tag": "ヒビキファン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353543505432301569",
+          "start": 3,
+          "username": "ttisrn_0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802235226229477501",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801809042953633890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttisrn_0710: 📢グッズ情報\n\nHiBiKi StYle＋3周年記念Tシャツ\n\nりんりんりんTシャツです〜\n下の英文には僕の夢のひとつを書いています。\n黒で着やすいです。可愛いです。\n\n買ってください！\n#HiBiKiFes2024 #ヒビキファン https…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722394010992641",
+              "name": "Ayasa Ito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722394010992641",
+              "name": "Ayasa Ito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722394010992641",
+              "name": "Ayasa Ito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1802235226229477501",
+        "created_at": "2024-06-16T07:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T08:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802235226229477501"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "HiBiKi StYle",
+              "probability": 0.2817,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 111,
+              "tag": "HiBiKiFes2024"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "ヒビキファン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353543505432301569",
+              "start": 3,
+              "username": "ttisrn_0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802235226229477501",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801809042953633890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttisrn_0710: 📢グッズ情報\n\nHiBiKi StYle＋3周年記念Tシャツ\n\nりんりんりんTシャツです〜\n下の英文には僕の夢のひとつを書いています。\n黒で着やすいです。可愛いです。\n\n買ってください！\n#HiBiKiFes2024 #ヒビキファン https…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801809035873894402"
+          ]
+        },
+        "author_id": "1353543505432301569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722394010992641",
+              "name": "Ayasa Ito"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722394010992641",
+              "name": "Ayasa Ito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress",
+              "id": "1070722394010992641",
+              "name": "Ayasa Ito"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1801809042953633890",
+        "created_at": "2024-06-15T02:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T03:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801809042953633890"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 94,
+              "tag": "HiBiKiFes2024"
+            },
+            {
+              "end": 116,
+              "start": 109,
+              "tag": "ヒビキファン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2H0MVXMUad",
+              "end": 140,
+              "expanded_url": "https://twitter.com/ttisrn_0710/status/1801809042953633890/photo/1",
+              "media_key": "3_1801809035873894402",
+              "start": 117,
+              "url": "https://t.co/2H0MVXMUad"
+            },
+            {
+              "display_url": "x.com/official_hibik…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/official_hibiki/status/1801548784524267886",
+              "start": 141,
+              "url": "https://t.co/3tbZkZIlOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801809042953633890",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 33389,
+          "like_count": 650,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801548784524267886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "📢グッズ情報\n\nHiBiKi StYle＋3周年記念Tシャツ\n\nりんりんりんTシャツです〜\n下の英文には僕の夢のひとつを書いています。\n黒で着やすいです。可愛いです。\n\n買ってください！\n#HiBiKiFes2024 #ヒビキファン https://t.co/2H0MVXMUad https://t.co/3tbZkZIlOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 56,
+          "like_count": 2261,
+          "listed_count": 0,
+          "tweet_count": 381
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:24:31.000Z",
+        "description": "響 新人声優 https://t.co/XTzqpKHxDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/rin_.t710",
+                "end": 30,
+                "expanded_url": "https://www.instagram.com/rin_.t710",
+                "start": 7,
+                "url": "https://t.co/XTzqpKHxDR"
+              }
+            ]
+          }
+        },
+        "id": "1353543505432301569",
+        "location": "#ぺこりんちゅ",
+        "name": "立石凛",
+        "pinned_tweet_id": "1772204455720817078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749408673724825600/SiKCGmUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45171,
+          "following_count": 110,
+          "like_count": 11,
+          "listed_count": 523,
+          "tweet_count": 926
+        },
+        "username": "ttisrn_0710",
+        "verified": false
+      }
+    ]
+  }
+}

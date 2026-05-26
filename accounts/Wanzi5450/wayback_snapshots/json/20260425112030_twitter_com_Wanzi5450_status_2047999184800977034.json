@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2047997906930782710",
+    "created_at": "2026-04-25T11:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047999184800977034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047999184800977034",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047997906930782710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 这个算是横财了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2047997893525823488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvzO8Ba4AAXnND.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2047997906930782710",
+        "created_at": "2026-04-25T11:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047999184800977034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047999184800977034",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047997906930782710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这个算是横财了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047997893525823488"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2047997906930782710",
+        "created_at": "2026-04-25T11:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047997906930782710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VS2pkTTLF6",
+              "end": 40,
+              "expanded_url": "https://x.com/maipianaini0930/status/2047997906930782710/photo/1",
+              "media_key": "3_2047997893525823488",
+              "start": 17,
+              "url": "https://t.co/VS2pkTTLF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047997906930782710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂了快两年今天卖出去了哈哈哈哈哈 https://t.co/VS2pkTTLF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 279,
+          "like_count": 13260,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 3528
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 277,
+          "like_count": 8742,
+          "listed_count": 1,
+          "media_count": 533,
+          "tweet_count": 3380
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

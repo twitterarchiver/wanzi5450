@@ -1,0 +1,613 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1815928606222139392"
+      ],
+      "media_source_tweet_id": [
+        "1815928610064150555"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1816116126629216352",
+    "created_at": "2024-07-24T14:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T15:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816116126629216352"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "要楽奈ちゃん",
+          "probability": 0.5156,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "コピック"
+        },
+        {
+          "end": 96,
+          "start": 85,
+          "tag": "bandoriart"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1045269690111545345",
+          "start": 3,
+          "username": "koyuki_kochin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/0hHdGuvtae",
+          "end": 127,
+          "expanded_url": "https://twitter.com/koyuki_kochin/status/1815928610064150555/photo/1",
+          "media_key": "3_1815928606222139392",
+          "start": 104,
+          "url": "https://t.co/0hHdGuvtae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816116126629216352",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815928610064150555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koyuki_kochin: 要楽奈ちゃん描きました！\n10話のライブ、皆泣いてるのに1人だけやりきった汗流してるところ最高すぎる✨️\n\n#バンドリ　#コピック\n#bandoriart 　#MyGO https://t.co/0hHdGuvtae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1815928606222139392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTN5cjdXQAA7Ips.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815928606222139392"
+          ],
+          "media_source_tweet_id": [
+            "1815928610064150555"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1816116126629216352",
+        "created_at": "2024-07-24T14:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T15:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816116126629216352"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "要楽奈ちゃん",
+              "probability": 0.5156,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "コピック"
+            },
+            {
+              "end": 96,
+              "start": 85,
+              "tag": "bandoriart"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1045269690111545345",
+              "start": 3,
+              "username": "koyuki_kochin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0hHdGuvtae",
+              "end": 127,
+              "expanded_url": "https://twitter.com/koyuki_kochin/status/1815928610064150555/photo/1",
+              "media_key": "3_1815928606222139392",
+              "start": 104,
+              "url": "https://t.co/0hHdGuvtae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816116126629216352",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815928610064150555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koyuki_kochin: 要楽奈ちゃん描きました！\n10話のライブ、皆泣いてるのに1人だけやりきった汗流してるところ最高すぎる✨️\n\n#バンドリ　#コピック\n#bandoriart 　#MyGO https://t.co/0hHdGuvtae"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815928606222139392"
+          ]
+        },
+        "author_id": "1045269690111545345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1815928610064150555",
+        "created_at": "2024-07-24T01:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T02:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815928610064150555"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "コピック"
+            },
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "bandoriart"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0hHdGuvtae",
+              "end": 108,
+              "expanded_url": "https://twitter.com/koyuki_kochin/status/1815928610064150555/photo/1",
+              "media_key": "3_1815928606222139392",
+              "start": 85,
+              "url": "https://t.co/0hHdGuvtae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815928610064150555",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 9059,
+          "like_count": 386,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "要楽奈ちゃん描きました！\n10話のライブ、皆泣いてるのに1人だけやりきった汗流してるところ最高すぎる✨️\n\n#バンドリ　#コピック\n#bandoriart 　#MyGO https://t.co/0hHdGuvtae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2768,
+          "listed_count": 0,
+          "tweet_count": 477
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-27T11:11:29.000Z",
+        "description": "二児の母。コピック愛。仕事と育児の合間にひっそり描いてます。\nイラスト製作過程や日々の事を呟きがち。\n\n無言フォローすいません&気軽にフォローOK☆\n無断転載・自作発言・AI学習NG。\nバンドリ原画イラスト販売中→\nhttps://t.co/K1WXgl0iS2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tamasburo.booth.pm",
+                "end": 131,
+                "expanded_url": "https://tamasburo.booth.pm/",
+                "start": 108,
+                "url": "https://t.co/K1WXgl0iS2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1531380",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1531380",
+                "start": 0,
+                "url": "https://t.co/MgSeUUYZ1l"
+              }
+            ]
+          }
+        },
+        "id": "1045269690111545345",
+        "name": "こちん",
+        "pinned_tweet_id": "1373488506182365184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749299038665768960/EkogoLG5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 302,
+          "like_count": 11024,
+          "listed_count": 3,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/MgSeUUYZ1l",
+        "username": "koyuki_kochin",
+        "verified": false
+      }
+    ]
+  }
+}

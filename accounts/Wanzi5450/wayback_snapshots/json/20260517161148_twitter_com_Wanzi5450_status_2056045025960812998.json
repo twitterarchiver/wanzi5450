@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2056034768589095068",
+    "created_at": "2026-05-17T16:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056045025960812998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869222455052791808",
+          "start": 0,
+          "username": "berry_bear377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056045025960812998",
+    "in_reply_to_user_id": "1869222455052791808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056034768589095068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berry_bear377 这也太美好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056034590490595328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiAkRQbkAAOQJ1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056034590570213376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiAkRjacAAJhzS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056034590222082048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiAkQQaYAA6WS-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2056034768589095068",
+        "created_at": "2026-05-17T16:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056045025960812998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869222455052791808",
+              "start": 0,
+              "username": "berry_bear377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056045025960812998",
+        "in_reply_to_user_id": "1869222455052791808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056034768589095068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berry_bear377 这也太美好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056034590490595328",
+            "3_2056034590570213376",
+            "3_2056034590222082048"
+          ]
+        },
+        "author_id": "1869222455052791808",
+        "conversation_id": "2056034768589095068",
+        "created_at": "2026-05-17T15:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056034768589095068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gaSGochuF",
+              "end": 164,
+              "expanded_url": "https://x.com/berry_bear377/status/2056034768589095068/photo/1",
+              "media_key": "3_2056034590490595328",
+              "start": 141,
+              "url": "https://t.co/2gaSGochuF"
+            },
+            {
+              "display_url": "pic.x.com/2gaSGochuF",
+              "end": 164,
+              "expanded_url": "https://x.com/berry_bear377/status/2056034768589095068/photo/1",
+              "media_key": "3_2056034590570213376",
+              "start": 141,
+              "url": "https://t.co/2gaSGochuF"
+            },
+            {
+              "display_url": "pic.x.com/2gaSGochuF",
+              "end": 164,
+              "expanded_url": "https://x.com/berry_bear377/status/2056034768589095068/photo/1",
+              "media_key": "3_2056034590222082048",
+              "start": 141,
+              "url": "https://t.co/2gaSGochuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056034768589095068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 190,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么比和喜欢的人在镰仓一起看日落更浪漫的事吗 他用很幼稚的Trick揽住我的左肩 我顺势靠在他的右肩上 聊中学 聊命运某些离开又回来的巧合 聊今天的天气和风吹海浪的声音 聊到认真至极的时候我会坐起来 很严肃地盯着他的眼睛 像训小狗\n我们没有接吻 但是夕阳和云层替我们已吻万万千千 https://t.co/2gaSGochuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 287,
+          "like_count": 15628,
+          "listed_count": 0,
+          "media_count": 500,
+          "tweet_count": 3826
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T03:25:50.000Z",
+        "description": "マコンドではまだ雨が降っている 東大卒業 東京OL👩‍💼   推特用来发疯和记录F1&电竞 主队木瓜814",
+        "id": "1869222455052791808",
+        "location": "Tokyo",
+        "name": "ドロボウ猫🐈",
+        "pinned_tweet_id": "1949347019962650991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053124770074652672/oE-bpu6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 199,
+          "like_count": 11858,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 2349
+        },
+        "username": "berry_bear377",
+        "verified": false
+      }
+    ]
+  }
+}

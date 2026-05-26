@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1864881888663605485",
+    "created_at": "2024-12-06T03:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T04:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864881888663605485"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "#おはリナ",
+          "probability": 0.5263,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "モーリーさん",
+          "probability": 0.4103,
+          "start": 62,
+          "type": "Person"
+        },
+        {
+          "end": 109,
+          "normalized_text": "田中さん",
+          "probability": 0.8253,
+          "start": 106,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "おはリナ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864881888663605485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864457365137051755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: TOKYO MX 『#おはリナ』\nご視聴いただきありがとうございました☀️\n\n今週より新たにモーリーさんをゲストにお迎えし、木曜の朝がより明るくなりました🥳\n\n本日のキャスターの田中さんも、\nお名前が一緒で親近感でした☺️おはヒナ…！\n\n本日も比…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1864881888663605485",
+        "created_at": "2024-12-06T03:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T04:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864881888663605485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "#おはリナ",
+              "probability": 0.5263,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "モーリーさん",
+              "probability": 0.4103,
+              "start": 62,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "田中さん",
+              "probability": 0.8253,
+              "start": 106,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "おはリナ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864881888663605485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864457365137051755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: TOKYO MX 『#おはリナ』\nご視聴いただきありがとうございました☀️\n\n今週より新たにモーリーさんをゲストにお迎えし、木曜の朝がより明るくなりました🥳\n\n本日のキャスターの田中さんも、\nお名前が一緒で親近感でした☺️おはヒナ…！\n\n本日も比…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864457358984044544"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1864457365137051755",
+        "created_at": "2024-12-04T23:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T00:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864457365137051755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "TOKYO MX",
+              "probability": 0.3355,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 14,
+              "normalized_text": "#おはリナ",
+              "probability": 0.5554,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "モーリーさん",
+              "probability": 0.4136,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 93,
+              "normalized_text": "田中さん",
+              "probability": 0.8179,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "おはリナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywtdzwH2Cz",
+              "end": 171,
+              "expanded_url": "https://x.com/aoki__hina/status/1864457365137051755/photo/1",
+              "media_key": "3_1864457358984044544",
+              "start": 148,
+              "url": "https://t.co/ywtdzwH2Cz"
+            },
+            {
+              "display_url": "x.com/aoki__hina/sta…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1864423580576174472",
+              "start": 172,
+              "url": "https://t.co/sF7IViwlIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864457365137051755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 71610,
+          "like_count": 2679,
+          "quote_count": 9,
+          "reply_count": 45,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864423580576174472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TOKYO MX 『#おはリナ』\nご視聴いただきありがとうございました☀️\n\n今週より新たにモーリーさんをゲストにお迎えし、木曜の朝がより明るくなりました🥳\n\n本日のキャスターの田中さんも、\nお名前が一緒で親近感でした☺️おはヒナ…！\n\n本日も比較的暖かくなりそうです！\nいってらっしゃいませ👋 https://t.co/ywtdzwH2Cz https://t.co/sF7IViwlIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 808
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87791,
+          "following_count": 276,
+          "like_count": 0,
+          "listed_count": 835,
+          "media_count": 1037,
+          "tweet_count": 3761
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

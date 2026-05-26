@@ -1,0 +1,720 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10053189462",
+          "name": "バンドリ!TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1811986561426215339",
+    "created_at": "2024-07-13T04:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T05:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811986561426215339"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "バンドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "707778526963830784",
+          "start": 3,
+          "username": "sasakirico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811986561426215339",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 398
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811301686922948762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakirico: 今夜22:00〜\n『#バンドリ！TV LIVE 2024』# 223\n三角初華/ドロリス役として出演させていただきます！\n\n2ndライブ直後、上海でのライブ直前！\n楽しみとドキドキが止まりません。\n\nAve Mujica 5人で乗り込みます。。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1811986561426215339",
+        "created_at": "2024-07-13T04:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T05:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811986561426215339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "バンドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "707778526963830784",
+              "start": 3,
+              "username": "sasakirico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811986561426215339",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 398
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811301686922948762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakirico: 今夜22:00〜\n『#バンドリ！TV LIVE 2024』# 223\n三角初華/ドロリス役として出演させていただきます！\n\n2ndライブ直後、上海でのライブ直前！\n楽しみとドキドキが止まりません。\n\nAve Mujica 5人で乗り込みます。。…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811301679335387136"
+          ]
+        },
+        "author_id": "707778526963830784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10053189462",
+              "name": "バンドリ!TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1811301686922948762",
+        "created_at": "2024-07-11T07:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T08:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811301686922948762"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "#バンドリ！TV LIVE 2024",
+              "probability": 0.5948,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "上海",
+              "probability": 0.8081,
+              "start": 71,
+              "type": "Place"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Ave Mujica",
+              "probability": 0.2753,
+              "start": 100,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 149,
+              "start": 138,
+              "tag": "バンドリTVLIVE"
+            },
+            {
+              "end": 160,
+              "start": 150,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dRf7LHLW5N",
+              "end": 184,
+              "expanded_url": "https://twitter.com/sasakirico/status/1811301686922948762/photo/1",
+              "media_key": "3_1811301679335387136",
+              "start": 161,
+              "url": "https://t.co/dRf7LHLW5N"
+            },
+            {
+              "display_url": "x.com/bang_dream_inf…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/bang_dream_info/status/1811233954365911427",
+              "start": 185,
+              "url": "https://t.co/OZEkyEdFcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811301686922948762",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 77126,
+          "like_count": 2563,
+          "quote_count": 17,
+          "reply_count": 25,
+          "retweet_count": 398
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811233954365911427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今夜22:00〜\n『#バンドリ！TV LIVE 2024』# 223\n三角初華/ドロリス役として出演させていただきます！\n\n2ndライブ直後、上海でのライブ直前！\n楽しみとドキドキが止まりません。\n\nAve Mujica 5人で乗り込みます。。🕶️🌙\n是非、お見逃しなく!!\n#バンドリTVLIVE #AveMujica https://t.co/dRf7LHLW5N https://t.co/OZEkyEdFcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 2565,
+          "listed_count": 0,
+          "tweet_count": 425
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-10T04:02:05.000Z",
+        "description": "声優/歌手/作詞作曲/バンドリ・三角初華/リンカイ！・久留米美虹/ナナシス・アリナ/ワールドダイスター・流石知冴/かげきしょうじょ!!・山田彩子/プリチャン・だいあ/虹ヶ咲/デパプリ/邪神ちゃん等/ https://t.co/aJpyNZU1Sw /お仕事→contact@sasakirico.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakirico",
+                "end": 123,
+                "expanded_url": "http://youtube.com/c/sasakirico",
+                "start": 100,
+                "url": "https://t.co/aJpyNZU1Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakirico.com",
+                "end": 23,
+                "expanded_url": "http://sasakirico.com",
+                "start": 0,
+                "url": "https://t.co/sLLrD1WYEi"
+              }
+            ]
+          }
+        },
+        "id": "707778526963830784",
+        "name": "佐々木李子",
+        "pinned_tweet_id": "1793176588898709627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760183400856723456/cIwO4jfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42654,
+          "following_count": 1055,
+          "like_count": 15237,
+          "listed_count": 743,
+          "tweet_count": 11239
+        },
+        "url": "https://t.co/sLLrD1WYEi",
+        "username": "sasakirico",
+        "verified": false
+      }
+    ]
+  }
+}

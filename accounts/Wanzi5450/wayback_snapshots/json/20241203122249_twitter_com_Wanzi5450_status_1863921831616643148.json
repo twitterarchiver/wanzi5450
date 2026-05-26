@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1863921831616643148",
+    "created_at": "2024-12-03T12:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T13:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863921831616643148"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "不知火フレア",
+          "probability": 0.4314,
+          "start": 57,
+          "type": "Person"
+        },
+        {
+          "end": 76,
+          "normalized_text": "佐高陵平",
+          "probability": 0.6565,
+          "start": 73,
+          "type": "Person"
+        },
+        {
+          "end": 102,
+          "normalized_text": "柊椋",
+          "probability": 0.8229,
+          "start": 101,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1154304634569150464",
+          "start": 3,
+          "username": "shiranuiflare"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～ボーカル：不知火フレア作詞・作曲・編曲：佐高陵平映像：サイトウユウマイラスト：FA2ロゴ：柊椋■マーブル冴えるはiTunes・Spotify等で も配信中✨https://cover.lnk.to/YnNxAz----------------...",
+          "display_url": "youtube.com/watch?v=RGG3S3…",
+          "end": 137,
+          "expanded_url": "https://www.youtube.com/watch?v=RGG3S3iqjlg&feature=youtu.be",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1863431482758549504/KdiXeLNp?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1863431482758549504/KdiXeLNp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "【original MV】マーブル冴える/不知火フレア(official)",
+          "unwound_url": "https://www.youtube.com/watch?v=RGG3S3iqjlg&feature=youtu.be",
+          "url": "https://t.co/MKDgVu3vDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863921831616643148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2918
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821169924578193504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiranuiflare: 🔥不知火フレアオリジナル楽曲🔥\n\n🖼️マーブル冴える🖼️\nボーカル：不知火フレア\n作詞・作曲・編曲：佐高陵平\n映像：サイトウユウマ\nイラスト：FA2\nロゴ：柊椋\n\n🎨君だけが映えていた🖌️\nhttps://t.co/MKDgVu3vDj h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1863921831616643148",
+        "created_at": "2024-12-03T12:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T13:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863921831616643148"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "不知火フレア",
+              "probability": 0.4314,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "佐高陵平",
+              "probability": 0.6565,
+              "start": 73,
+              "type": "Person"
+            },
+            {
+              "end": 102,
+              "normalized_text": "柊椋",
+              "probability": 0.8229,
+              "start": 101,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1154304634569150464",
+              "start": 3,
+              "username": "shiranuiflare"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～ボーカル：不知火フレア作詞・作曲・編曲：佐高陵平映像：サイトウユウマイラスト：FA2ロゴ：柊椋■マーブル冴えるはiTunes・Spotify等で も配信中✨https://cover.lnk.to/YnNxAz----------------...",
+              "display_url": "youtube.com/watch?v=RGG3S3…",
+              "end": 137,
+              "expanded_url": "https://www.youtube.com/watch?v=RGG3S3iqjlg&feature=youtu.be",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1863431482758549504/KdiXeLNp?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1863431482758549504/KdiXeLNp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "【original MV】マーブル冴える/不知火フレア(official)",
+              "unwound_url": "https://www.youtube.com/watch?v=RGG3S3iqjlg&feature=youtu.be",
+              "url": "https://t.co/MKDgVu3vDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863921831616643148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2918
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821169924578193504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiranuiflare: 🔥不知火フレアオリジナル楽曲🔥\n\n🖼️マーブル冴える🖼️\nボーカル：不知火フレア\n作詞・作曲・編曲：佐高陵平\n映像：サイトウユウマ\nイラスト：FA2\nロゴ：柊椋\n\n🎨君だけが映えていた🖌️\nhttps://t.co/MKDgVu3vDj h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821129601747410944"
+          ]
+        },
+        "author_id": "1154304634569150464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1821169924578193504",
+        "created_at": "2024-08-07T13:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T14:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821169924578193504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "不知火フレア",
+              "probability": 0.4491,
+              "start": 38,
+              "type": "Person"
+            },
+            {
+              "end": 57,
+              "normalized_text": "佐高陵平",
+              "probability": 0.6693,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "柊椋",
+              "probability": 0.8212,
+              "start": 82,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ホロライブ所属３期生の不知火フレア(Flare Shiranui)だよ～ボーカル：不知火フレア作詞・作曲・編曲：佐高陵平映像：サイトウユウマイラスト：FA2ロゴ：柊椋■マーブル冴えるはiTunes・Spotify等で も配信中✨https://cover.lnk.to/YnNxAz----------------...",
+              "display_url": "youtube.com/watch?v=RGG3S3…",
+              "end": 118,
+              "expanded_url": "https://www.youtube.com/watch?v=RGG3S3iqjlg&feature=youtu.be",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1863431482758549504/KdiXeLNp?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1863431482758549504/KdiXeLNp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "【original MV】マーブル冴える/不知火フレア(official)",
+              "unwound_url": "https://www.youtube.com/watch?v=RGG3S3iqjlg&feature=youtu.be",
+              "url": "https://t.co/MKDgVu3vDj"
+            },
+            {
+              "display_url": "pic.x.com/yRLVZ3pkxu",
+              "end": 142,
+              "expanded_url": "https://x.com/shiranuiflare/status/1821169924578193504/video/1",
+              "media_key": "7_1821129601747410944",
+              "start": 119,
+              "url": "https://t.co/yRLVZ3pkxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821169924578193504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 1759569,
+          "like_count": 10110,
+          "quote_count": 54,
+          "reply_count": 176,
+          "retweet_count": 2918
+        },
+        "reply_settings": "everyone",
+        "text": "🔥不知火フレアオリジナル楽曲🔥\n\n🖼️マーブル冴える🖼️\nボーカル：不知火フレア\n作詞・作曲・編曲：佐高陵平\n映像：サイトウユウマ\nイラスト：FA2\nロゴ：柊椋\n\n🎨君だけが映えていた🖌️\nhttps://t.co/MKDgVu3vDj https://t.co/yRLVZ3pkxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 70,
+          "like_count": 3920,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 799
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-25T08:17:25.000Z",
+        "description": "ホロライブ所属３期生ハーフエルフの不知火フレアだよ～| サブ垢 @fuu_tan_sub | タグ関連▷ #フレアストリーム| #エルフレンド|#不知火配信素材| 🎨#しらぬえ | ✂#切りぬい | マイクラ #ぬいクラ募 | パパ @lalalalack|i temmieさん |h クロがねやさん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "フレアストリーム"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "エルフレンド"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "tag": "不知火配信素材"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "しらぬえ"
+              },
+              {
+                "end": 97,
+                "start": 92,
+                "tag": "切りぬい"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "ぬいクラ募"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "fuu_tan_sub"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "lalalalack"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCvInZ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/DyUau592ce"
+              }
+            ]
+          }
+        },
+        "id": "1154304634569150464",
+        "name": "不知火フレア🔥@ホロライブ3期生",
+        "pinned_tweet_id": "1821169924578193504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688585227567005696/1HEjaOD8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974286,
+          "following_count": 362,
+          "like_count": 25612,
+          "listed_count": 12094,
+          "media_count": 3355,
+          "tweet_count": 35049
+        },
+        "url": "https://t.co/DyUau592ce",
+        "username": "shiranuiflare",
+        "verified": true
+      }
+    ]
+  }
+}

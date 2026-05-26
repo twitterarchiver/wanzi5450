@@ -1,0 +1,352 @@
+{
+  "data": {
+    "attachments": {
+      "media_source_tweet_id": [
+        "1811409603730801015"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1811831502361203049",
+    "created_at": "2024-07-12T18:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T19:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811831502361203049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1014973243164319744",
+          "start": 3,
+          "username": "ngnchiikawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4i4xl2uawB",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ngnchiikawa/status/1811409603730801015/photo/1",
+          "media_key": "3_1811409598060044289",
+          "start": 19,
+          "url": "https://t.co/4i4xl2uawB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811831502361203049",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18075
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811409603730801015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ngnchiikawa: 📱 https://t.co/4i4xl2uawB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_source_tweet_id": [
+            "1811409603730801015"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1811831502361203049",
+        "created_at": "2024-07-12T18:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T19:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811831502361203049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1014973243164319744",
+              "start": 3,
+              "username": "ngnchiikawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4i4xl2uawB",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ngnchiikawa/status/1811409603730801015/photo/1",
+              "media_key": "3_1811409598060044289",
+              "start": 19,
+              "url": "https://t.co/4i4xl2uawB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811831502361203049",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18075
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811409603730801015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ngnchiikawa: 📱 https://t.co/4i4xl2uawB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811409598060044289"
+          ]
+        },
+        "author_id": "1014973243164319744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1811409603730801015",
+        "created_at": "2024-07-11T14:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T15:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811409603730801015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4i4xl2uawB",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ngnchiikawa/status/1811409603730801015/photo/1",
+              "media_key": "3_1811409598060044289",
+              "start": 2,
+              "url": "https://t.co/4i4xl2uawB"
+            },
+            {
+              "display_url": "x.com/ngnchiikawa/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ngnchiikawa/status/1811406364155294043",
+              "start": 26,
+              "url": "https://t.co/W5hdhVaM38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811409603730801015",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4084,
+          "impression_count": 8222861,
+          "like_count": 159821,
+          "quote_count": 857,
+          "reply_count": 1200,
+          "retweet_count": 18075
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811406364155294043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "📱 https://t.co/4i4xl2uawB https://t.co/W5hdhVaM38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 2527,
+          "listed_count": 0,
+          "tweet_count": 419
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-05T20:44:13.000Z",
+        "description": "ちいかわ。(ナガノ@ngntrtr) お仕事のご依頼はこちらまで【https://t.co/Ogh4mmnwz2】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "ngntrtr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "spiralcute.com/contact/index",
+                "end": 56,
+                "expanded_url": "https://spiralcute.com/contact/index",
+                "start": 33,
+                "url": "https://t.co/Ogh4mmnwz2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiikawa-market.jp",
+                "end": 23,
+                "expanded_url": "https://chiikawa-market.jp/",
+                "start": 0,
+                "url": "https://t.co/Snp5KqzJI6"
+              }
+            ]
+          }
+        },
+        "id": "1014973243164319744",
+        "name": "ちいかわ💫アニメ火金",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1210137605234278400/IAozvMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3352968,
+          "following_count": 9,
+          "like_count": 4273,
+          "listed_count": 14011,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/Snp5KqzJI6",
+        "username": "ngnchiikawa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A book, like \"To Kill a Mockingbird\"",
+          "id": "84",
+          "name": "Book"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+          "id": "1283453704088084480",
+          "name": "Manga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1473415306471108608",
+          "name": "The Dangers in My Heart"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1840609048355651956",
+    "created_at": "2024-09-30T04:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T05:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840609048355651956"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "僕ヤバ"
+        },
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "桜井のりお"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1552835457313951744",
+          "start": 3,
+          "username": "bokuyaba_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840609048355651956",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11099
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840323381549224312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokuyaba_anime: 🌸🌸🌸🌸━━━━━━\n\n✨#僕ヤバ 劇場版制作決定✨\n\n原作 #桜井のりお 先生から\nお祝いイラストが到着!!\n ━━━━━━🌸🌸🌸🌸\n\n今後の続報を\nどうぞお楽しみに!!!!!\n\n🎬劇場版制作決定\nhttps://t.co/n3yJcN…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1840609048355651956",
+        "created_at": "2024-09-30T04:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T05:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840609048355651956"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "僕ヤバ"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "桜井のりお"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1552835457313951744",
+              "start": 3,
+              "username": "bokuyaba_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840609048355651956",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11099
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840323381549224312",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokuyaba_anime: 🌸🌸🌸🌸━━━━━━\n\n✨#僕ヤバ 劇場版制作決定✨\n\n原作 #桜井のりお 先生から\nお祝いイラストが到着!!\n ━━━━━━🌸🌸🌸🌸\n\n今後の続報を\nどうぞお楽しみに!!!!!\n\n🎬劇場版制作決定\nhttps://t.co/n3yJcN…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840309014133166080"
+          ]
+        },
+        "author_id": "1552835457313951744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A book, like \"To Kill a Mockingbird\"",
+              "id": "84",
+              "name": "Book"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1473415306471108608",
+              "name": "The Dangers in My Heart"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1840323381549224312",
+        "created_at": "2024-09-29T09:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T10:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840323381549224312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "僕ヤバ"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "桜井のりお"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■公式HP：https://bokuyaba-anime.com/■公式X（旧：Twitter）：@bokuyaba_anime■公式TikTok：@bokuyaba_anime2023年４月から６月まで第1期、2024年１月から３月まで第2期がテレビ朝日系全国24局ネット“NUMAnimation”枠ほかにて放...",
+              "display_url": "youtu.be/68_I9SIDKAE",
+              "end": 123,
+              "expanded_url": "https://youtu.be/68_I9SIDKAE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1840323428030554112/GI8w43D3?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1840323428030554112/GI8w43D3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "「僕の心のヤバイやつ」劇場版制作決定!!",
+              "unwound_url": "https://www.youtube.com/watch?v=68_I9SIDKAE&feature=youtu.be",
+              "url": "https://t.co/n3yJcN9UMN"
+            },
+            {
+              "display_url": "pic.x.com/updlfemmdj",
+              "end": 147,
+              "expanded_url": "https://twitter.com/bokuyaba_anime/status/1840323381549224312/photo/1",
+              "media_key": "3_1840309014133166080",
+              "start": 124,
+              "url": "https://t.co/UPDLfEmmDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840323381549224312",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1585,
+          "impression_count": 2223428,
+          "like_count": 40761,
+          "quote_count": 1544,
+          "reply_count": 214,
+          "retweet_count": 11099
+        },
+        "reply_settings": "everyone",
+        "text": "🌸🌸🌸🌸━━━━━━\n\n✨#僕ヤバ 劇場版制作決定✨\n\n原作 #桜井のりお 先生から\nお祝いイラストが到着!!\n ━━━━━━🌸🌸🌸🌸\n\n今後の続報を\nどうぞお楽しみに!!!!!\n\n🎬劇場版制作決定\nhttps://t.co/n3yJcN9UMN https://t.co/UPDLfEmmDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 58,
+          "like_count": 3320,
+          "listed_count": 0,
+          "tweet_count": 669
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T01:57:16.000Z",
+        "description": "📺配信：TVアニメ第1期・第2期・ツイヤバ  10/1㈫0時より、各見放題サービスで配信!! 原作 #桜井のりお（秋田書店「マンガクロス」連載）／市川京太郎役 #堀江瞬 山田杏奈役 #羊宮妃那 推奨▶#僕ヤバ ©桜井のりお（秋田書店）／僕ヤバ製作委員会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "桜井のりお"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "堀江瞬"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "羊宮妃那"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "僕ヤバ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bokuyaba-anime.com",
+                "end": 23,
+                "expanded_url": "https://bokuyaba-anime.com/",
+                "start": 0,
+                "url": "https://t.co/meLtmcVziu"
+              }
+            ]
+          }
+        },
+        "id": "1552835457313951744",
+        "name": "「僕の心のヤバイやつ」TVアニメ公式＠劇場版制作決定!!",
+        "pinned_tweet_id": "1840323130096492763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771100529885868032/IhCO1Hu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207813,
+          "following_count": 73,
+          "like_count": 13,
+          "listed_count": 781,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/meLtmcVziu",
+        "username": "bokuyaba_anime",
+        "verified": true
+      }
+    ]
+  }
+}

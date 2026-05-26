@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1865569936552481044",
+    "created_at": "2024-12-08T01:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T02:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865569936552481044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1813188251316023296",
+          "start": 3,
+          "username": "chiikawa_pt_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865569936552481044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9836
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862798727892844663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiikawa_pt_jp: ＼📅ちいぽけカレンダー配布📅／\n\nスマートフォンでご使用いただける\n『ちいぽけオリジナルカレンダー壁紙（12月）』をプレゼント🎁\n\n画像を保存して、ぜひ使ってくださいね♪\n\n▼ちいぽけの事前登録はこちら✨\nhttps://t.co/fwU…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1865569936552481044",
+        "created_at": "2024-12-08T01:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T02:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865569936552481044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1813188251316023296",
+              "start": 3,
+              "username": "chiikawa_pt_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865569936552481044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9836
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862798727892844663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiikawa_pt_jp: ＼📅ちいぽけカレンダー配布📅／\n\nスマートフォンでご使用いただける\n『ちいぽけオリジナルカレンダー壁紙（12月）』をプレゼント🎁\n\n画像を保存して、ぜひ使ってくださいね♪\n\n▼ちいぽけの事前登録はこちら✨\nhttps://t.co/fwU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862414140926828544"
+          ]
+        },
+        "author_id": "1813188251316023296",
+        "conversation_id": "1862798727892844663",
+        "created_at": "2024-11-30T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862798727892844663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "ちいぽけ"
+            },
+            {
+              "end": 144,
+              "start": 135,
+              "tag": "ちいかわぽけっと"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ちいかわぽけっと オフィシャルサイト",
+              "display_url": "jp.chiikawa-pocket.com/ja/preregistra…",
+              "end": 126,
+              "expanded_url": "https://jp.chiikawa-pocket.com/ja/preregistration",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1863352192733986816/_4Hd61S8?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1863352192733986816/_4Hd61S8?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "ちいかわぽけっと - 事前登録ページ",
+              "unwound_url": "https://jp.chiikawa-pocket.com/ja/preregistration/",
+              "url": "https://t.co/fwUcqy2it6"
+            },
+            {
+              "display_url": "pic.x.com/T4VwzEiLYF",
+              "end": 168,
+              "expanded_url": "https://x.com/chiikawa_pt_jp/status/1862798727892844663/photo/1",
+              "media_key": "3_1862414140926828544",
+              "start": 145,
+              "url": "https://t.co/T4VwzEiLYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862798727892844663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4769,
+          "impression_count": 6394874,
+          "like_count": 73042,
+          "quote_count": 458,
+          "reply_count": 133,
+          "retweet_count": 9836
+        },
+        "reply_settings": "everyone",
+        "text": "＼📅ちいぽけカレンダー配布📅／\n\nスマートフォンでご使用いただける\n『ちいぽけオリジナルカレンダー壁紙（12月）』をプレゼント🎁\n\n画像を保存して、ぜひ使ってくださいね♪\n\n▼ちいぽけの事前登録はこちら✨\nhttps://t.co/fwUcqy2it6 \n\n#ちいぽけ　#ちいかわぽけっと https://t.co/T4VwzEiLYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3988,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 812
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:25:52.000Z",
+        "description": "ちいかわ初の公式スマホアプリ『ちいかわぽけっと（ちいぽけ）』公式アカウントです。 #ちいぽけ に関する情報をお届けします🌟\n\n事前登録受付中！\nhttps://t.co/J4RD6BSz63",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "ちいぽけ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jp.chiikawa-pocket.com/ja/preregistra…",
+                "end": 95,
+                "expanded_url": "https://jp.chiikawa-pocket.com/ja/preregistration",
+                "start": 72,
+                "url": "https://t.co/J4RD6BSz63"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.chiikawa-pocket.com/ja/",
+                "end": 23,
+                "expanded_url": "https://jp.chiikawa-pocket.com/ja/",
+                "start": 0,
+                "url": "https://t.co/9BPBMfgMlw"
+              }
+            ]
+          }
+        },
+        "id": "1813188251316023296",
+        "name": "ちいかわぽけっと公式",
+        "pinned_tweet_id": "1822130982813868049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822125744694181890/CGgkQ1WV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230364,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 431,
+          "media_count": 35,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/9BPBMfgMlw",
+        "username": "chiikawa_pt_jp",
+        "verified": true
+      }
+    ]
+  }
+}

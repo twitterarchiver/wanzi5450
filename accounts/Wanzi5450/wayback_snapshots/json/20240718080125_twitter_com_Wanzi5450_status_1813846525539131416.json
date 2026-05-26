@@ -1,0 +1,656 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1813846525539131416",
+    "created_at": "2024-07-18T08:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T09:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813846525539131416"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 106,
+          "tag": "Liella"
+        },
+        {
+          "end": 123,
+          "start": 114,
+          "tag": "lovelive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "744906956649857024",
+          "start": 3,
+          "username": "Liyu0109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813846525539131416",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1366
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813557524840267960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liyu0109: 可可ちゃん誕生日の\n祝いロケムービー🍨みんな見てくれましたか？\n\n可可が大好きな猫がいっぱい居る猫カフェでお祝いしたよ🐈🩵\n\n本日限定フォトフレームも、みんな可可と写真撮ってみてね！\n#Liella #lovelive https://t.co/e0…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1813846525539131416",
+        "created_at": "2024-07-18T08:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T09:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813846525539131416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 106,
+              "tag": "Liella"
+            },
+            {
+              "end": 123,
+              "start": 114,
+              "tag": "lovelive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "744906956649857024",
+              "start": 3,
+              "username": "Liyu0109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813846525539131416",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1366
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813557524840267960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liyu0109: 可可ちゃん誕生日の\n祝いロケムービー🍨みんな見てくれましたか？\n\n可可が大好きな猫がいっぱい居る猫カフェでお祝いしたよ🐈🩵\n\n本日限定フォトフレームも、みんな可可と写真撮ってみてね！\n#Liella #lovelive https://t.co/e0…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813556965647486976",
+            "3_1813556965655887872",
+            "3_1813556965593001984",
+            "3_1813556965609816065"
+          ]
+        },
+        "author_id": "744906956649857024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1813557524840267960",
+        "created_at": "2024-07-17T12:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T13:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813557524840267960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 92,
+              "tag": "Liella"
+            },
+            {
+              "end": 109,
+              "start": 100,
+              "tag": "lovelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/e0113wHPpV",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1813557524840267960/photo/1",
+              "media_key": "3_1813556965647486976",
+              "start": 110,
+              "url": "https://t.co/e0113wHPpV"
+            },
+            {
+              "display_url": "pic.twitter.com/e0113wHPpV",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1813557524840267960/photo/1",
+              "media_key": "3_1813556965655887872",
+              "start": 110,
+              "url": "https://t.co/e0113wHPpV"
+            },
+            {
+              "display_url": "pic.twitter.com/e0113wHPpV",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1813557524840267960/photo/1",
+              "media_key": "3_1813556965593001984",
+              "start": 110,
+              "url": "https://t.co/e0113wHPpV"
+            },
+            {
+              "display_url": "pic.twitter.com/e0113wHPpV",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Liyu0109/status/1813557524840267960/photo/1",
+              "media_key": "3_1813556965609816065",
+              "start": 110,
+              "url": "https://t.co/e0113wHPpV"
+            },
+            {
+              "display_url": "x.com/lovelive_staff…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/lovelive_staff/status/1813503381652353277",
+              "start": 134,
+              "url": "https://t.co/lXUCRgE5pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813557524840267960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 206111,
+          "like_count": 7390,
+          "quote_count": 55,
+          "reply_count": 123,
+          "retweet_count": 1366
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813503381652353277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可可ちゃん誕生日の\n祝いロケムービー🍨みんな見てくれましたか？\n\n可可が大好きな猫がいっぱい居る猫カフェでお祝いしたよ🐈🩵\n\n本日限定フォトフレームも、みんな可可と写真撮ってみてね！\n#Liella #lovelive https://t.co/e0113wHPpV https://t.co/lXUCRgE5pi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 57,
+          "like_count": 2703,
+          "listed_count": 0,
+          "tweet_count": 461
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-20T14:57:12.000Z",
+        "description": "「リーユウ 」中国上海人、歌手·コスプレ、#lovelive #Liella 唐 可可役、FC #YuUKoiDays 、ラジオ #Liyuuはつらじ #好きなLiyuu 、2nd Album #Liyuu_SoaringHeart 、Live Tour #Liyuu_MySoaringHeart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 21,
+                "tag": "lovelive"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "Liella"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "tag": "YuUKoiDays"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "tag": "Liyuuはつらじ"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "tag": "好きなLiyuu"
+              },
+              {
+                "end": 116,
+                "start": 97,
+                "tag": "Liyuu_SoaringHeart"
+              },
+              {
+                "end": 149,
+                "start": 128,
+                "tag": "Liyuu_MySoaringHeart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liyuu0109.com",
+                "end": 23,
+                "expanded_url": "https://liyuu0109.com/",
+                "start": 0,
+                "url": "https://t.co/KiKd81L2tY"
+              }
+            ]
+          }
+        },
+        "id": "744906956649857024",
+        "location": "ホリプロインターナショナル",
+        "name": "Liyuu",
+        "pinned_tweet_id": "1809424512364265601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741476337343250432/8sG1vf80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686531,
+          "following_count": 327,
+          "like_count": 12134,
+          "listed_count": 6970,
+          "tweet_count": 4063
+        },
+        "url": "https://t.co/KiKd81L2tY",
+        "username": "Liyu0109",
+        "verified": true
+      }
+    ]
+  }
+}

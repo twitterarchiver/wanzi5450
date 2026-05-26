@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826821033594171393"
+      ],
+      "media_source_tweet_id": [
+        "1826821053978697975"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1827365226494226676",
+    "created_at": "2024-08-24T15:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T16:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827365226494226676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1486705186814894084",
+          "start": 3,
+          "username": "master_M_489"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/apydsc8skc",
+          "end": 44,
+          "expanded_url": "https://twitter.com/master_M_489/status/1826821053978697975/photo/1",
+          "media_key": "3_1826821033594171393",
+          "start": 21,
+          "url": "https://t.co/ApYDsc8sKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827365226494226676",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826821053978697975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @master_M_489: 🍧⚡ https://t.co/ApYDsc8sKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1826821033594171393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVosDReXsAEa7zd.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826821033594171393"
+          ],
+          "media_source_tweet_id": [
+            "1826821053978697975"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1827365226494226676",
+        "created_at": "2024-08-24T15:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T16:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827365226494226676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1486705186814894084",
+              "start": 3,
+              "username": "master_M_489"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apydsc8skc",
+              "end": 44,
+              "expanded_url": "https://twitter.com/master_M_489/status/1826821053978697975/photo/1",
+              "media_key": "3_1826821033594171393",
+              "start": 21,
+              "url": "https://t.co/ApYDsc8sKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827365226494226676",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826821053978697975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @master_M_489: 🍧⚡ https://t.co/ApYDsc8sKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826821033594171393"
+          ]
+        },
+        "author_id": "1486705186814894084",
+        "conversation_id": "1826821053978697975",
+        "created_at": "2024-08-23T03:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T04:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826821053978697975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/apydsc8skc",
+              "end": 26,
+              "expanded_url": "https://twitter.com/master_M_489/status/1826821053978697975/photo/1",
+              "media_key": "3_1826821033594171393",
+              "start": 3,
+              "url": "https://t.co/ApYDsc8sKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826821053978697975",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 91994,
+          "like_count": 7551,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 1176
+        },
+        "reply_settings": "everyone",
+        "text": "🍧⚡ https://t.co/ApYDsc8sKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 59,
+          "like_count": 3046,
+          "listed_count": 0,
+          "tweet_count": 567
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T14:18:56.000Z",
+        "description": "新米イラストレーターのマスター村上です\n(*'▽')よろしくお願いします🐳\nFANBOX https://t.co/3vyoEyDog4\nSkeb https://t.co/V9evXkYlp9\n\n※作品の転載などはお断りしています。ご了承ください。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "masmura.fanbox.cc",
+                "end": 68,
+                "expanded_url": "http://masmura.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/3vyoEyDog4"
+              },
+              {
+                "display_url": "skeb.jp/@master_M_489",
+                "end": 97,
+                "expanded_url": "https://skeb.jp/@master_M_489",
+                "start": 74,
+                "url": "https://t.co/V9evXkYlp9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/74260288",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/74260288",
+                "start": 0,
+                "url": "https://t.co/v445JaYyKy"
+              }
+            ]
+          }
+        },
+        "id": "1486705186814894084",
+        "location": "瀬戸内海",
+        "name": "マスター村上🐳",
+        "pinned_tweet_id": "1785580253118910673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559353531055820801/si5WZDH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59749,
+          "following_count": 13,
+          "like_count": 5650,
+          "listed_count": 259,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/v445JaYyKy",
+        "username": "master_M_489",
+        "verified": false
+      }
+    ]
+  }
+}

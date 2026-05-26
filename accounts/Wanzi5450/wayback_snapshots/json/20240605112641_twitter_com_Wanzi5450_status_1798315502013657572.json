@@ -1,0 +1,492 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1668634867784122373"
+      ],
+      "media_source_tweet_id": [
+        "1668634872360075274"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1798315502013657572",
+    "created_at": "2024-06-05T11:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T12:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798315502013657572"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "スタァライト",
+          "probability": 0.5215,
+          "start": 59,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 35,
+          "tag": "スタリラ中等部舞台"
+        },
+        {
+          "end": 56,
+          "start": 46,
+          "tag": "舞台リベリオン感想"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "スタァライト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/z12t60Xv4j",
+          "end": 89,
+          "expanded_url": "https://twitter.com/aoki__hina/status/1668634872360075274/photo/1",
+          "media_key": "3_1668634867784122373",
+          "start": 66,
+          "url": "https://t.co/z12t60Xv4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798315502013657572",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 269
+    },
+    "referenced_tweets": [
+      {
+        "id": "1668634872360075274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: Sing of Freedom🌌🌅\n\n#スタリラ中等部舞台 #舞台リベリオン感想 \n#スタァライト https://t.co/z12t60Xv4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1668634867784122373",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FygukkoagAUlGRd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1668634867784122373"
+          ],
+          "media_source_tweet_id": [
+            "1668634872360075274"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1798315502013657572",
+        "created_at": "2024-06-05T11:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T12:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798315502013657572"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "スタァライト",
+              "probability": 0.5215,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "スタリラ中等部舞台"
+            },
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "舞台リベリオン感想"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "スタァライト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z12t60Xv4j",
+              "end": 89,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1668634872360075274/photo/1",
+              "media_key": "3_1668634867784122373",
+              "start": 66,
+              "url": "https://t.co/z12t60Xv4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798315502013657572",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 269
+        },
+        "referenced_tweets": [
+          {
+            "id": "1668634872360075274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: Sing of Freedom🌌🌅\n\n#スタリラ中等部舞台 #舞台リベリオン感想 \n#スタァライト https://t.co/z12t60Xv4j"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1668634867784122373"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1668634872360075274",
+        "created_at": "2023-06-13T15:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-13T16:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1668634872360075274"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "スタァライト",
+              "probability": 0.5882,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "スタリラ中等部舞台"
+            },
+            {
+              "end": 40,
+              "start": 30,
+              "tag": "舞台リベリオン感想"
+            },
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "スタァライト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z12t60Xv4j",
+              "end": 73,
+              "expanded_url": "https://twitter.com/aoki__hina/status/1668634872360075274/photo/1",
+              "media_key": "3_1668634867784122373",
+              "start": 50,
+              "url": "https://t.co/z12t60Xv4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1668634872360075274",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 51393,
+          "like_count": 1515,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "Sing of Freedom🌌🌅\n\n#スタリラ中等部舞台 #舞台リベリオン感想 \n#スタァライト https://t.co/z12t60Xv4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2186,
+          "listed_count": 0,
+          "tweet_count": 369
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響の新人声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1783075708342043113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62262,
+          "following_count": 226,
+          "like_count": 1,
+          "listed_count": 685,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

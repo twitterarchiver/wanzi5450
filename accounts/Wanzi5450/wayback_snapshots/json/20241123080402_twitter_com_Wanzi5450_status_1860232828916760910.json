@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1860232828916760910",
+    "created_at": "2024-11-23T08:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T09:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860232828916760910"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "林鼓子",
+          "probability": 0.5071,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 24,
+          "normalized_text": "青木陽菜",
+          "probability": 0.5995,
+          "start": 21,
+          "type": "Person"
+        },
+        {
+          "end": 46,
+          "normalized_text": "京都大学 〜鼓陽日和",
+          "probability": 0.296,
+          "start": 35,
+          "type": "Organization"
+        },
+        {
+          "end": 58,
+          "normalized_text": "京都大学の学園祭",
+          "probability": 0.3342,
+          "start": 51,
+          "type": "Organization"
+        },
+        {
+          "end": 121,
+          "normalized_text": "京都大学さん",
+          "probability": 0.3593,
+          "start": 116,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860232828916760910",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860214668771631122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: 『林鼓子＆青木陽菜 トークショー in京都大学  \n〜鼓陽日和〜』\n\n京都大学の学園祭に\n鼓子ちゃんとお邪魔しました🍁\n\n喋り倒しまして、あっという間のお時間でした…！\nうたも歌ったよー🤭🎤\n\n京都大学さん、お越しくださった皆様、\nありがとうござ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1860232828916760910",
+        "created_at": "2024-11-23T08:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T09:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860232828916760910"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "林鼓子",
+              "probability": 0.5071,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "青木陽菜",
+              "probability": 0.5995,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "京都大学 〜鼓陽日和",
+              "probability": 0.296,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 58,
+              "normalized_text": "京都大学の学園祭",
+              "probability": 0.3342,
+              "start": 51,
+              "type": "Organization"
+            },
+            {
+              "end": 121,
+              "normalized_text": "京都大学さん",
+              "probability": 0.3593,
+              "start": 116,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860232828916760910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860214668771631122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: 『林鼓子＆青木陽菜 トークショー in京都大学  \n〜鼓陽日和〜』\n\n京都大学の学園祭に\n鼓子ちゃんとお邪魔しました🍁\n\n喋り倒しまして、あっという間のお時間でした…！\nうたも歌ったよー🤭🎤\n\n京都大学さん、お越しくださった皆様、\nありがとうござ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860214636005793792",
+            "3_1860214636005711872"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1860214668771631122",
+        "created_at": "2024-11-23T06:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T07:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860214668771631122"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "林鼓子",
+              "probability": 0.4544,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 8,
+              "normalized_text": "青木陽菜",
+              "probability": 0.6142,
+              "start": 5,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "京都大学 〜鼓陽日和",
+              "probability": 0.2307,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "京都大学の学園祭",
+              "probability": 0.3149,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 105,
+              "normalized_text": "京都大学さん",
+              "probability": 0.3434,
+              "start": 100,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "鼓陽日和"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQ1pbQzpai",
+              "end": 162,
+              "expanded_url": "https://x.com/aoki__hina/status/1860214668771631122/photo/1",
+              "media_key": "3_1860214636005793792",
+              "start": 139,
+              "url": "https://t.co/YQ1pbQzpai"
+            },
+            {
+              "display_url": "pic.x.com/YQ1pbQzpai",
+              "end": 162,
+              "expanded_url": "https://x.com/aoki__hina/status/1860214668771631122/photo/1",
+              "media_key": "3_1860214636005711872",
+              "start": 139,
+              "url": "https://t.co/YQ1pbQzpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860214668771631122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 21808,
+          "like_count": 1740,
+          "quote_count": 17,
+          "reply_count": 33,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "『林鼓子＆青木陽菜 トークショー in京都大学  \n〜鼓陽日和〜』\n\n京都大学の学園祭に\n鼓子ちゃんとお邪魔しました🍁\n\n喋り倒しまして、あっという間のお時間でした…！\nうたも歌ったよー🤭🎤\n\n京都大学さん、お越しくださった皆様、\nありがとうございました🙂‍↕️✨ #鼓陽日和 https://t.co/YQ1pbQzpai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 3722,
+          "listed_count": 0,
+          "tweet_count": 763
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86314,
+          "following_count": 275,
+          "like_count": 0,
+          "listed_count": 827,
+          "tweet_count": 3723
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

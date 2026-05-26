@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862110979368136704"
+      ],
+      "media_source_tweet_id": [
+        "1862110985970168114"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1862444641637032355",
+    "created_at": "2024-11-29T10:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T11:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862444641637032355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z02FLc4S4s",
+          "end": 54,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1862110985970168114/photo/1",
+          "media_key": "3_1862110979368136704",
+          "start": 31,
+          "url": "https://t.co/z02FLc4S4s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862444641637032355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3500
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862110985970168114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: お客さん！終電ですよ！ https://t.co/z02FLc4S4s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1862110979368136704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdeMEeGXsAA54V-.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862110979368136704"
+          ],
+          "media_source_tweet_id": [
+            "1862110985970168114"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1862444641637032355",
+        "created_at": "2024-11-29T10:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862444641637032355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z02FLc4S4s",
+              "end": 54,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1862110985970168114/photo/1",
+              "media_key": "3_1862110979368136704",
+              "start": 31,
+              "url": "https://t.co/z02FLc4S4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862444641637032355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3500
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862110985970168114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: お客さん！終電ですよ！ https://t.co/z02FLc4S4s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862110979368136704"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "conversation_id": "1862110985970168114",
+        "created_at": "2024-11-28T12:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862110985970168114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z02FLc4S4s",
+              "end": 35,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1862110985970168114/photo/1",
+              "media_key": "3_1862110979368136704",
+              "start": 12,
+              "url": "https://t.co/z02FLc4S4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862110985970168114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 1132697,
+          "like_count": 49428,
+          "quote_count": 221,
+          "reply_count": 271,
+          "retweet_count": 3500
+        },
+        "reply_settings": "everyone",
+        "text": "お客さん！終電ですよ！ https://t.co/z02FLc4S4s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3861,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 786
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528265,
+          "following_count": 4304,
+          "like_count": 91393,
+          "listed_count": 1486,
+          "media_count": 13352,
+          "tweet_count": 13505
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

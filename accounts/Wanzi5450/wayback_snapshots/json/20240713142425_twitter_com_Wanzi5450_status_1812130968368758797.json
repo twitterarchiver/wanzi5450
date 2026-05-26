@@ -1,0 +1,298 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812015102205276160"
+      ],
+      "media_source_tweet_id": [
+        "1812015135319568663"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1812130968368758797",
+    "created_at": "2024-07-13T14:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T15:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812130968368758797"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "AveMujica",
+          "probability": 0.3257,
+          "start": 33,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "むつさき"
+        },
+        {
+          "end": 42,
+          "start": 32,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 54,
+          "start": 43,
+          "tag": "bandoriart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032253300",
+          "start": 3,
+          "username": "hansku987"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/8SIcCjymLA",
+          "end": 78,
+          "expanded_url": "https://twitter.com/hansku987/status/1812015135319568663/photo/1",
+          "media_key": "3_1812015102205276160",
+          "start": 55,
+          "url": "https://t.co/8SIcCjymLA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812130968368758797",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812015135319568663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hansku987: Masquerade\n＃むつさき #AveMujica #bandoriart https://t.co/8SIcCjymLA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_1812015102205276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSWSIo6WsAAZseP.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812015102205276160"
+          ],
+          "media_source_tweet_id": [
+            "1812015135319568663"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1812130968368758797",
+        "created_at": "2024-07-13T14:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T15:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812130968368758797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "AveMujica",
+              "probability": 0.3257,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "むつさき"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 54,
+              "start": 43,
+              "tag": "bandoriart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032253300",
+              "start": 3,
+              "username": "hansku987"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8SIcCjymLA",
+              "end": 78,
+              "expanded_url": "https://twitter.com/hansku987/status/1812015135319568663/photo/1",
+              "media_key": "3_1812015102205276160",
+              "start": 55,
+              "url": "https://t.co/8SIcCjymLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812130968368758797",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812015135319568663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hansku987: Masquerade\n＃むつさき #AveMujica #bandoriart https://t.co/8SIcCjymLA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812015102205276160"
+          ]
+        },
+        "author_id": "3032253300",
+        "conversation_id": "1812015135319568663",
+        "created_at": "2024-07-13T06:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T07:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812015135319568663"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "AveMujica",
+              "probability": 0.3255,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "むつさき"
+            },
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 39,
+              "start": 28,
+              "tag": "bandoriart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8SIcCjymLA",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hansku987/status/1812015135319568663/photo/1",
+              "media_key": "3_1812015102205276160",
+              "start": 40,
+              "url": "https://t.co/8SIcCjymLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812015135319568663",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 17179,
+          "like_count": 1243,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "Masquerade\n＃むつさき #AveMujica #bandoriart https://t.co/8SIcCjymLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 2629,
+          "listed_count": 0,
+          "tweet_count": 439
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T06:59:47.000Z",
+        "description": "20↑/外国語苦手/中文注意/ゆり is my life /バンドリ/たまに絵を描く？",
+        "id": "3032253300",
+        "location": "YuriLand",
+        "name": "はんすく",
+        "pinned_tweet_id": "1729708121017270737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714151327968931840/ry-PlPtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 121,
+          "like_count": 2109,
+          "listed_count": 3,
+          "tweet_count": 716
+        },
+        "username": "hansku987",
+        "verified": false
+      }
+    ]
+  }
+}

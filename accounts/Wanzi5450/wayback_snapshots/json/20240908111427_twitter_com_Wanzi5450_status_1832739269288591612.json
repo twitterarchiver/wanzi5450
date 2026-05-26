@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832729505347284993",
+        "3_1832729505175388160"
+      ],
+      "media_source_tweet_id": [
+        "1832729513803104605",
+        "1832729513803104605"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1270060459413004288",
+          "name": "Kanon Takao"
+        }
+      }
+    ],
+    "conversation_id": "1832739269288591612",
+    "created_at": "2024-09-08T11:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T12:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832739269288591612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "767910567071801344",
+          "start": 3,
+          "username": "Kanon_Takao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4adadj9phf",
+          "end": 109,
+          "expanded_url": "https://twitter.com/Kanon_Takao/status/1832729513803104605/photo/1",
+          "media_key": "3_1832729505347284993",
+          "start": 86,
+          "url": "https://t.co/4aDadJ9pHf"
+        },
+        {
+          "display_url": "pic.x.com/4adadj9phf",
+          "end": 109,
+          "expanded_url": "https://twitter.com/Kanon_Takao/status/1832729513803104605/photo/1",
+          "media_key": "3_1832729505175388160",
+          "start": 86,
+          "url": "https://t.co/4aDadJ9pHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832739269288591612",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832729513803104605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanon_Takao: この前、ゆづとご飯食べたよ〜🥂🍓\n\n大好きが溢れました🥒\n心のオアシスすぎる……\n\nちょっと早めのお誕生日プレゼントもありがとう☺️🎁🌸 https://t.co/4aDadJ9pHf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1832729505347284993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW8pxl-aMAExpZu.jpg",
+        "width": 1705
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1832729505175388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW8pxlVbQAAIGNu.jpg",
+        "width": 1705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832729505347284993",
+            "3_1832729505175388160"
+          ],
+          "media_source_tweet_id": [
+            "1832729513803104605",
+            "1832729513803104605"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "1832739269288591612",
+        "created_at": "2024-09-08T11:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T12:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832739269288591612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "767910567071801344",
+              "start": 3,
+              "username": "Kanon_Takao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4adadj9phf",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Kanon_Takao/status/1832729513803104605/photo/1",
+              "media_key": "3_1832729505347284993",
+              "start": 86,
+              "url": "https://t.co/4aDadJ9pHf"
+            },
+            {
+              "display_url": "pic.x.com/4adadj9phf",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Kanon_Takao/status/1832729513803104605/photo/1",
+              "media_key": "3_1832729505175388160",
+              "start": 86,
+              "url": "https://t.co/4aDadJ9pHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832739269288591612",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832729513803104605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanon_Takao: この前、ゆづとご飯食べたよ〜🥂🍓\n\n大好きが溢れました🥒\n心のオアシスすぎる……\n\nちょっと早めのお誕生日プレゼントもありがとう☺️🎁🌸 https://t.co/4aDadJ9pHf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832729505347284993",
+            "3_1832729505175388160"
+          ]
+        },
+        "author_id": "767910567071801344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1270060459413004288",
+              "name": "Kanon Takao"
+            }
+          }
+        ],
+        "conversation_id": "1832729513803104605",
+        "created_at": "2024-09-08T10:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T11:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832729513803104605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4adadj9phf",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Kanon_Takao/status/1832729513803104605/photo/1",
+              "media_key": "3_1832729505347284993",
+              "start": 69,
+              "url": "https://t.co/4aDadJ9pHf"
+            },
+            {
+              "display_url": "pic.x.com/4adadj9phf",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Kanon_Takao/status/1832729513803104605/photo/1",
+              "media_key": "3_1832729505175388160",
+              "start": 69,
+              "url": "https://t.co/4aDadJ9pHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832729513803104605",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 9635,
+          "like_count": 688,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "この前、ゆづとご飯食べたよ〜🥂🍓\n\n大好きが溢れました🥒\n心のオアシスすぎる……\n\nちょっと早めのお誕生日プレゼントもありがとう☺️🎁🌸 https://t.co/4aDadJ9pHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 3087,
+          "listed_count": 0,
+          "tweet_count": 584
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-23T02:25:21.000Z",
+        "description": "新人声優です！大学4年21歳『#バンドリ It's MyGO』#AveMujica key.豊川祥子/オブリビオニス『#このすば3期』アイリス『#天使つき』蔓深ひすい『#遊戯王』ユウナ『#真の仲間』リット『#アイプラ』白石千紗『#プリコネR』プレシア『#原神』ノエル『#マギレコ』かごめ『#艦これ』ゴトランド #あぐのん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "tag": "AveMujica"
+              },
+              {
+                "end": 66,
+                "start": 59,
+                "tag": "このすば3期"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "天使つき"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "遊戯王"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "真の仲間"
+              },
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "アイプラ"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "プリコネR"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "原神"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "マギレコ"
+              },
+              {
+                "end": 148,
+                "start": 144,
+                "tag": "艦これ"
+              },
+              {
+                "end": 160,
+                "start": 155,
+                "tag": "あぐのん"
+              }
+            ]
+          }
+        },
+        "id": "767910567071801344",
+        "location": "高尾山のんのん村＼( 'ω')／ﾍｰｲ",
+        "name": "高尾奏音",
+        "pinned_tweet_id": "1779792314443129053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779109265237516288/_Z4YFiFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78935,
+          "following_count": 659,
+          "like_count": 22479,
+          "listed_count": 1164,
+          "tweet_count": 14964
+        },
+        "username": "Kanon_Takao",
+        "verified": false
+      }
+    ]
+  }
+}

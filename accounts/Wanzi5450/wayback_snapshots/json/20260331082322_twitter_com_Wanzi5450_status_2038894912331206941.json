@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2038894912331206941",
+    "created_at": "2026-03-31T08:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038894912331206941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855621322220437504",
+          "start": 3,
+          "username": "clcqzxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038894912331206941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038720348322255074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clcqzxc: 我不希望我的爱人担任我自残之后帮我处理伤口的角色，\n也不希望他担任我o完陪在我身边的角色，\n如果看见真实的我会让爱我的人感到痛苦的话，\n我希望自己一辈子也不要被人看见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038894912331206941",
+        "created_at": "2026-03-31T08:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038894912331206941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855621322220437504",
+              "start": 3,
+              "username": "clcqzxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038894912331206941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038720348322255074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clcqzxc: 我不希望我的爱人担任我自残之后帮我处理伤口的角色，\n也不希望他担任我o完陪在我身边的角色，\n如果看见真实的我会让爱我的人感到痛苦的话，\n我希望自己一辈子也不要被人看见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2038720348322255074",
+        "created_at": "2026-03-30T20:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038720348322255074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038720348322255074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不希望我的爱人担任我自残之后帮我处理伤口的角色，\n也不希望他担任我o完陪在我身边的角色，\n如果看见真实的我会让爱我的人感到痛苦的话，\n我希望自己一辈子也不要被人看见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 283,
+          "like_count": 10424,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 2593
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 168,
+          "like_count": 328,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "clcqzxc",
+        "verified": false
+      }
+    ]
+  }
+}

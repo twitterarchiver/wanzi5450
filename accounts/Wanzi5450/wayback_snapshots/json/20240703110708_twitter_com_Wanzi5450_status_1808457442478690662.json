@@ -1,0 +1,255 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808147428165799937"
+      ],
+      "media_source_tweet_id": [
+        "1808147433236599227"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1808457442478690662",
+    "created_at": "2024-07-03T11:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T12:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808457442478690662"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1071588240677777408",
+          "start": 3,
+          "username": "kodamazon_kdm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ti5aMN0WtD",
+          "end": 53,
+          "expanded_url": "https://twitter.com/kodamazon_kdm/status/1808147433236599227/photo/1",
+          "media_key": "3_1808147428165799937",
+          "start": 30,
+          "url": "https://t.co/ti5aMN0WtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808457442478690662",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 743
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808147433236599227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kodamazon_kdm: #ガルクラ\nこじらせ https://t.co/ti5aMN0WtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1808147428165799937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRfUgYVb0AEF8l3.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808147428165799937"
+          ],
+          "media_source_tweet_id": [
+            "1808147433236599227"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1808457442478690662",
+        "created_at": "2024-07-03T11:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T12:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808457442478690662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1071588240677777408",
+              "start": 3,
+              "username": "kodamazon_kdm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ti5aMN0WtD",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kodamazon_kdm/status/1808147433236599227/photo/1",
+              "media_key": "3_1808147428165799937",
+              "start": 30,
+              "url": "https://t.co/ti5aMN0WtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808457442478690662",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 743
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808147433236599227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kodamazon_kdm: #ガルクラ\nこじらせ https://t.co/ti5aMN0WtD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808147428165799937"
+          ]
+        },
+        "author_id": "1071588240677777408",
+        "conversation_id": "1808147433236599227",
+        "created_at": "2024-07-02T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808147433236599227"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ti5aMN0WtD",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kodamazon_kdm/status/1808147433236599227/photo/1",
+              "media_key": "3_1808147428165799937",
+              "start": 11,
+              "url": "https://t.co/ti5aMN0WtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808147433236599227",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 63140,
+          "like_count": 4424,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 743
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ\nこじらせ https://t.co/ti5aMN0WtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 56,
+          "like_count": 2455,
+          "listed_count": 0,
+          "tweet_count": 403
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T02:12:00.000Z",
+        "description": "ゲーム開発を経て、今はフリーのイラストレーター。絵のお仕事の依頼や相談などはこちらから、ぜひとも。kodamazon.pen@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=35154436",
+                "start": 0,
+                "url": "https://t.co/R6CeDkdkdz"
+              }
+            ]
+          }
+        },
+        "id": "1071588240677777408",
+        "location": "日本",
+        "name": "kodamazon",
+        "pinned_tweet_id": "1732712646724710655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804482083185967104/qg3ckqah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37001,
+          "following_count": 9501,
+          "like_count": 1162,
+          "listed_count": 399,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/R6CeDkdkdz",
+        "username": "kodamazon_kdm",
+        "verified": true
+      }
+    ]
+  }
+}

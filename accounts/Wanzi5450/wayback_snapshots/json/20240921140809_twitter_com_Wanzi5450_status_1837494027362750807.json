@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "1837494027362750807",
+    "created_at": "2024-09-21T14:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T15:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837494027362750807"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "上海",
+          "probability": 0.6774,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1476931325646884879",
+          "start": 3,
+          "username": "Hina_Youmiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837494027362750807",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 515
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837488201813856571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hina_Youmiya: 上海公演で会えなかった皆さんも、\n行きたいという気持ちや、応援したいという気持ちから、たくさん支えて頂いております。どこに行っても、MyGO!!!!!を想ってくださる方のところまで届けられるように、これからも精一杯叫びます。 https://…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "1837494027362750807",
+        "created_at": "2024-09-21T14:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837494027362750807"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "上海",
+              "probability": 0.6774,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1476931325646884879",
+              "start": 3,
+              "username": "Hina_Youmiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837494027362750807",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 515
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837488201813856571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hina_Youmiya: 上海公演で会えなかった皆さんも、\n行きたいという気持ちや、応援したいという気持ちから、たくさん支えて頂いております。どこに行っても、MyGO!!!!!を想ってくださる方のところまで届けられるように、これからも精一杯叫びます。 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837488188564426754"
+          ]
+        },
+        "author_id": "1476931325646884879",
+        "conversation_id": "1837488201813856571",
+        "created_at": "2024-09-21T13:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T14:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837488201813856571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxr73dthdi",
+              "end": 136,
+              "expanded_url": "https://twitter.com/Hina_Youmiya/status/1837488201813856571/photo/1",
+              "media_key": "3_1837488188564426754",
+              "start": 113,
+              "url": "https://t.co/PxR73DtHdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837488201813856571",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 23158,
+          "like_count": 2070,
+          "quote_count": 24,
+          "reply_count": 89,
+          "retweet_count": 515
+        },
+        "reply_settings": "everyone",
+        "text": "上海公演で会えなかった皆さんも、\n行きたいという気持ちや、応援したいという気持ちから、たくさん支えて頂いております。どこに行っても、MyGO!!!!!を想ってくださる方のところまで届けられるように、これからも精一杯叫びます。 https://t.co/PxR73DtHdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3198,
+          "listed_count": 0,
+          "tweet_count": 628
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T15:00:49.000Z",
+        "description": "青二プロダクション新人声優の羊宮妃那（ようみやひな）です！いつもあたたかい応援本当にありがとうございます。そんな皆さんの明日が、幸せな日でありますように。",
+        "id": "1476931325646884879",
+        "location": "※お写真の無断転載はお控え頂けますと幸いです。",
+        "name": "羊宮妃那",
+        "pinned_tweet_id": "1766447125494419721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476931410430619655/YmfCuXt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137071,
+          "following_count": 236,
+          "like_count": 1984,
+          "listed_count": 1249,
+          "tweet_count": 845
+        },
+        "username": "Hina_Youmiya",
+        "verified": false
+      }
+    ]
+  }
+}

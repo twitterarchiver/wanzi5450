@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788450234131234816"
+      ],
+      "media_source_tweet_id": [
+        "1788450243815891395"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1789166732764127431",
+    "created_at": "2024-05-11T05:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T06:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789166732764127431"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1645084800435519488",
+          "start": 3,
+          "username": "chap55al"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/fsiDgrUKOG",
+          "end": 54,
+          "expanded_url": "https://twitter.com/chap55al/status/1788450243815891395/photo/1",
+          "media_key": "3_1788450234131234816",
+          "start": 31,
+          "url": "https://t.co/fsiDgrUKOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789166732764127431",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 802
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788450243815891395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chap55al: #MyGO S T A R T！ https://t.co/fsiDgrUKOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_1788450234131234816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNHaAyfbQAAY7W1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788450234131234816"
+          ],
+          "media_source_tweet_id": [
+            "1788450243815891395"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1789166732764127431",
+        "created_at": "2024-05-11T05:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T06:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789166732764127431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1645084800435519488",
+              "start": 3,
+              "username": "chap55al"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fsiDgrUKOG",
+              "end": 54,
+              "expanded_url": "https://twitter.com/chap55al/status/1788450243815891395/photo/1",
+              "media_key": "3_1788450234131234816",
+              "start": 31,
+              "url": "https://t.co/fsiDgrUKOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789166732764127431",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 802
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788450243815891395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chap55al: #MyGO S T A R T！ https://t.co/fsiDgrUKOG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788450234131234816"
+          ]
+        },
+        "author_id": "1645084800435519488",
+        "conversation_id": "1788450243815891395",
+        "created_at": "2024-05-09T06:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T07:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788450243815891395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fsiDgrUKOG",
+              "end": 40,
+              "expanded_url": "https://twitter.com/chap55al/status/1788450243815891395/photo/1",
+              "media_key": "3_1788450234131234816",
+              "start": 17,
+              "url": "https://t.co/fsiDgrUKOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788450243815891395",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 54729,
+          "like_count": 3261,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 802
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO S T A R T！ https://t.co/fsiDgrUKOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 54,
+          "like_count": 1945,
+          "listed_count": 0,
+          "tweet_count": 322
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T15:22:48.000Z",
+        "description": "一生、 マイゴしてくれる? || #MyGO || @chap55al_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "MyGO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "chap55al_"
+              }
+            ]
+          }
+        },
+        "id": "1645084800435519488",
+        "location": "🇰🇷 | FUMB FREE！🤍",
+        "name": "チャプ",
+        "pinned_tweet_id": "1788450243815891395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759931479466053632/6nC6F4m7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 50,
+          "like_count": 1463,
+          "listed_count": 17,
+          "tweet_count": 960
+        },
+        "username": "chap55al",
+        "verified": false
+      }
+    ]
+  }
+}

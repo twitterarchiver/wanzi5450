@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864198553389916160",
+        "3_1864198553398333442"
+      ],
+      "media_source_tweet_id": [
+        "1864198562470613004",
+        "1864198562470613004"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gardening",
+          "id": "864913136821784576",
+          "name": "Gardening"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287665062316879873",
+          "name": "Houseplants"
+        }
+      }
+    ],
+    "conversation_id": "1864575436501733636",
+    "created_at": "2024-12-05T07:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T08:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864575436501733636"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "シンガポール",
+          "probability": 0.9448,
+          "start": 25,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 54,
+          "tag": "gardensbythebay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IekIqjjcFK",
+          "end": 94,
+          "expanded_url": "https://x.com/aoki__hina/status/1864198562470613004/photo/1",
+          "media_key": "3_1864198553389916160",
+          "start": 71,
+          "url": "https://t.co/IekIqjjcFK"
+        },
+        {
+          "display_url": "pic.x.com/IekIqjjcFK",
+          "end": 94,
+          "expanded_url": "https://x.com/aoki__hina/status/1864198562470613004/photo/1",
+          "media_key": "3_1864198553398333442",
+          "start": 71,
+          "url": "https://t.co/IekIqjjcFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864575436501733636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 723
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864198562470613004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: こんにちは🍃\n\nシンガポールの植物園、\nめちゃくちゃ綺麗で癒しでした🌷💐✨\n#gardensbythebay https://t.co/IekIqjjcFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864198553389916160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd72tRWaYAAow22.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1864198553398333442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd72tRYa0AIuSoU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864198553389916160",
+            "3_1864198553398333442"
+          ],
+          "media_source_tweet_id": [
+            "1864198562470613004",
+            "1864198562470613004"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287665062316879873",
+              "name": "Houseplants"
+            }
+          }
+        ],
+        "conversation_id": "1864575436501733636",
+        "created_at": "2024-12-05T07:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T08:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864575436501733636"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "シンガポール",
+              "probability": 0.9448,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 54,
+              "tag": "gardensbythebay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IekIqjjcFK",
+              "end": 94,
+              "expanded_url": "https://x.com/aoki__hina/status/1864198562470613004/photo/1",
+              "media_key": "3_1864198553389916160",
+              "start": 71,
+              "url": "https://t.co/IekIqjjcFK"
+            },
+            {
+              "display_url": "pic.x.com/IekIqjjcFK",
+              "end": 94,
+              "expanded_url": "https://x.com/aoki__hina/status/1864198562470613004/photo/1",
+              "media_key": "3_1864198553398333442",
+              "start": 71,
+              "url": "https://t.co/IekIqjjcFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864575436501733636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 723
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864198562470613004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: こんにちは🍃\n\nシンガポールの植物園、\nめちゃくちゃ綺麗で癒しでした🌷💐✨\n#gardensbythebay https://t.co/IekIqjjcFK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864198553389916160",
+            "3_1864198553398333442"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287665062316879873",
+              "name": "Houseplants"
+            }
+          }
+        ],
+        "conversation_id": "1864198562470613004",
+        "created_at": "2024-12-04T06:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T07:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864198562470613004"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "シンガポール",
+              "probability": 0.9368,
+              "start": 9,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 38,
+              "tag": "gardensbythebay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IekIqjjcFK",
+              "end": 78,
+              "expanded_url": "https://x.com/aoki__hina/status/1864198562470613004/photo/1",
+              "media_key": "3_1864198553389916160",
+              "start": 55,
+              "url": "https://t.co/IekIqjjcFK"
+            },
+            {
+              "display_url": "pic.x.com/IekIqjjcFK",
+              "end": 78,
+              "expanded_url": "https://x.com/aoki__hina/status/1864198562470613004/photo/1",
+              "media_key": "3_1864198553398333442",
+              "start": 55,
+              "url": "https://t.co/IekIqjjcFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864198562470613004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 94672,
+          "like_count": 5661,
+          "quote_count": 44,
+          "reply_count": 91,
+          "retweet_count": 723
+        },
+        "reply_settings": "everyone",
+        "text": "こんにちは🍃\n\nシンガポールの植物園、\nめちゃくちゃ綺麗で癒しでした🌷💐✨\n#gardensbythebay https://t.co/IekIqjjcFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3933,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 801
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87690,
+          "following_count": 276,
+          "like_count": 0,
+          "listed_count": 835,
+          "media_count": 1037,
+          "tweet_count": 3759
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

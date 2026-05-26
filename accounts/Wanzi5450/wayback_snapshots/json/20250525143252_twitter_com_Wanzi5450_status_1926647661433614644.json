@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926215365266202626",
+        "3_1926215365316493312",
+        "3_1926215365303918592",
+        "3_1926215365299744769"
+      ],
+      "media_source_tweet_id": [
+        "1926215373050773516",
+        "1926215373050773516",
+        "1926215373050773516",
+        "1926215373050773516"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "1926647661433614644",
+    "created_at": "2025-05-25T14:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T15:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926647661433614644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "744906956649857024",
+          "start": 3,
+          "username": "Liyu0109"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z3UCKnRYbZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+          "media_key": "3_1926215365266202626",
+          "start": 35,
+          "url": "https://t.co/Z3UCKnRYbZ"
+        },
+        {
+          "display_url": "pic.x.com/Z3UCKnRYbZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+          "media_key": "3_1926215365316493312",
+          "start": 35,
+          "url": "https://t.co/Z3UCKnRYbZ"
+        },
+        {
+          "display_url": "pic.x.com/Z3UCKnRYbZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+          "media_key": "3_1926215365303918592",
+          "start": 35,
+          "url": "https://t.co/Z3UCKnRYbZ"
+        },
+        {
+          "display_url": "pic.x.com/Z3UCKnRYbZ",
+          "end": 58,
+          "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+          "media_key": "3_1926215365299744769",
+          "start": 35,
+          "url": "https://t.co/Z3UCKnRYbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926647661433614644",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1212
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926215373050773516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liyu0109: この前のディズニー🍪🍪🍪(๑˃̵ᴗ˂̵) https://t.co/Z3UCKnRYbZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926215365266202626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrtKq0-XYAIn19_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926215365316493312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrtKq1KWwAAhluV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1926215365303918592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrtKq1HW4AAtpil.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926215365299744769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrtKq1GXMAEgBdZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926215365266202626",
+            "3_1926215365316493312",
+            "3_1926215365303918592",
+            "3_1926215365299744769"
+          ],
+          "media_source_tweet_id": [
+            "1926215373050773516",
+            "1926215373050773516",
+            "1926215373050773516",
+            "1926215373050773516"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "1926647661433614644",
+        "created_at": "2025-05-25T14:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926647661433614644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "744906956649857024",
+              "start": 3,
+              "username": "Liyu0109"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 58,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365266202626",
+              "start": 35,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            },
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 58,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365316493312",
+              "start": 35,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            },
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 58,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365303918592",
+              "start": 35,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            },
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 58,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365299744769",
+              "start": 35,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926647661433614644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1212
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926215373050773516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liyu0109: この前のディズニー🍪🍪🍪(๑˃̵ᴗ˂̵) https://t.co/Z3UCKnRYbZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926215365266202626",
+            "3_1926215365316493312",
+            "3_1926215365303918592",
+            "3_1926215365299744769"
+          ]
+        },
+        "author_id": "744906956649857024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "1926215373050773516",
+        "created_at": "2025-05-24T09:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T10:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926215373050773516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365266202626",
+              "start": 21,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            },
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365316493312",
+              "start": 21,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            },
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365303918592",
+              "start": 21,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            },
+            {
+              "display_url": "pic.x.com/Z3UCKnRYbZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Liyu0109/status/1926215373050773516/photo/1",
+              "media_key": "3_1926215365299744769",
+              "start": 21,
+              "url": "https://t.co/Z3UCKnRYbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926215373050773516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 362,
+          "impression_count": 215387,
+          "like_count": 8827,
+          "quote_count": 91,
+          "reply_count": 104,
+          "retweet_count": 1212
+        },
+        "reply_settings": "everyone",
+        "text": "この前のディズニー🍪🍪🍪(๑˃̵ᴗ˂̵) https://t.co/Z3UCKnRYbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 71,
+          "like_count": 4479,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 913
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-20T14:57:12.000Z",
+        "description": "「リーユウ 」中国上海人、歌手、#lovelive #Liella 唐 可可役、FC #YuUKoiDays 、#Liyuuはつらじ 、6th SG #Liyuu_バッドゥドゥドゥ(TVアニメ『歴史に残る悪女になるぞ』OP主題歌)、2nd写真集発売中🩵#Liyuuヒトミ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 16,
+                "tag": "lovelive"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "Liella"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "tag": "YuUKoiDays"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "tag": "Liyuuはつらじ"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "tag": "Liyuu_バッドゥドゥドゥ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "tag": "Liyuuヒトミ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liyuu0109.com",
+                "end": 23,
+                "expanded_url": "https://liyuu0109.com/",
+                "start": 0,
+                "url": "https://t.co/KiKd81L2tY"
+              }
+            ]
+          }
+        },
+        "id": "744906956649857024",
+        "location": "ホリプロインターナショナル",
+        "name": "Liyuu",
+        "pinned_tweet_id": "1892860812433273317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865014500438724608/ux-SjcRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687015,
+          "following_count": 287,
+          "like_count": 12337,
+          "listed_count": 6880,
+          "media_count": 1571,
+          "tweet_count": 4669
+        },
+        "url": "https://t.co/KiKd81L2tY",
+        "username": "Liyu0109",
+        "verified": true
+      }
+    ]
+  }
+}

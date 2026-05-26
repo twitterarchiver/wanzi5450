@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2033872684094988664",
+    "created_at": "2026-03-17T11:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033872684094988664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860730309559623680",
+          "start": 3,
+          "username": "ybbyy19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033872684094988664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033836651320107142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ybbyy19: 免责声明\n春季为精神病高发期，本人对号主3-5月所有言行均不负责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2033872684094988664",
+        "created_at": "2026-03-17T11:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033872684094988664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860730309559623680",
+              "start": 3,
+              "username": "ybbyy19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033872684094988664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033836651320107142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ybbyy19: 免责声明\n春季为精神病高发期，本人对号主3-5月所有言行均不负责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860730309559623680",
+        "conversation_id": "2033836651320107142",
+        "created_at": "2026-03-17T09:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033836651320107142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033836651320107142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 828,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "免责声明\n春季为精神病高发期，本人对号主3-5月所有言行均不负责"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 243,
+          "like_count": 9266,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2130
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:01:00.000Z",
+        "description": "阳痿治好了，低素质选手。不是🚪没有🚪，我爱回谁回谁|胖墩子不爱看别看|被烦到就锁推或拉黑",
+        "id": "1860730309559623680",
+        "name": "海盐芝士薯片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031092724036935680/aJJDBygv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 274,
+          "like_count": 20876,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 564
+        },
+        "username": "ybbyy19",
+        "verified": false
+      }
+    ]
+  }
+}

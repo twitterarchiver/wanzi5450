@@ -1,0 +1,344 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1807646670693470208"
+      ],
+      "media_source_tweet_id": [
+        "1807693121612136478"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1807728235385593930",
+    "created_at": "2024-07-01T10:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T11:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807728235385593930"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "ガルクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1527844041559158784",
+          "start": 3,
+          "username": "Noko_robunbun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/DoJuQkjNUp",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Noko_robunbun/status/1807693121612136478/photo/1",
+          "media_key": "3_1807646670693470208",
+          "start": 58,
+          "url": "https://t.co/DoJuQkjNUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807728235385593930",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 352
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807693121612136478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Noko_robunbun: #ガルクラ \nガルクラアニメ良かった〜！！！\nロックンロールは鳴り止まないっ https://t.co/DoJuQkjNUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1807646670693470208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRYNEdYaEAAPel1.jpg",
+        "width": 1944
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807646670693470208"
+          ],
+          "media_source_tweet_id": [
+            "1807693121612136478"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1807728235385593930",
+        "created_at": "2024-07-01T10:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T11:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807728235385593930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "ガルクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1527844041559158784",
+              "start": 3,
+              "username": "Noko_robunbun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DoJuQkjNUp",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Noko_robunbun/status/1807693121612136478/photo/1",
+              "media_key": "3_1807646670693470208",
+              "start": 58,
+              "url": "https://t.co/DoJuQkjNUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807728235385593930",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807693121612136478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Noko_robunbun: #ガルクラ \nガルクラアニメ良かった〜！！！\nロックンロールは鳴り止まないっ https://t.co/DoJuQkjNUp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807646670693470208"
+          ]
+        },
+        "author_id": "1527844041559158784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1807693121612136478",
+        "created_at": "2024-07-01T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807693121612136478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ガルクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DoJuQkjNUp",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Noko_robunbun/status/1807693121612136478/photo/1",
+              "media_key": "3_1807646670693470208",
+              "start": 39,
+              "url": "https://t.co/DoJuQkjNUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807693121612136478",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 19218,
+          "like_count": 1631,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "#ガルクラ \nガルクラアニメ良かった〜！！！\nロックンロールは鳴り止まないっ https://t.co/DoJuQkjNUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 2406,
+          "listed_count": 0,
+          "tweet_count": 395
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T02:49:50.000Z",
+        "description": "アニメーター志望https://t.co/fDaK8pMqXJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Noko555wow",
+                "end": 31,
+                "expanded_url": "https://lit.link/Noko555wow",
+                "start": 8,
+                "url": "https://t.co/fDaK8pMqXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/Noko_robunbun",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/Noko_robunbun",
+                "start": 0,
+                "url": "https://t.co/r1tpolR2sw"
+              }
+            ]
+          }
+        },
+        "id": "1527844041559158784",
+        "location": "雛見沢村",
+        "name": "のこのこ⛩",
+        "pinned_tweet_id": "1751120926807396548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665707844174241793/41UjhrUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 82,
+          "like_count": 24123,
+          "listed_count": 10,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/r1tpolR2sw",
+        "username": "Noko_robunbun",
+        "verified": false
+      }
+    ]
+  }
+}

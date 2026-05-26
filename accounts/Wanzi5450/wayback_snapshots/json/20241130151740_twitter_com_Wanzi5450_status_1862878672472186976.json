@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862745180891234304",
+        "3_1862745180899532800"
+      ],
+      "media_source_tweet_id": [
+        "1862745194795606061",
+        "1862745194795606061"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1862878672472186976",
+    "created_at": "2024-11-30T15:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T16:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862878672472186976"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "シンガポール",
+          "probability": 0.9664,
+          "start": 27,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353541214709063680",
+          "start": 3,
+          "username": "aoki__hina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgrW18vhMi",
+          "end": 65,
+          "expanded_url": "https://x.com/aoki__hina/status/1862745194795606061/photo/1",
+          "media_key": "3_1862745180891234304",
+          "start": 42,
+          "url": "https://t.co/JgrW18vhMi"
+        },
+        {
+          "display_url": "pic.x.com/JgrW18vhMi",
+          "end": 65,
+          "expanded_url": "https://x.com/aoki__hina/status/1862745194795606061/photo/1",
+          "media_key": "3_1862745180899532800",
+          "start": 42,
+          "url": "https://t.co/JgrW18vhMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862878672472186976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 570
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862745194795606061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aoki__hina: こんにちは☺︎\n今日はシンガポールでイベントです🦁 https://t.co/JgrW18vhMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862745180891234304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdnM324XwAAIVr3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1862745180899532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdnM326WYAAccMa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862745180891234304",
+            "3_1862745180899532800"
+          ],
+          "media_source_tweet_id": [
+            "1862745194795606061",
+            "1862745194795606061"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1862878672472186976",
+        "created_at": "2024-11-30T15:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T16:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862878672472186976"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "シンガポール",
+              "probability": 0.9664,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353541214709063680",
+              "start": 3,
+              "username": "aoki__hina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgrW18vhMi",
+              "end": 65,
+              "expanded_url": "https://x.com/aoki__hina/status/1862745194795606061/photo/1",
+              "media_key": "3_1862745180891234304",
+              "start": 42,
+              "url": "https://t.co/JgrW18vhMi"
+            },
+            {
+              "display_url": "pic.x.com/JgrW18vhMi",
+              "end": 65,
+              "expanded_url": "https://x.com/aoki__hina/status/1862745194795606061/photo/1",
+              "media_key": "3_1862745180899532800",
+              "start": 42,
+              "url": "https://t.co/JgrW18vhMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862878672472186976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 570
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862745194795606061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aoki__hina: こんにちは☺︎\n今日はシンガポールでイベントです🦁 https://t.co/JgrW18vhMi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862745180891234304",
+            "3_1862745180899532800"
+          ]
+        },
+        "author_id": "1353541214709063680",
+        "conversation_id": "1862745194795606061",
+        "created_at": "2024-11-30T06:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T07:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862745194795606061"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "シンガポール",
+              "probability": 0.9676,
+              "start": 11,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgrW18vhMi",
+              "end": 49,
+              "expanded_url": "https://x.com/aoki__hina/status/1862745194795606061/photo/1",
+              "media_key": "3_1862745180891234304",
+              "start": 26,
+              "url": "https://t.co/JgrW18vhMi"
+            },
+            {
+              "display_url": "pic.x.com/JgrW18vhMi",
+              "end": 49,
+              "expanded_url": "https://x.com/aoki__hina/status/1862745194795606061/photo/1",
+              "media_key": "3_1862745180899532800",
+              "start": 26,
+              "url": "https://t.co/JgrW18vhMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862745194795606061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 74478,
+          "like_count": 4678,
+          "quote_count": 23,
+          "reply_count": 54,
+          "retweet_count": 570
+        },
+        "reply_settings": "everyone",
+        "text": "こんにちは☺︎\n今日はシンガポールでイベントです🦁 https://t.co/JgrW18vhMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 790
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T03:14:10.000Z",
+        "description": "響所属の声優、青木陽菜(あおきひな)です。アニメと音楽と鳥が好きです🕊よろしくお願いします！┊【SNS】https://t.co/yvPs79RM37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/aokihina",
+                "end": 75,
+                "expanded_url": "https://lit.link/aokihina",
+                "start": 52,
+                "url": "https://t.co/yvPs79RM37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@aoki__hina",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@aoki__hina",
+                "start": 0,
+                "url": "https://t.co/dnMFfWyfSw"
+              }
+            ]
+          }
+        },
+        "id": "1353541214709063680",
+        "location": "宮城県出身",
+        "name": "青木陽菜",
+        "pinned_tweet_id": "1846842620074742086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356149649334132739/faXFohGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87007,
+          "following_count": 276,
+          "like_count": 0,
+          "listed_count": 834,
+          "media_count": 1031,
+          "tweet_count": 3744
+        },
+        "url": "https://t.co/dnMFfWyfSw",
+        "username": "aoki__hina",
+        "verified": false
+      }
+    ]
+  }
+}

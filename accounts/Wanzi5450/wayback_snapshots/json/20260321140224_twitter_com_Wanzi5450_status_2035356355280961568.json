@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2035249070516957407",
+    "created_at": "2026-03-21T14:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035356355280961568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035356355280961568",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035249070516957407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup omg好可爱……想摸😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2035249054704443393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6oO2cboAEES4q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2035249070516957407",
+        "created_at": "2026-03-21T14:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035356355280961568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035356355280961568",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035249070516957407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup omg好可爱……想摸😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035249054704443393"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2035249070516957407",
+        "created_at": "2026-03-21T06:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035249070516957407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGyfCqKPfX",
+              "end": 26,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2035249070516957407/photo/1",
+              "media_key": "3_2035249054704443393",
+              "start": 3,
+              "url": "https://t.co/NGyfCqKPfX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035249070516957407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉嫩 https://t.co/NGyfCqKPfX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好 可以提问箱找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%B8%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%B8%E5%AD%9054922",
+                "start": 0,
+                "url": "https://t.co/boCU5oaiis"
+              }
+            ]
+          }
+        },
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 249,
+          "like_count": 9468,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/boCU5oaiis",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。玩推主要是来看黄片和骂人的。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 2526,
+          "like_count": 9553,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2546
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

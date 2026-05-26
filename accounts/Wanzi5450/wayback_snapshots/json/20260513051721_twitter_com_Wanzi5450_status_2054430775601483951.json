@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2054351062249939442",
+    "created_at": "2026-05-13T05:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054430775601483951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797893908095262720",
+          "start": 0,
+          "username": "ShaaaShark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054430775601483951",
+    "in_reply_to_user_id": "1797893908095262720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054351062249939442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShaaaShark 欢迎回来😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2054351062249939442",
+        "created_at": "2026-05-13T05:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054430775601483951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797893908095262720",
+              "start": 0,
+              "username": "ShaaaShark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054430775601483951",
+        "in_reply_to_user_id": "1797893908095262720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054351062249939442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaaaShark 欢迎回来😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797893908095262720",
+        "conversation_id": "2054351062249939442",
+        "created_at": "2026-05-13T00:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054351062249939442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054351062249939442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上飞机回国！\n爽！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 288,
+          "like_count": 15100,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 3812
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T07:31:46.000Z",
+        "description": "不晓得写嘛",
+        "id": "1797893908095262720",
+        "location": "Sydney, New South Wales",
+        "name": "ShaShark",
+        "pinned_tweet_id": "2002341166805880999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044562292122259457/ST2C4qsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 21,
+          "like_count": 4585,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 541
+        },
+        "username": "ShaaaShark",
+        "verified": true
+      }
+    ]
+  }
+}

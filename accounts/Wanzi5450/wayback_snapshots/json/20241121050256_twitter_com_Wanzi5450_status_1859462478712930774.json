@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859316462147731457"
+      ],
+      "media_source_tweet_id": [
+        "1859316481806549300"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1859462478712930774",
+    "created_at": "2024-11-21T05:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T06:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859462478712930774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1118217568014127105",
+          "start": 3,
+          "username": "hibioes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OAWtg8xHzm",
+          "end": 36,
+          "expanded_url": "https://x.com/hibioes/status/1859316481806549300/photo/1",
+          "media_key": "3_1859316462147731457",
+          "start": 13,
+          "url": "https://t.co/OAWtg8xHzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859462478712930774",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859316481806549300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hibioes: https://t.co/OAWtg8xHzm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_1859316462147731457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc2eeKNaAAEnBtn.jpg",
+        "width": 1520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859316462147731457"
+          ],
+          "media_source_tweet_id": [
+            "1859316481806549300"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1859462478712930774",
+        "created_at": "2024-11-21T05:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T06:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859462478712930774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1118217568014127105",
+              "start": 3,
+              "username": "hibioes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAWtg8xHzm",
+              "end": 36,
+              "expanded_url": "https://x.com/hibioes/status/1859316481806549300/photo/1",
+              "media_key": "3_1859316462147731457",
+              "start": 13,
+              "url": "https://t.co/OAWtg8xHzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859462478712930774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859316481806549300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hibioes: https://t.co/OAWtg8xHzm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859316462147731457"
+          ]
+        },
+        "author_id": "1118217568014127105",
+        "conversation_id": "1859316481806549300",
+        "created_at": "2024-11-20T19:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T20:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859316481806549300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAWtg8xHzm",
+              "end": 23,
+              "expanded_url": "https://x.com/hibioes/status/1859316481806549300/photo/1",
+              "media_key": "3_1859316462147731457",
+              "start": 0,
+              "url": "https://t.co/OAWtg8xHzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859316481806549300",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 11116,
+          "like_count": 850,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OAWtg8xHzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 3674,
+          "listed_count": 0,
+          "tweet_count": 745
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-16T18:20:18.000Z",
+        "description": "https://t.co/3nfXuyCUHm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=4n5PNy…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=4n5PNy04oIs",
+                "start": 0,
+                "url": "https://t.co/3nfXuyCUHm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12162640",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/12162640",
+                "start": 0,
+                "url": "https://t.co/zCuZqyNdt1"
+              }
+            ]
+          }
+        },
+        "id": "1118217568014127105",
+        "name": "希比歐",
+        "pinned_tweet_id": "1824080868618781128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838329670837899266/R8V0mamc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11481,
+          "following_count": 773,
+          "like_count": 1625,
+          "listed_count": 74,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/zCuZqyNdt1",
+        "username": "hibioes",
+        "verified": false
+      }
+    ]
+  }
+}

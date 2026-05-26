@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2031369611573395927",
+    "created_at": "2026-03-10T14:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031369611573395927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031369611573395927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Hi大家🥺一起来聊天呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2031369611573395927",
+        "created_at": "2026-03-10T14:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031369611573395927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031369611573395927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi大家🥺一起来聊天呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 231,
+          "like_count": 8857,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 1952
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

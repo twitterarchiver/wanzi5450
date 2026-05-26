@@ -1,0 +1,319 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1816139433537855488"
+      ],
+      "media_source_tweet_id": [
+        "1816139461295759435"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1816176458886439239",
+    "created_at": "2024-07-24T18:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T19:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816176458886439239"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "愛音ちゃん",
+          "probability": 0.5577,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934633731",
+          "start": 3,
+          "username": "E20_loop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/lO9kpfaYLP",
+          "end": 50,
+          "expanded_url": "https://twitter.com/E20_loop/status/1816139461295759435/photo/1",
+          "media_key": "3_1816139433537855488",
+          "start": 27,
+          "url": "https://t.co/lO9kpfaYLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816176458886439239",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816139461295759435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @E20_loop: 愛音ちゃん\n\n#MyGO https://t.co/lO9kpfaYLP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1816139433537855488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTQ5MUaaYAABLfI.jpg",
+        "width": 1132
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816139433537855488"
+          ],
+          "media_source_tweet_id": [
+            "1816139461295759435"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1816176458886439239",
+        "created_at": "2024-07-24T18:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T19:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816176458886439239"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "愛音ちゃん",
+              "probability": 0.5577,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934633731",
+              "start": 3,
+              "username": "E20_loop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lO9kpfaYLP",
+              "end": 50,
+              "expanded_url": "https://twitter.com/E20_loop/status/1816139461295759435/photo/1",
+              "media_key": "3_1816139433537855488",
+              "start": 27,
+              "url": "https://t.co/lO9kpfaYLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816176458886439239",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816139461295759435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @E20_loop: 愛音ちゃん\n\n#MyGO https://t.co/lO9kpfaYLP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816139433537855488"
+          ]
+        },
+        "author_id": "1934633731",
+        "conversation_id": "1816139461295759435",
+        "created_at": "2024-07-24T15:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T16:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816139461295759435"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "愛音ちゃん",
+              "probability": 0.6119,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lO9kpfaYLP",
+              "end": 36,
+              "expanded_url": "https://twitter.com/E20_loop/status/1816139461295759435/photo/1",
+              "media_key": "3_1816139433537855488",
+              "start": 13,
+              "url": "https://t.co/lO9kpfaYLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816139461295759435",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 6684,
+          "like_count": 418,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "愛音ちゃん\n\n#MyGO https://t.co/lO9kpfaYLP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 58,
+          "like_count": 2779,
+          "listed_count": 0,
+          "tweet_count": 480
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-04T15:33:11.000Z",
+        "description": "大大大ガールズバンド時代。\n\n◇fanbox=https://t.co/9zA7WDtbI1\n◇skeb=https://t.co/wvYJOTE8Bt ﾘｸ概要→https://t.co/YCfzfsy5pY\n◇お仕事→ e20nsloop★https://t.co/4s6xs1N2gh(★→＠)\n◇独り言/＠E20_szbh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 165,
+                "start": 156,
+                "username": "E20_szbh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "e20.fanbox.cc",
+                "end": 46,
+                "expanded_url": "https://e20.fanbox.cc/",
+                "start": 23,
+                "url": "https://t.co/9zA7WDtbI1"
+              },
+              {
+                "display_url": "skeb.jp/@E20_loop",
+                "end": 76,
+                "expanded_url": "http://skeb.jp/@E20_loop",
+                "start": 53,
+                "url": "https://t.co/wvYJOTE8Bt"
+              },
+              {
+                "display_url": "bit.ly/2QBwLI7",
+                "end": 105,
+                "expanded_url": "http://bit.ly/2QBwLI7",
+                "start": 82,
+                "url": "https://t.co/YCfzfsy5pY"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 145,
+                "expanded_url": "http://gmail.com",
+                "start": 122,
+                "url": "https://t.co/4s6xs1N2gh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/273986",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/273986",
+                "start": 0,
+                "url": "https://t.co/WgrPu6xCtm"
+              }
+            ]
+          }
+        },
+        "id": "1934633731",
+        "name": "E20",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598747042402426880/ZCb9xV-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22596,
+          "following_count": 115,
+          "like_count": 2447,
+          "listed_count": 336,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/WgrPu6xCtm",
+        "username": "E20_loop",
+        "verified": false
+      }
+    ]
+  }
+}

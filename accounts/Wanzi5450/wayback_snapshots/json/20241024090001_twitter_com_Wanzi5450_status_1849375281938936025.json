@@ -1,0 +1,141 @@
+{
+  "data": {
+    "author_id": "1738375202168532992",
+    "conversation_id": "1849375281938936025",
+    "created_at": "2024-10-24T09:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-24T10:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849375281938936025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "983979447455027200",
+          "start": 3,
+          "username": "LOVExxLETTERS"
+        }
+      ]
+    },
+    "id": "1849375281938936025",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848496756964921796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LOVExxLETTERS: キララン95＜Rapunzel🦋＞各務華梨×小日向美香\n全ステージ終演❣️\n2人で奏でるテンポ良き会話✨切なく緩急の効いたモノローグ🐈‍⬛クライマックスの熱情とLIVEの臨場感に心奪われました🌛\n2つの結末は鳥籠に閉じ込めて、又いつか雨降る…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1738375202168532992",
+        "conversation_id": "1849375281938936025",
+        "created_at": "2024-10-24T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849375281938936025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "983979447455027200",
+              "start": 3,
+              "username": "LOVExxLETTERS"
+            }
+          ]
+        },
+        "id": "1849375281938936025",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848496756964921796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LOVExxLETTERS: キララン95＜Rapunzel🦋＞各務華梨×小日向美香\n全ステージ終演❣️\n2人で奏でるテンポ良き会話✨切なく緩急の効いたモノローグ🐈‍⬛クライマックスの熱情とLIVEの臨場感に心奪われました🌛\n2つの結末は鳥籠に閉じ込めて、又いつか雨降る…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3835,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 780
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-11T08:05:56.000Z",
+        "description": "Be Withプロデュースが設立した声優企画「KIRAKIRA VOICE LAND」の公演情報を発信☆個別のお問い合わせ、ご質問等はinfo@bewith-gogo.com まで☆https://t.co/bKa1pDKTbp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bewith99.wixsite.com/bewith",
+                "end": 114,
+                "expanded_url": "https://bewith99.wixsite.com/bewith",
+                "start": 91,
+                "url": "https://t.co/bKa1pDKTbp"
+              }
+            ]
+          }
+        },
+        "id": "983979447455027200",
+        "name": "KIRAKIRA VOICE LAND",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/985739408849584128/jmD__Xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 125,
+          "like_count": 0,
+          "listed_count": 21,
+          "media_count": 1290,
+          "tweet_count": 3416
+        },
+        "username": "LOVExxLETTERS",
+        "verified": false
+      }
+    ]
+  }
+}

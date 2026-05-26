@@ -1,0 +1,803 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020808059019489280"
+      ],
+      "media_source_tweet_id": [
+        "2020808066137006472"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2021053768331391387",
+    "created_at": "2026-02-10T02:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T03:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021053768331391387"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "MyGO"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "要楽奈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1047861707387760640",
+          "start": 3,
+          "username": "kuro_neko_cos_"
+        },
+        {
+          "end": 72,
+          "id": "366186010",
+          "start": 56,
+          "username": "Johnny_Director"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BY1oMUgVDP",
+          "end": 117,
+          "expanded_url": "https://x.com/kuro_neko_cos_/status/2020808066137006472/photo/1",
+          "media_key": "3_2020808059019489280",
+          "start": 94,
+          "url": "https://t.co/BY1oMUgVDP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021053768331391387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020808066137006472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuro_neko_cos_: バンドリ コスプレ\n\n🐱🍵「居場所って、また誰かが作るんだって」\n\n📷 @Johnny_Director \n\n#バンドリ \n#MyGO \n#要楽奈 https://t.co/BY1oMUgVDP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020808059019489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtaORUacAAjcEs.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020808059019489280"
+          ],
+          "media_source_tweet_id": [
+            "2020808066137006472"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2021053768331391387",
+        "created_at": "2026-02-10T02:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T03:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021053768331391387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "MyGO"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "要楽奈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1047861707387760640",
+              "start": 3,
+              "username": "kuro_neko_cos_"
+            },
+            {
+              "end": 72,
+              "id": "366186010",
+              "start": 56,
+              "username": "Johnny_Director"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BY1oMUgVDP",
+              "end": 117,
+              "expanded_url": "https://x.com/kuro_neko_cos_/status/2020808066137006472/photo/1",
+              "media_key": "3_2020808059019489280",
+              "start": 94,
+              "url": "https://t.co/BY1oMUgVDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021053768331391387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020808066137006472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuro_neko_cos_: バンドリ コスプレ\n\n🐱🍵「居場所って、また誰かが作るんだって」\n\n📷 @Johnny_Director \n\n#バンドリ \n#MyGO \n#要楽奈 https://t.co/BY1oMUgVDP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020808059019489280"
+          ]
+        },
+        "author_id": "1047861707387760640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2020808066137006472",
+        "created_at": "2026-02-09T10:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020808066137006472"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "MyGO"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "要楽奈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "366186010",
+              "start": 36,
+              "username": "Johnny_Director"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BY1oMUgVDP",
+              "end": 97,
+              "expanded_url": "https://x.com/kuro_neko_cos_/status/2020808066137006472/photo/1",
+              "media_key": "3_2020808059019489280",
+              "start": 74,
+              "url": "https://t.co/BY1oMUgVDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020808066137006472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 16541,
+          "like_count": 1306,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "バンドリ コスプレ\n\n🐱🍵「居場所って、また誰かが作るんだって」\n\n📷 @Johnny_Director \n\n#バンドリ \n#MyGO \n#要楽奈 https://t.co/BY1oMUgVDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 197,
+          "like_count": 8308,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1582
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-04T14:51:14.000Z",
+        "description": "香港🇭🇰→ 日本🇯🇵留学 中文/ENG/日本語OK！ よろしくお願いします✨サブ垢 @kuro_neko_225 撮影は気軽にお声掛け下さい💖BOOTH↓ https://t.co/6pwDjDEhvZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "kuro_neko_225"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuroneko0102.booth.pm",
+                "end": 101,
+                "expanded_url": "https://kuroneko0102.booth.pm",
+                "start": 78,
+                "url": "https://t.co/6pwDjDEhvZ"
+              }
+            ]
+          }
+        },
+        "id": "1047861707387760640",
+        "name": "黒猫🐱",
+        "pinned_tweet_id": "1986741049184960674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998791488298430465/xweHGkXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 145,
+          "like_count": 1660,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 342
+        },
+        "username": "kuro_neko_cos_",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-01T18:36:58.000Z",
+        "description": "-写真家- 【出展】 ●レガシー展 、C106、リアポ名古屋（自撮り狂枠）、ラブフェス 、C107",
+        "id": "366186010",
+        "location": "関東全域",
+        "name": "ジョニー監督",
+        "pinned_tweet_id": "2008144020913218027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005204465436299264/wh7kwdlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 747,
+          "like_count": 42973,
+          "listed_count": 49,
+          "media_count": 3557,
+          "tweet_count": 54929
+        },
+        "username": "Johnny_Director",
+        "verified": true
+      }
+    ]
+  }
+}

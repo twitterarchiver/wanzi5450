@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900930642319425536",
+        "3_1900930642428522498"
+      ],
+      "media_source_tweet_id": [
+        "1900930644936716332",
+        "1900930644936716332"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2048022941309538747",
+    "created_at": "2026-04-25T12:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048022941309538747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1213155143799033856",
+          "start": 3,
+          "username": "gommotheworld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XhyjiggywB",
+          "end": 52,
+          "expanded_url": "https://x.com/gommotheworld/status/1900930644936716332/photo/1",
+          "media_key": "3_1900930642319425536",
+          "start": 29,
+          "url": "https://t.co/XhyjiggywB"
+        },
+        {
+          "display_url": "pic.x.com/XhyjiggywB",
+          "end": 52,
+          "expanded_url": "https://x.com/gommotheworld/status/1900930644936716332/photo/1",
+          "media_key": "3_1900930642428522498",
+          "start": 29,
+          "url": "https://t.co/XhyjiggywB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048022941309538747",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900930644936716332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gommotheworld: 재미있는 여자아이 https://t.co/XhyjiggywB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1900930642319425536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmF2WP4awAAqOHE.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1900930642428522498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmF2WQSbcAIvgyG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900930642319425536",
+            "3_1900930642428522498"
+          ],
+          "media_source_tweet_id": [
+            "1900930644936716332",
+            "1900930644936716332"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2048022941309538747",
+        "created_at": "2026-04-25T12:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048022941309538747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1213155143799033856",
+              "start": 3,
+              "username": "gommotheworld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XhyjiggywB",
+              "end": 52,
+              "expanded_url": "https://x.com/gommotheworld/status/1900930644936716332/photo/1",
+              "media_key": "3_1900930642319425536",
+              "start": 29,
+              "url": "https://t.co/XhyjiggywB"
+            },
+            {
+              "display_url": "pic.x.com/XhyjiggywB",
+              "end": 52,
+              "expanded_url": "https://x.com/gommotheworld/status/1900930644936716332/photo/1",
+              "media_key": "3_1900930642428522498",
+              "start": 29,
+              "url": "https://t.co/XhyjiggywB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048022941309538747",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900930644936716332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gommotheworld: 재미있는 여자아이 https://t.co/XhyjiggywB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900930642319425536",
+            "3_1900930642428522498"
+          ]
+        },
+        "author_id": "1213155143799033856",
+        "conversation_id": "1900930644936716332",
+        "created_at": "2025-03-15T15:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T16:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900930644936716332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XhyjiggywB",
+              "end": 33,
+              "expanded_url": "https://x.com/gommotheworld/status/1900930644936716332/photo/1",
+              "media_key": "3_1900930642319425536",
+              "start": 10,
+              "url": "https://t.co/XhyjiggywB"
+            },
+            {
+              "display_url": "pic.x.com/XhyjiggywB",
+              "end": 33,
+              "expanded_url": "https://x.com/gommotheworld/status/1900930644936716332/photo/1",
+              "media_key": "3_1900930642428522498",
+              "start": 10,
+              "url": "https://t.co/XhyjiggywB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900930644936716332",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 40960,
+          "like_count": 1109,
+          "quote_count": 18,
+          "reply_count": 1,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "재미있는 여자아이 https://t.co/XhyjiggywB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 278,
+          "like_count": 13292,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 3535
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-03T17:48:30.000Z",
+        "description": "",
+        "id": "1213155143799033856",
+        "name": "개부개",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929957493947674627/M-BQpedd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 244,
+          "like_count": 48826,
+          "listed_count": 13,
+          "media_count": 2845,
+          "tweet_count": 65733
+        },
+        "username": "gommotheworld",
+        "verified": false
+      }
+    ]
+  }
+}

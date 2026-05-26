@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2039143108307464417",
+    "created_at": "2026-04-01T07:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039238497555583163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2020109483700289536",
+          "start": 0,
+          "username": "wtsp_TW"
+        },
+        {
+          "end": 19,
+          "id": "1455169501515771906",
+          "start": 9,
+          "username": "iihitocos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039238497555583163",
+    "in_reply_to_user_id": "2020109483700289536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039234590985081041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtsp_TW @iihitocos 一直好想来台湾玩啊，可惜中国去不了🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2039234582046965760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzRDEyaAAAdfzm.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2039143108307464417",
+        "created_at": "2026-04-01T07:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039238497555583163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2020109483700289536",
+              "start": 0,
+              "username": "wtsp_TW"
+            },
+            {
+              "end": 19,
+              "id": "1455169501515771906",
+              "start": 9,
+              "username": "iihitocos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039238497555583163",
+        "in_reply_to_user_id": "2020109483700289536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039234590985081041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtsp_TW @iihitocos 一直好想来台湾玩啊，可惜中国去不了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039234582046965760"
+          ]
+        },
+        "author_id": "2020109483700289536",
+        "conversation_id": "2039143108307464417",
+        "created_at": "2026-04-01T06:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039234590985081041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455169501515771906",
+              "start": 0,
+              "username": "iihitocos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2w7zG5eK3a",
+              "end": 60,
+              "expanded_url": "https://x.com/wtsp_TW/status/2039234590985081041/photo/1",
+              "media_key": "3_2039234582046965760",
+              "start": 37,
+              "url": "https://t.co/2w7zG5eK3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039234590985081041",
+        "in_reply_to_user_id": "1455169501515771906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039143108307464417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iihitocos 南部很多好吃的，但東部才是海的天堂\n\nps: 花蓮 https://t.co/2w7zG5eK3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 287,
+          "like_count": 10614,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 2673
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T12:17:02.000Z",
+        "description": "非主流人類",
+        "id": "2020109483700289536",
+        "location": "Taiwan",
+        "name": "微糖少氷｜ウェイタン ショーピン",
+        "pinned_tweet_id": "2023353587817222465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022937017831825408/6pJFb5zn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 433,
+          "like_count": 896,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 401
+        },
+        "username": "wtsp_TW",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T13:47:11.000Z",
+        "description": "Japanese cosplayer いいひと/iihito/好人 Languages: English, 中文（簡体字）, 한국어, Español",
+        "id": "1455169501515771906",
+        "location": "AI生成など画像使用料1枚50万〜です",
+        "name": "いいひと",
+        "pinned_tweet_id": "2015737826399383959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035182123154624512/kjBu5iLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32273,
+          "following_count": 362,
+          "like_count": 35348,
+          "listed_count": 142,
+          "media_count": 8986,
+          "tweet_count": 57360
+        },
+        "username": "iihitocos",
+        "verified": true
+      }
+    ]
+  }
+}

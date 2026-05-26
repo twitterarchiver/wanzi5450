@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037441158889283584"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037441165411471621",
+    "created_at": "2026-03-27T08:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037441165411471621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LGv5KAPYT",
+          "end": 32,
+          "expanded_url": "https://x.com/Wanzi5450/status/2037441165411471621/photo/1",
+          "media_key": "3_2037441158889283584",
+          "start": 9,
+          "url": "https://t.co/3LGv5KAPYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037441165411471621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "介个脆筒好美味呀 https://t.co/3LGv5KAPYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037441158889283584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZx8G5bIAAqDXE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037441158889283584"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037441165411471621",
+        "created_at": "2026-03-27T08:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037441165411471621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LGv5KAPYT",
+              "end": 32,
+              "expanded_url": "https://x.com/Wanzi5450/status/2037441165411471621/photo/1",
+              "media_key": "3_2037441158889283584",
+              "start": 9,
+              "url": "https://t.co/3LGv5KAPYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037441165411471621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "介个脆筒好美味呀 https://t.co/3LGv5KAPYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 262,
+          "like_count": 9937,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2414
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

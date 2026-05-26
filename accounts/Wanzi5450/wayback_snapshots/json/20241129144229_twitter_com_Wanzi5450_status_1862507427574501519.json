@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1862165017128587507"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "1862507427574501519",
+    "created_at": "2024-11-29T14:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T15:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862507427574501519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "953098909651554304",
+          "start": 3,
+          "username": "HimegawaCypher"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4p4X13rkjx",
+          "end": 46,
+          "expanded_url": "https://x.com/HimegawaCypher/status/1862165017128587507/photo/1",
+          "media_key": "3_1862164982005374976",
+          "start": 23,
+          "url": "https://t.co/4p4X13rkjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862507427574501519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862165017128587507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HimegawaCypher: 爆笑 https://t.co/4p4X13rkjx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1862165017128587507"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1862507427574501519",
+        "created_at": "2024-11-29T14:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862507427574501519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "953098909651554304",
+              "start": 3,
+              "username": "HimegawaCypher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4p4X13rkjx",
+              "end": 46,
+              "expanded_url": "https://x.com/HimegawaCypher/status/1862165017128587507/photo/1",
+              "media_key": "3_1862164982005374976",
+              "start": 23,
+              "url": "https://t.co/4p4X13rkjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862507427574501519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862165017128587507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HimegawaCypher: 爆笑 https://t.co/4p4X13rkjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862164982005374976"
+          ]
+        },
+        "author_id": "953098909651554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1862165017128587507",
+        "created_at": "2024-11-28T16:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T17:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862165017128587507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4p4X13rkjx",
+              "end": 26,
+              "expanded_url": "https://x.com/HimegawaCypher/status/1862165017128587507/photo/1",
+              "media_key": "3_1862164982005374976",
+              "start": 3,
+              "url": "https://t.co/4p4X13rkjx"
+            },
+            {
+              "display_url": "x.com/HimegawaCypher…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/HimegawaCypher/status/1828423832350396720",
+              "start": 27,
+              "url": "https://t.co/pQRPh2Y5Rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862165017128587507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 18868,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828423832350396720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爆笑 https://t.co/4p4X13rkjx https://t.co/pQRPh2Y5Rw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 787
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T02:57:42.000Z",
+        "description": "バンドリーマー｜花園たえ💙大好き｜LiSAッ子｜ギター練習中🎸｜カブ110🛵・シビックFD🚗 運転中｜広島大学バンドリ同好会（@BanGDream_HU）｜無言フォロー失礼します｜日・粤・中・英⭕️｜ ANIMAX・LiSA代々木・RoseliaxMujica両日・MyGO7th・ラブライブ横浜 参戦予定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "BanGDream_HU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eventernote.com/users/himegawa…",
+                "end": 23,
+                "expanded_url": "https://www.eventernote.com/users/himegawacypher",
+                "start": 0,
+                "url": "https://t.co/NrTSaHWdXR"
+              }
+            ]
+          }
+        },
+        "id": "953098909651554304",
+        "location": "広島",
+        "name": "姫川斎馬",
+        "pinned_tweet_id": "1828423832350396720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846063775524478976/aVAQCPsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 3564,
+          "like_count": 15371,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 3305
+        },
+        "url": "https://t.co/NrTSaHWdXR",
+        "username": "HimegawaCypher",
+        "verified": false
+      }
+    ]
+  }
+}

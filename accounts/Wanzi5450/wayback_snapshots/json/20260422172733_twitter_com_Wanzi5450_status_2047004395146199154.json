@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046941293096689664"
+      ],
+      "media_source_tweet_id": [
+        "2046941299232973193"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2047004395146199154",
+    "created_at": "2026-04-22T17:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047004395146199154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992996141051658245",
+          "start": 3,
+          "username": "so_y_u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XY5AAgpY9U",
+          "end": 35,
+          "expanded_url": "https://x.com/so_y_u/status/2046941299232973193/photo/1",
+          "media_key": "3_2046941293096689664",
+          "start": 12,
+          "url": "https://t.co/XY5AAgpY9U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047004395146199154",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046941299232973193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @so_y_u: https://t.co/XY5AAgpY9U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2046941293096689664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgyQssbYAAEq0C.jpg",
+        "width": 1627
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046941293096689664"
+          ],
+          "media_source_tweet_id": [
+            "2046941299232973193"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2047004395146199154",
+        "created_at": "2026-04-22T17:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047004395146199154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992996141051658245",
+              "start": 3,
+              "username": "so_y_u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY5AAgpY9U",
+              "end": 35,
+              "expanded_url": "https://x.com/so_y_u/status/2046941299232973193/photo/1",
+              "media_key": "3_2046941293096689664",
+              "start": 12,
+              "url": "https://t.co/XY5AAgpY9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047004395146199154",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046941299232973193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @so_y_u: https://t.co/XY5AAgpY9U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046941293096689664"
+          ]
+        },
+        "author_id": "1992996141051658245",
+        "conversation_id": "2046941299232973193",
+        "created_at": "2026-04-22T13:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046941299232973193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY5AAgpY9U",
+              "end": 23,
+              "expanded_url": "https://x.com/so_y_u/status/2046941299232973193/photo/1",
+              "media_key": "3_2046941293096689664",
+              "start": 0,
+              "url": "https://t.co/XY5AAgpY9U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046941299232973193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 1845,
+          "like_count": 265,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XY5AAgpY9U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 275,
+          "like_count": 12900,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 3462
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T16:39:29.000Z",
+        "description": "",
+        "id": "1992996141051658245",
+        "name": "粗ﾕ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042634511809433600/H9mTCNtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 22,
+          "like_count": 1275,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 47
+        },
+        "username": "so_y_u",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1778411241838616576"
+      ],
+      "media_source_tweet_id": [
+        "1778411248172081588"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1871513249637962117",
+    "created_at": "2024-12-24T11:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T12:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871513249637962117"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "MyGO"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 67,
+          "start": 57,
+          "tag": "彷徨する渇望_愛知"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1394483928463941633",
+          "start": 3,
+          "username": "cocohayashi515"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0H3rg1kPeh",
+          "end": 91,
+          "expanded_url": "https://x.com/cocohayashi515/status/1778411248172081588/photo/1",
+          "media_key": "3_1778411241838616576",
+          "start": 68,
+          "url": "https://t.co/0H3rg1kPeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871513249637962117",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1223
+    },
+    "referenced_tweets": [
+      {
+        "id": "1778411248172081588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocohayashi515: これからも\nこの5人で。\nこの10人で。\n #MyGO \n #バンドリ\n #彷徨する渇望_愛知 https://t.co/0H3rg1kPeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_1778411241838616576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GK4vmh5aIAAHBL3.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1778411241838616576"
+          ],
+          "media_source_tweet_id": [
+            "1778411248172081588"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1871513249637962117",
+        "created_at": "2024-12-24T11:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T12:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871513249637962117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "MyGO"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 67,
+              "start": 57,
+              "tag": "彷徨する渇望_愛知"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1394483928463941633",
+              "start": 3,
+              "username": "cocohayashi515"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0H3rg1kPeh",
+              "end": 91,
+              "expanded_url": "https://x.com/cocohayashi515/status/1778411248172081588/photo/1",
+              "media_key": "3_1778411241838616576",
+              "start": 68,
+              "url": "https://t.co/0H3rg1kPeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871513249637962117",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1223
+        },
+        "referenced_tweets": [
+          {
+            "id": "1778411248172081588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocohayashi515: これからも\nこの5人で。\nこの10人で。\n #MyGO \n #バンドリ\n #彷徨する渇望_愛知 https://t.co/0H3rg1kPeh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1778411241838616576"
+          ]
+        },
+        "author_id": "1394483928463941633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1778411248172081588",
+        "created_at": "2024-04-11T13:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-11T14:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1778411248172081588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "MyGO"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "彷徨する渇望_愛知"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0H3rg1kPeh",
+              "end": 71,
+              "expanded_url": "https://x.com/cocohayashi515/status/1778411248172081588/photo/1",
+              "media_key": "3_1778411241838616576",
+              "start": 48,
+              "url": "https://t.co/0H3rg1kPeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1778411248172081588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 137394,
+          "like_count": 6773,
+          "quote_count": 26,
+          "reply_count": 43,
+          "retweet_count": 1223
+        },
+        "reply_settings": "everyone",
+        "text": "これからも\nこの5人で。\nこの10人で。\n #MyGO \n #バンドリ\n #彷徨する渇望_愛知 https://t.co/0H3rg1kPeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 4193,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 853
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T02:44:44.000Z",
+        "description": "mitt management所属 声優・俳優｜ミュージカルや宝塚、ロックと映画が好き。ドラムを叩きます｜FC🪄︎︎https://t.co/eHz0D4Plcz ｜お仕事のご依頼はこちらまで→info.mittmg@mittma.com ｜⚠︎画像や動画の無断転載・無断利用はおやめください⚠︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hayashicoco.com",
+                "end": 81,
+                "expanded_url": "http://hayashicoco.com",
+                "start": 58,
+                "url": "https://t.co/eHz0D4Plcz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mittma.com",
+                "end": 23,
+                "expanded_url": "https://mittma.com/",
+                "start": 0,
+                "url": "https://t.co/1AuV4pXSZZ"
+              }
+            ]
+          }
+        },
+        "id": "1394483928463941633",
+        "name": "林鼓子",
+        "pinned_tweet_id": "1849289943866290372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641821141982670848/ZS90ZFfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115692,
+          "following_count": 501,
+          "like_count": 7671,
+          "listed_count": 2587,
+          "media_count": 1372,
+          "tweet_count": 6995
+        },
+        "url": "https://t.co/1AuV4pXSZZ",
+        "username": "cocohayashi515",
+        "verified": false
+      }
+    ]
+  }
+}

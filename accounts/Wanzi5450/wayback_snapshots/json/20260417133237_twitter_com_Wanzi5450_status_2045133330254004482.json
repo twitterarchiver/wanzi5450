@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2045132452746969206",
+    "created_at": "2026-04-17T13:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045133330254004482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797893908095262720",
+          "start": 0,
+          "username": "ShaaaShark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045133330254004482",
+    "in_reply_to_user_id": "1797893908095262720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045132703725662537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShaaaShark 哎呜呜🥹吃一堑长一智了…\n主要可能身体不太好吧，我爸确实帮我拿了很多东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2045132452746969206",
+        "created_at": "2026-04-17T13:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045133330254004482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797893908095262720",
+              "start": 0,
+              "username": "ShaaaShark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045133330254004482",
+        "in_reply_to_user_id": "1797893908095262720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045132703725662537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShaaaShark 哎呜呜🥹吃一堑长一智了…\n主要可能身体不太好吧，我爸确实帮我拿了很多东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797893908095262720",
+        "conversation_id": "2045132452746969206",
+        "created_at": "2026-04-17T13:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045132703725662537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045132703725662537",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045132452746969206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 和父母出门旅游……\n有毅力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 268,
+          "like_count": 12146,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 3280
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T07:31:46.000Z",
+        "description": "不晓得写嘛",
+        "id": "1797893908095262720",
+        "location": "Sydney, New South Wales",
+        "name": "ShaShark",
+        "pinned_tweet_id": "2002341166805880999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044562292122259457/ST2C4qsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 24,
+          "like_count": 2947,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 479
+        },
+        "username": "ShaaaShark",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1836694266485370969",
+    "created_at": "2024-09-19T09:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T10:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836694266485370969"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 91,
+          "normalized_text": "DAY1 MUSIC ON! TV",
+          "probability": 0.6793,
+          "start": 74,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 61,
+          "tag": "見つけた景色たずさえて"
+        },
+        {
+          "end": 123,
+          "start": 118,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512315733899837440",
+          "start": 3,
+          "username": "bang_dream_mygo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836694266485370969",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 272
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835997124510855351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_mygo: 【ライブ放送】\n\nこのあと22:00～\nMyGO!!!!! 6th LIVE\n「#見つけた景色たずさえて」DAY1\n\nMUSIC ON! TVにてテレビ初放送となります。\n過去最大規模となった #MyGO の単独公演、ぜひご視聴ください…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1836694266485370969",
+        "created_at": "2024-09-19T09:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T10:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836694266485370969"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "DAY1 MUSIC ON! TV",
+              "probability": 0.6793,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 61,
+              "tag": "見つけた景色たずさえて"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512315733899837440",
+              "start": 3,
+              "username": "bang_dream_mygo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836694266485370969",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835997124510855351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_mygo: 【ライブ放送】\n\nこのあと22:00～\nMyGO!!!!! 6th LIVE\n「#見つけた景色たずさえて」DAY1\n\nMUSIC ON! TVにてテレビ初放送となります。\n過去最大規模となった #MyGO の単独公演、ぜひご視聴ください…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835591645615853568"
+          ]
+        },
+        "author_id": "1512315733899837440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1835997124510855351",
+        "created_at": "2024-09-17T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835997124510855351"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "DAY1 MUSIC ON! TV",
+              "probability": 0.6801,
+              "start": 53,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 40,
+              "tag": "見つけた景色たずさえて"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "MyGO"
+            },
+            {
+              "end": 163,
+              "start": 158,
+              "tag": "バンドリ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ、ゲーム、コミック、声優によるリアルライブなど様々なメディアミックスを展開する、次世代ガールズバンドプロジェクト「BanG Dream!(バンドリ！)」から生まれた5人組ガールズバンド、MyGO!!!!!(マイゴ)。エムオン!では、彼",
+              "display_url": "m-on.jp/info/news-topi…",
+              "end": 156,
+              "expanded_url": "https://m-on.jp/info/news-topics/2024/07/27/285142/",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1835242214848364544/gXVaRWiL?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1835242214848364544/gXVaRWiL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 200,
+              "title": "バンドリ！から生まれた5人組ガールズバンド、MyGO!!!!! 7/27(土)・28(日)開催のMyGO!!!!! 6th LIVE「見つけた景色、たずさえて」より、初日公演の模様をエムオン!で9/17(火)夜10時～テレビ独占放送！ - MUSIC ON! TV（エムオン!）",
+              "unwound_url": "https://www.m-on.jp/info/news-topics/2024/07/27/285142/",
+              "url": "https://t.co/yNQLEk7Hl0"
+            },
+            {
+              "display_url": "pic.x.com/nq6el0pf8t",
+              "end": 187,
+              "expanded_url": "https://twitter.com/bang_dream_mygo/status/1835997124510855351/photo/1",
+              "media_key": "3_1835591645615853568",
+              "start": 164,
+              "url": "https://t.co/nq6el0Pf8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835997124510855351",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 46867,
+          "like_count": 1625,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "【ライブ放送】\n\nこのあと22:00～\nMyGO!!!!! 6th LIVE\n「#見つけた景色たずさえて」DAY1\n\nMUSIC ON! TVにてテレビ初放送となります。\n過去最大規模となった #MyGO の単独公演、ぜひご視聴ください。\n\n視聴方法・詳細はこちら\nhttps://t.co/yNQLEk7Hl0\n\n#バンドリ https://t.co/nq6el0Pf8t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 3137,
+          "listed_count": 0,
+          "tweet_count": 602
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:26:01.000Z",
+        "description": "バンドリ！から生まれる現実(リアル)と仮想(キャラクター)が同期するバンド「MyGO!!!!!」の公式アカウントです。12月22日(日) 、MyGO!!!!! 7th LIVEが日比谷公園大音楽堂にて開催。 #バンドリ #MyGO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "MyGO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@bang_dream_my…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@bang_dream_mygo?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/GiqRf6mTOb"
+              }
+            ]
+          }
+        },
+        "id": "1512315733899837440",
+        "name": "MyGO!!!!!公式",
+        "pinned_tweet_id": "1817170571727450253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554800758733754368/US0-wSbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115277,
+          "following_count": 40,
+          "like_count": 194,
+          "listed_count": 585,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/GiqRf6mTOb",
+        "username": "bang_dream_mygo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2034820532273914285",
+    "created_at": "2026-03-20T03:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034829192135942453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034829192135942453",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034820532273914285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 怎么还有中成药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2034820476766502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0icVNbwAAtw_f.jpg",
+        "width": 1918
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2034820476795809793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0icVUa8AEQrWO.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2034820532273914285",
+        "created_at": "2026-03-20T03:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034829192135942453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034829192135942453",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034820532273914285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 怎么还有中成药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034820476766502912",
+            "3_2034820476795809793"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034820532273914285",
+        "created_at": "2026-03-20T02:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034820532273914285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCtGyRxoD4",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034820532273914285/photo/1",
+              "media_key": "3_2034820476766502912",
+              "start": 0,
+              "url": "https://t.co/VCtGyRxoD4"
+            },
+            {
+              "display_url": "pic.x.com/VCtGyRxoD4",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034820532273914285/photo/1",
+              "media_key": "3_2034820476795809793",
+              "start": 0,
+              "url": "https://t.co/VCtGyRxoD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034820532273914285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VCtGyRxoD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 246,
+          "like_count": 9384,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2190
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 237,
+          "like_count": 6246,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 2261
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

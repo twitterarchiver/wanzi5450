@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873275679309230080"
+      ],
+      "media_source_tweet_id": [
+        "1873275725849207081"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "1873519287392240077",
+    "created_at": "2024-12-29T23:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T00:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873519287392240077"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "mygo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643968385045364742",
+          "start": 3,
+          "username": "cxhcrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWl12h54Oc",
+          "end": 41,
+          "expanded_url": "https://x.com/cxhcrr/status/1873275725849207081/photo/1",
+          "media_key": "3_1873275679309230080",
+          "start": 18,
+          "url": "https://t.co/bWl12h54Oc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873519287392240077",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873275725849207081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxhcrr: #mygo https://t.co/bWl12h54Oc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1873275679309230080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf82Tiea8AASxPq.jpg",
+        "width": 3280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873275679309230080"
+          ],
+          "media_source_tweet_id": [
+            "1873275725849207081"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "1873519287392240077",
+        "created_at": "2024-12-29T23:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T00:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873519287392240077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "mygo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643968385045364742",
+              "start": 3,
+              "username": "cxhcrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWl12h54Oc",
+              "end": 41,
+              "expanded_url": "https://x.com/cxhcrr/status/1873275725849207081/photo/1",
+              "media_key": "3_1873275679309230080",
+              "start": 18,
+              "url": "https://t.co/bWl12h54Oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873519287392240077",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873275725849207081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cxhcrr: #mygo https://t.co/bWl12h54Oc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873275679309230080"
+          ]
+        },
+        "author_id": "1643968385045364742",
+        "conversation_id": "1873275725849207081",
+        "created_at": "2024-12-29T07:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T08:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873275725849207081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "mygo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWl12h54Oc",
+              "end": 29,
+              "expanded_url": "https://x.com/cxhcrr/status/1873275725849207081/photo/1",
+              "media_key": "3_1873275679309230080",
+              "start": 6,
+              "url": "https://t.co/bWl12h54Oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873275725849207081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 30896,
+          "like_count": 2303,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "reply_settings": "everyone",
+        "text": "#mygo https://t.co/bWl12h54Oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756236534519566336/-sTar85R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 4273,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 875
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T13:26:28.000Z",
+        "description": "《🐩二狗子茶壶🐩》\n世界大幸福\n中文//日本語機械翻訳，翻訳ミスがあったらごめんなさい!!\nNO!AI !!!!!! NO!!!!!!!!!",
+        "id": "1643968385045364742",
+        "name": "giant doggy~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681221230018560000/DGTcK1Ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8104,
+          "following_count": 70,
+          "like_count": 170,
+          "listed_count": 40,
+          "media_count": 18,
+          "tweet_count": 24
+        },
+        "username": "cxhcrr",
+        "verified": false
+      }
+    ]
+  }
+}
