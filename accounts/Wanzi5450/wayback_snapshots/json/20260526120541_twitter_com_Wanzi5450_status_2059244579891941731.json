@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059225305676750849"
+      ],
+      "media_source_tweet_id": [
+        "2059225309992673772"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2059244579891941731",
+    "created_at": "2026-05-26T12:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059244579891941731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2016028559228469252",
+          "start": 3,
+          "username": "Alvvaysioffy1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RjgnT5pTHg",
+          "end": 63,
+          "expanded_url": "https://x.com/Alvvaysioffy1/status/2059225309992673772/photo/1",
+          "media_key": "3_2059225305676750849",
+          "start": 40,
+          "url": "https://t.co/RjgnT5pTHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059244579891941731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059225309992673772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alvvaysioffy1: 两年前的处分到现在都没解 我甚至不高考了 https://t.co/RjgnT5pTHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_2059225305676750849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPWgVlboAEu2l4.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059225305676750849"
+          ],
+          "media_source_tweet_id": [
+            "2059225309992673772"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2059244579891941731",
+        "created_at": "2026-05-26T12:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059244579891941731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2016028559228469252",
+              "start": 3,
+              "username": "Alvvaysioffy1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjgnT5pTHg",
+              "end": 63,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2059225309992673772/photo/1",
+              "media_key": "3_2059225305676750849",
+              "start": 40,
+              "url": "https://t.co/RjgnT5pTHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059244579891941731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059225309992673772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alvvaysioffy1: 两年前的处分到现在都没解 我甚至不高考了 https://t.co/RjgnT5pTHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059225305676750849"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2059225309992673772",
+        "created_at": "2026-05-26T10:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059225309992673772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjgnT5pTHg",
+              "end": 44,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2059225309992673772/photo/1",
+              "media_key": "3_2059225305676750849",
+              "start": 21,
+              "url": "https://t.co/RjgnT5pTHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059225309992673772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1597,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "两年前的处分到现在都没解 我甚至不高考了 https://t.co/RjgnT5pTHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 305,
+          "like_count": 17073,
+          "listed_count": 0,
+          "media_count": 503,
+          "tweet_count": 3979
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2058836989848547598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 123,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 504
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

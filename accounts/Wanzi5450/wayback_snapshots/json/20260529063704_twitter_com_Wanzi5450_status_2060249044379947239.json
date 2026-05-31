@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2060169919195648260",
+    "created_at": "2026-05-29T06:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060249044379947239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1226126253893341184",
+          "start": 0,
+          "username": "konosuz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060249044379947239",
+    "in_reply_to_user_id": "1226126253893341184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060169919195648260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konosuz 哎是这样的TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2060169919195648260",
+        "created_at": "2026-05-29T06:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060249044379947239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1226126253893341184",
+              "start": 0,
+              "username": "konosuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249044379947239",
+        "in_reply_to_user_id": "1226126253893341184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060169919195648260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konosuz 哎是这样的TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226126253893341184",
+        "conversation_id": "2060169919195648260",
+        "created_at": "2026-05-29T01:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060169919195648260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060169919195648260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20岁之后看到十四五岁的小孩自杀我心里特别难受，我也是这么过来的，精神病、自杀未遂、住院，我那时也从来没想过会活到20岁，世界太残酷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 308,
+          "like_count": 17437,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4016
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T12:51:19.000Z",
+        "description": "中国人冷静一下💦💦",
+        "id": "1226126253893341184",
+        "name": "小米粥",
+        "pinned_tweet_id": "1773027026632376702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579858919891128321/LWk3IQDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 287,
+          "like_count": 3044,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1344
+        },
+        "username": "konosuz",
+        "verified": false
+      }
+    ]
+  }
+}

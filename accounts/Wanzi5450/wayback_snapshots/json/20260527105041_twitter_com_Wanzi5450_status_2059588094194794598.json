@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2059574225925750885",
+    "created_at": "2026-05-27T10:50:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059588094194794598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Y4miSTILLher3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059588094194794598",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059574225925750885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y4miSTILLher3 馋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059574218199879680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUT1uBbUAAPYS5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2059574225925750885",
+        "created_at": "2026-05-27T10:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059588094194794598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Y4miSTILLher3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059588094194794598",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059574225925750885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y4miSTILLher3 馋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059574218199879680"
+          ]
+        },
+        "author_id": "2049103771796660224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059574225925750885",
+        "created_at": "2026-05-27T09:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059574225925750885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CStO4UsUFI",
+              "end": 28,
+              "expanded_url": "https://x.com/Y4miSTILLher3/status/2059574225925750885/photo/1",
+              "media_key": "3_2059574218199879680",
+              "start": 5,
+              "url": "https://t.co/CStO4UsUFI"
+            },
+            {
+              "display_url": "x.com/y4mistillher3/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/y4mistillher3/status/2059569352693977236",
+              "start": 29,
+              "url": "https://t.co/Q5Irq0txcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059574225925750885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059569352693977236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "觅食成功 https://t.co/CStO4UsUFI https://t.co/Q5Irq0txcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 307,
+          "like_count": 17232,
+          "listed_count": 0,
+          "media_count": 508,
+          "tweet_count": 4003
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "loser | joker | gooner | 私には愛する妻がいます\nTo cry me a river ✟",
+        "id": "2049103771796660224",
+        "location": "Santa Ana, CA",
+        "name": "涙が没収された",
+        "pinned_tweet_id": "2054217812672205217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057467344889503744/homHnz32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 50,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 295
+        },
+        "username": "Y4miSTILLher3",
+        "verified": false
+      }
+    ]
+  }
+}

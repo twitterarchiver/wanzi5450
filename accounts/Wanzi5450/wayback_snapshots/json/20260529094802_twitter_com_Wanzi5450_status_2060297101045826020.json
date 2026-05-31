@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2060296184070353085",
+    "created_at": "2026-05-29T09:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060297101045826020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "826962347436568576",
+          "start": 0,
+          "username": "ase12345632"
+        },
+        {
+          "end": 29,
+          "id": "1262011427587411973",
+          "start": 13,
+          "username": "yuika_singuitar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060297101045826020",
+    "in_reply_to_user_id": "826962347436568576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060296184070353085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ase12345632 @yuika_singuitar 羡慕TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35784,
+        "height": 720,
+        "media_key": "7_2060296117213188097",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060296117213188097/pu/img/WJjqhR5UL9-ozkQs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060296117213188097/pu/vid/avc1/480x270/9ALSCoITeV1u7CJq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060296117213188097/pu/vid/avc1/640x360/GZSVTP8rF2quZwbj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060296117213188097/pu/vid/avc1/1280x720/Q2m65bw2uauTsVBe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060296117213188097/pu/pl/HKRq92rOxoTYGpZO.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2060296124465074176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJekaMba0AA5Lqc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060296124926455808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJekaOJa8AATYiQ.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2060296125144522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJekaO9aYAAkt-J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2060296184070353085",
+        "created_at": "2026-05-29T09:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060297101045826020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "826962347436568576",
+              "start": 0,
+              "username": "ase12345632"
+            },
+            {
+              "end": 29,
+              "id": "1262011427587411973",
+              "start": 13,
+              "username": "yuika_singuitar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060297101045826020",
+        "in_reply_to_user_id": "826962347436568576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060296184070353085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ase12345632 @yuika_singuitar 羡慕TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060296117213188097",
+            "3_2060296124465074176",
+            "3_2060296124926455808",
+            "3_2060296125144522752"
+          ]
+        },
+        "author_id": "826962347436568576",
+        "conversation_id": "2060296184070353085",
+        "created_at": "2026-05-29T09:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060296184070353085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "ユイカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1262011427587411973",
+              "start": 11,
+              "username": "yuika_singuitar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6oGJ3IijsH",
+              "end": 56,
+              "expanded_url": "https://x.com/ase12345632/status/2060296184070353085/video/1",
+              "media_key": "7_2060296117213188097",
+              "start": 33,
+              "url": "https://t.co/6oGJ3IijsH"
+            },
+            {
+              "display_url": "pic.x.com/6oGJ3IijsH",
+              "end": 56,
+              "expanded_url": "https://x.com/ase12345632/status/2060296184070353085/video/1",
+              "media_key": "3_2060296124465074176",
+              "start": 33,
+              "url": "https://t.co/6oGJ3IijsH"
+            },
+            {
+              "display_url": "pic.x.com/6oGJ3IijsH",
+              "end": 56,
+              "expanded_url": "https://x.com/ase12345632/status/2060296184070353085/video/1",
+              "media_key": "3_2060296124926455808",
+              "start": 33,
+              "url": "https://t.co/6oGJ3IijsH"
+            },
+            {
+              "display_url": "pic.x.com/6oGJ3IijsH",
+              "end": 56,
+              "expanded_url": "https://x.com/ase12345632/status/2060296184070353085/video/1",
+              "media_key": "3_2060296125144522752",
+              "start": 33,
+              "url": "https://t.co/6oGJ3IijsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060296184070353085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無事にお迎え成功！\n\n@yuika_singuitar #ユイカ https://t.co/6oGJ3IijsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 308,
+          "like_count": 17436,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 4019
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-02T01:16:02.000Z",
+        "description": "いちばん好きな人 @yuika_singuitar @yuika_sabui / #ユイナーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 41,
+                "tag": "ユイナーさんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "yuika_singuitar"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "yuika_sabui"
+              }
+            ]
+          }
+        },
+        "id": "826962347436568576",
+        "location": "Kaohsiung City, Taiwan",
+        "name": "『ゆい』",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931718260569124865/_5NAqqmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 243,
+          "like_count": 2367,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1466
+        },
+        "username": "ase12345632",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T13:25:59.000Z",
+        "description": "21さい。歌います。 / SNS→ https://t.co/RWmjdrfabX / 2026/6/25.27『ユイカ』presents「時計草#2」開催決定！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yuikasinguitar…",
+                "end": 41,
+                "expanded_url": "https://lit.link/yuikasinguitar12",
+                "start": 18,
+                "url": "https://t.co/RWmjdrfabX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w.pia.jp/t/yuika-tokeis…",
+                "end": 23,
+                "expanded_url": "https://w.pia.jp/t/yuika-tokeisou2/",
+                "start": 0,
+                "url": "https://t.co/DdqdXBqjeI"
+              }
+            ]
+          }
+        },
+        "id": "1262011427587411973",
+        "location": "↓『ユイカ』LIVE「時計草#2」 チケット申込はこちら🎫",
+        "name": "『ユイカ』",
+        "pinned_tweet_id": "2050185356889440710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050184729132146688/AUbCttIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75014,
+          "following_count": 116,
+          "like_count": 18177,
+          "listed_count": 139,
+          "media_count": 765,
+          "tweet_count": 3458
+        },
+        "url": "https://t.co/DdqdXBqjeI",
+        "username": "yuika_singuitar",
+        "verified": true
+      }
+    ]
+  }
+}
