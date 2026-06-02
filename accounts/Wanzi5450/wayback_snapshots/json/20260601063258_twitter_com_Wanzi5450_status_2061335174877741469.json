@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2061294384717635837",
+    "created_at": "2026-06-01T06:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061335174877741469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952815485772578817",
+          "start": 0,
+          "username": "YPqMaxoG2k44631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061335174877741469",
+    "in_reply_to_user_id": "1952815485772578817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061325703166173414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YPqMaxoG2k44631 谢谢你😭😭好温暖好开心!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2061294384717635837",
+        "created_at": "2026-06-01T06:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061335174877741469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952815485772578817",
+              "start": 0,
+              "username": "YPqMaxoG2k44631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061335174877741469",
+        "in_reply_to_user_id": "1952815485772578817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061325703166173414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YPqMaxoG2k44631 谢谢你😭😭好温暖好开心!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952815485772578817",
+        "conversation_id": "2061294384717635837",
+        "created_at": "2026-06-01T05:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061325703166173414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061325703166173414",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061294384717635837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 想那么多干嘛？六一儿童节快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 313,
+          "like_count": 17796,
+          "listed_count": 0,
+          "media_count": 512,
+          "tweet_count": 4044
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T19:35:34.000Z",
+        "description": "啊我是神",
+        "id": "1952815485772578817",
+        "name": "刘长生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958849895890374656/_X5TRX4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 37,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "YPqMaxoG2k44631",
+        "verified": false
+      }
+    ]
+  }
+}
