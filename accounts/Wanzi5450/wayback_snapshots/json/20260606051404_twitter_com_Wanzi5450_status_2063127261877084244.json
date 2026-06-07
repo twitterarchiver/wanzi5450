@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2063113885574656386",
+    "created_at": "2026-06-06T05:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063127261877084244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055986818932424704",
+          "start": 0,
+          "username": "Koysov2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063127261877084244",
+    "in_reply_to_user_id": "2055986818932424704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063126149035913477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koysov2022 就当你在夸我了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2063113885574656386",
+        "created_at": "2026-06-06T05:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063127261877084244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055986818932424704",
+              "start": 0,
+              "username": "Koysov2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063127261877084244",
+        "in_reply_to_user_id": "2055986818932424704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063126149035913477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koysov2022 就当你在夸我了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055986818932424704",
+        "conversation_id": "2063113885574656386",
+        "created_at": "2026-06-06T05:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063126149035913477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063126149035913477",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063113885574656386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 好可爱的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 318,
+          "like_count": 18399,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4148
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:23:56.000Z",
+        "description": "主机:@jkiesoft\n初代Kia转生版，如果主机没长时间更新说明我在用这个号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jkiesoft"
+              }
+            ]
+          }
+        },
+        "id": "2055986818932424704",
+        "location": "Astoria",
+        "name": "Kia2.0",
+        "pinned_tweet_id": "2061805265725665572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062404368721379329/E_7psQzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 69,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "username": "Koysov2022",
+        "verified": false
+      }
+    ]
+  }
+}

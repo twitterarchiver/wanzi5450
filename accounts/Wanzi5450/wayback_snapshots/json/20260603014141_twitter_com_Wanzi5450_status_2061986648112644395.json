@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2061981812533178851",
+    "created_at": "2026-06-03T01:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061986648112644395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1816265454211719169",
+          "start": 0,
+          "username": "c6ZGVx553M24590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061986648112644395",
+    "in_reply_to_user_id": "1816265454211719169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061981812533178851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c6ZGVx553M24590 剪到肩膀那里呢！刚刚能扎起来洗头也方便一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2061981812533178851",
+        "created_at": "2026-06-03T01:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061986648112644395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1816265454211719169",
+              "start": 0,
+              "username": "c6ZGVx553M24590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061986648112644395",
+        "in_reply_to_user_id": "1816265454211719169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061981812533178851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c6ZGVx553M24590 剪到肩膀那里呢！刚刚能扎起来洗头也方便一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816265454211719169",
+        "conversation_id": "2061981812533178851",
+        "created_at": "2026-06-03T01:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061981812533178851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061981812533178851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想剪头发 长头发好烦 夏天又热头油的还快 洗头还好麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 315,
+          "like_count": 17972,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 4078
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:13:38.000Z",
+        "description": "我喜欢你 请和我交朋友 拜托了🥺🥺",
+        "id": "1816265454211719169",
+        "name": "亖久",
+        "pinned_tweet_id": "1948064684076368074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029720348569260036/ER3SM6jQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 137,
+          "like_count": 25530,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 760
+        },
+        "username": "c6ZGVx553M24590",
+        "verified": false
+      }
+    ]
+  }
+}

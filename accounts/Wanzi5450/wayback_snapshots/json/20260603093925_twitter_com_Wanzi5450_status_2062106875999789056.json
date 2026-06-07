@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2062106875999789056",
+    "created_at": "2026-06-03T09:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062106875999789056"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062106875999789056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天打了一次FC+，不知道这和FC的区别是什么。问了gemini它说FC+就是旧版本的AP？那现在AP的条件是什么？😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2062106875999789056",
+        "created_at": "2026-06-03T09:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062106875999789056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062106875999789056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天打了一次FC+，不知道这和FC的区别是什么。问了gemini它说FC+就是旧版本的AP？那现在AP的条件是什么？😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 316,
+          "like_count": 18016,
+          "listed_count": 0,
+          "media_count": 514,
+          "tweet_count": 4084
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

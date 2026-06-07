@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2062456743821762967",
+    "created_at": "2026-06-05T02:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062723178783531048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1619331344705916931",
+          "start": 0,
+          "username": "Mikasuda765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062723178783531048",
+    "in_reply_to_user_id": "1619331344705916931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062666206096855088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikasuda765 嘿嘿🥳🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2062456743821762967",
+        "created_at": "2026-06-05T02:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062723178783531048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1619331344705916931",
+              "start": 0,
+              "username": "Mikasuda765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062723178783531048",
+        "in_reply_to_user_id": "1619331344705916931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062666206096855088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikasuda765 嘿嘿🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619331344705916931",
+        "conversation_id": "2062456743821762967",
+        "created_at": "2026-06-04T22:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062666206096855088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062666206096855088",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062456743821762967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 强强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 319,
+          "like_count": 18214,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 4124
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T13:47:43.000Z",
+        "description": "无趣之人，以前挺有意思（也许……/一个笨蛋/你永远活在我的回忆之中🥺@jkdghalf411丨My master❤@susukikii丨傻逼室友🍥@tonghua245丨可爱室友🥰@xielingxi115丨最好的小猫🐱@yuganbb823丨另一个我🤐@NekoSoda765",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "jkdghalf411"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "susukikii"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "tonghua245"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "xielingxi115"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "NekoSoda765"
+              }
+            ]
+          }
+        },
+        "id": "1619331344705916931",
+        "location": "猫窝",
+        "name": "寄生铃兰",
+        "pinned_tweet_id": "1911568567470002635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059711828922646528/mSicUfQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 3189,
+          "like_count": 2862,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1039
+        },
+        "username": "Mikasuda765",
+        "verified": false
+      }
+    ]
+  }
+}

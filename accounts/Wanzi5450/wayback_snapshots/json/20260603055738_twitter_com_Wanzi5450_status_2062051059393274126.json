@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062051051210203137"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062051059393274126",
+    "created_at": "2026-06-03T05:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062051059393274126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljsQrEh4Gd",
+          "end": 65,
+          "expanded_url": "https://x.com/Wanzi5450/status/2062051059393274126/photo/1",
+          "media_key": "3_2062051051210203137",
+          "start": 42,
+          "url": "https://t.co/ljsQrEh4Gd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062051059393274126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天小战了一会🥺虽然我越打越亢奋但耐不住手这个硬件先痛了））\n第一张紫谱!!!🥳🥳 https://t.co/ljsQrEh4Gd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062051051210203137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3ggYAa4AEZqHd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062051051210203137"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062051059393274126",
+        "created_at": "2026-06-03T05:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062051059393274126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljsQrEh4Gd",
+              "end": 65,
+              "expanded_url": "https://x.com/Wanzi5450/status/2062051059393274126/photo/1",
+              "media_key": "3_2062051051210203137",
+              "start": 42,
+              "url": "https://t.co/ljsQrEh4Gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062051059393274126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天小战了一会🥺虽然我越打越亢奋但耐不住手这个硬件先痛了））\n第一张紫谱!!!🥳🥳 https://t.co/ljsQrEh4Gd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 315,
+          "like_count": 17997,
+          "listed_count": 0,
+          "media_count": 514,
+          "tweet_count": 4082
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

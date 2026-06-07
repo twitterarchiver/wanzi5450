@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2062504486002716923",
+    "created_at": "2026-06-04T13:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062531098761208101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "naonao_927050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062531098761208101",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062504486002716923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naonao_927050 我的生活就这样再加个打舞萌。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062504486002716923].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062504486002716923",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062504486002716923"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2062504486002716923",
+        "created_at": "2026-06-04T13:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062531098761208101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062531098761208101",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062504486002716923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naonao_927050 我的生活就这样再加个打舞萌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 319,
+          "like_count": 18162,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 4115
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "Computer Architect  |\n\nVandelay  Technologies",
+        "id": "1823835476366692352",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "丢了城的城主",
+        "pinned_tweet_id": "2044471949649461605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047037847324999681/xNZaJ9f3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 859,
+          "like_count": 76079,
+          "listed_count": 3,
+          "media_count": 1421,
+          "tweet_count": 18195
+        },
+        "username": "naonao_927050",
+        "verified": false
+      }
+    ]
+  }
+}

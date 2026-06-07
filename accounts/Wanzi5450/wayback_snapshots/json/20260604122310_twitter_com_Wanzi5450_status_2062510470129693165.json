@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2062507167002021974",
+    "created_at": "2026-06-04T12:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062510470129693165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812193973001129985",
+          "start": 0,
+          "username": "affect1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062510470129693165",
+    "in_reply_to_user_id": "1812193973001129985",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062507167002021974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affect1217 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2062507167002021974",
+        "created_at": "2026-06-04T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062510470129693165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812193973001129985",
+              "start": 0,
+              "username": "affect1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510470129693165",
+        "in_reply_to_user_id": "1812193973001129985",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062507167002021974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affect1217 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812193973001129985",
+        "conversation_id": "2062507167002021974",
+        "created_at": "2026-06-04T12:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062507167002021974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062507167002021974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找个时间上吊得了 感觉这个世界不要我也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 319,
+          "like_count": 18151,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 4111
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:35:10.000Z",
+        "description": "08/高二在上学中/isfp/高敏感人格/轻度抑郁/自残/不od/懒癌晚期/喜欢就fo/发碎碎念",
+        "id": "1812193973001129985",
+        "location": "天堂",
+        "name": "晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012718687308914688/pUJyycg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 424,
+          "like_count": 12768,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 337
+        },
+        "username": "affect1217",
+        "verified": false
+      }
+    ]
+  }
+}
