@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2063846558236565743",
+    "created_at": "2026-06-08T08:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063903246377427001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730504341771952128",
+          "start": 0,
+          "username": "PlayEthine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063903246377427001",
+    "in_reply_to_user_id": "1730504341771952128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063890237475176800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayEthine awmc😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2063846558236565743",
+        "created_at": "2026-06-08T08:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063903246377427001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730504341771952128",
+              "start": 0,
+              "username": "PlayEthine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063903246377427001",
+        "in_reply_to_user_id": "1730504341771952128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063890237475176800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayEthine awmc😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730504341771952128",
+        "conversation_id": "2063846558236565743",
+        "created_at": "2026-06-08T07:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063890237475176800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063890237475176800",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063846558236565743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 awmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 318,
+          "like_count": 18698,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 4179
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T08:29:40.000Z",
+        "description": "小兔兔 舞萌吃 有精神病\nxp tk什么的\n可能社恐\n在京\n碎碎念\n可以叫我a酱 あ酱（桑",
+        "id": "1730504341771952128",
+        "location": "北京",
+        "name": "あかね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044035011868012545/8vr8H2vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 129,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 522
+        },
+        "username": "PlayEthine",
+        "verified": false
+      }
+    ]
+  }
+}

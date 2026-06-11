@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2064105978300395566",
+    "created_at": "2026-06-09T03:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064189040212247018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928768097865052161",
+          "start": 0,
+          "username": "oolongisgood321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064189040212247018",
+    "in_reply_to_user_id": "1928768097865052161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064105978300395566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oolongisgood321 抱抱🫂🫂🫂🫂🫂🫂🥲🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064105978300395566].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064105978300395566",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064105978300395566"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2064105978300395566",
+        "created_at": "2026-06-09T03:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064189040212247018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928768097865052161",
+              "start": 0,
+              "username": "oolongisgood321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064189040212247018",
+        "in_reply_to_user_id": "1928768097865052161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064105978300395566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oolongisgood321 抱抱🫂🫂🫂🫂🫂🫂🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 316,
+          "like_count": 18788,
+          "listed_count": 0,
+          "media_count": 522,
+          "tweet_count": 4197
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T10:59:36.000Z",
+        "description": "@rainnnnn0423 把我的中药换成了三得利无糖乌龙茶｜地球说唱之神@634LIVINLIMBO ｜最佳野狗@404ADHD_DOG 欢迎互关但是咯咯哒可以走掉吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "rainnnnn0423"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "634LIVINLIMBO"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "404ADHD_DOG"
+              }
+            ]
+          }
+        },
+        "id": "1928768097865052161",
+        "location": "三得利无糖乌龙茶瓶内",
+        "name": "“看我会在乎离别吗？”",
+        "pinned_tweet_id": "2028108269777281033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007377953798184960/mmIxHjpD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 161,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 356
+        },
+        "username": "oolongisgood321",
+        "verified": false
+      }
+    ]
+  }
+}

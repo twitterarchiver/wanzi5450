@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2063163835599778258",
+    "created_at": "2026-06-06T08:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063176155243729303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "137646275",
+          "start": 0,
+          "username": "yamanobejin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063176155243729303",
+    "in_reply_to_user_id": "137646275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063163835599778258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamanobejin おいしいそう(^^)たべたいぃぃぃ！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2063163829199212545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHUklDakAE_zrE.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2063163835599778258",
+        "created_at": "2026-06-06T08:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063176155243729303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "137646275",
+              "start": 0,
+              "username": "yamanobejin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063176155243729303",
+        "in_reply_to_user_id": "137646275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063163835599778258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamanobejin おいしいそう(^^)たべたいぃぃぃ！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063163829199212545"
+          ]
+        },
+        "author_id": "137646275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407432451467538432",
+              "name": "Family restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2063163835599778258",
+        "created_at": "2026-06-06T07:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063163835599778258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBiaV67RIX",
+              "end": 28,
+              "expanded_url": "https://x.com/yamanobejin/status/2063163835599778258/photo/1",
+              "media_key": "3_2063163829199212545",
+              "start": 5,
+              "url": "https://t.co/PBiaV67RIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063163835599778258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2162,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ココス🏐 https://t.co/PBiaV67RIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 317,
+          "like_count": 18425,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4154
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-27T09:54:37.000Z",
+        "description": "漫画家です。銀河一かわいいシャム系女子あずきさんの写真やエッセイを投稿します。猫とポケモンとカワイイものが好き。二次創作もします。お仕事のご依頼はnobekotoazuki@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nobeko",
+                "end": 23,
+                "expanded_url": "https://lit.link/nobeko",
+                "start": 0,
+                "url": "https://t.co/fktURCfP2e"
+              }
+            ]
+          }
+        },
+        "id": "137646275",
+        "location": "🇯🇵",
+        "name": "のべ子とシャム猫あずきさん",
+        "pinned_tweet_id": "2025455157987958955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1434388884519936000/bFfmVMk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126319,
+          "following_count": 849,
+          "like_count": 163469,
+          "listed_count": 1561,
+          "media_count": 21666,
+          "tweet_count": 96937
+        },
+        "url": "https://t.co/fktURCfP2e",
+        "username": "yamanobejin",
+        "verified": true
+      }
+    ]
+  }
+}

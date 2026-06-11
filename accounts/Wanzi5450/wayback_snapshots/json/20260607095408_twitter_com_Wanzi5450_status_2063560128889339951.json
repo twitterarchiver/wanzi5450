@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2063558150259941757",
+    "created_at": "2026-06-07T09:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063560128889339951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060794560457154560",
+          "start": 0,
+          "username": "A6yss1cHat3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063560128889339951",
+    "in_reply_to_user_id": "2060794560457154560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063558150259941757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A6yss1cHat3 如果真的要的话请告诉我你最喜欢的东西吧TT我会把它献给你\n但我希望不要。我还想看你的作品，想听你的音乐，至少是现在不希望你献上自己的灵魂TT\nevi真的很好，但要说留住别人这种话太轻蔑了，但你走之后我会努力记住你的一切，先是你再是你的作品。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063558150259941757].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063558150259941757",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063558150259941757"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2063558150259941757",
+        "created_at": "2026-06-07T09:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063560128889339951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060794560457154560",
+              "start": 0,
+              "username": "A6yss1cHat3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063560128889339951",
+        "in_reply_to_user_id": "2060794560457154560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063558150259941757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A6yss1cHat3 如果真的要的话请告诉我你最喜欢的东西吧TT我会把它献给你\n但我希望不要。我还想看你的作品，想听你的音乐，至少是现在不希望你献上自己的灵魂TT\nevi真的很好，但要说留住别人这种话太轻蔑了，但你走之后我会努力记住你的一切，先是你再是你的作品。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 318,
+          "like_count": 18555,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4168
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T18:47:56.000Z",
+        "description": "",
+        "id": "2060794560457154560",
+        "name": "Autopsychography",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061119481288736768/0fSWhA4o_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 139
+        },
+        "username": "A6yss1cHat3",
+        "verified": false
+      }
+    ]
+  }
+}

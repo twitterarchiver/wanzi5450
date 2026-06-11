@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061882594074001408"
+      ],
+      "media_source_tweet_id": [
+        "2063335112213660157"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2063478756162121904",
+    "created_at": "2026-06-07T04:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063478756162121904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1973387130912075776",
+          "start": 3,
+          "username": "puupiks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B9RY2meLhm",
+          "end": 47,
+          "expanded_url": "https://x.com/puupiks/status/2063335112213660157/photo/1",
+          "media_key": "3_2061882594074001408",
+          "start": 24,
+          "url": "https://t.co/B9RY2meLhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063478756162121904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1673
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063335112213660157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puupiks: thanks mom https://t.co/B9RY2meLhm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3243,
+        "media_key": "3_2061882594074001408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1HS4RXgAAzoQf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061882594074001408"
+          ],
+          "media_source_tweet_id": [
+            "2063335112213660157"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2063478756162121904",
+        "created_at": "2026-06-07T04:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063478756162121904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1973387130912075776",
+              "start": 3,
+              "username": "puupiks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9RY2meLhm",
+              "end": 47,
+              "expanded_url": "https://x.com/puupiks/status/2063335112213660157/photo/1",
+              "media_key": "3_2061882594074001408",
+              "start": 24,
+              "url": "https://t.co/B9RY2meLhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063478756162121904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1673
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063335112213660157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puupiks: thanks mom https://t.co/B9RY2meLhm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061882594074001408"
+          ]
+        },
+        "author_id": "1973387130912075776",
+        "conversation_id": "2063335112213660157",
+        "created_at": "2026-06-06T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063335112213660157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9RY2meLhm",
+              "end": 34,
+              "expanded_url": "https://x.com/puupiks/status/2063335112213660157/photo/1",
+              "media_key": "3_2061882594074001408",
+              "start": 11,
+              "url": "https://t.co/B9RY2meLhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063335112213660157",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1380,
+          "impression_count": 116646,
+          "like_count": 17642,
+          "quote_count": 54,
+          "reply_count": 31,
+          "retweet_count": 1673
+        },
+        "reply_settings": "everyone",
+        "text": "thanks mom https://t.co/B9RY2meLhm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 318,
+          "like_count": 18521,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4161
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T13:59:02.000Z",
+        "description": "pretty~ https://t.co/WaHyKOB7iA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/puupiks",
+                "end": 31,
+                "expanded_url": "https://linktr.ee/puupiks",
+                "start": 8,
+                "url": "https://t.co/WaHyKOB7iA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/puupiks",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/puupiks",
+                "start": 0,
+                "url": "https://t.co/WaHyKOB7iA"
+              }
+            ]
+          }
+        },
+        "id": "1973387130912075776",
+        "location": " Vampire City in Japan",
+        "name": "puupiks",
+        "pinned_tweet_id": "2057871611395760188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983571769115004929/rMcR_cTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6943,
+          "following_count": 238,
+          "like_count": 1725,
+          "listed_count": 24,
+          "media_count": 225,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/WaHyKOB7iA",
+        "username": "puupiks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062914212213784576"
+      ],
+      "media_source_tweet_id": [
+        "2062914219033727368"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2063243924056203499",
+    "created_at": "2026-06-06T12:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063243924056203499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2831634032",
+          "start": 3,
+          "username": "QED_2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZpv2MP7wS",
+          "end": 43,
+          "expanded_url": "https://x.com/QED_2022/status/2062914219033727368/photo/1",
+          "media_key": "3_2062914212213784576",
+          "start": 20,
+          "url": "https://t.co/AZpv2MP7wS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063243924056203499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062914219033727368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QED_2022: 不愧是他。 https://t.co/AZpv2MP7wS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2062914212213784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDxi9UbgAAXw62.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062914212213784576"
+          ],
+          "media_source_tweet_id": [
+            "2062914219033727368"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2063243924056203499",
+        "created_at": "2026-06-06T12:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063243924056203499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2831634032",
+              "start": 3,
+              "username": "QED_2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZpv2MP7wS",
+              "end": 43,
+              "expanded_url": "https://x.com/QED_2022/status/2062914219033727368/photo/1",
+              "media_key": "3_2062914212213784576",
+              "start": 20,
+              "url": "https://t.co/AZpv2MP7wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063243924056203499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062914219033727368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QED_2022: 不愧是他。 https://t.co/AZpv2MP7wS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062914212213784576"
+          ]
+        },
+        "author_id": "2831634032",
+        "conversation_id": "2062914219033727368",
+        "created_at": "2026-06-05T15:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062914219033727368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZpv2MP7wS",
+              "end": 29,
+              "expanded_url": "https://x.com/QED_2022/status/2062914219033727368/photo/1",
+              "media_key": "3_2062914212213784576",
+              "start": 6,
+              "url": "https://t.co/AZpv2MP7wS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062914219033727368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 263197,
+          "like_count": 5682,
+          "quote_count": 11,
+          "reply_count": 68,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是他。 https://t.co/AZpv2MP7wS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 318,
+          "like_count": 18469,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 4157
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-25T11:17:03.000Z",
+        "description": "樹懶型人類/沒有任何價值能凌駕台灣主權之上/推特是股票樹洞/廢文製造機\n\nGod rolled the dice today, and luck was definitely not on my side.",
+        "id": "2831634032",
+        "name": "上帝不擲骰子4️⃣9️⃣8️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948775179137810437/KwY1ouzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7028,
+          "following_count": 529,
+          "like_count": 311741,
+          "listed_count": 24,
+          "media_count": 12192,
+          "tweet_count": 97396
+        },
+        "username": "QED_2022",
+        "verified": false
+      }
+    ]
+  }
+}
