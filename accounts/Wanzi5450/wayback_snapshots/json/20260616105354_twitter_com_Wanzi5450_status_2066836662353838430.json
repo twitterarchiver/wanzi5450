@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066836652639899648",
+        "3_2066836652648275968"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2066836662353838430",
+    "created_at": "2026-06-16T10:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066836662353838430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3uNMQ1tcaN",
+          "end": 42,
+          "expanded_url": "https://x.com/Wanzi5450/status/2066836662353838430/photo/1",
+          "media_key": "3_2066836652639899648",
+          "start": 19,
+          "url": "https://t.co/3uNMQ1tcaN"
+        },
+        {
+          "display_url": "pic.x.com/3uNMQ1tcaN",
+          "end": 42,
+          "expanded_url": "https://x.com/Wanzi5450/status/2066836662353838430/photo/1",
+          "media_key": "3_2066836652648275968",
+          "start": 19,
+          "url": "https://t.co/3uNMQ1tcaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066836662353838430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "官方手套也太大了😢还很厚\n迪拉熊可爱 https://t.co/3uNMQ1tcaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066836652639899648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7g_Clb0AAPN_C.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066836652648275968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7g_CnboAAVwCO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066836652639899648",
+            "3_2066836652648275968"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2066836662353838430",
+        "created_at": "2026-06-16T10:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066836662353838430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uNMQ1tcaN",
+              "end": 42,
+              "expanded_url": "https://x.com/Wanzi5450/status/2066836662353838430/photo/1",
+              "media_key": "3_2066836652639899648",
+              "start": 19,
+              "url": "https://t.co/3uNMQ1tcaN"
+            },
+            {
+              "display_url": "pic.x.com/3uNMQ1tcaN",
+              "end": 42,
+              "expanded_url": "https://x.com/Wanzi5450/status/2066836662353838430/photo/1",
+              "media_key": "3_2066836652648275968",
+              "start": 19,
+              "url": "https://t.co/3uNMQ1tcaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066836662353838430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "官方手套也太大了😢还很厚\n迪拉熊可爱 https://t.co/3uNMQ1tcaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 325,
+          "like_count": 19597,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 4278
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

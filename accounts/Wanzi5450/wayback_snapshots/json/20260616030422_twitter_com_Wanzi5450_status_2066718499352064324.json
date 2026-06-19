@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066718420150988800"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2066718499352064324",
+    "created_at": "2026-06-16T03:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066718499352064324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZKq9BI8UvM",
+          "end": 31,
+          "expanded_url": "https://x.com/Wanzi5450/status/2066718499352064324/video/1",
+          "media_key": "13_2066718420150988800",
+          "start": 8,
+          "url": "https://t.co/ZKq9BI8UvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066718499352064324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只是在清理屏幕 https://t.co/ZKq9BI8UvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17333,
+        "height": 922,
+        "media_key": "13_2066718420150988800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066718420150988800/img/RPKdk3MUgIv_RgVr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066718420150988800/vid/avc1/320x568/0Za_KCBbXzwm7TJB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066718420150988800/vid/avc1/518x922/4Oc0mSLttNLiHYvc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066718420150988800/pl/tSIsojAqEmAa-p2e.m3u8"
+          }
+        ],
+        "width": 518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066718420150988800"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2066718499352064324",
+        "created_at": "2026-06-16T03:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066718499352064324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKq9BI8UvM",
+              "end": 31,
+              "expanded_url": "https://x.com/Wanzi5450/status/2066718499352064324/video/1",
+              "media_key": "13_2066718420150988800",
+              "start": 8,
+              "url": "https://t.co/ZKq9BI8UvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066718499352064324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是在清理屏幕 https://t.co/ZKq9BI8UvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 325,
+          "like_count": 19545,
+          "listed_count": 0,
+          "media_count": 531,
+          "tweet_count": 4273
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}
