@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2067897041087508529",
+    "created_at": "2026-06-19T09:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067897150735011885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1523441300644663299",
+          "start": 0,
+          "username": "HarbourMuR_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067897150735011885",
+    "in_reply_to_user_id": "1523441300644663299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067897041087508529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarbourMuR_ 毒虫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14667,
+        "height": 720,
+        "media_key": "7_2067897011853312000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067897011853312000/pu/img/Xo3uv1qlDfvniToF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067897011853312000/pu/vid/avc1/360x270/4mql1a_D-zS8n2iA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067897011853312000/pu/vid/avc1/480x360/ohEdJ3WBoA1meRqO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067897011853312000/pu/vid/avc1/960x720/nau_SQMJrVIqkhXJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067897011853312000/pu/pl/T5borHGvuLrglcJ2.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2067897041087508529",
+        "created_at": "2026-06-19T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067897150735011885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1523441300644663299",
+              "start": 0,
+              "username": "HarbourMuR_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067897150735011885",
+        "in_reply_to_user_id": "1523441300644663299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067897041087508529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarbourMuR_ 毒虫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067897011853312000"
+          ]
+        },
+        "author_id": "1523441300644663299",
+        "conversation_id": "2067897041087508529",
+        "created_at": "2026-06-19T09:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067897041087508529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4JWJOY4sz",
+              "end": 28,
+              "expanded_url": "https://x.com/HarbourMuR_/status/2067897041087508529/video/1",
+              "media_key": "7_2067897011853312000",
+              "start": 5,
+              "url": "https://t.co/B4JWJOY4sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067897041087508529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不像演的 https://t.co/B4JWJOY4sz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 329,
+          "like_count": 19775,
+          "listed_count": 0,
+          "media_count": 536,
+          "tweet_count": 4315
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-08T23:14:54.000Z",
+        "description": "I speak：中文/English/Deutsch｜\nMe：Metal Bassist&Composing/Pixel Art Lover/Learning IndieDev/Pansexual｜\n上一世@Tovar1shchU 不知道怎么就死了｜\n永远友善 永远在意｜\n能和你做朋友很开心☺️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Tovar1shchU"
+              }
+            ]
+          }
+        },
+        "id": "1523441300644663299",
+        "location": "在你身边",
+        "name": "老摩",
+        "pinned_tweet_id": "1644960885461630976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005629051688628224/Hd5e3Bs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 1298,
+          "like_count": 36041,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 3411
+        },
+        "url": "",
+        "username": "HarbourMuR_",
+        "verified": false
+      }
+    ]
+  }
+}

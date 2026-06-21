@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068240784902750208"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2068240798349717607",
+    "created_at": "2026-06-20T07:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068240798349717607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QC3Ug3LLiU",
+          "end": 41,
+          "expanded_url": "https://x.com/Wanzi5450/status/2068240798349717607/photo/1",
+          "media_key": "3_2068240784902750208",
+          "start": 18,
+          "url": "https://t.co/QC3Ug3LLiU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068240798349717607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日はすごく素敵なメイクをしたよ！ https://t.co/QC3Ug3LLiU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068240784902750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPeCS4agAAzY7G.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068240784902750208"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2068240798349717607",
+        "created_at": "2026-06-20T07:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068240798349717607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC3Ug3LLiU",
+              "end": 41,
+              "expanded_url": "https://x.com/Wanzi5450/status/2068240798349717607/photo/1",
+              "media_key": "3_2068240784902750208",
+              "start": 18,
+              "url": "https://t.co/QC3Ug3LLiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068240798349717607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日はすごく素敵なメイクをしたよ！ https://t.co/QC3Ug3LLiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 332,
+          "like_count": 19880,
+          "listed_count": 0,
+          "media_count": 541,
+          "tweet_count": 4343
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}
