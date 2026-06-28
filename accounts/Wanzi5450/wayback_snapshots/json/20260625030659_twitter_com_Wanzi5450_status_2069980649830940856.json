@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069860745337348096",
+        "3_2069860745341468672",
+        "3_2069860745354088448",
+        "3_2069860745358270464"
+      ],
+      "media_source_tweet_id": [
+        "2069860751305826713",
+        "2069860751305826713",
+        "2069860751305826713",
+        "2069860751305826713"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2069980649830940856",
+    "created_at": "2026-06-25T03:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069980649830940856"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "加藤小夏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1652430030",
+          "start": 3,
+          "username": "349761"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FBNjqnKw8K",
+          "end": 41,
+          "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+          "media_key": "3_2069860745337348096",
+          "start": 18,
+          "url": "https://t.co/FBNjqnKw8K"
+        },
+        {
+          "display_url": "pic.x.com/FBNjqnKw8K",
+          "end": 41,
+          "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+          "media_key": "3_2069860745341468672",
+          "start": 18,
+          "url": "https://t.co/FBNjqnKw8K"
+        },
+        {
+          "display_url": "pic.x.com/FBNjqnKw8K",
+          "end": 41,
+          "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+          "media_key": "3_2069860745354088448",
+          "start": 18,
+          "url": "https://t.co/FBNjqnKw8K"
+        },
+        {
+          "display_url": "pic.x.com/FBNjqnKw8K",
+          "end": 41,
+          "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+          "media_key": "3_2069860745358270464",
+          "start": 18,
+          "url": "https://t.co/FBNjqnKw8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069980649830940856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069860751305826713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @349761: #加藤小夏 https://t.co/FBNjqnKw8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2069860745337348096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmfYZxboAAh5gO.jpg",
+        "width": 659
+      },
+      {
+        "height": 364,
+        "media_key": "3_2069860745341468672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmfYZyagAAMzTW.jpg",
+        "width": 664
+      },
+      {
+        "height": 367,
+        "media_key": "3_2069860745354088448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmfYZ1bEAA648N.jpg",
+        "width": 663
+      },
+      {
+        "height": 367,
+        "media_key": "3_2069860745358270464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmfYZ2a4AAWB4X.jpg",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069860745337348096",
+            "3_2069860745341468672",
+            "3_2069860745354088448",
+            "3_2069860745358270464"
+          ],
+          "media_source_tweet_id": [
+            "2069860751305826713",
+            "2069860751305826713",
+            "2069860751305826713",
+            "2069860751305826713"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2069980649830940856",
+        "created_at": "2026-06-25T03:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069980649830940856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "加藤小夏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1652430030",
+              "start": 3,
+              "username": "349761"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 41,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745337348096",
+              "start": 18,
+              "url": "https://t.co/FBNjqnKw8K"
+            },
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 41,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745341468672",
+              "start": 18,
+              "url": "https://t.co/FBNjqnKw8K"
+            },
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 41,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745354088448",
+              "start": 18,
+              "url": "https://t.co/FBNjqnKw8K"
+            },
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 41,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745358270464",
+              "start": 18,
+              "url": "https://t.co/FBNjqnKw8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069980649830940856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069860751305826713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @349761: #加藤小夏 https://t.co/FBNjqnKw8K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069860745337348096",
+            "3_2069860745341468672",
+            "3_2069860745354088448",
+            "3_2069860745358270464"
+          ]
+        },
+        "author_id": "1652430030",
+        "conversation_id": "2069860751305826713",
+        "created_at": "2026-06-24T19:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069860751305826713"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "加藤小夏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 29,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745337348096",
+              "start": 6,
+              "url": "https://t.co/FBNjqnKw8K"
+            },
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 29,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745341468672",
+              "start": 6,
+              "url": "https://t.co/FBNjqnKw8K"
+            },
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 29,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745354088448",
+              "start": 6,
+              "url": "https://t.co/FBNjqnKw8K"
+            },
+            {
+              "display_url": "pic.x.com/FBNjqnKw8K",
+              "end": 29,
+              "expanded_url": "https://x.com/349761/status/2069860751305826713/photo/1",
+              "media_key": "3_2069860745358270464",
+              "start": 6,
+              "url": "https://t.co/FBNjqnKw8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069860751305826713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 18107,
+          "like_count": 779,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "#加藤小夏 https://t.co/FBNjqnKw8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 335,
+          "like_count": 20413,
+          "listed_count": 0,
+          "media_count": 554,
+          "tweet_count": 4423
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-07T08:58:22.000Z",
+        "description": "全肯定bot",
+        "id": "1652430030",
+        "name": "ْ",
+        "pinned_tweet_id": "2008164955565265214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986086096313405440/h8nyt-Wd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 12,
+          "like_count": 8176,
+          "listed_count": 8,
+          "media_count": 181,
+          "tweet_count": 273748
+        },
+        "url": "",
+        "username": "349761",
+        "verified": false
+      }
+    ]
+  }
+}

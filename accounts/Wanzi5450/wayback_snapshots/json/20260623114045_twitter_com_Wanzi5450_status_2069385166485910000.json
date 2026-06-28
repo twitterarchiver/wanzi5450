@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2069301314186801200",
+    "created_at": "2026-06-23T11:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069385166485910000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1888269133223272449",
+          "start": 0,
+          "username": "yuikoqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069385166485910000",
+    "in_reply_to_user_id": "1888269133223272449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069381020047364136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuikoqt 拍照灯光问题ww！打的时候还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2069301314186801200",
+        "created_at": "2026-06-23T11:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069385166485910000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1888269133223272449",
+              "start": 0,
+              "username": "yuikoqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069385166485910000",
+        "in_reply_to_user_id": "1888269133223272449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069381020047364136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuikoqt 拍照灯光问题ww！打的时候还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888269133223272449",
+        "conversation_id": "2069301314186801200",
+        "created_at": "2026-06-23T11:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069381020047364136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069381020047364136",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069301314186801200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 屏幕怎麼這麼reflective呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 335,
+          "like_count": 20206,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 4391
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T16:50:26.000Z",
+        "description": "🇳🇿🇭🇰 budget SnowNiNo_ | i play maimai dx cn (pfp: @orewatenshi)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "orewatenshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/27298515",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/27298515",
+                "start": 0,
+                "url": "https://t.co/GGhIFc0iKK"
+              }
+            ]
+          }
+        },
+        "id": "1888269133223272449",
+        "location": "she/her",
+        "name": "chi",
+        "pinned_tweet_id": "2035409036557136017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957526055868309504/DHESPYz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 172,
+          "like_count": 1212,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/GGhIFc0iKK",
+        "username": "yuikoqt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069635210862592000"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2069635297038725205",
+    "created_at": "2026-06-24T04:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069635297038725205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5q7SOkH3Gn",
+          "end": 27,
+          "expanded_url": "https://x.com/Wanzi5450/status/2069635297038725205/video/1",
+          "media_key": "13_2069635210862592000",
+          "start": 4,
+          "url": "https://t.co/5q7SOkH3Gn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069635297038725205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫抓板 https://t.co/5q7SOkH3Gn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17926,
+        "height": 1280,
+        "media_key": "13_2069635210862592000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069635210862592000/img/l9N9rkCiuBVCv6jv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069635210862592000/vid/avc1/320x568/IobM5wlF42zwqzaN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069635210862592000/vid/avc1/480x852/f-qxf3JY3Dll18Fl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069635210862592000/vid/avc1/720x1280/wEQQteJKvM-dpZGL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069635210862592000/pl/1M_cybRkEKReILqb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069635210862592000"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2069635297038725205",
+        "created_at": "2026-06-24T04:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069635297038725205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5q7SOkH3Gn",
+              "end": 27,
+              "expanded_url": "https://x.com/Wanzi5450/status/2069635297038725205/video/1",
+              "media_key": "13_2069635210862592000",
+              "start": 4,
+              "url": "https://t.co/5q7SOkH3Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069635297038725205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫抓板 https://t.co/5q7SOkH3Gn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 335,
+          "like_count": 20256,
+          "listed_count": 0,
+          "media_count": 551,
+          "tweet_count": 4403
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

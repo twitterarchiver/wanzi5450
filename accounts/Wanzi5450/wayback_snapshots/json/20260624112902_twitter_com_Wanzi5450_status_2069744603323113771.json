@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069481782110728192"
+      ],
+      "media_source_tweet_id": [
+        "2069481819163271356"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069744603323113771",
+    "created_at": "2026-06-24T11:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069744603323113771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884361812239605763",
+          "start": 3,
+          "username": "raysunsk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVJuTz6hjK",
+          "end": 68,
+          "expanded_url": "https://x.com/raysunsk/status/2069481819163271356/photo/1",
+          "media_key": "3_2069481782110728192",
+          "start": 45,
+          "url": "https://t.co/WVJuTz6hjK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069744603323113771",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4608
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069481819163271356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raysunsk: Bruh my roommate eat like shit https://t.co/WVJuTz6hjK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069481782110728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhGt1vaMAAwuEi.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069481782110728192"
+          ],
+          "media_source_tweet_id": [
+            "2069481819163271356"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069744603323113771",
+        "created_at": "2026-06-24T11:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069744603323113771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884361812239605763",
+              "start": 3,
+              "username": "raysunsk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVJuTz6hjK",
+              "end": 68,
+              "expanded_url": "https://x.com/raysunsk/status/2069481819163271356/photo/1",
+              "media_key": "3_2069481782110728192",
+              "start": 45,
+              "url": "https://t.co/WVJuTz6hjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069744603323113771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4608
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069481819163271356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raysunsk: Bruh my roommate eat like shit https://t.co/WVJuTz6hjK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069481782110728192"
+          ]
+        },
+        "author_id": "1884361812239605763",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069481819163271356",
+        "created_at": "2026-06-23T18:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069481819163271356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVJuTz6hjK",
+              "end": 54,
+              "expanded_url": "https://x.com/raysunsk/status/2069481819163271356/photo/1",
+              "media_key": "3_2069481782110728192",
+              "start": 31,
+              "url": "https://t.co/WVJuTz6hjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069481819163271356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5281,
+          "impression_count": 2152908,
+          "like_count": 80013,
+          "quote_count": 1491,
+          "reply_count": 703,
+          "retweet_count": 4607
+        },
+        "reply_settings": "everyone",
+        "text": "Bruh my roommate eat like shit https://t.co/WVJuTz6hjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 335,
+          "like_count": 20322,
+          "listed_count": 0,
+          "media_count": 553,
+          "tweet_count": 4411
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-28T22:04:12.000Z",
+        "description": "",
+        "id": "1884361812239605763",
+        "location": "Dance Town",
+        "name": "🌅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915107956829646848/nQo0JDfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 58,
+          "like_count": 1796,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "raysunsk",
+        "verified": false
+      }
+    ]
+  }
+}

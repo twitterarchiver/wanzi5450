@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069565549806530560"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2069565557138243649",
+    "created_at": "2026-06-23T23:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T00:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069565557138243649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WblwL9S6kA",
+          "end": 35,
+          "expanded_url": "https://x.com/Wanzi5450/status/2069565557138243649/photo/1",
+          "media_key": "3_2069565549806530560",
+          "start": 12,
+          "url": "https://t.co/WblwL9S6kA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069565557138243649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舞萌神了 真就长肌肉啊 https://t.co/WblwL9S6kA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2069565549806530560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiS5wuasAAY6JI.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069565549806530560"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2069565557138243649",
+        "created_at": "2026-06-23T23:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069565557138243649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WblwL9S6kA",
+              "end": 35,
+              "expanded_url": "https://x.com/Wanzi5450/status/2069565557138243649/photo/1",
+              "media_key": "3_2069565549806530560",
+              "start": 12,
+              "url": "https://t.co/WblwL9S6kA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069565557138243649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌神了 真就长肌肉啊 https://t.co/WblwL9S6kA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 335,
+          "like_count": 20241,
+          "listed_count": 0,
+          "media_count": 549,
+          "tweet_count": 4399
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

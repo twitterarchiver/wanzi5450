@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070124685564764160",
+        "3_2070124685594120192",
+        "3_2070124685585711105",
+        "3_2070124685644439552"
+      ],
+      "media_source_tweet_id": [
+        "2070124691562586544",
+        "2070124691562586544",
+        "2070124691562586544",
+        "2070124691562586544"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2070343148946280833",
+    "created_at": "2026-06-26T03:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070343148946280833"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "創作百合"
+        },
+        {
+          "end": 53,
+          "start": 48,
+          "tag": "百合の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815424027441442816",
+          "start": 3,
+          "username": "yuri_n4c0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPRPIQGbgF",
+          "end": 77,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+          "media_key": "3_2070124685564764160",
+          "start": 54,
+          "url": "https://t.co/nPRPIQGbgF"
+        },
+        {
+          "display_url": "pic.x.com/nPRPIQGbgF",
+          "end": 77,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+          "media_key": "3_2070124685594120192",
+          "start": 54,
+          "url": "https://t.co/nPRPIQGbgF"
+        },
+        {
+          "display_url": "pic.x.com/nPRPIQGbgF",
+          "end": 77,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+          "media_key": "3_2070124685585711105",
+          "start": 54,
+          "url": "https://t.co/nPRPIQGbgF"
+        },
+        {
+          "display_url": "pic.x.com/nPRPIQGbgF",
+          "end": 77,
+          "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+          "media_key": "3_2070124685644439552",
+          "start": 54,
+          "url": "https://t.co/nPRPIQGbgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070343148946280833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070124691562586544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuri_n4c0: 創作┊︎百合\n\n ︎︎百合の日なので…///\n\n #創作百合 #百合の日 https://t.co/nPRPIQGbgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2070124685564764160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqPbvva4AAy0DM.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2070124685594120192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqPbv2a0AAccKx.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2070124685585711105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqPbv0agAESHXN.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2070124685644439552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqPbwCaoAAFtD4.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070124685564764160",
+            "3_2070124685594120192",
+            "3_2070124685585711105",
+            "3_2070124685644439552"
+          ],
+          "media_source_tweet_id": [
+            "2070124691562586544",
+            "2070124691562586544",
+            "2070124691562586544",
+            "2070124691562586544"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2070343148946280833",
+        "created_at": "2026-06-26T03:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070343148946280833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "創作百合"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "百合の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815424027441442816",
+              "start": 3,
+              "username": "yuri_n4c0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 77,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685564764160",
+              "start": 54,
+              "url": "https://t.co/nPRPIQGbgF"
+            },
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 77,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685594120192",
+              "start": 54,
+              "url": "https://t.co/nPRPIQGbgF"
+            },
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 77,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685585711105",
+              "start": 54,
+              "url": "https://t.co/nPRPIQGbgF"
+            },
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 77,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685644439552",
+              "start": 54,
+              "url": "https://t.co/nPRPIQGbgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070343148946280833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070124691562586544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuri_n4c0: 創作┊︎百合\n\n ︎︎百合の日なので…///\n\n #創作百合 #百合の日 https://t.co/nPRPIQGbgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070124685564764160",
+            "3_2070124685594120192",
+            "3_2070124685585711105",
+            "3_2070124685644439552"
+          ]
+        },
+        "author_id": "1815424027441442816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2070124691562586544",
+        "created_at": "2026-06-25T12:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070124691562586544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "創作百合"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "百合の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 62,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685564764160",
+              "start": 39,
+              "url": "https://t.co/nPRPIQGbgF"
+            },
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 62,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685594120192",
+              "start": 39,
+              "url": "https://t.co/nPRPIQGbgF"
+            },
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 62,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685585711105",
+              "start": 39,
+              "url": "https://t.co/nPRPIQGbgF"
+            },
+            {
+              "display_url": "pic.x.com/nPRPIQGbgF",
+              "end": 62,
+              "expanded_url": "https://x.com/yuri_n4c0/status/2070124691562586544/photo/1",
+              "media_key": "3_2070124685644439552",
+              "start": 39,
+              "url": "https://t.co/nPRPIQGbgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070124691562586544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 58124,
+          "like_count": 1671,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "創作┊︎百合\n\n ︎︎百合の日なので…///\n\n #創作百合 #百合の日 https://t.co/nPRPIQGbgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 337,
+          "like_count": 20595,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 4452
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T16:30:07.000Z",
+        "description": "☘︎ ┊︎⚠︎捏造 創作 百合 WutheringWaves HonkaiStarRail \n𓂂𓏸 @0t4kunoaka02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "0t4kunoaka02"
+              }
+            ]
+          }
+        },
+        "id": "1815424027441442816",
+        "name": "nako",
+        "pinned_tweet_id": "2054514721995522457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038820754796802048/E1-SRNPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5129,
+          "following_count": 26,
+          "like_count": 841,
+          "listed_count": 12,
+          "media_count": 32,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "yuri_n4c0",
+        "verified": false
+      }
+    ]
+  }
+}

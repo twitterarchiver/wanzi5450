@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2069361641230327983",
+    "created_at": "2026-06-23T23:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T00:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069556770310394104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669743707250397184",
+          "start": 0,
+          "username": "hataha1254449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069556770310394104",
+    "in_reply_to_user_id": "1669743707250397184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069394471494808043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hataha1254449 明天去试试！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2069361641230327983",
+        "created_at": "2026-06-23T23:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069556770310394104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669743707250397184",
+              "start": 0,
+              "username": "hataha1254449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069556770310394104",
+        "in_reply_to_user_id": "1669743707250397184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069394471494808043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hataha1254449 明天去试试！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669743707250397184",
+        "conversation_id": "2069361641230327983",
+        "created_at": "2026-06-23T12:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069394471494808043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738375202168532992",
+              "start": 0,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069394471494808043",
+        "in_reply_to_user_id": "1738375202168532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069361641230327983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanzi5450 说实话我感觉13比12简单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 335,
+          "like_count": 20240,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 4398
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T16:28:29.000Z",
+        "description": "在X和一群键政疯子讲道理是我目前为止干的最傻逼的事情，那群伪人着实有种莫塔里安想为帝国服务的美感",
+        "id": "1669743707250397184",
+        "name": "ハタハ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673014019698081794/t8Y6KYS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 291,
+          "like_count": 14643,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "hataha1254449",
+        "verified": false
+      }
+    ]
+  }
+}

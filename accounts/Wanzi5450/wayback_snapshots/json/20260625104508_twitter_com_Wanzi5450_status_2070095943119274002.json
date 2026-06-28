@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070095934302900224"
+      ]
+    },
+    "author_id": "1738375202168532992",
+    "conversation_id": "2070095943119274002",
+    "created_at": "2026-06-25T10:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070095943119274002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WinyMXuYlp",
+          "end": 23,
+          "expanded_url": "https://x.com/Wanzi5450/status/2070095943119274002/photo/1",
+          "media_key": "3_2070095934302900224",
+          "start": 0,
+          "url": "https://t.co/WinyMXuYlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070095943119274002",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/WinyMXuYlp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070095934302900224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp1SM8a0AAeFgH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070095934302900224"
+          ]
+        },
+        "author_id": "1738375202168532992",
+        "conversation_id": "2070095943119274002",
+        "created_at": "2026-06-25T10:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070095943119274002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WinyMXuYlp",
+              "end": 23,
+              "expanded_url": "https://x.com/Wanzi5450/status/2070095943119274002/photo/1",
+              "media_key": "3_2070095934302900224",
+              "start": 0,
+              "url": "https://t.co/WinyMXuYlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070095943119274002",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WinyMXuYlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 335,
+          "like_count": 20539,
+          "listed_count": 0,
+          "media_count": 556,
+          "tweet_count": 4437
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

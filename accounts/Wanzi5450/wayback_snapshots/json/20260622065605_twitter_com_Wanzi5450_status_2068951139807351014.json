@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1738375202168532992",
+    "conversation_id": "2068942614502719716",
+    "created_at": "2026-06-22T06:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068951139807351014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878762574327824384",
+          "start": 0,
+          "username": "JihaiLin354002"
+        },
+        {
+          "end": 27,
+          "id": "1938246407225532416",
+          "start": 16,
+          "username": "Haze591200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068951139807351014",
+    "in_reply_to_user_id": "1878762574327824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068950575937736782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JihaiLin354002 @Haze591200 必须的我真怒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2068942614502719716",
+        "created_at": "2026-06-22T06:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068951139807351014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878762574327824384",
+              "start": 0,
+              "username": "JihaiLin354002"
+            },
+            {
+              "end": 27,
+              "id": "1938246407225532416",
+              "start": 16,
+              "username": "Haze591200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068951139807351014",
+        "in_reply_to_user_id": "1878762574327824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068950575937736782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JihaiLin354002 @Haze591200 必须的我真怒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878762574327824384",
+        "conversation_id": "2068942614502719716",
+        "created_at": "2026-06-22T06:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068950575937736782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938246407225532416",
+              "start": 0,
+              "username": "Haze591200"
+            },
+            {
+              "end": 22,
+              "id": "1738375202168532992",
+              "start": 12,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068950575937736782",
+        "in_reply_to_user_id": "1938246407225532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068950233661534554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haze591200 @Wanzi5450 我去这么会骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 332,
+          "like_count": 19995,
+          "listed_count": 0,
+          "media_count": 543,
+          "tweet_count": 4363
+        },
+        "url": "",
+        "username": "Wanzi5450",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T11:14:51.000Z",
+        "description": "头像来自@shim_46_\n  消磨 消磨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "shim_46_"
+              }
+            ]
+          }
+        },
+        "id": "1878762574327824384",
+        "name": "Ro",
+        "pinned_tweet_id": "2066445864353333515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424685634310159/wDTaICtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 339,
+          "like_count": 10962,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3519
+        },
+        "url": "",
+        "username": "JihaiLin354002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T14:42:28.000Z",
+        "description": "moneysexual｜非顺直｜不会约任何｜友同友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hazel24154",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hazel24154",
+                "start": 0,
+                "url": "https://t.co/Db8DtXcjNC"
+              }
+            ]
+          }
+        },
+        "id": "1938246407225532416",
+        "name": "Hazel",
+        "pinned_tweet_id": "2056009130813649054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007370092884246528/WkxIY6rY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 391,
+          "like_count": 10010,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 6150
+        },
+        "url": "https://t.co/Db8DtXcjNC",
+        "username": "Haze591200",
+        "verified": false
+      }
+    ]
+  }
+}
